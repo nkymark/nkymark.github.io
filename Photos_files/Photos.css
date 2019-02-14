@@ -1,55 +1,7 @@
-.paragraph_style {
-    color: rgb(88, 77, 77);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 21px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 29px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: underline;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_1 {
-    color: rgb(88, 77, 77);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style {
     padding: 4px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_2 {
+.paragraph_style {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -71,12 +23,50 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_960_73 {
-    position: relative;
+.paragraph_style_1 {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_1 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 20px;
 }
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_918_48 {
+    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -100,45 +90,33 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Header {
-    color: rgb(167, 167, 167);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 36px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 42px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .Normal {
     padding: 4px;
 }
-.Normal_External_960_73 {
+.Normal_External_918_48 {
     position: relative;
 }
-.graphic_generic_header_textbox_style_default_SkipStroke {
+.graphic_generic_body_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_953_1011 {
+.graphic_textbox_layout_style_default_External_670_48 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_954_50 {
+.graphic_textbox_layout_style_default_External_625_48 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_912_50 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_625_42 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_220_48 {
