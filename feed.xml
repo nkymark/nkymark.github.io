@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:CFC7567D-53C9-4DAC-AEA3-985C11452AFD</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-12-12T12:25:13+00:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:5B8BA52B-52F0-4AAD-877A-A1B7A34FD02B</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">5B8BA52B-52F0-4AAD-877A-A1B7A34FD02B</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2018-12-12T12:25:13.001+00:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FC5DF29E-8A5B-4325-A65A-0D4B691B69E9</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">FC5DF29E-8A5B-4325-A65A-0D4B691B69E9</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2018-12-12T12:25:13.002+00:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2FAD4F99-FCA7-4E05-8C36-43F810AF167A</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">2FAD4F99-FCA7-4E05-8C36-43F810AF167A</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2018-12-12T12:25:13.003+00:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:ABAF982E-215D-44AD-BB54-7459B96F5DB0</id>
+  <title>Software</title>
+  <title xmlns="urn:iweb:">Software</title>
+  <in-navbar xmlns="urn:iweb:">ABAF982E-215D-44AD-BB54-7459B96F5DB0</in-navbar>
+  <link rel="alternate" href="Software.html"/>
+  <updated>2018-12-12T12:25:13.004+00:00</updated>
+  <content>Software</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7F1DB5FB-3604-4E95-93E2-895073AF8DD5</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">7F1DB5FB-3604-4E95-93E2-895073AF8DD5</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2018-12-12T12:25:13.005+00:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C1D05A11-99C5-452E-8685-375DC686070E</id>
+  <title>Vacancies</title>
+  <title xmlns="urn:iweb:">Vacancies</title>
+  <in-navbar xmlns="urn:iweb:">C1D05A11-99C5-452E-8685-375DC686070E</in-navbar>
+  <link rel="alternate" href="Vacancies.html"/>
+  <updated>2018-12-12T12:25:13.006+00:00</updated>
+  <content>Vacancies</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CF740A66-D53A-4C32-8AE0-EA60A3E6B685</id>
+  <title>Tech Stuff</title>
+  <title xmlns="urn:iweb:">Tech Stuff</title>
+  <in-navbar xmlns="urn:iweb:">CF740A66-D53A-4C32-8AE0-EA60A3E6B685</in-navbar>
+  <link rel="alternate" href="Tech_Stuff.html"/>
+  <updated>2018-12-12T12:25:13.007+00:00</updated>
+  <content>Tech Stuff</content>
+ </entry>
+</feed>
