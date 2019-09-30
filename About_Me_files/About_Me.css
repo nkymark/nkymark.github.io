@@ -193,6 +193,9 @@
     font-weight: 400;
     line-height: 20px;
 }
+.style_External_487_2180 {
+    position: relative;
+}
 .paragraph_style_8 {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -260,9 +263,6 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_487_2159 {
-    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -341,7 +341,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_487_2159 {
+.Normal_External_487_2180 {
     position: relative;
 }
 .Playlist {

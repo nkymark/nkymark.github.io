@@ -67,6 +67,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_3 {
     color: rgb(88, 77, 77);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -94,10 +98,6 @@
     opacity: 1.00;
 }
 .style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -171,12 +171,12 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_487_1326 {
+    position: relative;
+}
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_487_1333 {
-    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -255,7 +255,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_487_1333 {
+.Normal_External_487_1326 {
     position: relative;
 }
 .Playlist {
@@ -361,24 +361,24 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 a.class1:visited {
-    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 a.class1:hover {
-    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class2 {
+    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 a.class2:visited {
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 a.class2:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 a.class3 {
@@ -415,6 +415,15 @@ a.class6:visited {
     text-decoration: underline;
 }
 a.class6:hover {
+    text-decoration: underline;
+}
+a.class7 {
+    text-decoration: underline;
+}
+a.class7:visited {
+    text-decoration: underline;
+}
+a.class7:hover {
     text-decoration: underline;
 }
 a:hover {
