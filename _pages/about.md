@@ -23,6 +23,6 @@ I am also an Adjunct Senior Research Fellow with Monash University Malaysia wher
 
 ## Education ##
 **Monash University, Malaysia**
-* Ph.D. Candidate, Control Engineering and Fault Diagnosis, 2009
+* Ph.D. Candidate, Control Engineering and Fault Diagnosis, 2009\
 Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers” 
 * B.Eng (Hons), Electrical and Computer Systems Engineering, 2006 
