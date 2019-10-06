@@ -1,13 +1,13 @@
 main:
-  - title: "Download & Install"
-    url: /download
-#  - title: "Manual"
-#    url: /manual
-  - title: "Tutorials"
-    url: /tutorials
-  - title: "Use Case"
-    url: /usecase
-  - title: "References"
-    url: /references
-  - title: "About"
+  - title: "About Me"
     url: /about
+  - title: "Publications"
+    url: /pubs
+  - title: "Software"
+    url: /software
+  - title: "Photos"
+    url: /photos
+  - title: "Vacancies"
+    url: /vacancies
+  - title: "Tech Stuff"
+    url: /tech   
