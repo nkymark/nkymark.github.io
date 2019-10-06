@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Fault Diagnosis Toolbox"
+title                    : 
 title_separator          : "-"
-name                     : "Erik Frisk"
-description              : "A Fault Diagnosis Toolbox for Dynamic Systems in Matlab."
-url                      : # https://faultdiagnosistoolbox.github.io
+name                     : "Mark Ng"
+description              : "Personal Research Website"
+url                      : # https://nkymark.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : faultdiagnosistoolbox-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : nkymark-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # ErikF013
+  username               : # 
 facebook:
   username               :
   app_id                 :
@@ -81,12 +81,12 @@ collections:
 
 # Site Author
 author:
-  name             : "Erik Frisk"
-  avatar           : "/assets/images/erik_frisk.jpg"
-  bio              : "Professor at the Department of Electrical Engineering, Linköping University."
-  location         : "Linköping, Sweden"
-  email            : erik.frisk@liu.se
-  uri              : "http://users.isy.liu.se/fs/frisk/"
+  name             : "Mark Kok Yew Ng"
+  avatar           : "/assets/images/MarkNg.jpg"
+  bio              : "Lecturer in Mechatronics Engineering and Control, Ulster University."
+  location         : "Belfast, UK"
+  email            : mark.ng@ulster.ac.uk
+  uri              : "https://pure.ulster.ac.uk/en/persons/mark-ng"
   bitbucket        :
   codepen          :
   dribbble         :
