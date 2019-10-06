@@ -1,3 +1,4 @@
+---
 permalink: /downloads/
 layout: single
 title: Downloads
