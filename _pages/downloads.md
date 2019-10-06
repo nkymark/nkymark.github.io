@@ -1,6 +1,6 @@
-permalink: /software/
+permalink: /downloads/
 layout: single
-title: Software
+title: Downloads
 ---
 
 ## TCSI Simulation Testbed
