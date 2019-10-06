@@ -60,7 +60,7 @@ The figure below shows the GUI of the simulation testbed in Matlab. Through this
 On the left section of the GUI are popup menus for the user to establish some key simulation settings. The simulation settings available are as follows:
 - *Fault Mode*: To induce any of the 11 faults available. A fault-free scenario is also available and is selected by default. As of current development, only single fault scenarios are available.
 - *Driving Cycle*: A selection of 4 industrial standard driving cycles:
-  * Worldwide harmonised Light vehicles Test Proce- dure (WLTP)
+  * Worldwide harmonised Light vehicles Test Procedure (WLTP)
   * New European Driving Cycle (NEDC)
   * Extra-Urban Driving Cycle (EUDC)
   * EPA Federal Test Procedure (FTP-75)
