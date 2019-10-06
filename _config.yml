@@ -56,6 +56,11 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 author:
   name      : "Mark Kok Yew Ng"
