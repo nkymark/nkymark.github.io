@@ -83,7 +83,7 @@ The simulation kit contains the following key files:
 - ``RunFI.m`` - Algorithm for fault diagnosis to be placed here. Open the file from the GUI using the ‘Fault Isolation Scheme Design (M-file)’ block.
 	
 	
-### Simulation Outputs and Saved Data ###
+#### Simulation Outputs and Saved Data ####
 - ``omega_eREF_sync`` - reference engine speed
 - ``Tq_eREF_sync`` - reference engine torque
 - ``inputSig_sync`` - 5 actuator measurements to the engine (control inputs for throttle position area and wastegate, engine speed, ambient temperature and pressure)
