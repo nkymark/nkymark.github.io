@@ -26,3 +26,15 @@ I am also an Adjunct Senior Research Fellow with Monash University Malaysia wher
 * Ph.D. Candidate, Control Engineering and Fault Diagnosis, 2009  
 Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers” 
 * B.Eng (Hons), Electrical and Computer Systems Engineering, 2006 
+
+
+## Current Employment and Affiliations ##
+**Ulster University, Northern Ireland, U.K.**
+Lecturer in Mechatronics Engineering and Control
+June, 2017 – Present
+I am responsible for Control Engineering related modules taught to undergraduate students. I am coordinate and teach the following modules:
+* EEE316 Control Theory and Applications
+* EEE526 Mechatronics 1
+
+Research wise, I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC) at the Jordanstown Campus, where I am part of the Sensor and Embedded Computing Systems Research Group, working mainly on the signal processing and data analytics of biomedical signals for anomaly detection and classification.     
+
