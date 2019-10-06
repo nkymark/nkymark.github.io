@@ -58,34 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mark Kok Yew Ng"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Lecturer in Mechatronics Engineering and Control, Ulster University, UK."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  name      : "Mark Kok Yew Ng"
+  avatar    : "/assets/images/bio-photo.jpg"
+  bio       : "Lecturer in Mechatronics Engineering and Control, Ulster University, UK."
+  location  : "Belfast, UK"
+  email     : mark.ng@ulster.ac.uk
+  url       : "https://pure.ulster.ac.uk/en/persons/mark-ng"
 
 defaults:
   # _posts
