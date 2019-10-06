@@ -3,8 +3,8 @@ main:
     url: /about
   - title: "Publications"
     url: /pubs
-  - title: "Software"
-    url: /software
+  - title: "Downloads"
+    url: /downloads
   - title: "Photos"
     url: /photos
   - title: "Vacancies"
