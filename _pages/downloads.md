@@ -8,10 +8,10 @@ title: Downloads
 
 ### Table of Contents ###
   1. [Introduction](https://nkymark.github.io/downloads#introduction)
-  2. [Modelling The Engine](https://nkymark.github.io/downloads#introduction#modelling-the-engine)
-  3. [Fault Scenarios](https://github.com/nkymark/TCSISimTestbed#fault-scenarios)
-  4. [Residuals Generation](https://github.com/nkymark/TCSISimTestbed#residuals-generation)
-  5. [Simulation Environment](https://github.com/nkymark/TCSISimTestbed#the-simulation-environment)
+  2. [Modelling The Engine](https://nkymark.github.io/downloads#modelling-the-engine)
+  3. [Fault Scenarios](https://nkymark.github.io/downloads#fault-scenarios)
+  4. [Residuals Generation](https://nkymark.github.io/downloads#residuals-generation)
+  5. [Simulation Environment](https://nkymark.github.io/downloads#the-simulation-environment)
 	
 
 ### Introduction ###
