@@ -63,7 +63,7 @@ author:
   bio       : "Lecturer in Mechatronics Engineering and Control, Ulster University, UK."
   location  : "Belfast, UK"
   email     : mark.ng@ulster.ac.uk
-  url       : "https://pure.ulster.ac.uk/en/persons/mark-ng"
+  uri       : "https://pure.ulster.ac.uk/en/persons/mark-ng"
 
 defaults:
   # _posts
