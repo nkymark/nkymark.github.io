@@ -19,3 +19,10 @@ I was instrumental in developing a Simulation Environment on the Matlab/Simulink
 * Simulation and FI of system with intermittent residuals
 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
+
+
+### Education ###
+**Monash University, Malaysia**
+* Ph.D. Candidate, Control Engineering and Fault Diagnosis, 2009
+Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers” 
+* B.Eng (Hons), Electrical and Computer Systems Engineering, 2006 
