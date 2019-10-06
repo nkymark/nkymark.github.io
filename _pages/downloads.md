@@ -12,6 +12,7 @@ title: Downloads
   3. [Fault Scenarios](https://nkymark.github.io/downloads#fault-scenarios)
   4. [Residuals Generation](https://nkymark.github.io/downloads#residuals-generation)
   5. [Simulation Environment](https://nkymark.github.io/downloads#the-simulation-environment)
+  6. [Download](https://nkymark.github.io/downloads#download)
 	
 
 ### Introduction ###
@@ -82,7 +83,7 @@ The simulation kit contains the following key files:
 - ``RunFI.m`` - Algorithm for fault diagnosis to be placed here. Open the file from the GUI using the ‘Fault Isolation Scheme Design (M-file)’ block.
 	
 	
-#### Simulation Outputs and Saved Data ####
+### Simulation Outputs and Saved Data ###
 - ``omega_eREF_sync`` - reference engine speed
 - ``Tq_eREF_sync`` - reference engine torque
 - ``inputSig_sync`` - 5 actuator measurements to the engine (control inputs for throttle position area and wastegate, engine speed, ambient temperature and pressure)
@@ -90,7 +91,11 @@ The simulation kit contains the following key files:
 - ``statesSig_sync`` - 13 states of the engine system (temperatures and pressures for the air filter, compressor, intercooler, intake manifold, exhaust manifold, and turbine, and the turbine speed)
 - ``faultSig_sync`` - normalised data of the faults (the selected induced fault would have non-zero data, except when 'Fault-free' scenario is selected where all faults would have data of value zero)
 - ``residualSig_sync`` - data for all 'Original 9' residuals based on the current sensors setup (``rT_c``, ``rp_c``, ``rT_ic``, ``rp_ic``, ``rT_im``, ``rp_im``, ``rW_af``, ``rTq_e``, ``rp_em``). Note that these data would only be generated if Simulation Mode 2 is selected. 
+
+
+### Download ###
+The simulation testbed can be downloaded [here](https://github.com/nkymark/TCSISimTestbed).
 	
 	
-#### Acknowledgement ####
+### Acknowledgement ###
 We would like to thank former engineering undergraduate from Monash University, Malaysia; Chun Yik Ang, Marcus Jun Yi Lim, and Ricky Sutopo, and William McMillan from Ulster University for participating in the alpha-testing of the simulation testbed on various operating systems and providing feedback to help improve this model. 
