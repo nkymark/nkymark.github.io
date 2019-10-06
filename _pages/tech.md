@@ -41,19 +41,19 @@ These steps can be used on most modern Macs. I suggest that you try the PRAM Res
 **SMC Reset**
 1. Shut down your Mac.
 2. a) For MacBooks with removable batteries
-    i) Disconnect the MagSafe cable.
-    ii) Remove the battery.
-    iii) Press the Power key for 5 seconds and then let go. 
-    iv) Put back the battery and reattach the MagSafe cable.
+    - Disconnect the MagSafe cable.
+    - Remove the battery.
+    - Press the Power key for 5 seconds and then let go. 
+    - Put back the battery and reattach the MagSafe cable.
 
    b) For MacBooks without removable batteries
-    i) Keep the MagSafe cable attached.
-    ii) Press (on the left hand side of the keyboard) the Shift + Control + Option and the Power keys simultaneously. 
-    iii) Let go of all keys at the same time.
+    - Keep the MagSafe cable attached.
+    - Press (on the left hand side of the keyboard) the Shift + Control + Option and the Power keys simultaneously. 
+    - Let go of all keys at the same time.
 
    c) For iMacs and other non-laptop based Macs
-    i) Disconnect the power cable.
-    ii) Press the Power key for 5 seconds and then let go. 
-    iii) Reattach the power cable.
+    - Disconnect the power cable.
+    - Press the Power key for 5 seconds and then let go. 
+    - Reattach the power cable.
 
 3. Turn your Mac back on.
