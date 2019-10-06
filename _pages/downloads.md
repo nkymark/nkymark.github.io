@@ -7,7 +7,7 @@ title: Downloads
 ## TCSI Simulation Testbed ##
 
 ### Table of Contents ###
-  1. [Introduction](https://github.com/nkymark/TCSISimTestbed#introduction)
+  1. [Introduction](https://nkymark.github.io/downloads#introduction)
   2. [Modelling The Engine](https://github.com/nkymark/TCSISimTestbed#modelling-the-engine)
   3. [Fault Scenarios](https://github.com/nkymark/TCSISimTestbed#fault-scenarios)
   4. [Residuals Generation](https://github.com/nkymark/TCSISimTestbed#residuals-generation)
