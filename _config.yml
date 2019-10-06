@@ -87,27 +87,10 @@ author:
   location         : "Belfast, UK"
   email            : mark.ng@ulster.ac.uk
   uri              : "https://pure.ulster.ac.uk/en/persons/mark-ng"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
+  linkedin         : "https://www.linkedin.com/in/markusng/"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
+  twitter          : "https://twitter.com/nkymark"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # Reading Files
