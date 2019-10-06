@@ -93,9 +93,9 @@ author:
   twitter          : nkymark
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links            :
-    - label : "Google Scholar"
-      icon  : "ai-google-scholar"
-      url   : "https://scholar.google.com/citations?user=UpjJMQMAAAAJ&hl=en"
+    - title : Google Scholar
+      icon  : ai-google-scholar
+      url   : https://scholar.google.com/citations?user=UpjJMQMAAAAJ&hl=en
 
 # Reading Files
 include:
