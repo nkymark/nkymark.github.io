@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : 
+title                    : "nkymark.github.io"
 title_separator          : "-"
 name                     : "Mark Ng"
 description              : "Personal Research Website"
