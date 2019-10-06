@@ -22,3 +22,6 @@ These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly fo
 10. You might be prompted to enter your login credentials. Choose “**Registered User**”, enter your login username “`admin\username`” followed by your password
 11. Done. You should be able to use the printer now.
 
+If you ever come across a printing problem with the error message “Hold On Authentication”, you can reset the password to the network printer via the following command in Terminal:
+
+`sudo lpadmin -p printername -o auth-info-required=username,password`
