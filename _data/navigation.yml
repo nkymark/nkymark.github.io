@@ -1,0 +1,13 @@
+main:
+  - title: "Download & Install"
+    url: /download
+#  - title: "Manual"
+#    url: /manual
+  - title: "Tutorials"
+    url: /tutorials
+  - title: "Use Case"
+    url: /usecase
+  - title: "References"
+    url: /references
+  - title: "About"
+    url: /about

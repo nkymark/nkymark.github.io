@@ -1,25 +1,34 @@
 ---
 permalink: /about/
-title: "Brief Biography"
+layout: single
+title: About -- Fault Diagnosis Toolbox
 ---
+<h1>A Fault Diagnosis Toolbox for Dynamic Systems in Matlab</h1>
+Fault Diagnosis Toolbox is a Matlab toolbox for analysis and design of
+fault diagnosis systems for dynamic systems, primarily described by
+differential equations.  In particular, the toolbox is focused on
+techniques that utilize structural analysis, i.e., methods that
+analyze and utilize the model structure. The model structure is the
+interconnections of model variables and is often described as a
+bi-partite graph or an incidence matrix.
 
-I received my BEng (Hons) in Electrical and Computer Systems Engineering and a PhD in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
+Contributors:
+* [Erik Frisk](http://users.isy.liu.se/en/fs/frisk/) (<erik.frisk@liu.se>) -- main designer
+* [Mattias Krysander](http://users.isy.liu.se/en/fs/matkr/) (<mattias.krysander@liu.se>)
+* [Daniel Jung](http://users.isy.liu.se/en/fs/daner/) (<daniel.jung@liu.se>)
 
-My research interests include fault diagnosis, vehicular systems, modelling, signal processing and data analysis for anomaly detection and classification, as well as machine learning.
+Key features of the toolbox are:
+*  Finding overdetermined sets of equations (MSO sets), which are minimal
+    submodels that can be used to design fault detectors
+*  Diagnosability analysis - analyze a given model to determine which
+    faults that can be detected and which faults that can be isolated
+*  Sensor placement - determine minimal sets of sensors needed to be able
+    to detect and isolate faults
+*  Code generation (C++ and Matlab) for residual generators. Two different
+    types of residual generators are supported, sequential residual generators
+    based on a matching in the model structure graph, and observer based
+    residual generators.
 
-In 2014–2015, I was a Postdoctoral Researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) in Gothenburg on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods.
-
-I was instrumental in developing a Simulation Environment on the Matlab/Simulink platform for realistic Model-In-The-Loop testing of various residuals generation and fault diagnosis methods to be used by VCC for the following:
-* Realistic modelling and control of the engine
-* Injection and simulation of a variety of actuator, sensor and variable faults in the engine
-* In-house designed algorithm for additional residuals selection
-* In-house designed algorithm for alarm generations, residuals monitoring as well as Fault Isolation (FI)
-* Simulation and FI of system with intermittent residuals
-
-I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
-
-### EDUCATION ###
-**Monash University, Malaysia**
-* Ph.D. Candidate, Control Engineering and Fault Diagnosis, 2009
-Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers” 
-* B.Eng (Hons), Electrical and Computer Systems Engineering, 2006 
+The toolbox relies on the object-oriented functionality in the Matlab
+language and is freely available under a MIT license. The latest version of the
+software can always be downloaded from <https://faultdiagnosistoolbox.github.io/>.
