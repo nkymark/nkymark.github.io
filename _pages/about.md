@@ -5,7 +5,7 @@ title: Brief Biography
 ---
 
 ## Brief Biography ##
-<h6> I received my BEng (Hons) in Electrical and Computer Systems Engineering and a PhD in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC). </h6>
+I received my BEng (Hons) in Electrical and Computer Systems Engineering and a PhD in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
 
 My research interests include fault diagnosis, vehicular systems, modelling, signal processing and data analysis for anomaly detection and classification, as well as machine learning.
 
