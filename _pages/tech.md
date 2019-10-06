@@ -30,6 +30,7 @@ If you ever come across a printing problem with the error message “Hold On Aut
 ### Fixing Hardware Acting Crazy on A Mac, i.e. Trackpad not working, screen acting weird, etc. ###
 These steps can be used on most modern Macs. I suggest that you try the PRAM Reset first. If problem still persists, you can then attempt the SMC Reset. 
 
+
 **PRAM Reset**
 1. Shut down your Mac.
 2. Turn on your Mac. 
