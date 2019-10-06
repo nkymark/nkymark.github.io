@@ -55,3 +55,69 @@ RSPB Rathlin West Light Seabird Centre, Rathlin Island, Northern Ireland (2018).
 ![](/assets/Photos/Trinity.jpg)
 Trinity College Library, Dublin, Ireland (2017).
 
+![](/assets/Photos/Belfast.jpg)
+Christmas Market at Belfast City Hall, Northern Ireland (2017).
+
+![](/assets/Photos/CarrickCastle.jpg)
+Carrickfergus Castle, Belfast, Northern Ireland (2017).
+
+![](/assets/Photos/Buddha.jpg)
+The Big Buddha statue in Phuket, Thailand (2016).
+
+![](/assets/Photos/Taiwan.jpg)
+Experiencing the busy night market in Taichung, Taiwan (2015).
+
+![](/assets/Photos/Oslo.jpg)
+View from the top of Oslo Opera House, Norway (2015).
+
+![](/assets/Photos/Helsinki.jpg)
+The great organ inside the White Cathedral in Helsinki, Finland (2015).
+
+![](/assets/Photos/Volvo.jpg)
+Chasing the midnight sun during summer in Narvik, Norway (2014).
+
+![](/assets/Photos/Rosengatan.jpg)
+Winter, looking out from the apartment that I stayed in Linköping, Sweden (2014).
+
+![](/assets/Photos/Bath.jpg)
+Strolling along Pulteney Bridge, Bath, UK (2014).
+
+![](/assets/Photos/Scotland.jpg)
+The exact same spot somewhere in Scotland where Bond and M shot their scene in Skyfall (2013).
+
+![](/assets/Photos/NationalMonument.jpg)
+The National Monument, Scotland (2013).
+
+![](/assets/Photos/VW.jpg)
+Seeing the VW XL1 in the metal outside Buckingham Palace, London, UK (2013).
+
+![](/assets/Photos/Singapore.jpg)
+Overlooking the night skyline of San Marina Bay, Singapore (2012).
+
+![](/assets/Photos/Hopper.jpg)
+A garden invader spotted in action, Malaysia (2012).
+
+![](/assets/Photos/Crab.jpg)
+Juvenile crab in a bottle at Cherating, Malaysia. It was released back to its habitat after the photoshoot (2012).
+
+![](/assets/Photos/Bali.jpg)
+The majestic sunset at Tanah Lot, Bali, Indonesia (2011).
+
+![](/assets/Photos/TwelveApostles.jpg)
+The remaining of the 12 Apostles at The Great Ocean Road, Australia (2011).
+
+![](/assets/Photos/Kangaroo.jpg)
+A cute friend that I met in Melbourne, Australia (2011).
+
+![](/assets/Photos/Ballarat.jpg)
+Actors reenacting scenes at the Sovereign Hill, Ballarat, Australia (2011).
+
+![](/assets/Photos/HK.jpg)
+The beautiful night skyline in Hong Kong (2011).
+
+![](/assets/Photos/Schumi.jpg)
+A disappointed Schumi after crashing out at the 2010 Sepang Grand Prix, Malaysia (2010).
+
+![](/assets/Photos/Kukup.jpg)
+An old fishing village in Kukup, Malaysia (2010).
+
