@@ -36,3 +36,24 @@ These steps can be used on most modern Macs. I suggest that you try the PRAM Res
 3. Press and hold the keys **Command + Option + P + R simultaneously before the gray screen appears**. Else, restart the whole process.
 4. Wait for your Mac to restart itself again and that you hear the startup chime.
 5. You can let go of the keys now. Your Mac will start as it normally does.
+
+
+**SMC Reset**
+1. Shut down your Mac.
+2. a) For MacBooks with removable batteries
+    - Disconnect the MagSafe cable.
+    - Remove the battery.
+    - Press the Power key for 5 seconds and then let go. 
+    - Put back the battery and reattach the MagSafe cable.
+
+   b) For MacBooks without removable batteries
+    - Keep the MagSafe cable attached.
+    - Press (on the left hand side of the keyboard) the Shift + Control + Option and the Power keys simultaneously. 
+    - Let go of all keys at the same time.
+
+   c) For iMacs and other non-laptop based Macs
+    - Disconnect the power cable.
+    - Press the Power key for 5 seconds and then let go. 
+    - Reattach the power cable.
+
+3. Turn your Mac back on.
