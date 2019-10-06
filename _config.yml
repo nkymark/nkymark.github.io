@@ -92,6 +92,10 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   twitter          : nkymark
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  links            :
+    - label : "Google Scholar"
+      icon  : "ai-google-scholar"
+      url   : "https://scholar.google.com/citations?user=UpjJMQMAAAAJ&hl=en"
 
 # Reading Files
 include:
