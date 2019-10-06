@@ -1,14 +1,12 @@
+# main links
 main:
-  - title: "About Me"
-    url: /about/
-  - title: "Publications"
-    url: /pubs/
-  - title: "Software"
-    url: /software/
-  - title: "Photos"
-    url: /photos/
-  - title: "Vacancies"
-    url: /vacancies/
-  - title: "Tech Stuff"
-    url: /te ch/
-    
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
