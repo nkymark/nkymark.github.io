@@ -1,9 +1,16 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Home"
+    url: /home/
+  - title: "About Me"
     url: /about/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Software"
+    url: /software/
+  - title: "Photos"
+    url: /photos/
+  - title: "Vacancies"
+    url: /vacancies/
+  - title: "Tech Stuff"
+    url: /te ch/
+    
