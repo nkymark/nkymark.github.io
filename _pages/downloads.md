@@ -8,7 +8,7 @@ title: Downloads
 
 ### Table of Contents ###
   1. [Introduction](https://nkymark.github.io/downloads#introduction)
-  2. [Modelling The Engine](https://github.com/nkymark/TCSISimTestbed#modelling-the-engine)
+  2. [Modelling The Engine](https://nkymark.github.io/downloads#introduction#modelling-the-engine)
   3. [Fault Scenarios](https://github.com/nkymark/TCSISimTestbed#fault-scenarios)
   4. [Residuals Generation](https://github.com/nkymark/TCSISimTestbed#residuals-generation)
   5. [Simulation Environment](https://github.com/nkymark/TCSISimTestbed#the-simulation-environment)
@@ -93,4 +93,4 @@ The simulation kit contains the following key files:
 	
 	
 #### Acknowledgement ####
-We would like to thank former engineering undergraduate from Monash University, Malaysia; Chun Yik Ang, Marcus Jun Yi Lim, and Ricky Sutopo, and William McMillan from Ulster University for participating in the alpha-testing of the simulation benchmark on various operating systems and providing feedback to help improve this benchmark model. 
+We would like to thank former engineering undergraduate from Monash University, Malaysia; Chun Yik Ang, Marcus Jun Yi Lim, and Ricky Sutopo, and William McMillan from Ulster University for participating in the alpha-testing of the simulation testbed on various operating systems and providing feedback to help improve this model. 
