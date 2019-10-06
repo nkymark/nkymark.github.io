@@ -93,7 +93,7 @@ author:
   twitter          : nkymark
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links            :
-    - title : "Google Scholar"
+    - label : "Google Scholar"
       icon  : "fas fa-university"
       url   : "https://scholar.google.com/citations?user=UpjJMQMAAAAJ&hl=en"
 
