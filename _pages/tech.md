@@ -25,3 +25,14 @@ These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly fo
 If you ever come across a printing problem with the error message “Hold On Authentication”, you can reset the password to the network printer via the following command in Terminal:
 
 `sudo lpadmin -p printername -o auth-info-required=username,password`
+
+
+### Fixing Hardware Acting Crazy on A Mac, i.e. Trackpad not working, screen acting weird, etc. ###
+These steps can be used on most modern Macs. I suggest that you try the PRAM Reset first. If problem still persists, you can then attempt the SMC Reset. 
+
+**PRAM Reset**
+1. Shut down your Mac.
+2. Turn on your Mac. 
+3. Press and hold the keys **Command + Option + P + R simultaneously before the gray screen appears**. Else, restart the whole process.
+4. Wait for your Mac to restart itself again and that you hear the startup chime.
+5. You can let go of the keys now. Your Mac will start as it normally does.
