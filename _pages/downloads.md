@@ -59,8 +59,6 @@ The figure below shows the GUI of the simulation testbed in Matlab. Through this
   
 &nbsp;
 
-&nbsp;
-
 On the left section of the GUI are popup menus for the user to establish some key simulation settings. The simulation settings available are as follows:
 - *Fault Mode*: To induce any of the 11 faults available. A fault-free scenario is also available and is selected by default. As of current development, only single fault scenarios are available.
 - *Driving Cycle*: A selection of 4 industrial standard driving cycles:
