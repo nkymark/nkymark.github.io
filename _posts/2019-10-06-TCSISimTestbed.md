@@ -1,5 +1,5 @@
 ---
-title:  "TCSI Simulation Testbed"
+title:  "Release of TCSI Simulation Testbed"
 date:   2019-10-06 09:00:00 +0000
 ---
 
