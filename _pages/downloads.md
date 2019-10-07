@@ -7,12 +7,12 @@ title: Downloads
 # TCSI Simulation Testbed #
 
 ## Table of Contents ##
-  1. [Introduction](www.markusng.com/downloads#introduction)
-  2. [Modelling The Engine](www.markusng.com/downloads#modelling-the-engine)
-  3. [Fault Scenarios](www.markusng.com/downloads#fault-scenarios)
-  4. [Residuals Generation](www.markusng.com/downloads#residuals-generation)
-  5. [Simulation Environment](www.markusng.com/downloads#the-simulation-environment)
-  6. [Download](www.markusng.com/downloads#download)
+  1. [Introduction](#introduction)
+  2. [Modelling The Engine](#modelling-the-engine)
+  3. [Fault Scenarios](#fault-scenarios)
+  4. [Residuals Generation](#residuals-generation)
+  5. [Simulation Environment](#the-simulation-environment)
+  6. [Download](#download)
 	
 
 ## Introduction ##
