@@ -74,12 +74,22 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [C. Fernandes, K. Y. Ng, and B. H. Khoo, “Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK,” in *IEEE TENCON*, Bali, Indonesia, 2011.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6129266)  
 <img src="/assets/Figures/TENCON2011a.png" width="420">&emsp;<img src="/assets/Figures/TENCON2011b.png" width="420">
 
-* [K. Y. Ng and C. P. Tan, “New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade,” in *7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, 2009.](http://www.sciencedirect.com/science/article/pii/S1474667016358712)
-* [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” in *17th IFAC World Congress*, Seoul, South Korea, 2008.](http://www.sciencedirect.com/science/article/pii/S1474667016401047?via%3Dihub)
-* [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New result in robust actuator fault reconstruction with application to an aircraft,” in *IEEE CCA*, Singapore, 2007.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4389331)
-* [K. Y. Ng, C. P. Tan, and R. Akmeliawati, “Tolerance towards sensor failures: An application to a double inverted pendulum,” in *IEEE DELTA*, Kuala Lumpur, Malaysia, 2006.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1581253)
+* [K. Y. Ng and C. P. Tan, “New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade,” in *7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, 2009.](http://www.sciencedirect.com/science/article/pii/S1474667016358712)  
+
+
+* [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” in *17th IFAC World Congress*, Seoul, South Korea, 2008.](http://www.sciencedirect.com/science/article/pii/S1474667016401047?via%3Dihub)  
+
+
+* [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New result in robust actuator fault reconstruction with application to an aircraft,” in *IEEE CCA*, Singapore, 2007.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4389331)  
+
+
+* [K. Y. Ng, C. P. Tan, and R. Akmeliawati, “Tolerance towards sensor failures: An application to a double inverted pendulum,” in *IEEE DELTA*, Kuala Lumpur, Malaysia, 2006.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1581253)  
 
 
 ### Others ###
-* K. Y. Ng, “Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015. 
-* [K. Y. Ng, “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers,” *PhD Thesis, Faculty of Engineering, Monash University*, 2009.](https://figshare.com/articles/Advancements_in_robust_fault_reconstruction_using_sliding_mode_observers/4546033)
+* K. Y. Ng, “Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.png" width="600">
+
+* [K. Y. Ng, “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers,” *PhD Thesis, Faculty of Engineering, Monash University*, 2009.](https://figshare.com/articles/Advancements_in_robust_fault_reconstruction_using_sliding_mode_observers/4546033)  
+
+
