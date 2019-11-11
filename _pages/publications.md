@@ -22,7 +22,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 <img src="/assets/Figures/IJCAS2015a.png" width="420">&emsp;<img src="/assets/Figures/IJCAS2015b.png" width="420">
 
 * [J. H. T. Ooi, C. P. Tan, and K. Y. Ng, “State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers,” *Asian Journal of Control*, 2015.](http://onlinelibrary.wiley.com/doi/10.1002/asjc.1033/full)  
-<img src="/assets/Figures/AJC2015a.png" width="320">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
+<img src="/assets/Figures/AJC2015a.png" width="250">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
 
 * [C. Y. Kee, C. P. Tan, K. Y. Ng, and H. Trinh, “New results in robust functional state estimation using two sliding mode observers in cascade,” *International Journal of Robust and Nonlinear Control*, 2014.](http://onlinelibrary.wiley.com/doi/10.1002/rnc.2973/full)  
 <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
