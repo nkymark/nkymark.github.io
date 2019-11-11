@@ -10,13 +10,13 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 ### Journal Articles ###
 * K. Y. Ng, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged SI Engine System — A Platform for The Evaluation of Fault Diagnosis Algorithms & Strategies,” *IEEE Control Systems Magazine (In Press)*, 2019.  
-<img src="/assets/Figures/GUI.png" width="900">
+<img src="/assets/Figures/GUI.png" width="840">
 
 * [S. J. W. Tang, V. Kalavally, K. Y. Ng, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)  
-<img src="/assets/Figures/Access2018a.png" width="550">&emsp;<img src="/assets/Figures/Access2018b.png" width="350">
+<img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320">
 
 * [D. Jung, K. Y. Ng, E. Frisk, and M. Krysander. “Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation,” *Control Engineering Practice*, 2018.](https://www.sciencedirect.com/science/article/pii/S0967066118304404?via%3Dihub)  
-<img src="/assets/Figures/CEP2018a.png" width="250">&emsp;<img src="/assets/Figures/CEP2018b.png" width="650">
+<img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620">
 
 * [L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, K. Y. Ng, M. N. Nguyen, and W. H. Teoh, “Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review,” *Journal of Chemical Technology and Biotechnology*, 2018.](http://onlinelibrary.wiley.com/doi/10.1002/jctb.5490/full)  
 
