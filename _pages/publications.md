@@ -23,6 +23,8 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” *Asian Journal of Control*, 2010.](http://onlinelibrary.wiley.com/doi/10.1002/asjc.231/pdf)
 * [K. Y. Ng, C. P. Tan, Z. Man, and R. Akmeliawati, “New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade,” *International Journal of Control, Automation and Systems*, 2010.](http://link.springer.com/article/10.1007/s12555-010-0303-8)
 * [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers,” *International Journal of Robust and Nonlinear Control*, 2007.](http://onlinelibrary.wiley.com/doi/10.1002/rnc.1170/abstract)
+![](/assets/Figures/IJCRNC2007a.png)
+![](/assets/Figures/IJCRNC2007b.png)
 
 
 ### Conference Proceedings ###
@@ -37,8 +39,6 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” in *17th IFAC World Congress*, Seoul, South Korea, 2008.](http://www.sciencedirect.com/science/article/pii/S1474667016401047?via%3Dihub)
 * [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New result in robust actuator fault reconstruction with application to an aircraft,” in *IEEE CCA*, Singapore, 2007.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4389331)
 * [K. Y. Ng, C. P. Tan, and R. Akmeliawati, “Tolerance towards sensor failures: An application to a double inverted pendulum,” in *IEEE DELTA*, Kuala Lumpur, Malaysia, 2006.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1581253)
-![](/assets/Photos/IJCRNC2007a.png)
-![](/assets/Photos/IJCRNC2007b.png)
 
 
 ### Others ###
