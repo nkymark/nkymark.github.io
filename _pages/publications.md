@@ -24,7 +24,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [K. Y. Ng, C. P. Tan, Z. Man, and R. Akmeliawati, “New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade,” *International Journal of Control, Automation and Systems*, 2010.](http://link.springer.com/article/10.1007/s12555-010-0303-8)
 * [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers,” *International Journal of Robust and Nonlinear Control*, 2007.](http://onlinelibrary.wiley.com/doi/10.1002/rnc.1170/abstract)
 
-<img src="/assets/Figures/IJRNC2007a.png" width="300"/>&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="300">
+<img src="/assets/Figures/IJRNC2007a.png" width="300">&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="300">
 
 
 ### Conference Proceedings ###
