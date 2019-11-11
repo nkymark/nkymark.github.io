@@ -1,5 +1,5 @@
 ---
-title: Grant with Monash University Malaysia on Using AI and Mobile Computing To Identify Genomes of Weedy Rice
+title: Grant with Malaysia, Thailand, and Myanmar on Using AI and Mobile Computing To Identify Genomes of Weedy Rice
 date: 2019-08-10 09:00:00
 ---
 
