@@ -53,8 +53,12 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 ### Conference Proceedings ###
-* [S. J. W. Tang, K. Y. Ng, V. Kalavally, and J. Parkkinen, “Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system,” in *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016.](http://ieeexplore.ieee.org/abstract/document/7810062/)
-* [D. Jung, K. Y. Ng, E. Frisk, and M. Krysander, “A combined diagnosis system design using model- based and data-driven methods,” in *IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, 2016.](http://ieeexplore.ieee.org/abstract/document/7739747/)
+* [S. J. W. Tang, K. Y. Ng, V. Kalavally, and J. Parkkinen, “Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system,” in *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016.](http://ieeexplore.ieee.org/abstract/document/7810062/)  
+
+
+* [D. Jung, K. Y. Ng, E. Frisk, and M. Krysander, “A combined diagnosis system design using model-based and data-driven methods,” in *IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, 2016.](http://ieeexplore.ieee.org/abstract/document/7739747/)  
+<img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
+
 * [W. J. Lee, K. Y. Ng, C. L Tan, and C. P. Tan, “Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s”, in *IEEE ICARCV*, Phuket, Thailand, 2016.](http://ieeexplore.ieee.org/document/7838614/)
 * [S. J. W. Tang, K. Y. Ng, B. H. Khoo, and J. Parkkinen, “Real-time lane detection and rear-end collision warning system on a mobile computing platform,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273667)
 * [W. C. Chew, K. Y. Ng, and B. H. Khoo, “ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273668) 
