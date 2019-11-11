@@ -28,7 +28,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
 
 * [K. Y. Ng, C. P. Tan, and D. Oetomo, “Disturbance decoupled fault reconstruction using cascaded sliding mode observers,” *Automatica*, 2012.](http://www.sciencedirect.com/science/article/pii/S000510981200043X)  
-<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="520">
+<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
 
 * [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” *Asian Journal of Control*, 2010.](http://onlinelibrary.wiley.com/doi/10.1002/asjc.231/pdf)  
 <img src="/assets/Figures/AJC2010a.png" width="320">&emsp;<img src="/assets/Figures/AJC2010b.png" width="520">
