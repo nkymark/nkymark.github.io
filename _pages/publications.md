@@ -13,12 +13,14 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [S. J. W. Tang, V. Kalavally, K. Y. Ng, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685) 
 * [D. Jung, K. Y. Ng, E. Frisk, and M. Krysander. “Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation,” *Control Engineering Practice*, 2018.](https://www.sciencedirect.com/science/article/pii/S0967066118304404?via%3Dihub)
 * [L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, K. Y. Ng, M. N. Nguyen, and W. H. Teoh, “Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review,” *Journal of Chemical Technology and Biotechnology*, 2018.](http://onlinelibrary.wiley.com/doi/10.1002/jctb.5490/full)
-* [J. H. T. Ooi, C. P. Tan, S. Nurzaman, and K. Y. Ng, “A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems,” *IEEE Transactions on Automatic Control*, 2017.](http://ieeexplore.ieee.org/abstract/document/7847334/)
-* [S. Tang, V. Kalavally, K. Y. Ng, and J. Parkkinen, “Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system,” *Energy and Buildings*, 2017.](http://dx.doi.org/10.1016/j.enbuild.2016.12.069)  
+* [J. H. T. Ooi, C. P. Tan, S. Nurzaman, and K. Y. Ng, “A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems,” *IEEE Transactions on Automatic Control*, 2017.](http://ieeexplore.ieee.org/abstract/document/7847334/)  
 
+
+* [S. Tang, V. Kalavally, K. Y. Ng, and J. Parkkinen, “Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system,” *Energy and Buildings*, 2017.](http://dx.doi.org/10.1016/j.enbuild.2016.12.069)  
+<img src="/assets/Figures/EB2017a.png" width="420">&emsp;<img src="/assets/Figures/EB2017b.png" width="420">
 
 * [J. Y. Ng, C. P. Tan, H. Trinh, and K. Y. Ng, “A common functional observer scheme for three systems with unknown inputs,” *Journal of The Franklin Institute*, 2016.](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020)  
-<img src="/assets/Figures/Franklin2016.png" width="700">
+&emsp;&emsp;&emsp;<img src="/assets/Figures/Franklin2016.png" width="700">
 
 * [J. Y. Ng, C. P. Tan, K. Y. Ng, and H. Trinh, “New results in common functional state estimation for two linear systems with unknown inputs,” *International Journal of Control, Automation and Systems*, 2015.](http://link.springer.com/article/10.1007/s12555-014-0315-x#)  
 <img src="/assets/Figures/IJCAS2015a.png" width="420">&emsp;<img src="/assets/Figures/IJCAS2015b.png" width="420">
@@ -30,7 +32,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
 
 * [K. Y. Ng, C. P. Tan, and D. Oetomo, “Disturbance decoupled fault reconstruction using cascaded sliding mode observers,” *Automatica*, 2012.](http://www.sciencedirect.com/science/article/pii/S000510981200043X)  
-<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
+&emsp;&emsp;&emsp;<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
 
 * [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” *Asian Journal of Control*, 2010.](http://onlinelibrary.wiley.com/doi/10.1002/asjc.231/pdf)  
 <img src="/assets/Figures/AJC2010a.png" width="320">&emsp;<img src="/assets/Figures/AJC2010b.png" width="520">
