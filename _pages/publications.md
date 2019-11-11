@@ -17,7 +17,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 * [S. Tang, V. Kalavally, K. Y. Ng, and J. Parkkinen, “Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system,” *Energy and Buildings*, 2017.](http://dx.doi.org/10.1016/j.enbuild.2016.12.069)  
-<img src="/assets/Figures/EB2017a.png" width="420">&emsp;<img src="/assets/Figures/EB2017b.png" width="420">
+<img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
 
 * [J. Y. Ng, C. P. Tan, H. Trinh, and K. Y. Ng, “A common functional observer scheme for three systems with unknown inputs,” *Journal of The Franklin Institute*, 2016.](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020)  
 &emsp;&emsp;&emsp;<img src="/assets/Figures/Franklin2016.png" width="700">
