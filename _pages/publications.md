@@ -63,7 +63,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 * [S. J. W. Tang, K. Y. Ng, B. H. Khoo, and J. Parkkinen, “Real-time lane detection and rear-end collision warning system on a mobile computing platform,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273667)  
-<img src="/assets/Figures/COMPSACba.png" width="320">&emsp;<img src="/assets/Figures/COMPSACbb.png" width="520">
+<img src="/assets/Figures/COMPSAC2015ba.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015bb.png" width="520">
 
 * [W. C. Chew, K. Y. Ng, and B. H. Khoo, “ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273668) 
 * [K. Y. Ng, C. P. Tan, and D. Oetomo, “Enhanced fault reconstruction using cascaded sliding mode observers,” in *12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, 2012.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6163503)
