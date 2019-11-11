@@ -37,6 +37,8 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [K. Y. Ng, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” in *17th IFAC World Congress*, Seoul, South Korea, 2008.](http://www.sciencedirect.com/science/article/pii/S1474667016401047?via%3Dihub)
 * [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New result in robust actuator fault reconstruction with application to an aircraft,” in *IEEE CCA*, Singapore, 2007.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4389331)
 * [K. Y. Ng, C. P. Tan, and R. Akmeliawati, “Tolerance towards sensor failures: An application to a double inverted pendulum,” in *IEEE DELTA*, Kuala Lumpur, Malaysia, 2006.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1581253)
+![](/assets/Photos/IJCRNC2007a.png)
+![](/assets/Photos/IJCRNC2007b.png)
 
 
 ### Others ###
