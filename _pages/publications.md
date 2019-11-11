@@ -16,7 +16,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 * [J. H. T. Ooi, C. P. Tan, S. Nurzaman, and K. Y. Ng, “A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems,” *IEEE Transactions on Automatic Control*, 2017.](http://ieeexplore.ieee.org/abstract/document/7847334/)  
-<img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
+<img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520">
 
 * [S. Tang, V. Kalavally, K. Y. Ng, and J. Parkkinen, “Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system,” *Energy and Buildings*, 2017.](http://dx.doi.org/10.1016/j.enbuild.2016.12.069)  
 <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
