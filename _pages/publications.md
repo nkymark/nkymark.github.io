@@ -50,7 +50,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 * [K. Y. Ng, C. P. Tan, C. Edwards, and Y. C. Kuang, “New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers,” *International Journal of Robust and Nonlinear Control*, 2007.](http://onlinelibrary.wiley.com/doi/10.1002/rnc.1170/abstract)  
 <img src="/assets/Figures/IJRNC2007a.png" width="520">&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="320">
-
+<br/>
 
 ### Conference Proceedings ###
 * [S. J. W. Tang, K. Y. Ng, V. Kalavally, and J. Parkkinen, “Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system,” in *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016.](http://ieeexplore.ieee.org/abstract/document/7810062/)  
@@ -84,11 +84,11 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 * [K. Y. Ng, C. P. Tan, and R. Akmeliawati, “Tolerance towards sensor failures: An application to a double inverted pendulum,” in *IEEE DELTA*, Kuala Lumpur, Malaysia, 2006.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1581253)  
-
+<br/>
 
 ### Others ###
 * K. Y. Ng, “Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="500">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="450">
 
 * [K. Y. Ng, “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers,” *PhD Thesis, Faculty of Engineering, Monash University*, 2009.](https://figshare.com/articles/Advancements_in_robust_fault_reconstruction_using_sliding_mode_observers/4546033)  
 
