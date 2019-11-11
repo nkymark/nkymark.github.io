@@ -65,7 +65,9 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [S. J. W. Tang, K. Y. Ng, B. H. Khoo, and J. Parkkinen, “Real-time lane detection and rear-end collision warning system on a mobile computing platform,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273667)  
 <img src="/assets/Figures/COMPSAC2015ba.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015bb.png" width="520">
 
-* [W. C. Chew, K. Y. Ng, and B. H. Khoo, “ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273668) 
+* [W. C. Chew, K. Y. Ng, and B. H. Khoo, “ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273668)  
+<img src="/assets/Figures/COMPSAC2015aa.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015ab.png" width="520">
+
 * [K. Y. Ng, C. P. Tan, and D. Oetomo, “Enhanced fault reconstruction using cascaded sliding mode observers,” in *12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, 2012.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6163503)
 * [C. Fernandes, K. Y. Ng, and B. H. Khoo, “Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK,” in *IEEE TENCON*, Bali, Indonesia, 2011.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6129266)
 * [K. Y. Ng and C. P. Tan, “New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade,” in *7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, 2009.](http://www.sciencedirect.com/science/article/pii/S1474667016358712)
