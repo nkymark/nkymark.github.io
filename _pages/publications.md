@@ -59,8 +59,12 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [D. Jung, K. Y. Ng, E. Frisk, and M. Krysander, “A combined diagnosis system design using model-based and data-driven methods,” in *IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, 2016.](http://ieeexplore.ieee.org/abstract/document/7739747/)  
 <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
 
-* [W. J. Lee, K. Y. Ng, C. L Tan, and C. P. Tan, “Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s”, in *IEEE ICARCV*, Phuket, Thailand, 2016.](http://ieeexplore.ieee.org/document/7838614/)
-* [S. J. W. Tang, K. Y. Ng, B. H. Khoo, and J. Parkkinen, “Real-time lane detection and rear-end collision warning system on a mobile computing platform,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273667)
+* [W. J. Lee, K. Y. Ng, C. L Tan, and C. P. Tan, “Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s”, in *IEEE ICARCV*, Phuket, Thailand, 2016.](http://ieeexplore.ieee.org/document/7838614/)  
+
+
+* [S. J. W. Tang, K. Y. Ng, B. H. Khoo, and J. Parkkinen, “Real-time lane detection and rear-end collision warning system on a mobile computing platform,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273667)  
+<img src="/assets/Figures/COMPSACba.png" width="320">&emsp;<img src="/assets/Figures/COMPSACbb.png" width="520">
+
 * [W. C. Chew, K. Y. Ng, and B. H. Khoo, “ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis,” in *IEEE COMPSAC*, Taichung, Taiwan, 2015.](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7273668) 
 * [K. Y. Ng, C. P. Tan, and D. Oetomo, “Enhanced fault reconstruction using cascaded sliding mode observers,” in *12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, 2012.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6163503)
 * [C. Fernandes, K. Y. Ng, and B. H. Khoo, “Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK,” in *IEEE TENCON*, Bali, Indonesia, 2011.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6129266)
