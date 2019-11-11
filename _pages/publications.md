@@ -16,9 +16,11 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * [J. H. T. Ooi, C. P. Tan, S. Nurzaman, and K. Y. Ng, “A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems,” *IEEE Transactions on Automatic Control*, 2017.](http://ieeexplore.ieee.org/abstract/document/7847334/)
 * [S. Tang, V. Kalavally, K. Y. Ng, and J. Parkkinen, “Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system,” *Energy and Buildings*, 2017.](http://dx.doi.org/10.1016/j.enbuild.2016.12.069)
 * [J. Y. Ng, C. P. Tan, H. Trinh, and K. Y. Ng, “A common functional observer scheme for three systems with unknown inputs,” *Journal of The Franklin Institute*, 2016.](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020)
-* [J. Y. Ng, C. P. Tan, K. Y. Ng, and H. Trinh, “New results in common functional state estimation for two linear systems with unknown inputs,” *International Journal of Control, Automation and Systems*, 2015.](http://link.springer.com/article/10.1007/s12555-014-0315-x#)
-* [J. H. T. Ooi, C. P. Tan, and K. Y. Ng, “State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers,” *Asian Journal of Control*, 2015.](http://onlinelibrary.wiley.com/doi/10.1002/asjc.1033/full)  
+* [J. Y. Ng, C. P. Tan, K. Y. Ng, and H. Trinh, “New results in common functional state estimation for two linear systems with unknown inputs,” *International Journal of Control, Automation and Systems*, 2015.](http://link.springer.com/article/10.1007/s12555-014-0315-x#)  
 
+
+* [J. H. T. Ooi, C. P. Tan, and K. Y. Ng, “State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers,” *Asian Journal of Control*, 2015.](http://onlinelibrary.wiley.com/doi/10.1002/asjc.1033/full)  
+<img src="/assets/Figures/AJC2015a.png" width="320">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
 
 * [C. Y. Kee, C. P. Tan, K. Y. Ng, and H. Trinh, “New results in robust functional state estimation using two sliding mode observers in cascade,” *International Journal of Robust and Nonlinear Control*, 2014.](http://onlinelibrary.wiley.com/doi/10.1002/rnc.2973/full)  
 <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
