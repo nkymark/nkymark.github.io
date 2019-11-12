@@ -1,6 +1,10 @@
 main:
   - title: "About Me"
     url: /about
+  - title: "Research"
+    url: /research
+  - title: "People"
+    url: /people    
   - title: "Publications"
     url: /pubs
   - title: "Downloads"
