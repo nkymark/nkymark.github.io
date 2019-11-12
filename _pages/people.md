@@ -8,11 +8,9 @@ title: People
 * Dr Mark Ng  
 Lecturer in Mechatronics Engineering and Control and Leader of the Mechatronics and Industrie 4.0 Laboratory.
 
-* Mr Scot Davidson
+* Mr Scot Davidson  
 PhD Researcher
 
-* Niamh McCallan
+* Niamh McCallan  
 PhD Researcher
 
-
-## Research Collaborators ##
