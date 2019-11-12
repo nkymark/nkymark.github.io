@@ -93,8 +93,8 @@ I also developed the GUI-based Simulation Environment on Matlab and Simulink to 
 ## Honours and Awards ##
 * Fellow of Higher Education Academy, UK (FHEA), 2018
 * Erasmus+ Staff Mobility Program to Augsburg University of Applied Sciences, Germany, 2018
-* Monash University Malaysia PVC’s Award for Excellence in Research, Round 1, 2012 
-* Letter of Commendation for Excellence Unit Evaluation Result from the Associate-Dean (Education), Faculty of Engineering, Monash University Australia, 2012 
+* Monash University Malaysia PVC’s Award for Excellence in Research, 2012 
+* Letter of Commendation for Excellence in Teaching from the Associate-Dean (Education), Faculty of Engineering, Monash University Australia, 2012 
 * Top 50 Best Units Offered by Faculty of Engineering (ranked #22) Across All Campuses of Monash University, 2010 
 * Monash University Malaysia PVC’s Award for Excellence in Teaching, total of 5 awards from 2009 till 2011
 * Higher Degree by Research Scholarship for Ph.D. in Engineering, 2007
