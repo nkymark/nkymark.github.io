@@ -14,9 +14,9 @@ title: Research
 
 ## Research Partners and Collaborators ##
 
-<img src="/assets/Figures/Monash.png" height="100"> 
-<img src="/assets/Figures/UAS.png" height="100"> 
-<img src="/assets/Figures/LiU.png" height="100"> 
-<img src="/assets/Figures/UEF.jpg" height="100"> 
+<img src="/assets/Figures/Monash.png" height="50"> 
+<img src="/assets/Figures/UAS.png" height="50"> 
+<img src="/assets/Figures/LiU.png" height="50"> 
+<img src="/assets/Figures/UEF.jpg" height="50"> 
 
  
