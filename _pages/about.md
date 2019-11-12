@@ -75,7 +75,7 @@ I continued to work on the project described under my position as a Postdoctoral
 
 **Linköping University and Volvo Car Corporation, Sweden**  
 **Postdoctoral**  
-June, 2014 – May 2015
+June, 2014 – May 2015  
 Supervisor: Prof. Erik Frisk 
 
 I was based in the Division of Vehicular Systems (FS) at Linköping University, Sweden where I worked on Fault Diagnosis of Single-Turbocharged Gasoline Engine with Volvo Car Corporation (VCC). 
