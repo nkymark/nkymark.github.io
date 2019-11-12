@@ -27,7 +27,7 @@ title: Research
   * 1x measurement application module
   * 1x muscle press application module
   * 1x tunnel furnace application module
-  * 1x workpiece output application module
+  * 1x workpiece output application module  
 <img src="/assets/Figures/Festo.png" width="500">
 
 
