@@ -24,4 +24,4 @@ long-standing jointly-offered exchange program between both campuses.
 
 <img src="/assets/Figures/Augsburge.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgf.jpg" width="420">  
 
-<img src="/assets/Figures/Augsburgg.jpg" width="250">
+<img src="/assets/Figures/Augsburgg.jpg" width="300">
