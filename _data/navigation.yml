@@ -1,6 +1,4 @@
 main:
-  - title: "About Me"
-    url: /about
   - title: "Research"
     url: /research
   - title: "People"
@@ -15,3 +13,5 @@ main:
     url: /vacancies
   - title: "Tech Stuff"
     url: /tech   
+  - title: "About Me"
+    url: /about   
