@@ -23,22 +23,23 @@ I am also a co-investigator in [SAFEWATER](https://www.safewater-research.com), 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
 
 
-*/ ## Education ##
+<!-- 
+## Education ##
 **Monash University, Malaysia**
 * Ph.D. Candidate, Control Engineering and Fault Diagnosis, 2009  
 Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers” 
 * B.Eng (Hons), Electrical and Computer Systems Engineering, 2006 /*
-
+-->
 
 ## Current Employment and Affiliations ##
 **Ulster University, Northern Ireland, U.K.**  
 **Lecturer in Mechatronics Engineering and Control**  
 June, 2017 – Present  
-I am responsible for Control Engineering related modules taught to undergraduate students. I am coordinate and teach the following modules:
+I am responsible for Control Engineering related modules taught to undergraduate students. I coordinate and teach the following modules:
 * EEE316 Control Theory and Applications
 * EEE526 Mechatronics 1
 
-Research wise, I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC) at the Jordanstown Campus, where I am part of the Sensor and Embedded Computing Systems Research Group, working mainly on the signal processing and data analytics of biomedical signals for anomaly detection and classification.     
+Research wise, I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC) at the Jordanstown Campus, where I work mainly on fault diagnosis and data analytics for anomaly detection and classification.     
 
 **Monash University, Malaysia**  
 **Adjunct Senior Research Fellow**  
@@ -52,6 +53,7 @@ January, 2016 – May, 2017
 **Lecturer**  
 July, 2009 – December, 2015
 
+<!--
 I was responsible as the coordinator of a few units related to Control Engineering for various disciplines offered at the campus. I developed a new unit, ECE3062 Electronic Systems and Control, which is offered at both Monash University Malaysia and Australia campuses. I was an active researcher especially in the area of Fault Diagnosis with quality publications in international peer-reviewed journal articles, including the prestigious Automatica. I also conducted trainings and am involved in a few consulting projects with the industry. I have taught the following units: 
 * ECE2061 Analogue Circuits, 2016 – 2017 
 * ECE2031 Circuits and Control, 2015
@@ -62,6 +64,7 @@ I was responsible as the coordinator of a few units related to Control Engineeri
 * ECE3031 Control Systems, 2010
 * ENG1020 Engineering Structures, 2009
 * ENG1060 Computing for Engineers, 2006 – 2009
+-->
 
 **Linköping University and Volvo Car Corporation, Sweden**  
 **Visiting Researcher**  
