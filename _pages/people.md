@@ -11,6 +11,6 @@ Lecturer in Mechatronics Engineering and Control and Leader of the Mechatronics 
 * Mr Scot Davidson  
 PhD Researcher
 
-* Niamh McCallan  
+* Ms Niamh McCallan  
 PhD Researcher
 
