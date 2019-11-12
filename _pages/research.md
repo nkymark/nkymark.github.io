@@ -12,8 +12,8 @@ title: Research
 * INTECO Two Rotor Aerodynamical System
 * INTECO ABS Antilock Braking System
 * Festo CP LAB Variant 3
- * 6x CP Lab pallet transfer system
- * 4x system trainers with A4 frames
+  * 6x CP Lab pallet transfer system
+  * 4x system trainers with A4 frames
  * 2x CP Bridge
  * 1x mobile robot for pallet transport
  * 2x magazine application modules
