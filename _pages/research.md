@@ -9,6 +9,7 @@ title: Research
 
 
 ## Research Facilities ##
+* NVIDIA Jetson TX2
 * INTECO Two Rotor Aerodynamical System
 * INTECO ABS Antilock Braking System
 * Festo CP LAB Variant 3, which includes the following:
