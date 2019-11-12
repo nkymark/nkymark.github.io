@@ -16,9 +16,9 @@ with the researchers there.
 
 He also had the opportunity to be invited as a special guest representing the School of Engineering in Ulster University at the 
 graduation ceremony, where students from UU graduated with their Masters in Mechatronics Engineering from Augsburg via a 
-long-standing jointly offered exchange program between both campuses.
+long-standing jointly-offered exchange program between both campuses.
 
-<img src="/assets/Figures/Augsburga.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgb.jpg" width="420">
-<img src="/assets/Figures/Augsburgc.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgd.jpg" width="420">
-<img src="/assets/Figures/Augsburge.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgf.jpg" width="420">
+<img src="/assets/Figures/Augsburga.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgb.jpg" width="420">  
+<img src="/assets/Figures/Augsburgc.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgd.jpg" width="420">  
+<img src="/assets/Figures/Augsburge.jpg" width="420">&emsp;<img src="/assets/Figures/Augsburgf.jpg" width="420">  
 <img src="/assets/Figures/Augsburgg.jpg" width="250">
