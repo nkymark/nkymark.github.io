@@ -80,12 +80,14 @@ Supervisor: Prof. Erik Frisk
 
 I was based in the Division of Vehicular Systems (FS) at Linköping University, Sweden where I worked on Fault Diagnosis of Single-Turbocharged Gasoline Engine with Volvo Car Corporation (VCC). 
 
+<!--
 I also developed the GUI-based Simulation Environment on Matlab and Simulink to be used by VCC for the following: 
 * Realistic modelling and control of the engine 
 * Injection and simulation of a variety of actuator, sensor and variable faults in the engine 
 * In-house designed algorithm for additional residuals selection 
 * In-house designed algorithms for alarm generations, residuals monitoring as well as Fault Isolation (FI) 
 * Simulation and FI of system with intermittent residuals 
+-->
 
 
 ## Honours and Awards ##
