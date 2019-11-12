@@ -4,7 +4,9 @@ layout: single
 title: Vacancies
 ---
 
-// ## There are no vacancies available at the moment. ##
+<!--
+## There are no vacancies available at the moment. ##
+-->
 ### Mechatronics Technician (Full Time) ###
 
 The School of Engineering at the Ulster University, UK is hiring a Technician in Mechatronics Engineering. The position will provide technical support for teaching, research and other activities of the School. 
