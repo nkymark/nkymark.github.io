@@ -14,12 +14,9 @@ title: Research
 
 ## Research Partners and Collaborators ##
 
-<img src="/assets/Figures/Monash.png" width="200">  
-
-<img src="/assets/Figures/UAS.png" width="320">  
-
-<img src="/assets/Figures/LiU.png" width="200">  
-
-<img src="/assets/Figures/UEF.jpg" width="150">  
+<img src="/assets/Figures/Monash.png" width="200">&emsp;&emsp; 
+<img src="/assets/Figures/UAS.png" width="320">&emsp;&emsp; 
+<img src="/assets/Figures/LiU.png" width="200">&emsp;&emsp; 
+<img src="/assets/Figures/UEF.jpg" width="150">&emsp;&emsp; 
 
  
