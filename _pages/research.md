@@ -7,7 +7,7 @@ title: Research
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on 
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Industry 4.0 applications.
-* Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection and to enhance the accuracy of diagnostics.
+* Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 
 ## Research Facilities ##
