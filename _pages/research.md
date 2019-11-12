@@ -11,7 +11,7 @@ title: Research
 ## Research Facilities ##
 * INTECO Two Rotor Aerodynamical System
 * INTECO ABS Antilock Braking System
-* Festo CP LAB Variant 3
+* Festo CP LAB Variant 3, which includes the following:
   * 6x CP Lab pallet transfer system
   * 4x system trainers with A4 frames
   * 2x CP Bridge
@@ -24,7 +24,6 @@ title: Research
 
 
 ## Research Partners and Collaborators ##
-
 
 <img src="/assets/Figures/Monash.png" width="200">&emsp;&emsp; 
 <img src="/assets/Figures/UAS.png" width="320">&emsp;&emsp; 
