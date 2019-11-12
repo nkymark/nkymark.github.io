@@ -12,7 +12,7 @@ title: Research
 * NVIDIA Jetson TX2 &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/Jetson.jpg" width="200">&emsp;<img src="/assets/Figures/Jetson2.jpg" width="200">
 * INTECO Two Rotor Aerodynamical System &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/Aero.png" width="200">
 * INTECO ABS Antilock Braking System &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/ABS.png" width="300">
-* Festo CP LAB Variant 3, which includes the following: &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/Festo.png" width="500">
+* Festo CP LAB Variant 3, which includes the following:
   * 6x CP Lab pallet transfer system
   * 4x system trainers with A4 frames
   * 2x CP Bridge
@@ -22,6 +22,7 @@ title: Research
   * 1x muscle press application module
   * 1x tunnel furnace application module
   * 1x workpiece output application module
+<img src="/assets/Figures/Festo.png" width="500">
 
 
 ## Research Partners and Collaborators ##
