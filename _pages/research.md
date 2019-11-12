@@ -9,9 +9,9 @@ title: Research
 
 
 ## Research Facilities ##
-* NVIDIA Jetson TX2 &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/Jetson.jpg" width="200">
+* NVIDIA Jetson TX2 &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/Jetson.jpg" width="200">&emsp;<img src="/assets/Figures/Jetson2.jpg" width="200">
 * INTECO Two Rotor Aerodynamical System &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/Aero.png" width="200">
-* INTECO ABS Antilock Braking System
+* INTECO ABS Antilock Braking System &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/assets/Figures/ABS.png" width="300">
 * Festo CP LAB Variant 3, which includes the following:
   * 6x CP Lab pallet transfer system
   * 4x system trainers with A4 frames
