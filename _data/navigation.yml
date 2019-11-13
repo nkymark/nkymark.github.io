@@ -7,11 +7,11 @@ main:
     url: /pubs
   - title: "Downloads"
     url: /downloads
-  - title: "Photos"
-    url: /photos
   - title: "Vacancies"
     url: /vacancies
   - title: "Tech Stuff"
     url: /tech   
+  - title: "Photos"
+    url: /photos    
   - title: "About Me"
     url: /about   
