@@ -15,7 +15,7 @@ We primarily conduct research on anomaly detection and classification using mode
 <img src="/assets/Figures/Jetson.jpg" width="200">&emsp;<img src="/assets/Figures/Jetson2.jpg" width="200">
 
 * INTECO Two Rotor Aerodynamical System  
-<img src="/assets/Figures/Aero.png" width="200">
+<img src="/assets/Figures/Aero.png" width="300">
 
 * INTECO ABS Antilock Braking System  
 <img src="/assets/Figures/ABS.png" width="300">
