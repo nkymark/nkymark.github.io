@@ -10,13 +10,13 @@ We primarily conduct research on anomaly detection and classification using mode
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 
-## Research Facilities ## 
-<p><img src="/assets/Figures/Jetson.jpg" width="200" align="right"><span>&nbsp;  </span>
- 
- <img src="/assets/Figures/Jetson2.jpg" width="200" align="right"><span>&nbsp;  </span>
- 
- <img align="right" src="/assets/Figures/Aero.png" width="200"><span>
- 
+## Research Facilities ##
+<img src="/assets/Figures/Jetson.jpg" width="200" align="right">
+<img src="/assets/Figures/Jetson2.jpg" width="200" align="right">  
+<img align="right" src="/assets/Figures/Aero.png" width="200">  
+<img align="right" src="/assets/Figures/ABS.png" width="200">  
+<img align="right" src="/assets/Figures/Festo.png" width="430">  
+
 * NVIDIA Jetson TX2  
 
 * INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems  
@@ -36,12 +36,6 @@ We primarily conduct research on anomaly detection and classification using mode
   * 2 x Dell PowerEdge R720
   * 12 x Dell OptiPlex 7010 for a total of 80x cores
   * 12 x Nvidia Quadro GPUs
-</span></p>
-<img src="/assets/Figures/Jetson2.jpg" width="200" align="right">  
-<img align="right" src="/assets/Figures/Aero.png" width="200">  
-<img align="right" src="/assets/Figures/ABS.png" width="200">  
-<img align="right" src="/assets/Figures/Festo.png" width="430">  
-
 
 
 ## Research Partners and Collaborators ##
