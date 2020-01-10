@@ -11,9 +11,8 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ## 
-<p><img src="/assets/Figures/Jetson.jpg" width="200" align="right">
-
-<img src="/assets/Figures/Jetson.jpg" width="200" align="right"><span>
+<p><img src="/assets/Figures/Jetson.jpg" width="200" align="right"><span></span>
+<img src="/assets/Figures/Jetson2.jpg" width="200" align="right"><span>
 * NVIDIA Jetson TX2  
 
 * INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems  
