@@ -20,6 +20,10 @@ We primarily conduct research on anomaly detection and classification using mode
 &nbsp;  
 
 <img align="right" src="/assets/Figures/Aero.png" width="200" height="150">&emsp; <img align="right" src="/assets/Figures/ABS.png" width="200" height="150">  
+
+&nbsp;  
+&nbsp;  
+
 <img align="right" src="/assets/Figures/Festo.png" width="430">  
 
 * NVIDIA Jetson TX2  
