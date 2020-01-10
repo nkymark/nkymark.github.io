@@ -11,8 +11,10 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ## 
-<p><img src="/assets/Figures/Jetson.jpg" width="200" align="right"><span></span>
-<img src="/assets/Figures/Jetson2.jpg" width="200" align="right"><span>
+<p><img src="/assets/Figures/Jetson.jpg" width="200" align="right"><span>&nbsp;  </span>
+ <img src="/assets/Figures/Jetson2.jpg" width="200" align="right"><span>&nbsp;  </span>
+ <img align="right" src="/assets/Figures/Aero.png" width="200"><span>
+ 
 * NVIDIA Jetson TX2  
 
 * INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems  
@@ -27,7 +29,7 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1x muscle press application module
   * 1x tunnel furnace application module
   * 1x workpiece output application module  
-
+  
 * Beowulf Cluster consisting of the the following:
   * 2 x Dell PowerEdge R720
   * 12 x Dell OptiPlex 7010 for a total of 80x cores
