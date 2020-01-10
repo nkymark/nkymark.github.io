@@ -23,6 +23,8 @@ We primarily conduct research on anomaly detection and classification using mode
 
 &nbsp;  
 &nbsp;  
+&nbsp;  
+&nbsp;  
 
 <img align="right" src="/assets/Figures/Festo.png" width="430">  
 
