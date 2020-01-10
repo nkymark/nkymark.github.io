@@ -14,11 +14,8 @@ We primarily conduct research on anomaly detection and classification using mode
 * NVIDIA Jetson TX2  
 <img src="/assets/Figures/Jetson.jpg" width="200">&emsp;<img src="/assets/Figures/Jetson2.jpg" width="200">
 
-* INTECO Two Rotor Aerodynamical System  
-<img src="/assets/Figures/Aero.png" width="300">
-
-* INTECO ABS Antilock Braking System  
-<img src="/assets/Figures/ABS.png" width="300">
+* INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems
+<img src="/assets/Figures/Aero.png" width="200">&emsp;<img src="/assets/Figures/ABS.png" width="200">
 
 * Festo CP LAB Variant 3, which includes the following:
   * 6x CP Lab pallet transfer system
