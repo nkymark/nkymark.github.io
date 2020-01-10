@@ -10,7 +10,7 @@ We primarily conduct research on anomaly detection and classification using mode
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 
-## Research Facilities ##
+## Research Facilities ## 
 * NVIDIA Jetson TX2  
 <img src="/assets/Figures/Jetson.jpg" width="200">&emsp;<img src="/assets/Figures/Jetson2.jpg" width="200">
 
@@ -31,6 +31,11 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1x tunnel furnace application module
   * 1x workpiece output application module  
 <img src="/assets/Figures/Festo.png" width="500">  
+
+* Beowulf Cluster consisting of the the following:
+  * 2 x Dell PowerEdge R720
+  * 12 x Dell OptiPlex 7010 for a total of 80x cores
+  * 12 x Nvidia Quadro GPUs
 
 
 ## Research Partners and Collaborators ##
