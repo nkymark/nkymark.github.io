@@ -11,7 +11,12 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ##
-<img src="/assets/Figures/Jetson.jpg" width="200" align="right">&emsp; <img src="/assets/Figures/Jetson2.jpg" width="200" align="right">&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    
+<img src="/assets/Figures/Jetson.jpg" width="200" align="right">&emsp; <img src="/assets/Figures/Jetson2.jpg" width="200" align="right">  
+          
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 <img align="right" src="/assets/Figures/Aero.png" width="200">&emsp; <img align="right" src="/assets/Figures/ABS.png" width="200">  
 <img align="right" src="/assets/Figures/Festo.png" width="430">  
 
