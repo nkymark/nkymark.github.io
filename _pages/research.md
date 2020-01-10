@@ -11,24 +11,9 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ##
-<p>
-<img src="/assets/Figures/Jetson.jpg" width="200" align="right">&emsp; <img src="/assets/Figures/Jetson2.jpg" width="200" align="right">  
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
+<img align="right" src="/assets/Figures/Jetson.jpg" width="200">&emsp; <img src="/assets/Figures/Jetson2.jpg" width="200">  
 <img align="right" src="/assets/Figures/Aero.png" width="200" height="150">&emsp; <img align="right" src="/assets/Figures/ABS.png" width="200" height="150">  
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
 <img align="right" src="/assets/Figures/Festo.png" width="430">
-<span>
 
 * NVIDIA Jetson TX2  
 
@@ -49,7 +34,6 @@ We primarily conduct research on anomaly detection and classification using mode
   * 2 x Dell PowerEdge R720
   * 12 x Dell OptiPlex 7010 for a total of 80x cores
   * 12 x Nvidia Quadro GPUs
-</span></p>
 
 
 ## Research Partners and Collaborators ##
