@@ -18,20 +18,20 @@ We primarily conduct research on anomaly detection and classification using mode
 * INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems  
 
 * Festo CP LAB Variant 3, which includes the following: 
-  * 6x CP Lab pallet transfer system
-  * 4x system trainers with A4 frames
-  * 2x CP Bridge
-  * 1x mobile robot for pallet transport
-  * 2x magazine application modules
-  * 1x measurement application module
-  * 1x muscle press application module
-  * 1x tunnel furnace application module
-  * 1x workpiece output application module  
+  * 6 CP Lab pallet transfer system
+  * 4 system trainers with A4 frames
+  * 2 CP Bridge
+  * 1 mobile robot for pallet transport
+  * 2 magazine application modules
+  * 1 measurement application module
+  * 1 muscle press application module
+  * 1 tunnel furnace application module
+  * 1 workpiece output application module  
   
 * Beowulf Cluster consisting of the the following:
-  * 2 x Dell PowerEdge R720
-  * 12 x Dell OptiPlex 7010 for a total of 80x cores
-  * 12 x Nvidia Quadro GPUs
+  * 2 Dell PowerEdge servers
+  * 12 Intel-based CPU nodes for a total of 80 cores
+  * 12 Nvidia GPU nodes
 
 
 ## Research Partners and Collaborators ##
