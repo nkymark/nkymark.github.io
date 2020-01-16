@@ -5,7 +5,7 @@ title: People
 ---
 
 ## Team Members ##
-*  <p><img align="left" width="120" src="/assets/Figures/Mark.jpg" hspace="20"><span>Dr Mark Ng <br /> 
+* <p><img align="left" width="120" src="/assets/Figures/Mark.jpg" hspace="20"><span>Dr Mark Ng <br /> 
   Lecturer in Mechatronics Engineering and Control <br />
   Leader of the Control Engineering and Industrie 4.0 Laboratory <br /><br /><br /></span></p>  
 
