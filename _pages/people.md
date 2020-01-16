@@ -10,11 +10,11 @@ Lecturer in Mechatronics Engineering and Control
 Leader of the Control Engineering and Industrie 4.0 Laboratory  
 
 * <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span>Dr Pardis Biglarbeigi <br />
-Lecturer in Engineering and Data Analytics Scientist</span></p>  
+  Lecturer in Engineering and Data Analytics Scientist <br /><br /><br /><br /></span></p>  
 
 * <p><img align="left" width="120" src="/assets/Figures/Scot.jpg" hspace="20"><span>Mr Scot Davidson <br />
   Ph.D. Researcher <br />
-  Bio: Scot Davidson (<a href="mailto:davidson-s18@ulster.ac.uk">davidson-s18@ulster.ac.uk</a>) is currently pursuing his Ph.D. at the Nanotechnology and Integrated Bioengineering Centre (NIBEC), Ulster University, UK. He graduated with the MEng in Mechatronic Engineering from Ulster University in 2019. He also graduated with the MEng in Mechatronic Systems with German Masters from Hochschule Augsburg in 2018. His current research focuses on anomaly detection and classification of biomedical data for real-time diagnosis applications. His research interests are digital signal processing, high performance computing, and big data.</span></p>  
+  Bio: Scot Davidson (<a href="mailto:davidson-s18@ulster.ac.uk">davidson-s18@ulster.ac.uk</a>) is currently pursuing his Ph.D. at the Nanotechnology and Integrated Bioengineering Centre (NIBEC), Ulster University, UK. He graduated with the MEng in Mechatronic Engineering from Ulster University in 2019. He also graduated with the MEng in Mechatronic Systems with German Masters from Hochschule Augsburg in 2018. His current research focuses on anomaly detection and classification of biomedical data for real-time diagnosis applications. His research interests are digital signal processing, high performance computing, and big data.<br /></span></p>  
 
 * <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20"><span>Miss Niamh McCallan <br />
   Ph.D. Researcher <br />
