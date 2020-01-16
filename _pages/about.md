@@ -5,11 +5,11 @@ title: Brief Biography
 ---
 
 ## Brief Biography ##
-I received my BEng (Hons) in Electrical and Computer Systems Engineering and a PhD in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
+I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
 
 My research interests include fault diagnosis, vehicular systems, modelling, and data analytics for anomaly detection and classification.
 
-In 2014–2015, I was a Postdoctoral Researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods.
+In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods.
 
 I was instrumental in developing a Simulation Environment on the Matlab/Simulink platform for realistic Model-In-The-Loop testing of various residuals generation and fault diagnosis methods for the following:
 * Realistic modelling and control of the engine
