@@ -12,7 +12,7 @@ Spectacular winter sunset over Belfast city (2020).
 ![](/assets/Photos/CNY.jpg)  
 Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).
 
-![](/assets/Photos/BelfastXmasMarket2020.jpg)  
+![](/assets/Photos/BelfastXmasMarket2019.jpg)  
 Christmas Market at Belfast City Hall, Northern Ireland (2019).
 
 ![](/assets/Photos/Snowman.jpg)  
