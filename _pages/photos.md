@@ -16,7 +16,7 @@ Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Bel
 Christmas Market at Belfast City Hall, Northern Ireland (2019).
 
 ![](/assets/Photos/Snowman.jpg)  
-The Ulster Orchestra performing scores from "The Snowman" (2019).
+The Ulster Orchestra led by conductor Pete Harrison performing scores from "The Snowman" (2019).
 
 ![](/assets/Photos/Giants.jpg)  
 Visiting the Giant's Causeway, Northern Ireland during autumn (2019). 
