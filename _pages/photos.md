@@ -6,19 +6,19 @@ title: Photos
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
-![](/assets/Photos/SunsetBelfast.jpg)
+![](/assets/Photos/SunsetBelfast.jpg)  
 Spectacular winter sunset over Belfast city (2020).
 
-![](/assets/Photos/CNY.jpg)
+![](/assets/Photos/CNY.jpg)  
 Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).
 
-![](/assets/Photos/BelfastXmasMarket2020.jpg)
+![](/assets/Photos/BelfastXmasMarket2020.jpg)  
 Christmas Market at Belfast City Hall, Northern Ireland (2019).
 
-![](/assets/Photos/Snowman.jpg)
+![](/assets/Photos/Snowman.jpg)  
 The Ulster Orchestra performing scores from "The Snowman" (2019).
 
-![](/assets/Photos/Giants.jpg)
+![](/assets/Photos/Giants.jpg)  
 Visiting the Giant's Causeway, Northern Ireland during autumn (2019). 
 
 ![](/assets/Photos/TimPeake.jpg)  
