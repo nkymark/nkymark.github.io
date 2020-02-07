@@ -9,7 +9,7 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 ### Journal Articles ###
-* K. Y. Ng, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark-Ignited Engine System — A platform for the evaluation of fault diagnosis algorithms and strategies,” *IEEE Control Systems (In Press)*, 2020.  
+* K. Y. Ng, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.  
 <img src="/assets/Figures/GUI.png" width="840">
 
 * [S. J. W. Tang, V. Kalavally, K. Y. Ng, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)  
@@ -91,5 +91,3 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="450">
 
 * [K. Y. Ng, “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers,” *PhD Thesis, Faculty of Engineering, Monash University*, 2009.](https://figshare.com/articles/Advancements_in_robust_fault_reconstruction_using_sliding_mode_observers/4546033)  
-
-
