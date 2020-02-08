@@ -12,7 +12,11 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.  
 <img src="/assets/Figures/GUI.png" width="840">
 
-<p><img src="/assets/Figures/GUI.png" width="400" align="right"><span> **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020</span></p>
+<ul>
+<li><p><img src="/assets/Figures/GUI.png" width="500" align="right"><span> <strong>K. Y. Ng</strong>, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020</span></p> </li>
+  
+<li><p><img src="/assets/Figures/Access2018a.png" width="500" align="right"> <img src="/assets/Figures/Access2018b.png" width="300" align="right"><span> [S. J. W. Tang, V. Kalavally, <strong>K. Y. Ng</strong>, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)</span></p> </li>
+</ul>
 
 * [S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)  
 <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320">
