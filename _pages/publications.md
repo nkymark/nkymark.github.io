@@ -12,7 +12,6 @@ Here you’ll find the list of my publications accurate as of 8 Feb 2020. Select
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.  
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
-
 * [S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)  
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
@@ -50,7 +49,7 @@ Here you’ll find the list of my publications accurate as of 8 Feb 2020. Select
 * [**K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, “New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers,” *International Journal of Robust and Nonlinear Control*, 2007.](http://onlinelibrary.wiley.com/doi/10.1002/rnc.1170/abstract)  
 <!--- <img src="/assets/Figures/IJRNC2007a.png" width="520">&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="320">
 --->
-<br/>
+
 
 ### Conference Proceedings ###
 * [**K. Y. Ng**, E. Frisk, and M. Krysander, "Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System," in *7th International Conference on Control, Decision and Information Technologies (CoDIT'20) (Submitted)*, Prague, Czech Republic, 2020.](https://github.com/nkymark/nkymark.github.io/tree/master/assets/Docs/CoDIT.pdf)
@@ -73,7 +72,7 @@ Here you’ll find the list of my publications accurate as of 8 Feb 2020. Select
 * [**K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, “Disturbance decoupled fault reconstruction using sliding mode observers,” in *17th IFAC World Congress*, Seoul, South Korea, 2008.](http://www.sciencedirect.com/science/article/pii/S1474667016401047?via%3Dihub)  
 * [**K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, “New result in robust actuator fault reconstruction with application to an aircraft,” in *IEEE CCA*, Singapore, 2007.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4389331)  
 * [**K. Y. Ng**, C. P. Tan, and R. Akmeliawati, “Tolerance towards sensor failures: An application to a double inverted pendulum,” in *IEEE DELTA*, Kuala Lumpur, Malaysia, 2006.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1581253)  
-<br/>
+
 
 ### Others ###
 * **K. Y. Ng**, “Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015.  
