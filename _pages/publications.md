@@ -9,10 +9,16 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 ### Journal Articles ###
-|    |   |
-|----|-----------------------------------------------|
-|test||
-
+<TABLE>
+   <TR>
+      <TD>* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.</TD>
+      <TD><img src="/assets/Figures/GUI.png" width="500"></TD>
+   </TR>
+   <TR>
+      <TD>Data 3</TD>
+      <TD>Data 4</TD>
+   </TR>
+</TABLE>
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.  
 <img src="/assets/Figures/GUI.png" width="840">
 
