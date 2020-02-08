@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Scholarly Publications ##
-Here you’ll find the list of my publications accurate as of 6 Oct 2019. Selected published articles are clickable with hyperlinks to their respective DOI sites, where they can be downloaded.  
+Here you’ll find the list of my publications accurate as of 8 Feb 2020. Selected published articles are clickable with hyperlinks to their respective DOI sites, where they can be downloaded.  
 
 
 ### Journal Articles ###
