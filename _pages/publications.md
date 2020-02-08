@@ -9,12 +9,6 @@ Here you’ll find the list of my publications accurate as of 6 Oct 2019. Select
 
 
 ### Journal Articles ###
-| | |
-|----|----|
-|* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.|<img src="/assets/Figures/GUI.png" width="5000"> |
-|* [S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)| <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320">|
-
-
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.  
 <img src="/assets/Figures/GUI.png" width="840">
 
