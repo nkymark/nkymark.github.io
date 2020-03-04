@@ -7,7 +7,7 @@ title: Vacancies
 
 ## There are no vacancies available at the moment. ##
 
-## All exisitng funded PhD openings are currently filled up but self-funded students are welcome to enquire and see contact for discussions. ##
+## All exisitng funded PhD openings are currently filled up but self-funded students are welcome to enquire and seek contact for discussions. ##
 
 <!--
 ## Mechatronics Technician (Full Time) ##
