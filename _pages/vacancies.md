@@ -4,9 +4,12 @@ layout: single
 title: Vacancies
 ---
 
-<!--
+
 ## There are no vacancies available at the moment. ##
 
+## All exisitng funded PhD openings are currently filled up but self-funded students are welcome to enquire and see contact for discussions. ##
+
+<!--
 ## Mechatronics Technician (Full Time) ##
 
 The School of Engineering at the Ulster University, UK is hiring a Technician in Mechatronics Engineering. The position will provide technical support for teaching, research and other activities of the School. 
@@ -14,7 +17,7 @@ The School of Engineering at the Ulster University, UK is hiring a Technician in
 Deadline: 24th Nov 2019
 
 More information can be obtained via this [link](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg0MzM2MiZ2dF90ZW1wbGF0ZT0xMTI2Jm93bmVyPTUwNDM3ODEmb3duZXJ0eXBlPWZhaXImYnJhbmRfaWQ9MCZwb3N0aW5nX2NvZGU9MzQ3).  
--->
+
 
 ## Funded PhD Opportunity ##
 
@@ -33,5 +36,5 @@ This PhD project will focus on the following main objectives:
 Deadline: 7th February 2020
 
 For more information or to apply, click [here](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/511634).
-
+-->
 
