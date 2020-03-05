@@ -4,15 +4,14 @@ layout: single
 title: Publications
 ---
 
+<!---
 ## Scholarly Publications ##
-Here you’ll find the list of my publications accurate as of 8 Feb 2020. Selected published articles are clickable with hyperlinks to their respective DOI sites, where they can be downloaded.  
-
-
+--->
 ### Journal Articles ###
-* [**K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020.](https://arxiv.org/abs/2002.03201)    
+* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020. ([Preprint](https://arxiv.org/abs/2002.03201))    
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
-* [S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018.](https://ieeexplore.ieee.org/abstract/document/8473685)  
+* S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018. ([Link](https://ieeexplore.ieee.org/abstract/document/8473685))  
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
 * [D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander. “Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation,” *Control Engineering Practice*, 2018.](https://www.sciencedirect.com/science/article/pii/S0967066118304404?via%3Dihub)  
