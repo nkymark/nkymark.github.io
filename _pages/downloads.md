@@ -103,4 +103,4 @@ The simulation testbed can be downloaded [here](https://github.com/nkymark/TCSIS
 
 
 ## Acknowledgement ##
-We would like to thank former engineering undergraduate from Monash University, Malaysia; Chun Yik Ang, Marcus Jun Yi Lim, and Ricky Sutopo, and William McMillan from Ulster University for participating in the alpha-testing of the simulation testbed on various operating systems and providing feedback to help improve this model.
+We would like to thank former engineering undergraduates from Monash University Malaysia; Chun Yik Ang, Marcus Jun Yi Lim, and Ricky Sutopo, and William McMillan from Ulster University for participating in the alpha- and beta-testing of the simulation testbed on various operating systems and providing feedback to help improve this model.
