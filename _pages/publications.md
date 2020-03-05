@@ -17,7 +17,7 @@ title: Publications
 * D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander. “Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation,” *Control Engineering Practice*, 2018. ([Link](https://www.sciencedirect.com/science/article/pii/S0967066118304404?via%3Dihub))  
 <!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
 --->
-* L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, “Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review,” *Journal of Chemical Technology and Biotechnology*, 2018.([Link](http://onlinelibrary.wiley.com/doi/10.1002/jctb.5490/full))  
+* L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, “Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review,” *Journal of Chemical Technology and Biotechnology*, 2018. ([Link](http://onlinelibrary.wiley.com/doi/10.1002/jctb.5490/full))  
 * J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, “A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems,” *IEEE Transactions on Automatic Control*, 2017. ([Link](http://ieeexplore.ieee.org/abstract/document/7847334/))  
 <!--- <img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520"> 
 --->
