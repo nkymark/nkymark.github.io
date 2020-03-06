@@ -7,6 +7,10 @@ title: Publications
 <!---
 ## Scholarly Publications ##
 --->
+### Preprints ###
+* **K. Y. Ng**, E. Frisk, and M. Krysander, "Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System". ([Link](https://arxiv.org/abs/2002.03207))  
+
+
 ### Journal Articles ###
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020. ([Preprint](https://arxiv.org/abs/2002.03201))    
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
@@ -51,7 +55,6 @@ title: Publications
 
 
 ### Conference Proceedings ###
-* **K. Y. Ng**, E. Frisk, and M. Krysander, "Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System," in *7th International Conference on Control, Decision and Information Technologies (CoDIT'20) (Submitted)*, Prague, Czech Republic, 2020. ([Preprint](https://arxiv.org/abs/2002.03207))  
 * P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, "Early prediction of sepsis considering Early Warning Scoring systems," in *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. ([Link](https://doi.org/10.22489/cinc.2019.051))  
 * N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona, "Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques," in *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. ([Link](https://doi.org/10.22489/cinc.2019.313))  
 * S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen, “Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system,” in *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016. ([Link](http://ieeexplore.ieee.org/abstract/document/7810062/))  
