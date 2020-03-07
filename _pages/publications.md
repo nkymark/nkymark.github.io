@@ -8,11 +8,11 @@ title: Publications
 ## Scholarly Publications ##
 --->
 ### Preprints ###
-* **K. Y. Ng**, E. Frisk, and M. Krysander, "Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System". ([Link](https://arxiv.org/abs/2002.03207))  
+* **K. Y. Ng**, E. Frisk, and M. Krysander, Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System. ([arXiv:2002.03207](https://arxiv.org/abs/2002.03207))  
 
 
 ### Journal Articles ###
-* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson. “A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies,” *IEEE Control Systems (In Press)*, 2020. ([Preprint](https://arxiv.org/abs/2002.03201))    
+* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020) A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies, *IEEE Control Systems (In Press)*. Preprint: [arXiv:2002.03201](https://arxiv.org/abs/2002.03201)  
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
 * S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018. ([Link](https://ieeexplore.ieee.org/abstract/document/8473685))  
@@ -79,7 +79,7 @@ title: Publications
 
 
 ### Others ###
-* **K. Y. Ng**, “Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015.  
+* **K. Y. Ng** (2015) Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden.  
 <!---&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="450">
 --->
 * **K. Y. Ng** (2009) [Advancements In Robust Fault Reconstruction Using Sliding Mode Observers](https://doi.org/10.4225/03/587c001b22509), *PhD Thesis, Faculty of Engineering, Monash University*, DOI:10.4225/03/587c001b22509. 
