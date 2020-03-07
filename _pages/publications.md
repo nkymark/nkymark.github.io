@@ -12,20 +12,20 @@ title: Publications
 
 
 ### Journal Articles ###
-* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020) A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies, *IEEE Control Systems (In Press)*. Preprint: [arXiv:2002.03201](https://arxiv.org/abs/2002.03201)  
+* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020) A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies, *IEEE Control Systems (In Press)*, DOI:10.1109/MCS.2019.2961793. Preprint: [arXiv:2002.03201](https://arxiv.org/abs/2002.03201)  
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
-* S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen. "Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device," *IEEE Access*, 2018. ([Link](https://ieeexplore.ieee.org/abstract/document/8473685))  
+* S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen (2018) [Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device](https://doi.org/10.1109/ACCESS.2018.2872320), *IEEE Access*, DOI:10.1109/ACCESS.2018.2872320.  
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
-* D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander. “Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation,” *Control Engineering Practice*, 2018. ([Link](https://www.sciencedirect.com/science/article/pii/S0967066118304404?via%3Dihub))  
+* D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2018) [Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation](https://doi.org/10.1016/j.conengprac.2018.08.013), *Control Engineering Practice*, DOI:10.1016/j.conengprac.2018.08.013.  
 <!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
 --->
-* L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, “Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review,” *Journal of Chemical Technology and Biotechnology*, 2018. ([Link](http://onlinelibrary.wiley.com/doi/10.1002/jctb.5490/full))  
-* J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, “A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems,” *IEEE Transactions on Automatic Control*, 2017. ([Link](http://ieeexplore.ieee.org/abstract/document/7847334/))  
+* L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh (2018) [Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review](https://doi.org/10.1002/jctb.5490), *Journal of Chemical Technology and Biotechnology*, DOI:10.1002/jctb.5490.  
+* J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng** (2017) [A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems](https://doi.org/10.1109/TAC.2017.2665699), *IEEE Transactions on Automatic Control*, DOI:10.1109/TAC.2017.2665699.  
 <!--- <img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520"> 
 --->
-* S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen, “Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system,” *Energy and Buildings*, 2017. ([Link](http://dx.doi.org/10.1016/j.enbuild.2016.12.069))  
+* S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen (2017) [Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system](http://dx.doi.org/10.1016/j.enbuild.2016.12.069), *Energy and Buildings*, DOI10.1016/j.enbuild.2016.12.069:.  
 <!--- <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
 --->
 * J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng**, “A common functional observer scheme for three systems with unknown inputs,” *Journal of The Franklin Institute*, 2016. ([Link](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020))  
