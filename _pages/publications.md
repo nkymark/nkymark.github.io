@@ -82,4 +82,4 @@ title: Publications
 * **K. Y. Ng**, “Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine,” *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015.  
 <!---&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="450">
 --->
-* **K. Y. Ng**, “Advancements In Robust Fault Reconstruction Using Sliding Mode Observers,” *PhD Thesis, Faculty of Engineering, Monash University*, 2009. ([Link](https://figshare.com/articles/Advancements_in_robust_fault_reconstruction_using_sliding_mode_observers/4546033))  
+* **K. Y. Ng** (2009) [Advancements In Robust Fault Reconstruction Using Sliding Mode Observers](doi.org/10.4225/03/587c001b22509), *PhD Thesis, Faculty of Engineering, Monash University*, DOI:10.4225/03/587c001b22509. 
