@@ -8,17 +8,28 @@ title: Publications
 ## Scholarly Publications ##
 --->
 ### Preprints ###
-* **K. Y. Ng**, E. Frisk, and M. Krysander, Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System. ([arXiv:2002.03207](https://arxiv.org/abs/2002.03207))  
+* **K. Y. Ng**, E. Frisk, and M. Krysander, 
+Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System. 
+([arXiv:2002.03207](https://arxiv.org/abs/2002.03207))  
 
 
 ### Journal Articles ###
-* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020) A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies, *IEEE Control Systems (In Press)*, DOI:10.1109/MCS.2019.2961793. Preprint: [arXiv:2002.03201](https://arxiv.org/abs/2002.03201)  
+* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020) 
+A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies, 
+*IEEE Control Systems (In Press)*, 
+DOI:10.1109/MCS.2019.2961793. Preprint: [arXiv:2002.03201](https://arxiv.org/abs/2002.03201)  
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
-* S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen (2018) [Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device](https://doi.org/10.1109/ACCESS.2018.2872320), *IEEE Access*, DOI:10.1109/ACCESS.2018.2872320.  
+* S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen (2018) 
+[Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device](https://doi.org/10.1109/ACCESS.2018.2872320), 
+*IEEE Access*, vol. 6, pp. 54751–54759, 
+DOI:10.1109/ACCESS.2018.2872320.  
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
-* D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2018) [Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation](https://doi.org/10.1016/j.conengprac.2018.08.013), *Control Engineering Practice*, DOI:10.1016/j.conengprac.2018.08.013.  
+* D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2018) 
+[Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation](https://doi.org/10.1016/j.conengprac.2018.08.013), 
+*Control Engineering Practice*, vol. 80, pp. 146–156, 
+DOI:10.1016/j.conengprac.2018.08.013.  
 <!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
 --->
 * L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh (2018) [Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review](https://doi.org/10.1002/jctb.5490), *Journal of Chemical Technology and Biotechnology*, DOI:10.1002/jctb.5490.  
