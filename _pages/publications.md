@@ -91,7 +91,7 @@ DOI:10.1007/s12555-010-0303-8
 <!--- <img src="/assets/Figures/IJCAS2010a.png" width="520">&emsp;<img src="/assets/Figures/IJCAS2010b.png" width="320">
 --->
 * **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang (2007), 
-[New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers(https://doi.org/10.1002/rnc.1170), 
+[New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers](https://doi.org/10.1002/rnc.1170), 
 *International Journal of Robust and Nonlinear Control*, vol. 17, no. 14, pp. 1294–1319. 
 DOI:10.1002/rnc.1170  
 <!--- <img src="/assets/Figures/IJRNC2007a.png" width="520">&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="320">
@@ -99,8 +99,16 @@ DOI:10.1002/rnc.1170
 
 
 ### Conference Proceedings ###
-* P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, "Early prediction of sepsis considering Early Warning Scoring systems," in *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. ([Link](https://doi.org/10.22489/cinc.2019.051))  
-* N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona, "Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques," in *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. ([Link](https://doi.org/10.22489/cinc.2019.313))  
+* P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin (2019), 
+[Early prediction of sepsis considering Early Warning Scoring systems](https://doi.org/10.22489/cinc.2019.051), 
+*International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore. 
+DOI:10.22489/cinc.2019.051
+
+* N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona (2019), 
+[Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques](https://doi.org/10.22489/cinc.2019.313), 
+*International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore. 
+DOI:10.22489/cinc.2019.313
+
 * S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen, “Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system,” in *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016. ([Link](http://ieeexplore.ieee.org/abstract/document/7810062/))  
 * D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, “A combined diagnosis system design using model-based and data-driven methods,” in *IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, 2016. ([Link](http://ieeexplore.ieee.org/abstract/document/7739747/))  
 <!--- <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
