@@ -15,8 +15,7 @@ Design and Selection of Additional Residuals To Enhance Fault Isolation of A Tur
 
 ### Journal Articles ###
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020), 
-[A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies]
-(https://ieeexplore.ieee.org/document/9036118), 
+[A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83. 
 DOI:10.1109/MCS.2019.2961793.
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
