@@ -22,6 +22,8 @@ I am also a co-investigator in [SAFEWATER](https://www.safewater-research.com), 
 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
 
+I am the Moderator for the IEEE TechRxiv and the Associate Editor of IEEE Access. 
+
 
 <!-- 
 ## Education ##
