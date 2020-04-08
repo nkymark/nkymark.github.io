@@ -11,6 +11,7 @@ title: Publications
 * **K. Y. Ng**, E. Frisk, and M. Krysander, 
 Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System. 
 ([arXiv:2002.03207](https://arxiv.org/abs/2002.03207))  
+* **K. Y. Ng** and M. M. Gui, COVID-19: Development of A Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility. ([arXiv:2004.01974](https://arxiv.org/abs/2004.01974))
 
 
 ### Journal Articles ###
