@@ -24,6 +24,7 @@ If you use this simulation package in your research, please cite the following p
 
 ## Modelling the Dynamics of COVID-19 ##
 The model is a modified SEIRS model with consideration for ageing population in the population as well as time delay for the control action and potential resusceptibility due to temporal immunity. The model is defined using the equations below:
+
 <img src="/assets/Figures/COVID_model.png" width="450">
 
 
