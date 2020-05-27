@@ -1,5 +1,5 @@
 ---
-permalink: /downloads/
+permalink: /TCSI/
 layout: single
 title: TCSI Simulation Testbed
 ---
