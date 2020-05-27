@@ -4,9 +4,8 @@ layout: single
 title: Downloads
 ---
 
-[here](https://nkymark.github.io/TCSI)
 
-# TCSI Simulation Testbed #
+[# TCSI Simulation Testbed #](https://nkymark.github.io/TCSI)
 
 ## Table of Contents ##
   1. [Introduction](#introduction)
