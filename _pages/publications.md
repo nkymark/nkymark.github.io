@@ -6,16 +6,17 @@ title: Publications
 
 <!---
 ## Scholarly Publications ##
---->
+
 ### Preprints ###
-* **K. Y. Ng** and M. M. Gui, COVID-19: Development of A Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility. ([arXiv:2004.01974](https://arxiv.org/abs/2004.01974))
+--->
 
 
 ### Journal Articles ###
+* **K. Y. Ng** and M. M. Gui (2020), COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility, *Physica D: Nonlinear Phenomena (In press)*. Preprint: ([arXiv:2004.01974](https://arxiv.org/abs/2004.01974))  
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020), 
 [A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83. 
-DOI:10.1109/MCS.2019.2961793.
+DOI:10.1109/MCS.2019.2961793  
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
 * S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen (2018), 
