@@ -9,5 +9,5 @@ title: Downloads
 <img src="/assets/Figures/Download_TCSI.png" width="600">
 
 ## [2) SEIRS-based COVID-19 Simulation Package](https://github.com/nkymark/COVIDSim) ##
-<img src="/assets/Figures/Download_COVID.png" width="700">
+<img src="/assets/Figures/Download_COVID.png" width="800">
 
