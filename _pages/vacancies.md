@@ -4,10 +4,35 @@ layout: single
 title: Vacancies
 ---
 
+<!--
+### There are no vacancies available at the moment. ###
+-->
 
-## There are no vacancies available at the moment. ##
+### 1) All existing funded PhD openings are currently filled up but self-funded students are welcome to enquire and seek contact for discussions. 
 
-## All exisitng funded PhD openings are currently filled up but self-funded students are welcome to enquire and seek contact for discussions. ##
+### 2) There is currently a call for the [Marie Sklodowska-Curie Actions (MSCA) Global Fellowships (GF): Hosting a European Postdoc at a university in ASEAN](https://cdn1.euraxess.org/sites/default/files/briefing_on_msca_gf_2020_open.pdf?fbclid=IwAR363domrqO4RotLFlfWmNOYU4ks3ukRkvVJqld8kTu3E9Px_343XzBY10I). 
+
+Here are some brief details about the fellowship: 
+
+The MSCA Global Fellowships support the international career of researchers by giving them the opportunity to conduct a research project in a host institution located in a Third Country.  Third Countries are all those countries that do not belong to the European Union (so-called EU Member States) and that are not associated with the European Research Area (so-called Associated Countries). ALL countries in ASEAN are eligible under this scheme as Third Countries.  
+
+The Fellow will spend between 12 and 24 months conducting postdoctoral research at the Third Country institution. This is followed by a mandatory return phase of 12 months to be spend at a host institution in an EU Member State or Associated Country.
+
+During the whole duration of the Fellowship the researcher is employed by the European host institution and is seconded to the Third Country for the outgoing phase. The entire duration of the Fellowship is funded by the EU.
+
+**<ins>Information in brief</ins>**  
+**Timeline:** The Call for Application will open on **8 April 2020 with a deadline of 9 September 2020**.  
+**Who is eligible:** The applicant must have a doctoral degree or at least 4 years of full-time research experience by the time of the call deadline. This action is open to applicants from a European Union Member State or an Associated Country.
+GF are also open for nationals of third countries if they are long-term residents in Europe, i.e. a period of >= 5 consecutive years spent in an EU Member State or Associated Country prior to the deadline.  
+**How long is the fellowship:** 12–24 months in Third Country (+1 year mandatory return phase in Europe).  
+**What can be funded:** All research areas can be funded. MSCA Fellows come from a wide variety of disciplines, i.e. physics, linguistics, health-sciences, mathematical modelling, etc.  
+**What the funding covers:** The grant provides an allowance to cover living, travel, and family costs. In addition, the EU contributes to the training, networking and research costs of the fellow, as well as to the management and indirect costs of the project. The grant is awarded to the host organisation, usually a university, research centre or a company in Europe.  
+**Application and evaluation:** Applicants submit a research proposal, including their CV. **The proposal is written jointly with the applicant’s chosen host organisations.**
+
+Interested applicants are encouraged to contact Dr Mark Ng at mark[dot]ng[at]ulster[dot]ac[dot]uk. 
+
+More information about the MSCA GF can be found [here](https://cdn1.euraxess.org/sites/default/files/briefing_on_msca_gf_2020_open.pdf?fbclid=IwAR363domrqO4RotLFlfWmNOYU4ks3ukRkvVJqld8kTu3E9Px_343XzBY10I) and [here](https://euraxess.ec.europa.eu/worldwide/asean/msca-if-call-2020-applications-are-open-europes-most-prestigious-postdoctoral).
+
 
 <!--
 ## Mechatronics Technician (Full Time) ##
