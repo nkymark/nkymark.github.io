@@ -7,6 +7,7 @@ The Matlab/Simulink-based TCSI Simulation Testbed is now available for download.
 
 Full details on this research will be published in the April, 2020 issue of the *IEEE Control Systems*.
 
+![](https://www.markusng.com/assets/Figures/Download_TCSI.png)
 
 
 Cheers.
