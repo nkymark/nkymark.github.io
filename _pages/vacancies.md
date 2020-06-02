@@ -31,6 +31,8 @@ GF are also open for nationals of third countries if they are long-term resident
 
 Interested applicants are encouraged to contact Dr Mark Ng at mark[dot]ng[at]ulster[dot]ac[dot]uk. 
 
+**A proposed host offer can be found [here](https://euraxess.ec.europa.eu/jobs/hosting/marie-skłodowska-curie-individual-fellowships-10).**  
+
 More information about the MSCA GF can be found [here](https://cdn1.euraxess.org/sites/default/files/briefing_on_msca_gf_2020_open.pdf?fbclid=IwAR363domrqO4RotLFlfWmNOYU4ks3ukRkvVJqld8kTu3E9Px_343XzBY10I) and [here](https://euraxess.ec.europa.eu/worldwide/asean/msca-if-call-2020-applications-are-open-europes-most-prestigious-postdoctoral).
 
 
