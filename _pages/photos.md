@@ -6,6 +6,9 @@ title: Photos
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
+![](/assets/Photos/Summer2020a.jpg)  
+Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic (2020).
+
 ![](/assets/Photos/SunsetBelfast.jpg)  
 Spectacular winter sunset over Belfast city (2020).
 
