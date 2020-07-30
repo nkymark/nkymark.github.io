@@ -18,7 +18,9 @@ I was instrumental in developing a Simulation Environment on the Matlab/Simulink
 * In-house designed algorithm for alarm generations, residuals monitoring, as well as Fault Isolation (FI)
 * Simulation and FI of system with intermittent residuals
 
-I am also a co-investigator in [SAFEWATER](https://www.safewater-research.com), a £5 million project funded by GCRF.
+I am also a co-investigator in [SAFEWATER](https://www.safewater-research.com), a £5 million project funded by GCRF, where I lead the development and the optimisation of embedded algorithms in the SAFEWATER project. These embedded algorithms will be used for controlling the low-cost water disinfection technologies that are being developed during the SAFEWATER project.
+
+During the COVID-19 pandemic, I lead the [Modelling and Forecast Task Force](https://www.ulster.ac.uk/coronavirus/research/innovation/modelling-the-transmission-dynamics-of-covid-19) at Ulster University where we work very closely with the Southern Health and Social Care Trust to provide analysis to the Governments Specialist Modelling Response Expert Group in Northern Ireland. The main purpose of the project is to validate and inform the Modelling Response Team’s work as well as help governing bodies in Northern Ireland to better plan for intervention measures and ultimately flatten the curve.
 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
 
