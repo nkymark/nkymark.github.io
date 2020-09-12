@@ -3,7 +3,7 @@ title:  "Modelling the Transmission Dynamics of COVID-19 for NI"
 date:   2020-06-20 09:00:00 +0000
 ---
 
-Mark Ng and Pardis Biglarbeigi are part of the COVID-19 Modelling Task Force at Ulster University, where the School of Engineering and Computing are collaborating on a project to develop mathematical models that could better understand the transmission dynamics of COVID-19.
+Mark Ng and Pardis Biglarbeigi are part of the COVID-19 Modelling Task Force at Ulster University, where the Schools of Engineering and Computing are collaborating on a project to develop mathematical models that could better understand the transmission dynamics of COVID-19.
 
 The team are working closely with the Southern Health and Social Care Trust and a member from the Government's Specialist Modelling Response Expert Group in Northern Ireland.
 
