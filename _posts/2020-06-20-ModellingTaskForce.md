@@ -12,6 +12,7 @@ The main purpose of the project is to validate and inform the Modelling Response
 More details of this project can be found [here](https://www.ulster.ac.uk/coronavirus/research/innovation/modelling-the-transmission-dynamics-of-covid-19).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DGoU2zCu63o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
 
 
-Cheers.
+Take care everyone.
