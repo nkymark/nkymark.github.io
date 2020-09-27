@@ -16,7 +16,6 @@ title: Vacancies
 ### Deadline to apply: **15th October 2020**.  URL: [Click here.](https://www.ulster.ac.uk/doctoralcollege/find-a-phd?query=&subject=Engineering&type=funded&studytype=phd&fbclid=IwAR1Q7521sFQKPBH2hlDdT645eWFyyUhbUaPjA-Cc0qH1i65aaf0nwsfxaM4)  
 <br/>
 <br/>
-<br/>
 Here are some brief details about the projects:    
 
 **1) Industrialised manufacturing processes for 3D printable biomedical sensor devices**
