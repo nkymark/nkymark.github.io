@@ -15,7 +15,7 @@ title: Vacancies
 
 ### Deadline to apply: **15th October 2020**. 
 
-### Here are some brief details about the projects:    
+Here are some brief details about the projects:    
 
 **1) Industrialised manufacturing processes for 3D printable biomedical sensor devices**
 
