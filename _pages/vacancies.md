@@ -13,8 +13,8 @@ title: Vacancies
 ## Funded PhD Opportunity ##
 ### There are 2 very exciting InvestNI funded PhD projects on control, automation, 3Dprinting, and manufacturing based at the [NIBEC R&D Centre](https://www.ulster.ac.uk/nibec) here at [Ulster University](https://www.ulster.ac.uk).
 
-### Deadline to apply: **15th October 2020**.  URL: [Click here.](https://www.ulster.ac.uk/doctoralcollege/find-a-phd?query=&subject=Engineering&type=funded&studytype=phd&fbclid=IwAR1Q7521sFQKPBH2hlDdT645eWFyyUhbUaPjA-Cc0qH1i65aaf0nwsfxaM4)
-
+### Deadline to apply: **15th October 2020**.  URL: [Click here.](https://www.ulster.ac.uk/doctoralcollege/find-a-phd?query=&subject=Engineering&type=funded&studytype=phd&fbclid=IwAR1Q7521sFQKPBH2hlDdT645eWFyyUhbUaPjA-Cc0qH1i65aaf0nwsfxaM4)  
+  
 Here are some brief details about the projects:    
 
 **1) Industrialised manufacturing processes for 3D printable biomedical sensor devices**
