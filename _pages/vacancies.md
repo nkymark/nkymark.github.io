@@ -6,34 +6,35 @@ title: Vacancies
 
 <!--
 ### There are no vacancies available at the moment. ###
--->
 
 ### 1) All existing funded PhD openings are currently filled up but self-funded students are welcome to enquire and seek contact for discussions. 
+-->
 
-### 2) There is currently a call for the [Marie Sklodowska-Curie Actions (MSCA) Global Fellowships (GF): Hosting a European Postdoc at a university in ASEAN](https://cdn1.euraxess.org/sites/default/files/briefing_on_msca_gf_2020_open.pdf?fbclid=IwAR363domrqO4RotLFlfWmNOYU4ks3ukRkvVJqld8kTu3E9Px_343XzBY10I). 
 
-Here are some brief details about the fellowship: 
+### 1) There are 2 very exciting InvestNI funded PhD projects on control, automation, 3Dprinting, and manufacturing based at the [NIBEC R&D Centre](https://www.ulster.ac.uk/nibec) here at [Ulster University](https://www.ulster.ac.uk).
+Deadline to apply: **15th October 2020**.
 
-The MSCA Global Fellowships support the international career of researchers by giving them the opportunity to conduct a research project in a host institution located in a Third Country.  Third Countries are all those countries that do not belong to the European Union (so-called EU Member States) and that are not associated with the European Research Area (so-called Associated Countries). ALL countries in ASEAN are eligible under this scheme as Third Countries.  
+Here are some brief details about the projects:
 
-The Fellow will spend between 12 and 24 months conducting postdoctoral research at the Third Country institution. This is followed by a mandatory return phase of 12 months to be spend at a host institution in an EU Member State or Associated Country.
+1) Industrialised manufacturing processes for 3D printable biomedical sensor devices
+Problem Statement  
+The need for reliable and efficient healthcare is ever-growing in our societies. Global pandemics such as COVID-19, chronic diseases such as diabetes, and cancer treatments require efficient testing capabilities for large number of patients. Keeping healthcare cost under control whilst providing excellent services is one of the major challenges faced by the modern world. This is especially so for many developed countries that are now facing a surge in ageing population and reduced birth rates. Recent advances in material sciences and artificial intelligence have shown the potentials for a new generation of reliable, accurate, and cost-efficient biomedical sensing devices that can diagnose and cure various types of diseases.
 
-During the whole duration of the Fellowship the researcher is employed by the European host institution and is seconded to the Third Country for the outgoing phase. The entire duration of the Fellowship is funded by the EU.
+Apart from the technological advancements in biomedical engineering to improve test quality, the efficiency in mass production of such sensors is critical as well. Traditional manufacturing methods of the sensing platform have several drawbacks such as complicated fabrication steps, high fabrication costs and time consumptions, as well as low manufacturing scalability and flexibility. Chronic diseases and viruses affecting millions of people worldwide have driven the need for the availability of easy-to-use and cost-efficient testing devices for immediate diagnosis and treatment.
 
-**<ins>Information in brief</ins>**  
-**Timeline:** The Call for Application will open on **8 April 2020 with a deadline of 9 September 2020**.  
-**Who is eligible:** The applicant must have a doctoral degree or at least 4 years of full-time research experience by the time of the call deadline. This action is open to applicants from a European Union Member State or an Associated Country.
-GF are also open for nationals of third countries if they are long-term residents in Europe, i.e. a period of >= 5 consecutive years spent in an EU Member State or Associated Country prior to the deadline.  
-**How long is the fellowship:** 12–24 months in Third Country (+1 year mandatory return phase in Europe).  
-**What can be funded:** All research areas can be funded. MSCA Fellows come from a wide variety of disciplines, i.e. physics, linguistics, health-sciences, mathematical modelling, etc.  
-**What the funding covers:** The grant provides an allowance to cover living, travel, and family costs. In addition, the EU contributes to the training, networking and research costs of the fellow, as well as to the management and indirect costs of the project. The grant is awarded to the host organisation, usually a university, research centre or a company in Europe.  
-**Application and evaluation:** Applicants submit a research proposal, including their CV. **The proposal is written jointly with the applicant’s chosen host organisations.**
+Proposed Innovative Solution  
+This project focuses on the industrialisation of manufacturing processes for biomedical sensing devices. In the first phase of the project, a detailed analysis of current manufacturing processes for biomedical sensor technologies will be conducted. This also requires an analysis of the material properties and related manufacturing technologies for commercial production of new sensor devices. Additionally, a modelling of pivotal production steps and their potential for automation have to be investigated. In the second phase, new manufacturing processes will be developed using results from other prominent industrial branches such as 3D printing and their potential for mass production as well as the optimisation of existing processes with a special focus on cost efficiency. Tools like process and multi-physics simulations to model, analyse, and customise processes will be used to develop concepts for the required industrialised facilities.
 
-Interested applicants are encouraged to contact Dr Mark Ng at mark[dot]ng[at]ulster[dot]ac[dot]uk. 
+A combination of model-based control techniques and data-driven methods can be used to complement this study. Patient-specific customisation of test devices will be critical in the future, hence methods for complexity management of highly varying sensor devices with enhanced robustness will be studied. Finally, the potential for automation will be studied. Industrial automation should be used only if efficiency savings can be realised. This relates to material and process logistics using, e.g. automated guided vehicles, process integrated quality control measures to improve overall product quality as well as optimisation of individual production processes and technologies for increased productivity. As a result, the project should yield a concept for cost-efficient mass production of biomedical sensing devices — example of such concept includes but not limited to: how to efficiently set up production facilities for new biomedical sensor devices, such as those used to provide reliable and low-cost measurements of ECGs.
 
-**A proposed host offer can be found [here](https://euraxess.ec.europa.eu/jobs/hosting/marie-skłodowska-curie-individual-fellowships-10).**  
+2) Advancements in Control of Rapid Prototyping of Biosensing Devices Using Model-based and Data-driven Techniques
+Problem Statement Rapid prototyping (RP) is an ever-growing field of research, gaining track and interest towards the advancements in automation and manufacturing. Given that the process from design to product in conventional manufacturing practice can be time and cost intensive, modern RP techniques such as 3D printing allow for faster and customised manufacturing of parts in shorter times, hence providing designers with the freedom and flexibility to modify and improve on the design during the whole development process.
 
-More information about the MSCA GF can be found [here](https://cdn1.euraxess.org/sites/default/files/briefing_on_msca_gf_2020_open.pdf?fbclid=IwAR363domrqO4RotLFlfWmNOYU4ks3ukRkvVJqld8kTu3E9Px_343XzBY10I) and [here](https://euraxess.ec.europa.eu/worldwide/asean/msca-if-call-2020-applications-are-open-europes-most-prestigious-postdoctoral).
+One of the areas that has been benefiting much from the advancements in RP is the fabrication of biosensors for healthcare research and diagnostics. With the ability to provide a quick solution for a combination of bespoke biosensors and biomarkers catered to various requirements for prognostics and diagnostics, the use of RP has been proven critical in scaling diagnostics during times of crisis such as the COVID-19 pandemic. However, there also exist a few technological and research gaps in the current RP techniques, in particular 3D printing methods. For example, a majority of the 3D printers, be it commercial or custom-made, are operating based on an open-loop control architecture. As a result, the lack of an effective feedback control mechanism does not allow for precise motion control of the build plate and nozzle in the x-, y-, and z-axes. Given the wear-and-tear of parts due to the mechanical movements over time, the machines have to be constantly calibrated and serviced to ensure that the system is operating well. Furthermore, the lack of feedback control also affects the robustness of the system towards unwanted disturbances and noise in the electrical signals, which could affect the quality for advanced manufacturing and thus, compromising shape accuracy.
+
+Proposed Innovative Solution  
+The project will first explore the various “in-the-loop”, i.e. software-, model-, and hardware-in-the-loop (SIL, MIL, HIL) techniques for the design and development of the control architecture. Then, using model-based controller-observer design methods with a vision-based sensor, e.g. CCD etc., for feedback, precise motion control can be achieved for the build plate and nozzle in the x-, y-, and z-axes. Thirdly, a combination of model-based and data-driven technique will also be explored to enhance the robustness of the control algorithm such that the system can compensate for the disturbances and noise in the electrical signals for advanced manufacturing. This technique also allows for a fault diagnosis scheme to detect potential wear-and-tear in the hardware mechanism due to prolonged operation of the system and for fault-tolerant to be performed to compensate the degradation in the performance of the system.
+
 
 
 <!--
