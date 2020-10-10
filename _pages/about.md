@@ -22,10 +22,11 @@ I am also a co-investigator in [SAFEWATER](https://www.safewater-research.com), 
 
 During the COVID-19 pandemic, I lead the [Modelling and Forecast Task Force](https://www.ulster.ac.uk/coronavirus/research/innovation/modelling-the-transmission-dynamics-of-covid-19) at Ulster University where we work very closely with the Southern Health and Social Care Trust to provide analysis to the Governments Specialist Modelling Response Expert Group in Northern Ireland. The main purpose of the project is to validate and inform the Modelling Response Team’s work as well as help governing bodies in Northern Ireland to better plan for intervention measures and ultimately flatten the curve.
 
+I am a Senior Member of the IEEE and I am currently a Committee Member of the IEEE Control Systems Society (CSS), UK and Ireland Chapter. 
+
+I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, and the Editor for *PeerJ Computer Science*.
+
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
-
-I am the Moderator for the IEEE TechRxiv and the Associate Editor of IEEE Access. 
-
 
 <!-- 
 ## Education ##
@@ -95,6 +96,7 @@ I also developed the GUI-based Simulation Environment on Matlab and Simulink to 
 
 
 ## Honours and Awards ##
+* Learning and Teaching Award, Ulster University Students' Union, 2020
 * Fellow of Higher Education Academy, UK (FHEA), 2018
 * Erasmus+ Staff Mobility Program to Augsburg University of Applied Sciences, Germany, 2018
 * Monash University Malaysia PVC’s Award for Excellence in Research, 2012 
