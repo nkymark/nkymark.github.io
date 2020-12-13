@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# minimal_mistakes_skin    : "dark"  
 locale                   : "en"
 title                    : "markusng.com"
 title_separator          : "-"
@@ -85,7 +84,7 @@ collections:
 author:
   name             : "Mark Kok Yew Ng"
   avatar           : "/assets/images/MarkNg.jpg"
-  bio              : "Lecturer in Mechatronics Engineering and Control, Ulster University. Leader of the Control Engineering and Industrie 4.0 Laboratory"
+  bio              : "Lecturer in Mechatronics Engineering and Control, Ulster University."
   location         : "Belfast, UK"
   email            : mark.ng@ulster.ac.uk
 #  uri              : "https://pure.ulster.ac.uk/en/persons/mark-ng"
@@ -94,7 +93,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   twitter          : nkymark
 #  google_scholar   : UpjJMQMAAAAJ
-#  cv               : "https://www.dropbox.com/s/dsmk96acw19hn0l/Mark_CV.pdf?dl=0"
+#  cv               : "https://www.dropbox.com/s/t8vhbafn4s674g6/Mark_CV.pdf?dl=0"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # Reading Files
