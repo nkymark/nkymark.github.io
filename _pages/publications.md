@@ -15,6 +15,7 @@ title: Publications
 <img src="/assets/Figures/E&B.png" width="300"> 
 <img src="/assets/Figures/CEP.png" width="300"> 
 <img src="/assets/Figures/IEEETAC.png" width="300"> 
+<img src="/assets/Figures/Automatica.png" width="300"> 
 <img src="/assets/Figures/PhysicaD.png" width="300"> 
 
 ### Journal Articles ###
