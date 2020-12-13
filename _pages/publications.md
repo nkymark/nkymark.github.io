@@ -106,9 +106,9 @@ DOI:10.1002/rnc.1170
 
 ### Conference Proceedings ###
 * **K. Y. Ng**, E. Frisk, and M. Krysander (2020), 
-Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System.
-*2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020) (In press)*. Preprint:
-[arXiv:2002.03207](https://arxiv.org/abs/2002.03207)  
+[Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System](https://doi-org.queens.ezp1.qub.ac.uk/10.1109/CoDIT49905.2020.9263792).
+*2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic. 
+DOI:10.1109/CoDIT49905.2020.9263792
 * P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin (2019), 
 [Early prediction of sepsis considering Early Warning Scoring systems](https://doi.org/10.22489/cinc.2019.051), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore. 
