@@ -11,7 +11,7 @@ title: Vacancies
 
 
 * All existing funded PhD openings are currently filled up but enthusiastic and qualified self-funded students with BEng or MEng in Control/E&E/Mechatronics Engineering or equivalent qualifications are welcome to enquire and seek contact for discussions. 
-* We are also looking for postdoctoral researchers to our active and growing team. Candidates should have a Ph.D. in Control/E&E/Mechatronics Engineering or equivalent qualifications. Interested candidates are welcome to enquire and seek contact for discussions or information on open positions. 
+* We are also looking for postdoctoral researchers to join our active and growing team. Candidates should have a Ph.D. in Control/E&E/Mechatronics Engineering or equivalent qualifications. Interested candidates are welcome to enquire and seek contact for discussions or information on open positions. 
 
   Interested candidates are also encouraged to seek contact for hosting and support of research fellowship opportunities through the following funders:
   * [EPSRC Postdoctoral Fellowship](https://www.ukri.org/opportunity/epsrc-postdoctoral-fellowship/)
