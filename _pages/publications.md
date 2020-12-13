@@ -11,12 +11,12 @@ title: Publications
 --->
 
 ### Selected Key Publications ###
-<img src="/assets/Figures/IEEECSMCover.png" width="300"> 
-<img src="/assets/Figures/E&B.png" width="300"> 
-<img src="/assets/Figures/CEP.png" width="300"> 
-<img src="/assets/Figures/IEEETAC.png" width="300"> 
-<img src="/assets/Figures/Automatica.png" width="300"> 
-<img src="/assets/Figures/PhysicaD.png" width="300"> 
+[<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
+[<img src="/assets/Figures/E&B.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0378778816319971)
+[<img src="/assets/Figures/CEP.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0967066118304404)
+[<img src="/assets/Figures/IEEETAC.png" width="300">](https://ieeexplore.ieee.org/abstract/document/7847334/)
+[<img src="/assets/Figures/Automatica.png" width="300">](https://www.sciencedirect.com/science/article/pii/S000510981200043X)
+[<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Journal Articles ###
 * **K. Y. Ng** and M. M. Gui (2020), [COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), *Physica D: Nonlinear Phenomena*. DOI:10.1016/j.physd.2020.132599
