@@ -11,11 +11,11 @@ title: Publications
 --->
 
 ### Selected Key Publications ###
-<img src="/assets/Figures/IEEECSMCover.png" width="200"> 
-<img src="/assets/Figures/E&B.png" width="200"> 
-<img src="/assets/Figures/CEP.png" width="200"> 
-<img src="/assets/Figures/IEEETAC.png" width="200"> 
-<img src="/assets/Figures/PhysicaD.png" width="200"> 
+<img src="/assets/Figures/IEEECSMCover.png" width="300"> 
+<img src="/assets/Figures/E&B.png" width="300"> 
+<img src="/assets/Figures/CEP.png" width="300"> 
+<img src="/assets/Figures/IEEETAC.png" width="300"> 
+<img src="/assets/Figures/PhysicaD.png" width="300"> 
 
 ### Journal Articles ###
 * **K. Y. Ng** and M. M. Gui (2020), [COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), *Physica D: Nonlinear Phenomena*. DOI:10.1016/j.physd.2020.132599
