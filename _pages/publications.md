@@ -11,15 +11,15 @@ title: Publications
 --->
 
 ### Selected Key Publications ###
-<img src="/assets/Figures/IEEECSMCover.png" width="300"> 
-<img src="/assets/Figures/E&B.png" width="300"> 
-<img src="/assets/Figures/CEP.png" width="300"> 
-<img src="/assets/Figures/IEEETAC.png" width="300"> 
-<img src="/assets/Figures/Automatica.png" width="300"> 
-<img src="/assets/Figures/PhysicaD.png" width="300"> 
+[<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
+[<img src="/assets/Figures/E&B.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0378778816319971)
+[<img src="/assets/Figures/CEP.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0967066118304404)
+[<img src="/assets/Figures/IEEETAC.png" width="300">](https://ieeexplore.ieee.org/abstract/document/7847334/)
+[<img src="/assets/Figures/Automatica.png" width="300">](https://www.sciencedirect.com/science/article/pii/S000510981200043X)
+[<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Journal Articles ###
-* **K. Y. Ng** and M. M. Gui (2020), [COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), *Physica D: Nonlinear Phenomena*. DOI:10.1016/j.physd.2020.132599
+* **K. Y. Ng** and M. M. Gui (2020), [COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), *Physica D: Nonlinear Phenomena*. DOI:10.1016/j.physd.2020.132599  
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020), 
 [A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83. 
@@ -106,9 +106,9 @@ DOI:10.1002/rnc.1170
 
 ### Conference Proceedings ###
 * **K. Y. Ng**, E. Frisk, and M. Krysander (2020), 
-Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System.
-*2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020) (In press)*. Preprint:
-[arXiv:2002.03207](https://arxiv.org/abs/2002.03207)  
+[Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System](https://doi.org/10.1109/CoDIT49905.2020.9263792),
+*2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81. 
+DOI:10.1109/CoDIT49905.2020.9263792
 * P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin (2019), 
 [Early prediction of sepsis considering Early Warning Scoring systems](https://doi.org/10.22489/cinc.2019.051), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore. 
