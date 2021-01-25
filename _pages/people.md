@@ -9,7 +9,7 @@ title: People
   Lecturer in Mechatronics Engineering and Control <br />
   Leader of the Control Engineering and Industrie 4.0 Laboratory <br /><br /><br /><br /></span></p>  
 
-<p><img align="left" width="120" src="/assets/Figures/Pardis.png" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />
+<p><img align="left" width="120" src="/assets/Figures/Pardis.jpg" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />
   Lecturer in Engineering and Data Analytics Scientist <br />
   Bio: Pardis (<a href="mailto:p.biglarbeigi@ulster.ac.uk">p.biglarbeigi@ulster.ac.uk</a>) received the BSc and MSc in Civil Engineering and Environmental Engineering from Shahid Chamran University of Ahvaz, Iran and Politecnico di Milano, Italy in 2010 and 2014, respectively. Then she moved to UK to pursue the Ph.D. in water resource management and hydroinformatics, which she graduated from Ulster University in 2019. Her research interests are numerical modelling in engineering applications, statistical analysis and data processing, signals, wavelet analysis, image processing, machine learning, optimisation, and simulation processes. During the final six months of her Ph.D., she worked at the Nanotechnology and Integrated BioEngineering Centre (NIBEC) as a part time research associate, where she researched on signal processing. This changed her research focus from hydroinformatics and water resources modelling to a broader range of engineering modelling and data science.<br />
   </span></p>  
