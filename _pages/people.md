@@ -15,16 +15,19 @@ title: People
   </span></p>  
 
 <p><img align="left" width="120" src="/assets/Figures/Scot.jpg" hspace="20"><span><b>Mr Scot Davidson </b><br />
-  Ph.D. Researcher (Main supervision. Co-Supervisors: Prof. James McLaughlin (Ulster), Assoc. Prof. Boon Leong Lan (Monash Malaysia))<br />
+  Ph.D. Researcher <br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. James McLaughlin (Co, Ulster), Assoc. Prof. Boon Leong Lan (Co, Monash Malaysia)<br />
   Bio: Scot (<a href="mailto:davidson-s18@ulster.ac.uk">davidson-s18@ulster.ac.uk</a>) is currently pursuing his Ph.D. at the Nanotechnology and Integrated Bioengineering Centre (NIBEC), Ulster University, UK. He graduated with the MEng in Mechatronic Engineering from Ulster University in 2019. He also graduated with the MEng in Mechatronic Systems with German Masters from Hochschule Augsburg in 2018. His current research focuses on anomaly detection and classification of biomedical data for real-time diagnosis applications. His research interests are digital signal processing, high performance computing, and big data.<br />
   </span></p>  
 
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20"><span><b>Miss Niamh McCallan </b><br />
-  Ph.D. Researcher (Main supervision. Co-Supervisors: Prof. James McLaughlin (Ulster), Assoc. Prof. Boon Leong Lan (Monash Malaysia))<br />
+  Ph.D. Researcher <br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. James McLaughlin (Co, Ulster), Assoc. Prof. Boon Leong Lan (Co, Monash Malaysia)<br />
   Bio: Niamh (<a href="mailto:mccallan-n2@ulster.ac.uk">mccallan-n2@ulster.ac.uk</a>) is currently a Ph.D. researcher at the Nanotechnology and Integrated Bioengineering Centre (NIBEC), Ulster University, UK. She graduated with the BSc in Biomedical Engineering from Ulster University in 2018. Currently her research focuses on anomaly detection and classification of multidimensional biomedical data. Her research interests are data analytics, digital signal processing, and big data.
   </span></p>
   
   <p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20"><span><b>Mr Will Aston </b><br />
-  Ph.D. Researcher (Co-supervision. Main supervisor: Dr Ming Wei Chang (Ulster). Other supervisor: Prof. James McLaughlin (Ulster))<br />
+  Ph.D. Researcher  <br />
+  Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /> 
   Bio: Will (<a href="mailto:aston-w@ulster.ac.uk">aston-w@ulster.ac.uk</a>) is currently pursuing his Ph.D. at the Nanotechnology and Integrated Bioengineering Centre (NIBEC), Ulster University, UK. He graduated with the MEng in Mechatronic Engineering from Ulster University in 2020. He also graduated with the MEng in Mechatronic Systems with German Masters from Hochschule Augsburg in 2019. His current research focuses on 3D Printer control optimsation. His research interests are digital signal processing, control theory, and clean energy.
   </span></p>
