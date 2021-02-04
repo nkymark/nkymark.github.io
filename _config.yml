@@ -90,11 +90,11 @@ author:
 #  uri              : "https://pure.ulster.ac.uk/en/persons/mark-ng"
   github           :
   linkedin         : markusng
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+#  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   twitter          : nkymark
 #  google_scholar   : UpjJMQMAAAAJ
-#  cv               : "https://www.dropbox.com/s/t8vhbafn4s674g6/Mark_CV.pdf?dl=0"
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+#  cv               : "https://www.markusng.com/assets/Docs/Mark_CV.pdf"
+#  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # Reading Files
 include:
