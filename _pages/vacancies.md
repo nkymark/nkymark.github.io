@@ -29,7 +29,8 @@ One of the areas that has been benefiting much from the advancements in RP is th
 
 
 
-* We are also looking for postdoctoral researchers to join our active and growing team. Candidates should have a Ph.D. in Control/E&E/Mechatronics Engineering or equivalent qualifications. Interested candidates are welcome to enquire and seek contact for discussions or information on open positions. 
+## Other ##
+We are also looking for postdoctoral researchers to join our active and growing team. Candidates should have a Ph.D. in Control/E&E/Mechatronics Engineering or equivalent qualifications. Interested candidates are welcome to enquire and seek contact for discussions or information on open positions. 
 
   Interested candidates are also encouraged to seek contact for hosting and support of research fellowship opportunities through the following funders:
   * [EPSRC Postdoctoral Fellowship](https://www.ukri.org/opportunity/epsrc-postdoctoral-fellowship/)
