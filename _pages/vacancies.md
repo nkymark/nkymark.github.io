@@ -4,10 +4,8 @@ layout: single
 title: Vacancies
 ---
 
-<!--
-### There are no vacancies available at the moment. ###
--->
 
+### There are no vacancies available at the moment. ###
 
 
 * All existing funded PhD openings are currently filled up but enthusiastic and qualified self-funded students with BEng or MEng in Control/E&E/Mechatronics Engineering or equivalent qualifications are welcome to enquire and seek contact for discussions.
