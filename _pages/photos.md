@@ -24,7 +24,7 @@ The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021).
 Beautiful winter sunrise, Northern Ireland (2021).
 
 ![](/assets/Photos/Rainbow.jpg)  
-A very rare full-arch rainbow in winter, Northern Ireland (2021).
+A very rare almost double full-arch rainbow in winter, Northern Ireland (2021).
 
 ![](/assets/Photos/Summer2020a.jpg)  
 Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).
