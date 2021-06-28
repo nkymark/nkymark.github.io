@@ -8,11 +8,17 @@ I enjoy photography and here are some of the photos that I have taken during my 
 
 ![](/assets/Photos/Campus1.jpg) 
 ![](/assets/Photos/Campus2.jpg) 
-![](/assets/Photos/Campus3.jpg) 
-Taking a stroll around Jordanstown Campus during summer (2021).
+![](/assets/Photos/Campus3.jpg)  
+Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).
+
+![](/assets/Photos/Glenarm1.jpg)  
+![](/assets/Photos/Glenarm2.jpg)  
+![](/assets/Photos/Glenarm3.jpg)  
+![](/assets/Photos/Glenarm4.jpg)  
+The Glenarm Coastal Walk, Northern Ireland (2021).
 
 ![](/assets/Photos/Summer2020a.jpg)  
-Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic (2020).
+Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).
 
 ![](/assets/Photos/SunsetBelfast.jpg)  
 Spectacular winter sunset over Belfast city (2020).
