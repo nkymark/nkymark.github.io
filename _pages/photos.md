@@ -11,13 +11,13 @@ I enjoy photography and here are some of the photos that I have taken during my 
 ![](/assets/Photos/Campus3.jpg)  
 Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).
 
-![](/assets/Photos/Glenarm1.jpg)  
-![](/assets/Photos/Glenarm2.jpg)  
-![](/assets/Photos/Glenarm3.jpg)  
-![](/assets/Photos/Glenarm4.jpg)  
+![](/assets/Photos/Glenarma.jpg)  
+![](/assets/Photos/Glenarmb.jpg)  
+![](/assets/Photos/Glenarmc.jpg)  
+![](/assets/Photos/Glenarmd.jpg)  
 The Glenarm Coastal Walk, Northern Ireland (2021).
 
-![](/assets/Photos/Hedges.jpg)  
+![](/assets/Photos/Hedges1.jpg)  
 The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021).
 
 ![](/assets/Photos/Summer2020a.jpg)  
