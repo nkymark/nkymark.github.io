@@ -18,15 +18,15 @@ title: Publications
 [<img src="/assets/Figures/Automatica.png" width="300">](https://www.sciencedirect.com/science/article/pii/S000510981200043X)
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
-### Journal Articles ###
+### Journal Articles ###  
 *L. J. Robertson, J. S. Moore, K. Blighe, et al. (2021), 
 [Evaluation of the IgG antibody re- sponse to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months](https://bmjopen.bmj.com/content/11/6/e048142), 
 *BMJ Open*, vol. 11, no. 6, e048142.
-DOI:10.1136/bmjopen-2020-048142
+DOI:10.1136/bmjopen-2020-048142  
 * P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin (2021), 
 [Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic](https://doi.org/10.7717/peerj.10992), 
 *PeerJ*, pp. e10992. 
-DOI:10.7717/peerj.10992
+DOI:10.7717/peerj.10992  
 * T. D. Do, M. M. Gui, and **K. Y. Ng** (2021), 
 [Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan](https://dx.doi.org/10.7717/peerj.10806), 
 *PeerJ*, pp. e10806. 
