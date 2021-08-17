@@ -19,9 +19,22 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Journal Articles ###
-* P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin (2021), Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic, *PeerJ (In press)*.
-* T. D. Do, M. M. Gui, and **K. Y. Ng** (2021), [Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan](https://dx.doi.org/10.7717/peerj.10806), *PeerJ*. DOI:10.7717/peerj.10806 
-* **K. Y. Ng** and M. M. Gui (2020), [COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), *Physica D: Nonlinear Phenomena*. DOI:10.1016/j.physd.2020.132599  
+*L. J. Robertson, J. S. Moore, K. Blighe, et al. (2021), 
+[Evaluation of the IgG antibody re- sponse to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months](https://bmjopen.bmj.com/content/11/6/e048142), 
+*BMJ Open*, vol. 11, no. 6, e048142.
+DOI:10.1136/bmjopen-2020-048142
+* P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin (2021), 
+[Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic](https://doi.org/10.7717/peerj.10992), 
+*PeerJ*, pp. e10992. 
+DOI:10.7717/peerj.10992
+* T. D. Do, M. M. Gui, and **K. Y. Ng** (2021), 
+[Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan](https://dx.doi.org/10.7717/peerj.10806), 
+*PeerJ*, pp. e10806. 
+DOI:10.7717/peerj.10806 
+* **K. Y. Ng** and M. M. Gui (2020),
+[COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), 
+*Physica D: Nonlinear Phenomena*, vol. 411, pp. 132599. 
+DOI:10.1016/j.physd.2020.132599  
 * **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020), 
 [A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83. 
