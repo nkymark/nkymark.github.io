@@ -19,6 +19,9 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Journal Articles ###  
+* M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin (2021),
+COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps,
+*Journal of Biomedical Informatics (In press)*.
 * L. J. Robertson, J. S. Moore, K. Blighe, et al. (2021), 
 [Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months](https://bmjopen.bmj.com/content/11/6/e048142), 
 *BMJ Open*, vol. 11, no. 6, e048142.
