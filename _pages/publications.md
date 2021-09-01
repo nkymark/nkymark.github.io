@@ -20,7 +20,7 @@ title: Publications
 
 ### Journal Articles ###  
 * L. J. Robertson, J. S. Moore, K. Blighe, et al. (2021), 
-[Evaluation of the IgG antibody re- sponse to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months](https://bmjopen.bmj.com/content/11/6/e048142), 
+[Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months](https://bmjopen.bmj.com/content/11/6/e048142), 
 *BMJ Open*, vol. 11, no. 6, e048142.
 DOI:10.1136/bmjopen-2020-048142  
 * P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin (2021), 
