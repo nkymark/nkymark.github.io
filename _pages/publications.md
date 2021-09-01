@@ -123,6 +123,9 @@ DOI:10.1002/rnc.1170
 
 
 ### Conference Proceedings ###
+* N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2021),
+Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm,
+*13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (In press)*, Tokyo, Japan.
 * **K. Y. Ng**, E. Frisk, and M. Krysander (2020), 
 [Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System](https://doi.org/10.1109/CoDIT49905.2020.9263792),
 *2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81. 
