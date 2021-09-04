@@ -13,6 +13,8 @@ title: Tech Stuff
     - [IEEE Publication Policies](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/)
     - [Sherpa REF Checker](https://ref.sherpa.ac.uk)
 - LaTeX
+    - [TeX for Mac](https://www.tug.org/mactex/)
+    - [TeX for Mac, Linux, and Windows](https://miktex.org)
     - [siunitx – A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
     - [Tables Generator](https://www.tablesgenerator.com)
     - [LaTeX Graphics using TikZ](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)—Basic_Drawing)
