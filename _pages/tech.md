@@ -4,8 +4,15 @@ layout: single
 title: Tech Stuff
 ---
 
-## Some “Note to Self” Tech Troubleshooting Steps ##
+## Some “Note to Self” Research and Tech (mostly for Mac) Stuffs ##
 
+### Some Useful Links for Research and LaTeX/Python ###
+- Research Publications
+    - [ISI Journals Impact Factor and Citation Report](https://jcr.clarivate.com)
+    - [ISI Journals Finder and Matcher](https://mjl.clarivate.com/home)
+- LaTeX
+
+- Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
 
 ### Adding Windows Network Printer on A Mac ###
 These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly for older versions.
