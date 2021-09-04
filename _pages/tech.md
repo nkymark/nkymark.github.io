@@ -14,6 +14,7 @@ title: Tech Stuff
     - [Elsevier Journal Finder](https://journalfinder.elsevier.com)
     - [Springer Nature Journal Suggester](https://journalsuggester.springer.com)
     - [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match)
+    - [TechRxiv: IEEE Preprint Server](https://www.techrxiv.org)
     - [IEEE Publication Policies](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/)
     - [Sherpa REF Checker](https://ref.sherpa.ac.uk)
 - LaTeX
