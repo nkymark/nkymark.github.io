@@ -10,6 +10,8 @@ title: Tech Stuff
 - Research Publications
     - [ISI Journals Impact Factor and Citation Report](https://jcr.clarivate.com)
     - [ISI Journals Finder and Matcher](https://mjl.clarivate.com/home)
+    - [IEEE Publication Policies](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/)
+    - [Sherpa REF Checker](https://ref.sherpa.ac.uk)
 - LaTeX
     - [siunitx – A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
     - [Tables Generator](https://www.tablesgenerator.com)
