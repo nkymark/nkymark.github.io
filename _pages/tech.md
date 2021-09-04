@@ -26,6 +26,10 @@ title: Tech Stuff
     - [Typesets block diagrams for control theory (with TikZ)](https://www.ctan.org/tex-archive/graphics/pgf/contrib/blox)
 - Python
     - [Matplotlib: Visualization with Python](https://matplotlib.org)
+    - [NumPy: The fundamental package for scientific computing with Python](https://numpy.org)
+    - [SciPy: Scientific Library for Python](https://pypi.org/project/scipy/)
+    - [SymPy: Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
+    - [Tabulate: Pretty-print tabular data in Python](https://pypi.org/project/tabulate/)
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
     - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
 - Wolfram — [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
@@ -49,13 +53,13 @@ Solution: Just reset the *biber* cache via the following command in Terminal (Ma
   
   
 ### Ahkab: Problem producing plots in Python3 ###
-Error/Problem: Plotting graphs using Ahkab in Python3 produces the error "module 'pylab' has no attribute 'hold'".  
+Error/Problem: Plotting graphs using ahkab in Python3 produces the error "module 'pylab' has no attribute 'hold'".  
 Solution: 'Hold' for plots is enabled by default on Python3. 
 1) First, find out the directory of which *ahkab* was installed using  
 `pip3 list -v`
 
 2) In the *ahkab* folder, open *plotting.py*. Then, look for the lines containing `pylab.hold(True)` and `pylab.hold(False)`. Either remove them completely or comment them out.
-3) An alternative solution is to use *ahbab* with Python2. However, this is not encouraged due to the deprecation of Python2 and also the lack of support.  
+3) An alternative solution is to use *ahkab* with Python2. However, this is not encouraged due to the deprecation of Python2 and also the lack of support with most transitting towards Python3.  
  
  
 ### Adding Windows Network Printer (Mac) ###
