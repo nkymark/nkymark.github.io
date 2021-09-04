@@ -21,8 +21,7 @@ title: Tech Stuff
     - [Matplotlib: Visualization with Python](https://matplotlib.org)
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
     - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
-- Wolfram 
-    - [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
+- Wolfram — [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
 
 ### Adding Windows Network Printer on A Mac ###
