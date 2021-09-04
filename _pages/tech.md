@@ -60,17 +60,13 @@ Solution: Just reset the *biber* cache via the following command in Terminal (Ma
 ### Ahkab: Problem producing plots in Python3 ###
 Error/Problem: Plotting graphs using ahkab in Python3 produces the error "module 'pylab' has no attribute 'hold'".  
 Solution: 'Hold' for plots is enabled by default on Python3.  
-1. First, find out the directory of which *ahkab* was installed using  
-  
-`pip3 list -v`  
-
+1. First, find out the directory of which *ahkab* was installed using `pip3 list -v`.
 2. In the *ahkab* folder, open *plotting.py*. Then, look for the lines containing `pylab.hold(True)` and `pylab.hold(False)`. Either remove them completely or comment them out.  
-3. An alternative solution is to use *ahkab* with Python2. However, this is not encouraged due to the deprecation of Python2 and also the lack of support with most transitting towards Python3.  
+4. An alternative solution is to use *ahkab* with Python2. However, this is not encouraged due to the deprecation of Python2 and also the lack of support with most transitting towards Python3.  
  
  
 ### Adding Windows Network Printer (Mac) ###
 These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly for older versions.
-
 1. **System Preferences -> Printers and Scanners**
 2. Click on “**+** ” to add a new printer
 3. Select “**Advanced**” from the top toolbar. If you don’t see it, right-click on the toolbar and select “**Customize Toolbar...**”. Drag the “**Advanced**” button into the toolbar.
