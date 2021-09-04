@@ -16,10 +16,11 @@ title: Tech Stuff
     - [siunitx – A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
     - [Tables Generator](https://www.tablesgenerator.com)
     - [LaTeX Graphics using TikZ](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)—Basic_Drawing)
+    - [This package (with TikZ), typesets block diagrams for control theory](https://www.ctan.org/tex-archive/graphics/pgf/contrib/blox)
 - Python
     - [Matplotlib: Visualization with Python](https://matplotlib.org)
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
-    - [Schemdraw: A python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
+    - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
 - Wolfram 
     - [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
