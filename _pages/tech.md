@@ -38,7 +38,7 @@ title: Tech Stuff
 Error: Volume controller stops working etc.
 Solution: If quitting and restarting *coreaudiod* doesn't work, use the following command in the Terminal.  
   
-`sudo kill -9 `ps ax | grep 'coreaudiod' | grep -v grep | awk '{print $1}'``  
+`` sudo kill -9 `ps ax | grep 'coreaudiod' | grep -v grep | awk '{print $1}'` ``  
   
 
 ### LaTeX: *biber* gave return code 2 ###
