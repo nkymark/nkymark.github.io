@@ -6,7 +6,7 @@ title: Tech Stuff
 
 ## Some “Note to Self” Research and Tech (mostly for Mac) Stuffs ##
 
-### Some Useful Links for Research and LaTeX/Python ###
+### Some Useful Links ###
 - Research Publications
     - [ISI Journals Impact Factor and Citation Report](https://jcr.clarivate.com)
     - [ISI Journals Finder and Matcher](https://mjl.clarivate.com/home)
