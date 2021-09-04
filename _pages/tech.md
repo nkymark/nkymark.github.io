@@ -34,9 +34,16 @@ title: Tech Stuff
   
 ## Tech Troubleshooting ##
 
-### LaTeX: biber gave return code 2 ###
+### Mac: Problem with the keyboard volume controller ###
+Error: Volume controller stops working etc.
+Solution: If quitting and restarting *coreaudiod* doesn't work, use the following command in the Terminal.  
+  
+`sudo kill -9 `ps ax | grep 'coreaudiod' | grep -v grep | awk '{print $1}'``  
+  
+
+### LaTeX: *biber* gave return code 2 ###
 Error/Problem: For whatever reason, *biber* or *biblatex* stopped working with the error "... gave return code 2..."  
-Solution: Just reset the *biber* cache via the following command in Terminal (Mac)  
+Solution: Just reset the *biber* cache via the following command in Terminal (Mac).  
   
 `rm -Rf "$(biber --cache)"`  
   
