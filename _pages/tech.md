@@ -25,13 +25,17 @@ title: Tech Stuff
     - [LaTeX Graphics using TikZ](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)—Basic_Drawing)
     - [Typesets block diagrams for control theory (with TikZ)](https://www.ctan.org/tex-archive/graphics/pgf/contrib/blox)
 - Python
+    - [Python](https://www.python.org)
     - [Matplotlib: Visualization with Python](https://matplotlib.org)
     - [NumPy: The fundamental package for scientific computing with Python](https://numpy.org)
     - [SciPy: Scientific Library for Python](https://pypi.org/project/scipy/)
     - [SymPy: Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
     - [Tabulate: Pretty-print tabular data in Python](https://pypi.org/project/tabulate/)
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
-    - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
+    - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)  
+      
+      Python packages can also be installed via `pip3` on Python3 (or `pip` for Python2), e.g. `pip3 install *package name*`  
+      
 - Wolfram — [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)  
   
