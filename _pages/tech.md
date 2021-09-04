@@ -35,7 +35,7 @@ title: Tech Stuff
 ## Tech Troubleshooting ##
 
 ### Mac: Problem with the keyboard volume controller ###
-Error: Volume controller stops working etc.  
+Error/Problem: Volume controller stops working etc.  
 Solution: If quitting and restarting *coreaudiod* doesn't work, use the following command in the Terminal.  
   
 `` sudo kill -9 `ps ax | grep 'coreaudiod' | grep -v grep | awk '{print $1}'` ``  
@@ -48,6 +48,16 @@ Solution: Just reset the *biber* cache via the following command in Terminal (Ma
 `rm -Rf "$(biber --cache)"`  
   
   
+### Ahkab: Problem producing plots in Python3 ###
+Error/Problem: Plotting graphs using Ahkab in Python3 produces the error "module 'pylab' has no attribute 'hold'".  
+Solution: 'Hold' for plots is enabled by default on Python3. 
+1) First, find out the directory of which *ahkab* was installed using  
+`pip3 list -v`
+
+2) In the *ahkab* folder, open *plotting.py*. Then, look for the lines containing `pylab.hold(True)` and `pylab.hold(False)`. Either remove them completely or comment them out.
+3) An alternative solution is to use *ahbab* with Python2. However, this is not encouraged due to the deprecation of Python2 and also the lack of support.  
+ 
+ 
 ### Adding Windows Network Printer (Mac) ###
 These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly for older versions.
 
