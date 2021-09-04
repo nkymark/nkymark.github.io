@@ -11,7 +11,11 @@ title: Tech Stuff
     - [ISI Journals Impact Factor and Citation Report](https://jcr.clarivate.com)
     - [ISI Journals Finder and Matcher](https://mjl.clarivate.com/home)
 - LaTeX
-
+    - [siunitx – A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
+    - [Tables Generator](https://www.tablesgenerator.com)
+    - [LaTeX Graphics using TikZ](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)—Basic_Drawing)
+- Wolfram 
+    - [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
 
 ### Adding Windows Network Printer on A Mac ###
