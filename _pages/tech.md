@@ -15,10 +15,10 @@ title: Tech Stuff
 - LaTeX
     - [MacTex (TeX for Mac)](https://www.tug.org/mactex/)
     - [MikTex (TeX for Mac, Linux, and Windows)](https://miktex.org)
-    - [siunitx – A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
+    - [siunitx: A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
     - [Tables Generator](https://www.tablesgenerator.com)
     - [LaTeX Graphics using TikZ](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)—Basic_Drawing)
-    - [This package (with TikZ), typesets block diagrams for control theory](https://www.ctan.org/tex-archive/graphics/pgf/contrib/blox)
+    - [Typesets block diagrams for control theory (with TikZ)](https://www.ctan.org/tex-archive/graphics/pgf/contrib/blox)
 - Python
     - [Matplotlib: Visualization with Python](https://matplotlib.org)
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
