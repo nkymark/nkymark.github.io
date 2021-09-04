@@ -35,7 +35,7 @@ title: Tech Stuff
 ## Tech Troubleshooting ##
 
 ### Mac: Problem with the keyboard volume controller ###
-Error: Volume controller stops working etc.
+Error: Volume controller stops working etc.  
 Solution: If quitting and restarting *coreaudiod* doesn't work, use the following command in the Terminal.  
   
 `` sudo kill -9 `ps ax | grep 'coreaudiod' | grep -v grep | awk '{print $1}'` ``  
