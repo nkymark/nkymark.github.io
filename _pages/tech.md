@@ -16,6 +16,10 @@ title: Tech Stuff
     - [siunitx – A comprehensive (si) units package](https://texdoc.org/serve/siunitx.pdf/0)
     - [Tables Generator](https://www.tablesgenerator.com)
     - [LaTeX Graphics using TikZ](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)—Basic_Drawing)
+- Python
+    - [Matplotlib: Visualization with Python](https://matplotlib.org)
+    - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
+    - [Schemdraw: A python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
 - Wolfram 
     - [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
@@ -54,18 +58,12 @@ These steps can be used on most modern Macs. I suggest that you try the PRAM Res
 
 **SMC Reset**
 1. Shut down your Mac.
-2. a) For MacBooks with removable batteries
-    - Disconnect the MagSafe cable.
-    - Remove the battery.
-    - Press the Power key for 5 seconds and then let go. 
-    - Put back the battery and reattach the MagSafe cable.
-
-   b) For MacBooks without removable batteries
+2. a) For MacBooks without removable batteries
     - Keep the MagSafe cable attached.
     - Press (on the left hand side of the keyboard) the Shift + Control + Option and the Power keys simultaneously. 
     - Let go of all keys at the same time.
 
-   c) For iMacs and other non-laptop based Macs
+   b) For iMacs and other non-laptop based Macs
     - Disconnect the power cable.
     - Press the Power key for 5 seconds and then let go. 
     - Reattach the power cable.
