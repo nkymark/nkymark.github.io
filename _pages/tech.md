@@ -34,7 +34,8 @@ title: Tech Stuff
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
     - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)  
       
-      Python packages can also be installed via `pip3` on Python3 (or `pip` for Python2), e.g. `pip3 install *package name*`  
+      Python packages can also be installed via `pip3` on Python3 (or `pip` for Python2), e.g.  
+      `pip3 install *package name*`  
       
 - Wolfram — [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)  
@@ -60,9 +61,9 @@ Solution: Just reset the *biber* cache via the following command in Terminal (Ma
 Error/Problem: Plotting graphs using ahkab in Python3 produces the error "module 'pylab' has no attribute 'hold'".  
 Solution: 'Hold' for plots is enabled by default on Python3. 
 1) First, find out the directory of which *ahkab* was installed using  
-
-`pip3 list -v`
-
+  
+`pip3 list -v`  
+  
 2) In the *ahkab* folder, open *plotting.py*. Then, look for the lines containing `pylab.hold(True)` and `pylab.hold(False)`. Either remove them completely or comment them out.
 3) An alternative solution is to use *ahkab* with Python2. However, this is not encouraged due to the deprecation of Python2 and also the lack of support with most transitting towards Python3.  
  
