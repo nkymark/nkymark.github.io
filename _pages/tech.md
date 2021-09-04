@@ -26,7 +26,7 @@ title: Tech Stuff
 - Wolfram — [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
 - Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
 
-### Adding Windows Network Printer on A Mac ###
+### Adding Windows Network Printer (Mac) ###
 These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly for older versions.
 
 1. **System Preferences -> Printers and Scanners**
@@ -46,7 +46,7 @@ If you ever come across a printing problem with the error message “Hold On Aut
 `sudo lpadmin -p printername -o auth-info-required=username,password`
 
 
-### Fixing Hardware Acting Crazy on A Mac, i.e. Trackpad not working, screen acting weird, etc. ###
+### Fixing Hardware Acting Crazy on a Mac, i.e. trackpad not working, screen acting weird, etc. ###
 These steps can be used on most modern Macs. I suggest that you try the PRAM Reset first. If problem still persists, you can then attempt the SMC Reset. 
 
 
