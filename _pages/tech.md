@@ -4,9 +4,9 @@ layout: single
 title: Tech Stuff
 ---
 
-## Some “Note to Self” Research and Tech (mostly for Mac) Stuffs ##
+# Some “Note to Self” Research and Tech (mostly for Mac) Stuffs #
 
-### Some Useful Links ###
+## Some Useful Links ##
 - Research Publications
     - [ISI Journals Impact Factor and Citation Report](https://jcr.clarivate.com)
     - [ISI Journals Finder and Matcher](https://mjl.clarivate.com/home)
@@ -29,8 +29,18 @@ title: Tech Stuff
     - [Ahkab: SPICE-like electronic circuit simulator written in Python](https://github.com/ahkab/ahkab)
     - [Schemdraw: A Python package for producing high-quality electrical circuit schematic diagrams](https://pypi.org/project/schemdraw/)
 - Wolfram — [Maths and Notations](https://reference.wolfram.com/language/tutorial/MathematicalAndOtherNotation.html#41) 
-- Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
+- Shell Scripting — [developer.apple.com](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)  
+  
+  
+## Tech Troubleshooting ##
 
+### LaTeX: biber gave return code 2 ###
+Error/Problem: For whatever reason, *biber* or *biblatex* stopped working with the error "... gave return code 2..."  
+Solution: Just reset the *biber* cache via the following command in Terminal (Mac)  
+  
+`rm -Rf "$(biber --cache)"`  
+  
+  
 ### Adding Windows Network Printer (Mac) ###
 These steps apply for Mac OS X 10.11 El Capitan and later. Adjust accordingly for older versions.
 
