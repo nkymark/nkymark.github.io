@@ -12,6 +12,7 @@ title: Tech Stuff
     - [ISI Journals Finder and Matcher](https://mjl.clarivate.com/home)
     - [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)
     - [Elsevier Journal Finder](https://journalfinder.elsevier.com)
+    - [Springer Nature Journal Suggester](https://journalsuggester.springer.com)
     - [IEEE Publication Policies](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/)
     - [Sherpa REF Checker](https://ref.sherpa.ac.uk)
 - LaTeX
