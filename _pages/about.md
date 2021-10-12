@@ -5,7 +5,7 @@ title: Brief Biography
 ---
 
 ## Brief Biography ##
-I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
+I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Senior Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
 
 My research interests include fault diagnosis, vehicular systems, modelling, and data analytics for anomaly detection and classification.
 
@@ -38,8 +38,11 @@ Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observ
 
 ## Current Employment and Affiliations ##
 **Ulster University, Northern Ireland, U.K.**  
+**Senior Lecturer in Mechatronics Engineering and Control**  
+October, 2021 – Present
+
 **Lecturer in Mechatronics Engineering and Control**  
-June, 2017 – Present  
+June, 2017 – September, 2021  
 I am responsible for Control Engineering related modules taught to undergraduate students. I coordinate and teach the following modules:
 * EEE316 Control Theory and Applications
 * EEE526 Mechatronics 1
