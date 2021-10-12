@@ -7,11 +7,11 @@ title: Brief Biography
 ## Brief Biography ##
 I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am now a Senior Lecturer at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
 
-My research interests include fault diagnosis, vehicular systems, modelling, and data analytics for anomaly detection and classification.
+My research interests include fault diagnosis, mathematical modelling, and data analytics for anomaly detection and classification.
 
 In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods.
 
-I was instrumental in developing a Simulation Environment on the Matlab/Simulink platform for realistic Model-In-The-Loop testing of various residuals generation and fault diagnosis methods for the following:
+I was instrumental in developing a Digital Twin on the Matlab/Simulink platform for realistic Model-In-The-Loop testing of various residuals generation and fault diagnosis methods for the following:
 * Realistic modelling and control of the engine
 * Injection and simulation of a variety of actuator, sensor, and variable faults in the engine
 * In-house designed algorithm for additional residuals selection
@@ -24,7 +24,7 @@ During the COVID-19 pandemic, I lead the [Modelling and Forecast Task Force](htt
 
 I am a Senior Member of the IEEE and I am currently a Committee Member of the IEEE Control Systems Society (CSS), UK and Ireland Chapter. 
 
-I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, and the Editor for *PeerJ Computer Science*.
+I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, and the Editor for *PeerJ*.
 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
 
@@ -89,7 +89,7 @@ Supervisor: Prof. Erik Frisk
 I was based in the Division of Vehicular Systems (FS) at Linköping University, Sweden where I worked on Fault Diagnosis of Single-Turbocharged Gasoline Engine with Volvo Car Corporation (VCC). 
 
 <!--
-I also developed the GUI-based Simulation Environment on Matlab and Simulink to be used by VCC for the following: 
+I also developed the GUI-based Simulation Environment (Digital Twin) on Matlab and Simulink to be used by VCC for the following: 
 * Realistic modelling and control of the engine 
 * Injection and simulation of a variety of actuator, sensor and variable faults in the engine 
 * In-house designed algorithm for additional residuals selection 
