@@ -6,7 +6,7 @@ title: People
 
 ## Team Members ##
 <p><img align="left" width="120" src="/assets/Figures/Mark.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
-  Senior Lecturer in Mechatronics Engineering and Control <br />
+  Senior Lecturer <br />
   Leader of the Control Engineering and Industrie 4.0 Laboratory <br /><br /><br /><br /></span></p>  
 
 <p><img align="left" width="120" src="/assets/Figures/Pardis.jpg" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />
