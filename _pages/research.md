@@ -28,10 +28,10 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1 tunnel furnace application module
   * 1 workpiece output application module  
   
-* Beowulf Cluster consisting of the following:
-  * 2 Dell PowerEdge servers
-  * 12 Intel-based CPU nodes for a total of 80 cores
-  * 12 Nvidia GPU nodes
+<!--* Beowulf Cluster consisting of the following:-->
+<!--  * 2 Dell PowerEdge servers-->
+<!--  * 12 Intel-based CPU nodes for a total of 80 cores-->
+<!--  * 12 Nvidia GPU nodes-->
 
 
 ## Research Partners and Collaborators ##
