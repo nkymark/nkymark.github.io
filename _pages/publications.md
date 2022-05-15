@@ -124,6 +124,9 @@ DOI:10.1002/rnc.1170
 
 
 ### Conference Proceedings ###
+* S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
+[Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm](http://128.84.4.18/pdf/2110.01742),
+*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022) (In Press)*, Palermo, Italy.
 * N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2021),
 [Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm](https://ieeexplore.ieee.org/document/9689257),
 *2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan.
