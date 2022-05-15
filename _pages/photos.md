@@ -6,6 +6,24 @@ title: Photos
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
+gallery:
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"        
+
 ![](/assets/Photos/Campus1.jpg) 
 ![](/assets/Photos/Campus2.jpg) 
 ![](/assets/Photos/Campus3.jpg)  
