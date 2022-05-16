@@ -129,7 +129,14 @@ gallery:
     
   - url: /assets/Photos/Diesel.jpg
     image_path: /assets/Photos/Diesel.jpg
-    title: "Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel."                                                                                                       
+    title: "Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel."
+    
+  - url: /assets/Photos/Cambridge.jpg
+    image_path: /assets/Photos/Cambridge.jpg
+    title: "Looking across River Cam and Magdalene College from Magdalene Bridge, Cambridge, UK (2018)."                                                                                                           
+  - url: /assets/Photos/Newton.jpg
+    image_path: /assets/Photos/Newton.jpg
+    title: "The famed Isaac Newton apple tree, Cambridge, UK (2018)."    
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
