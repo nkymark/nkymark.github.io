@@ -117,7 +117,15 @@ gallery:
     
   - url: /assets/Photos/Ceiling.jpg
     image_path: /assets/Photos/Ceiling.jpg
-    title: "Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019)."                                                                                           
+    title: "Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019)."     
+    
+  - url: /assets/Photos/InnsbruckTrain.jpg
+    image_path: /assets/Photos/InnsbruckTrain.jpg
+    title: "The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018)."     
+    
+  - url: /assets/Photos/Alps.jpg
+    image_path: /assets/Photos/Alps.jpg
+    title: "On top of the Alps in Innsbruck, Austria (2018)."                                                                                                   
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
