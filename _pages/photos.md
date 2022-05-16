@@ -32,7 +32,36 @@ gallery:
 
   - url: /assets/Photos/SunriseWinter.jpg
     image_path: /assets/Photos/SunriseWinter.jpg
-    title: "Beautiful winter sunrise, Northern Ireland (2021)."                    
+    title: "Beautiful winter sunrise, Northern Ireland (2021)."    
+    
+  - url: /assets/Photos/Rainbow.jpg
+    image_path: /assets/Photos/Rainbow.jpg
+    title: "A very rare almost double full-arch rainbow in winter, Northern Ireland (2021)."
+    
+  - url: /assets/Photos/Flowera.jpg
+    image_path: /assets/Photos/Flowera.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+  - url: /assets/Photos/Flowerb.jpg
+    image_path: /assets/Photos/Flowerb.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+  - url: /assets/Photos/Flowerc.jpg
+    image_path: /assets/Photos/Flowerc.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+  - url: /assets/Photos/Flowerd.jpg
+    image_path: /assets/Photos/Flowerd.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."   
+  - url: /assets/Photos/Flowere.jpg
+    image_path: /assets/Photos/Flowere.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+  - url: /assets/Photos/Flowerf.jpg
+    image_path: /assets/Photos/Flowerf.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+  - url: /assets/Photos/Flowerg.jpg
+    image_path: /assets/Photos/Flowerg.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+  - url: /assets/Photos/Flowerh.jpg
+    image_path: /assets/Photos/Flowerh.jpg
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."                                   
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -56,11 +85,11 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/SunriseWinter.jpg)  -->
 <!--Beautiful winter sunrise, Northern Ireland (2021).-->
 
-![](/assets/Photos/Rainbow.jpg)  
-A very rare almost double full-arch rainbow in winter, Northern Ireland (2021).
+<!--![](/assets/Photos/Rainbow.jpg)  -->
+<!--A very rare almost double full-arch rainbow in winter, Northern Ireland (2021).-->
 
-![](/assets/Photos/Summer2020a.jpg)  
-Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).
+<!--![](/assets/Photos/Summer2020a.jpg)  -->
+<!--Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).-->
 
 ![](/assets/Photos/SunsetBelfast.jpg)  
 Spectacular winter sunset over Belfast city (2020).
