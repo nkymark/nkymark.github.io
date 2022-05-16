@@ -72,11 +72,11 @@ gallery:
     title: "Lunar New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020)." 
     
   - url: /assets/Photos/BelfastXmasMarket2019.jpg
-    image_path: /assets/Photos/Rainbow.jpg
+    image_path: /assets/Photos/BelfastXmasMarket2019.jpg
     title: "Christmas Market at Belfast City Hall, Northern Ireland (2019)." 
     
   - url: /assets/Photos/Snowman.jpg
-    image_path: /assets/Photos/Rainbow.jpg
+    image_path: /assets/Photos/Snowman.jpg
     title: "The Ulster Orchestra performing scores from "The Snowman" (2019)."         
     
   - url: /assets/Photos/Giants.jpg
