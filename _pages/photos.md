@@ -5,13 +5,13 @@ title: Photos
 gallery:
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1.jpg
-    title: "Black and grays with a hint of green"
-  - url: /assets/Photos/Campus1.jpg
-    image_path: /assets/Photos/Campus1.jpg
-    title: "Made for open text placement"
-  - url: /assets/Photos/Campus1.jpg
-    image_path: /assets/Photos/Campus1.jpg
-    title: "Fog in the trees"
+    title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
+  - url: /assets/Photos/Campus2.jpg
+    image_path: /assets/Photos/Campus2.jpg
+    title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
+  - url: /assets/Photos/Campus3.jpg
+    image_path: /assets/Photos/Campus3.jpg
+    title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
