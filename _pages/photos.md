@@ -105,48 +105,36 @@ gallery:
     
   - url: /assets/Photos/Wall.jpg
     image_path: /assets/Photos/Wall.jpg
-    title: "The Walled Garden at Glendarm Castle during spring time, Northern Ireland (2019)."                                                                               
+    title: "The Walled Garden at Glendarm Castle during spring time, Northern Ireland (2019)."         
+    
+  - url: /assets/Photos/GoT.jpg
+    image_path: /assets/Photos/GoT.jpg
+    title: "A small portion of the Game of Thrones tapestry at the Ulster Museum, Northern Ireland (2019)."         
+    
+  - url: /assets/Photos/Karaoke.jpg
+    image_path: /assets/Photos/Karaoke.jpg
+    title: "The entrance to a karaoke box outlet in Kuala Lumpur, Malaysia (2019)."         
+    
+  - url: /assets/Photos/Ceiling.jpg
+    image_path: /assets/Photos/Ceiling.jpg
+    title: "Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019)."                                                                                           
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
 
-<!--![](/assets/Photos/BelfastXmasMarket2019.jpg)  -->
-<!--Christmas Market at Belfast City Hall, Northern Ireland (2019).-->
+<!--![](/assets/Photos/Islandmagee.jpg)  -->
+<!--Looking around from atop the hill at Portmuck, Northern Ireland (2019).-->
+
+<!--![](/assets/Photos/GoT.jpg)  -->
+<!--A small portion of the “Game of Thrones” tapestry at the Ulster Museum, Northern Ireland (2019).-->
 <!---->
-<!--![](/assets/Photos/Snowman.jpg)  -->
-<!--The Ulster Orchestra led by conductor Pete Harrison performing scores from "The Snowman" (2019).-->
-
-<!--![](/assets/Photos/Giants.jpg)  -->
-<!--Visiting the Giant's Causeway, Northern Ireland during autumn (2019). -->
+<!--![](/assets/Photos/Karaoke.jpg)  -->
+<!--The entrance to a karaoke box outlet in Kuala Lumpur, Malaysia (2019).-->
 <!---->
-<!--![](/assets/Photos/TimPeake.jpg)  -->
-<!--Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule.-->
-
-<!--![](/assets/Photos/Cow.jpg)  -->
-<!--A cow grazing greens right outside my bedroom on a beautiful spring day, Northern Ireland (2019).-->
-<!---->
-<!--![](/assets/Photos/Sakura.jpg)  -->
-<!--Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019).-->
-
-![](/assets/Photos/Larne.jpg)  
-Somewhere during spring time in Larne, Northern Ireland (2019).
-
-![](/assets/Photos/Ulster.jpg)  
-Entrance to the Ulster University Jordanstown Campus, Northern Ireland (2019).
-
-![](/assets/Photos/Islandmagee.jpg)  
-Looking around from atop the hill at Portmuck, Northern Ireland (2019).
-
-![](/assets/Photos/GoT.jpg)  
-A small portion of the “Game of Thrones” tapestry at the Ulster Museum, Northern Ireland (2019).
-
-![](/assets/Photos/Karaoke.jpg)  
-The entrance to a karaoke box outlet in Kuala Lumpur, Malaysia (2019).
-
-![](/assets/Photos/Ceiling.jpg)  
-Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019).
+<!--![](/assets/Photos/Ceiling.jpg)  -->
+<!--Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019).-->
 
 ![](/assets/Photos/InnsbruckTrain.jpg)  
 The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018).
@@ -263,3 +251,27 @@ An old fishing village in Kukup, Malaysia (2010).
 <!---->
 <!--![](/assets/Photos/CNY.jpg)  -->
 <!--Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).-->
+
+<!--![](/assets/Photos/BelfastXmasMarket2019.jpg)  -->
+<!--Christmas Market at Belfast City Hall, Northern Ireland (2019).-->
+<!---->
+<!--![](/assets/Photos/Snowman.jpg)  -->
+<!--The Ulster Orchestra led by conductor Pete Harrison performing scores from "The Snowman" (2019).-->
+
+<!--![](/assets/Photos/Giants.jpg)  -->
+<!--Visiting the Giant's Causeway, Northern Ireland during autumn (2019). -->
+<!---->
+<!--![](/assets/Photos/TimPeake.jpg)  -->
+<!--Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule.-->
+
+<!--![](/assets/Photos/Cow.jpg)  -->
+<!--A cow grazing greens right outside my bedroom on a beautiful spring day, Northern Ireland (2019).-->
+<!---->
+<!--![](/assets/Photos/Sakura.jpg)  -->
+<!--Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019).-->
+
+<!--![](/assets/Photos/Larne.jpg)  -->
+<!--Somewhere during spring time in Larne, Northern Ireland (2019).-->
+<!---->
+<!--![](/assets/Photos/Ulster.jpg)  -->
+<!--Entrance to the Ulster University Jordanstown Campus, Northern Ireland (2019).-->
