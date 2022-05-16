@@ -64,11 +64,11 @@ gallery:
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
     
   - url: /assets/Photos/SunsetBelfast.jpg
-    image_path: /assets/Photos/Rainbow.jpg
+    image_path: /assets/Photos/SunsetBelfast.jpg
     title: "Spectacular winter sunset over Belfast city (2020)."
     
   - url: /assets/Photos/CNY.jpg
-    image_path: /assets/Photos/Rainbow.jpg
+    image_path: /assets/Photos/CNY.jpg
     title: "Lunar New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020)." 
     
   - url: /assets/Photos/BelfastXmasMarket2019.jpg
