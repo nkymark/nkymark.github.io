@@ -180,27 +180,33 @@ gallery:
     
   - url: /assets/Photos/Rosengatan.jpg
     image_path: /assets/Photos/Rosengatan.jpg
-    title: "Winter, looking out from my apartment in Linköping, Sweden (2014)."                                                
+    title: "Winter, looking out from my apartment in Linköping, Sweden (2014)."       
+    
+  - url: /assets/Photos/Bath.jpg
+    image_path: /assets/Photos/Bath.jpg
+    title: "Strolling along Pulteney Bridge, Bath, UK (2014)."       
+    
+  - url: /assets/Photos/Scotland.jpg
+    image_path: /assets/Photos/Scotland.jpg
+    title: "The exact same spot somewhere in Scotland where Bond and M shot their scene in Skyfall (2013)."    
+    
+  - url: /assets/Photos/NationalMonument.jpg
+    image_path: /assets/Photos/NationalMonument.jpg
+    title: "The National Monument, Scotland (2013)."                                                               
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
 
-<!--![](/assets/Photos/Volvo.jpg)  -->
-<!--Chasing the midnight sun during summer in Narvik, Norway (2014).-->
+<!--![](/assets/Photos/Bath.jpg)  -->
+<!--Strolling along Pulteney Bridge, Bath, UK (2014).-->
 <!---->
-<!--![](/assets/Photos/Rosengatan.jpg)  -->
-<!--Winter, looking out from the apartment that I stayed in Linköping, Sweden (2014).-->
-
-![](/assets/Photos/Bath.jpg)  
-Strolling along Pulteney Bridge, Bath, UK (2014).
-
-![](/assets/Photos/Scotland.jpg)  
-The exact same spot somewhere in Scotland where Bond and M shot their scene in Skyfall (2013).
-
-![](/assets/Photos/NationalMonument.jpg)  
-The National Monument, Scotland (2013).
+<!--![](/assets/Photos/Scotland.jpg)  -->
+<!--The exact same spot somewhere in Scotland where Bond and M shot their scene in Skyfall (2013).-->
+<!---->
+<!--![](/assets/Photos/NationalMonument.jpg)  -->
+<!--The National Monument, Scotland (2013).-->
 
 ![](/assets/Photos/VW.jpg)  
 Seeing the VW XL1 in the metal outside Buckingham Palace, London, UK (2013).
@@ -338,3 +344,9 @@ An old fishing village in Kukup, Malaysia (2010).
 
 <!--![](/assets/Photos/Helsinki.jpg)  -->
 <!--The great organ inside the White Cathedral in Helsinki, Finland (2015).-->
+
+<!--![](/assets/Photos/Volvo.jpg)  -->
+<!--Chasing the midnight sun during summer in Narvik, Norway (2014).-->
+<!---->
+<!--![](/assets/Photos/Rosengatan.jpg)  -->
+<!--Winter, looking out from the apartment that I stayed in Linköping, Sweden (2014).-->
