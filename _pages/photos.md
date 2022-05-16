@@ -77,7 +77,7 @@ gallery:
     
   - url: /assets/Photos/Snowman.jpg
     image_path: /assets/Photos/Snowman.jpg
-    title: "The Ulster Orchestra performing scores from "The Snowman" (2019)."         
+    title: "The Ulster Orchestra performing scores from The Snowman (2019)."         
     
   - url: /assets/Photos/Giants.jpg
     image_path: /assets/Photos/Giants.jpg
