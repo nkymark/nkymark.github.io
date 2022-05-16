@@ -93,7 +93,19 @@ gallery:
     
   - url: /assets/Photos/Sakura.jpg
     image_path: /assets/Photos/Sakura.jpg
-    title: "Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019)."                                                                   
+    title: "Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019)."      
+    
+  - url: /assets/Photos/Larne.jpg
+    image_path: /assets/Photos/Larne.jpg
+    title: "Near Islandmagee during spring time, Northern Ireland (2019)."      
+    
+  - url: /assets/Photos/Ulster.jpg
+    image_path: /assets/Photos/Ulster.jpg
+    title: "Entrance to the Ulster University Jordanstown Campus, Northern Ireland (2019)."         
+    
+  - url: /assets/Photos/Wall.jpg
+    image_path: /assets/Photos/Wall.jpg
+    title: "The Walled Garden at Glendarm Castle during spring time, Northern Ireland (2019)."                                                                               
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
