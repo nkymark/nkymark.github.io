@@ -69,47 +69,26 @@ gallery:
     
   - url: /assets/Photos/CNY.jpg
     image_path: /assets/Photos/Rainbow.jpg
-    title: "Lunar New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020)."                                           
+    title: "Lunar New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020)." 
+    
+  - url: /assets/Photos/BelfastXmasMarket2019.jpg
+    image_path: /assets/Photos/Rainbow.jpg
+    title: "Christmas Market at Belfast City Hall, Northern Ireland (2019)." 
+    
+  - url: /assets/Photos/Snowman.jpg
+    image_path: /assets/Photos/Rainbow.jpg
+    title: "The Ulster Orchestra performing scores from "The Snowman" (2019)."                                                   
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
 
-<!--![](/assets/Photos/Campus1.jpg) -->
-<!--![](/assets/Photos/Campus2.jpg) -->
-<!--![](/assets/Photos/Campus3.jpg)  -->
-<!--Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).-->
-
-<!--![](/assets/Photos/Glenarma.jpg)  -->
-<!--![](/assets/Photos/Glenarmb.jpg)  -->
-<!--![](/assets/Photos/Glenarmc.jpg)  -->
-<!--![](/assets/Photos/Glenarmd.jpg)  -->
-<!--The Glenarm Coastal Walk, Northern Ireland (2021).-->
-
-<!--![](/assets/Photos/Hedges1.jpg)  -->
-<!--The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021).-->
-
-<!--![](/assets/Photos/SunriseWinter.jpg)  -->
-<!--Beautiful winter sunrise, Northern Ireland (2021).-->
-
-<!--![](/assets/Photos/Rainbow.jpg)  -->
-<!--A very rare almost double full-arch rainbow in winter, Northern Ireland (2021).-->
-
-<!--![](/assets/Photos/Summer2020a.jpg)  -->
-<!--Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).-->
-
-<!--![](/assets/Photos/SunsetBelfast.jpg)  -->
-<!--Spectacular winter sunset over Belfast city (2020).-->
+<!--![](/assets/Photos/BelfastXmasMarket2019.jpg)  -->
+<!--Christmas Market at Belfast City Hall, Northern Ireland (2019).-->
 <!---->
-<!--![](/assets/Photos/CNY.jpg)  -->
-<!--Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).-->
-
-![](/assets/Photos/BelfastXmasMarket2019.jpg)  
-Christmas Market at Belfast City Hall, Northern Ireland (2019).
-
-![](/assets/Photos/Snowman.jpg)  
-The Ulster Orchestra led by conductor Pete Harrison performing scores from "The Snowman" (2019).
+<!--![](/assets/Photos/Snowman.jpg)  -->
+<!--The Ulster Orchestra led by conductor Pete Harrison performing scores from "The Snowman" (2019).-->
 
 ![](/assets/Photos/Giants.jpg)  
 Visiting the Giant's Causeway, Northern Ireland during autumn (2019). 
@@ -228,3 +207,31 @@ A disappointed Schumi after crashing out at the 2010 Sepang Grand Prix, Malaysia
 ![](/assets/Photos/Kukup.jpg)  
 An old fishing village in Kukup, Malaysia (2010).
 
+<!--![](/assets/Photos/Campus1.jpg) -->
+<!--![](/assets/Photos/Campus2.jpg) -->
+<!--![](/assets/Photos/Campus3.jpg)  -->
+<!--Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).-->
+
+<!--![](/assets/Photos/Glenarma.jpg)  -->
+<!--![](/assets/Photos/Glenarmb.jpg)  -->
+<!--![](/assets/Photos/Glenarmc.jpg)  -->
+<!--![](/assets/Photos/Glenarmd.jpg)  -->
+<!--The Glenarm Coastal Walk, Northern Ireland (2021).-->
+
+<!--![](/assets/Photos/Hedges1.jpg)  -->
+<!--The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021).-->
+
+<!--![](/assets/Photos/SunriseWinter.jpg)  -->
+<!--Beautiful winter sunrise, Northern Ireland (2021).-->
+
+<!--![](/assets/Photos/Rainbow.jpg)  -->
+<!--A very rare almost double full-arch rainbow in winter, Northern Ireland (2021).-->
+
+<!--![](/assets/Photos/Summer2020a.jpg)  -->
+<!--Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).-->
+
+<!--![](/assets/Photos/SunsetBelfast.jpg)  -->
+<!--Spectacular winter sunset over Belfast city (2020).-->
+<!---->
+<!--![](/assets/Photos/CNY.jpg)  -->
+<!--Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).-->
