@@ -5,13 +5,13 @@ title: Photos
 gallery:
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1.jpg
-    alt: "Black and grays with a hint of green"
+    title: "Black and grays with a hint of green"
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1.jpg
-    alt: "Made for open text placement"
+    title: "Made for open text placement"
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1.jpg
-    alt: "Fog in the trees"
+    title: "Fog in the trees"
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
