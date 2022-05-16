@@ -12,16 +12,29 @@ gallery:
   - url: /assets/Photos/Campus3.jpg
     image_path: /assets/Photos/Campus3.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
+    
+  - url: /assets/Photos/Glenarma.jpg
+    image_path: /assets/Photos/Glenarma.jpg
+    title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
+  - url: /assets/Photos/Glenarmb.jpg
+    image_path: /assets/Photos/Glenarmb.jpg
+    title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
+  - url: /assets/Photos/Glenarmc.jpg
+    image_path: /assets/Photos/Glenarmc.jpg
+    title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
+  - url: /assets/Photos/Glenarmd.jpg
+    image_path: /assets/Photos/Glenarmd.jpg
+    title: "The Glenarm Coastal Walk, Northern Ireland (2021)."            
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
 
-![](/assets/Photos/Campus1.jpg) 
-![](/assets/Photos/Campus2.jpg) 
-![](/assets/Photos/Campus3.jpg)  
-Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).
+<!--![](/assets/Photos/Campus1.jpg) -->
+<!--![](/assets/Photos/Campus2.jpg) -->
+<!--![](/assets/Photos/Campus3.jpg)  -->
+<!--Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).-->
 
 ![](/assets/Photos/Glenarma.jpg)  
 ![](/assets/Photos/Glenarmb.jpg)  
