@@ -137,41 +137,19 @@ gallery:
   - url: /assets/Photos/Newton.jpg
     image_path: /assets/Photos/Newton.jpg
     title: "The famed Isaac Newton apple tree, Cambridge, UK (2018)."    
+    
+  - url: /assets/Photos/Rathlin.jpg
+    image_path: /assets/Photos/Rathlin.jpg
+    title: "RSPB Rathlin West Light Seabird Centre, Rathlin Island, Northern Ireland (2018)."    
+    
+  - url: /assets/Photos/Connemara.jpg
+    image_path: /assets/Photos/Connemara.jpg
+    title: "Connemara National Park, Ireland (2018)."            
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
-
-<!--![](/assets/Photos/Islandmagee.jpg)  -->
-<!--Looking around from atop the hill at Portmuck, Northern Ireland (2019).-->
-
-<!--![](/assets/Photos/GoT.jpg)  -->
-<!--A small portion of the “Game of Thrones” tapestry at the Ulster Museum, Northern Ireland (2019).-->
-<!---->
-<!--![](/assets/Photos/Karaoke.jpg)  -->
-<!--The entrance to a karaoke box outlet in Kuala Lumpur, Malaysia (2019).-->
-<!---->
-<!--![](/assets/Photos/Ceiling.jpg)  -->
-<!--Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019).-->
-
-<!--![](/assets/Photos/InnsbruckTrain.jpg)  -->
-<!--The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018).-->
-<!---->
-<!--![](/assets/Photos/Alps.jpg)  -->
-<!--On top of the Alps in Innsbruck, Austria (2018).-->
-
-<!--![](/assets/Photos/Diesel.jpg)  -->
-<!--Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel.-->
-
-![](/assets/Photos/Cambridge.jpg)  
-Looking across River Cam and Magdalene College from Magdalene Bridge, Cambridge, UK (2018).
-
-![](/assets/Photos/Connemara.jpg)  
-Connemara National Park, Ireland (2018).
-
-![](/assets/Photos/Rathlin.jpg)  
-RSPB Rathlin West Light Seabird Centre, Rathlin Island, Northern Ireland (2018).
 
 ![](/assets/Photos/Trinity.jpg)  
 Trinity College Library, Dublin, Ireland (2017).
@@ -294,3 +272,33 @@ An old fishing village in Kukup, Malaysia (2010).
 <!---->
 <!--![](/assets/Photos/Ulster.jpg)  -->
 <!--Entrance to the Ulster University Jordanstown Campus, Northern Ireland (2019).-->
+
+<!--![](/assets/Photos/Islandmagee.jpg)  -->
+<!--Looking around from atop the hill at Portmuck, Northern Ireland (2019).-->
+
+<!--![](/assets/Photos/GoT.jpg)  -->
+<!--A small portion of the “Game of Thrones” tapestry at the Ulster Museum, Northern Ireland (2019).-->
+<!---->
+<!--![](/assets/Photos/Karaoke.jpg)  -->
+<!--The entrance to a karaoke box outlet in Kuala Lumpur, Malaysia (2019).-->
+<!---->
+<!--![](/assets/Photos/Ceiling.jpg)  -->
+<!--Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019).-->
+
+<!--![](/assets/Photos/InnsbruckTrain.jpg)  -->
+<!--The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018).-->
+<!---->
+<!--![](/assets/Photos/Alps.jpg)  -->
+<!--On top of the Alps in Innsbruck, Austria (2018).-->
+
+<!--![](/assets/Photos/Diesel.jpg)  -->
+<!--Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel.-->
+
+<!--![](/assets/Photos/Cambridge.jpg)  -->
+<!--Looking across River Cam and Magdalene College from Magdalene Bridge, Cambridge, UK (2018).-->
+
+<!--![](/assets/Photos/Connemara.jpg)  -->
+<!--Connemara National Park, Ireland (2018).-->
+<!---->
+<!--![](/assets/Photos/Rathlin.jpg)  -->
+<!--RSPB Rathlin West Light Seabird Centre, Rathlin Island, Northern Ireland (2018).-->
