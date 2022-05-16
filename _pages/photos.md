@@ -61,7 +61,15 @@ gallery:
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
   - url: /assets/Photos/Flowerh.jpg
     image_path: /assets/Photos/Flowerh.jpg
-    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."                                   
+    title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+    
+  - url: /assets/Photos/SunsetBelfast.jpg
+    image_path: /assets/Photos/Rainbow.jpg
+    title: "Spectacular winter sunset over Belfast city (2020)."
+    
+  - url: /assets/Photos/CNY.jpg
+    image_path: /assets/Photos/Rainbow.jpg
+    title: "Lunar New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020)."                                           
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -91,11 +99,11 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/Summer2020a.jpg)  -->
 <!--Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020).-->
 
-![](/assets/Photos/SunsetBelfast.jpg)  
-Spectacular winter sunset over Belfast city (2020).
-
-![](/assets/Photos/CNY.jpg)  
-Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).
+<!--![](/assets/Photos/SunsetBelfast.jpg)  -->
+<!--Spectacular winter sunset over Belfast city (2020).-->
+<!---->
+<!--![](/assets/Photos/CNY.jpg)  -->
+<!--Chinese New Year celebration with lion and dragon dances at the Ulster Hall, Belfast (2020).-->
 
 ![](/assets/Photos/BelfastXmasMarket2019.jpg)  
 Christmas Market at Belfast City Hall, Northern Ireland (2019).
