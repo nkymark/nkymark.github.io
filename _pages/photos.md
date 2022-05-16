@@ -152,7 +152,15 @@ gallery:
     
   - url: /assets/Photos/Belfast.jpg
     image_path: /assets/Photos/Belfast.jpg
-    title: "Christmas Market at Belfast City Hall, Northern Ireland (2017)."                    
+    title: "Christmas Market at Belfast City Hall, Northern Ireland (2017)."          
+    
+  - url: /assets/Photos/CarrickCastle.jpg
+    image_path: /assets/Photos/CarrickCastle.jpg
+    title: "Carrickfergus Castle, Belfast, Northern Ireland (2017)."          
+    
+  - url: /assets/Photos/Buddha.jpg
+    image_path: /assets/Photos/Buddha.jpg
+    title: "The Big Buddha statue in Phuket, Thailand (2016)."                            
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -165,11 +173,11 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/Belfast.jpg)  -->
 <!--Christmas Market at Belfast City Hall, Northern Ireland (2017).-->
 
-![](/assets/Photos/CarrickCastle.jpg)  
-Carrickfergus Castle, Belfast, Northern Ireland (2017).
-
-![](/assets/Photos/Buddha.jpg)  
-The Big Buddha statue in Phuket, Thailand (2016).
+<!--![](/assets/Photos/CarrickCastle.jpg)  -->
+<!--Carrickfergus Castle, Belfast, Northern Ireland (2017).-->
+<!---->
+<!--![](/assets/Photos/Buddha.jpg)  -->
+<!--The Big Buddha statue in Phuket, Thailand (2016).-->
 
 ![](/assets/Photos/Taiwan.jpg)  
 Experiencing the busy night market in Taichung, Taiwan (2015).
