@@ -125,7 +125,11 @@ gallery:
     
   - url: /assets/Photos/Alps.jpg
     image_path: /assets/Photos/Alps.jpg
-    title: "On top of the Alps in Innsbruck, Austria (2018)."                                                                                                   
+    title: "On top of the Alps in Innsbruck, Austria (2018)."                   
+    
+  - url: /assets/Photos/Diesel.jpg
+    image_path: /assets/Photos/Diesel.jpg
+    title: "Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel."                                                                                                       
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -144,14 +148,14 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/Ceiling.jpg)  -->
 <!--Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019).-->
 
-![](/assets/Photos/InnsbruckTrain.jpg)  
-The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018).
+<!--![](/assets/Photos/InnsbruckTrain.jpg)  -->
+<!--The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018).-->
+<!---->
+<!--![](/assets/Photos/Alps.jpg)  -->
+<!--On top of the Alps in Innsbruck, Austria (2018).-->
 
-![](/assets/Photos/Alps.jpg)  
-On top of the Alps in Innsbruck, Austria (2018).
-
-![](/assets/Photos/Diesel.jpg)  
-Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel.
+<!--![](/assets/Photos/Diesel.jpg)  -->
+<!--Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel.-->
 
 ![](/assets/Photos/Cambridge.jpg)  
 Looking across River Cam and Magdalene College from Magdalene Bridge, Cambridge, UK (2018).
