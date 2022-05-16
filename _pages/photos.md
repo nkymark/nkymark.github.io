@@ -144,18 +144,26 @@ gallery:
     
   - url: /assets/Photos/Connemara.jpg
     image_path: /assets/Photos/Connemara.jpg
-    title: "Connemara National Park, Ireland (2018)."            
+    title: "Connemara National Park, Ireland (2018)."           
+    
+  - url: /assets/Photos/Trinity.jpg
+    image_path: /assets/Photos/Trinity.jpg
+    title: "Trinity College Library, Dublin, Ireland (2017)."           
+    
+  - url: /assets/Photos/Belfast.jpg
+    image_path: /assets/Photos/Belfast.jpg
+    title: "Christmas Market at Belfast City Hall, Northern Ireland (2017)."                    
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
 
-![](/assets/Photos/Trinity.jpg)  
-Trinity College Library, Dublin, Ireland (2017).
-
-![](/assets/Photos/Belfast.jpg)  
-Christmas Market at Belfast City Hall, Northern Ireland (2017).
+<!--![](/assets/Photos/Trinity.jpg)  -->
+<!--Trinity College Library, Dublin, Ireland (2017).-->
+<!---->
+<!--![](/assets/Photos/Belfast.jpg)  -->
+<!--Christmas Market at Belfast City Hall, Northern Ireland (2017).-->
 
 ![](/assets/Photos/CarrickCastle.jpg)  
 Carrickfergus Castle, Belfast, Northern Ireland (2017).
