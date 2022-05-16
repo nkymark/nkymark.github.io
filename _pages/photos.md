@@ -2,16 +2,21 @@
 permalink: /photos/
 layout: single
 title: Photos
+gallery:
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "Black and grays with a hint of green"
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "Made for open text placement"
+  - url: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1.jpg
+    alt: "Fog in the trees"
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
-<figure class="third">
-  <img src="/assets/Photos/Campus1.jpg>
-  <img src="/assets/Photos/Campus1.jpg>
-  <img src="/assets/Photos/Campus1.jpg>
-  <figcaption>Gallery with a two image per row grid.</figcaption>
-</figure>
+{% include gallery id="gallery" %}
 
 ![](/assets/Photos/Campus1.jpg) 
 ![](/assets/Photos/Campus2.jpg) 
