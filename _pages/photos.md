@@ -24,7 +24,15 @@ gallery:
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
   - url: /assets/Photos/Glenarmd.jpg
     image_path: /assets/Photos/Glenarmd.jpg
-    title: "The Glenarm Coastal Walk, Northern Ireland (2021)."            
+    title: "The Glenarm Coastal Walk, Northern Ireland (2021)."     
+    
+  - url: /assets/Photos/Hedges1.jpg
+    image_path: /assets/Photos/Hedges1.jpg
+    title: "The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021)."              
+
+  - url: /assets/Photos/SunriseWinter.jpg
+    image_path: /assets/Photos/SunriseWinter.jpg
+    title: "Beautiful winter sunrise, Northern Ireland (2021)."                    
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -36,17 +44,17 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/Campus3.jpg)  -->
 <!--Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021).-->
 
-![](/assets/Photos/Glenarma.jpg)  
-![](/assets/Photos/Glenarmb.jpg)  
-![](/assets/Photos/Glenarmc.jpg)  
-![](/assets/Photos/Glenarmd.jpg)  
-The Glenarm Coastal Walk, Northern Ireland (2021).
+<!--![](/assets/Photos/Glenarma.jpg)  -->
+<!--![](/assets/Photos/Glenarmb.jpg)  -->
+<!--![](/assets/Photos/Glenarmc.jpg)  -->
+<!--![](/assets/Photos/Glenarmd.jpg)  -->
+<!--The Glenarm Coastal Walk, Northern Ireland (2021).-->
 
-![](/assets/Photos/Hedges1.jpg)  
-The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021).
+<!--![](/assets/Photos/Hedges1.jpg)  -->
+<!--The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021).-->
 
-![](/assets/Photos/SunriseWinter.jpg)  
-Beautiful winter sunrise, Northern Ireland (2021).
+<!--![](/assets/Photos/SunriseWinter.jpg)  -->
+<!--Beautiful winter sunrise, Northern Ireland (2021).-->
 
 ![](/assets/Photos/Rainbow.jpg)  
 A very rare almost double full-arch rainbow in winter, Northern Ireland (2021).
