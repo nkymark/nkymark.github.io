@@ -85,7 +85,15 @@ gallery:
     
   - url: /assets/Photos/TimPeake.jpg
     image_path: /assets/Photos/TimPeake.jpg
-    title: "Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule."                                                           
+    title: "Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule."
+    
+  - url: /assets/Photos/Cow.jpg
+    image_path: /assets/Photos/Cow.jpg
+    title: "A cow grazing greens right outside my bedroom on a beautiful spring day, Northern Ireland (2019)."
+    
+  - url: /assets/Photos/Sakura.jpg
+    image_path: /assets/Photos/Sakura.jpg
+    title: "Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019)."                                                                   
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -104,11 +112,11 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/TimPeake.jpg)  -->
 <!--Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule.-->
 
-![](/assets/Photos/Cow.jpg)  
-A cow grazing greens right outside my bedroom on a beautiful spring day, Northern Ireland (2019).
-
-![](/assets/Photos/Sakura.jpg)  
-Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019).
+<!--![](/assets/Photos/Cow.jpg)  -->
+<!--A cow grazing greens right outside my bedroom on a beautiful spring day, Northern Ireland (2019).-->
+<!---->
+<!--![](/assets/Photos/Sakura.jpg)  -->
+<!--Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019).-->
 
 ![](/assets/Photos/Larne.jpg)  
 Somewhere during spring time in Larne, Northern Ireland (2019).
