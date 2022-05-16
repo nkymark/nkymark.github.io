@@ -160,39 +160,38 @@ gallery:
     
   - url: /assets/Photos/Buddha.jpg
     image_path: /assets/Photos/Buddha.jpg
-    title: "The Big Buddha statue in Phuket, Thailand (2016)."                            
+    title: "The Big Buddha statue in Phuket, Thailand (2016)."      
+    
+  - url: /assets/Photos/Taiwan.jpg
+    image_path: /assets/Photos/Taiwan.jpg
+    title: "Experiencing the busy night market in Taichung, Taiwan (2015)."     
+    
+  - url: /assets/Photos/Oslo.jpg
+    image_path: /assets/Photos/Oslo.jpg
+    title: "View from the top of Oslo Opera House, Norway (2015)."         
+    
+  - url: /assets/Photos/Helsinki.jpg
+    image_path: /assets/Photos/Helsinki.jpg
+    title: "The great organ inside the White Cathedral in Helsinki, Finland (2015)."         
+    
+  - url: /assets/Photos/Volvo.jpg
+    image_path: /assets/Photos/Volvo.jpg
+    title: "Chasing the midnight sun during summer in Narvik, Norway (2014)."   
+    
+  - url: /assets/Photos/Rosengatan.jpg
+    image_path: /assets/Photos/Rosengatan.jpg
+    title: "Winter, looking out from my apartment in Linköping, Sweden (2014)."                                                
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
 {% include gallery id="gallery" %}
 
-<!--![](/assets/Photos/Trinity.jpg)  -->
-<!--Trinity College Library, Dublin, Ireland (2017).-->
+<!--![](/assets/Photos/Volvo.jpg)  -->
+<!--Chasing the midnight sun during summer in Narvik, Norway (2014).-->
 <!---->
-<!--![](/assets/Photos/Belfast.jpg)  -->
-<!--Christmas Market at Belfast City Hall, Northern Ireland (2017).-->
-
-<!--![](/assets/Photos/CarrickCastle.jpg)  -->
-<!--Carrickfergus Castle, Belfast, Northern Ireland (2017).-->
-<!---->
-<!--![](/assets/Photos/Buddha.jpg)  -->
-<!--The Big Buddha statue in Phuket, Thailand (2016).-->
-
-![](/assets/Photos/Taiwan.jpg)  
-Experiencing the busy night market in Taichung, Taiwan (2015).
-
-![](/assets/Photos/Oslo.jpg)  
-View from the top of Oslo Opera House, Norway (2015).
-
-![](/assets/Photos/Helsinki.jpg)  
-The great organ inside the White Cathedral in Helsinki, Finland (2015).
-
-![](/assets/Photos/Volvo.jpg)  
-Chasing the midnight sun during summer in Narvik, Norway (2014).
-
-![](/assets/Photos/Rosengatan.jpg)  
-Winter, looking out from the apartment that I stayed in Linköping, Sweden (2014).
+<!--![](/assets/Photos/Rosengatan.jpg)  -->
+<!--Winter, looking out from the apartment that I stayed in Linköping, Sweden (2014).-->
 
 ![](/assets/Photos/Bath.jpg)  
 Strolling along Pulteney Bridge, Bath, UK (2014).
@@ -318,3 +317,24 @@ An old fishing village in Kukup, Malaysia (2010).
 <!---->
 <!--![](/assets/Photos/Rathlin.jpg)  -->
 <!--RSPB Rathlin West Light Seabird Centre, Rathlin Island, Northern Ireland (2018).-->
+
+<!--![](/assets/Photos/Trinity.jpg)  -->
+<!--Trinity College Library, Dublin, Ireland (2017).-->
+<!---->
+<!--![](/assets/Photos/Belfast.jpg)  -->
+<!--Christmas Market at Belfast City Hall, Northern Ireland (2017).-->
+
+<!--![](/assets/Photos/CarrickCastle.jpg)  -->
+<!--Carrickfergus Castle, Belfast, Northern Ireland (2017).-->
+<!---->
+<!--![](/assets/Photos/Buddha.jpg)  -->
+<!--The Big Buddha statue in Phuket, Thailand (2016).-->
+
+<!--![](/assets/Photos/Taiwan.jpg)  -->
+<!--Experiencing the busy night market in Taichung, Taiwan (2015).-->
+
+<!--![](/assets/Photos/Oslo.jpg)  -->
+<!--View from the top of Oslo Opera House, Norway (2015).-->
+
+<!--![](/assets/Photos/Helsinki.jpg)  -->
+<!--The great organ inside the White Cathedral in Helsinki, Finland (2015).-->
