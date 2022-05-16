@@ -6,15 +6,12 @@ title: Photos
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
 
-<!--<figure class="half">-->
-<!--  <a href="/assets/Photos/Campus1.jpg">-->
-<!--  <img src="/assets/Photos/Campus1.jpg></a>-->
-<!--  -->
-<!--  <a href="/assets/Photos/Campus1.jpg">-->
-<!--  <img src="/assets/Photos/Campus1.jpg></a>-->
-<!---->
-<!--  <figcaption>Gallery with a two image per row grid.</figcaption>-->
-<!--</figure>-->
+<figure class="third">
+  <img src="/assets/Photos/Campus1.jpg>
+  <img src="/assets/Photos/Campus1.jpg>
+  <img src="/assets/Photos/Campus1.jpg>
+  <figcaption>Gallery with a two image per row grid.</figcaption>
+</figure>
 
 ![](/assets/Photos/Campus1.jpg) 
 ![](/assets/Photos/Campus2.jpg) 
