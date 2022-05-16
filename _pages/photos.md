@@ -192,7 +192,19 @@ gallery:
     
   - url: /assets/Photos/NationalMonument.jpg
     image_path: /assets/Photos/NationalMonument.jpg
-    title: "The National Monument, Scotland (2013)."                                                               
+    title: "The National Monument, Scotland (2013)."   
+    
+  - url: /assets/Photos/VW.jpg
+    image_path: /assets/Photos/VW.jpg
+    title: "Seeing the VW XL1 in the metal outside Buckingham Palace, London, UK (2013)."   
+    
+  - url: /assets/Photos/Singapore.jpg
+    image_path: /assets/Photos/Singapore.jpg
+    title: "Overlooking the night skyline of San Marina Bay, Singapore (2012)."    
+    
+  - url: /assets/Photos/Hopper.jpg
+    image_path: /assets/Photos/Hopper.jpg
+    title: "A garden invader spotted in action, Malaysia (2012)."                                                                           
 ---
 
 I enjoy photography and here are some of the photos that I have taken during my travels. This page will be updated continuously as my collection increases :)
@@ -208,11 +220,11 @@ I enjoy photography and here are some of the photos that I have taken during my 
 <!--![](/assets/Photos/NationalMonument.jpg)  -->
 <!--The National Monument, Scotland (2013).-->
 
-![](/assets/Photos/VW.jpg)  
-Seeing the VW XL1 in the metal outside Buckingham Palace, London, UK (2013).
-
-![](/assets/Photos/Singapore.jpg)  
-Overlooking the night skyline of San Marina Bay, Singapore (2012).
+<!--![](/assets/Photos/VW.jpg)  -->
+<!--Seeing the VW XL1 in the metal outside Buckingham Palace, London, UK (2013).-->
+<!---->
+<!--![](/assets/Photos/Singapore.jpg)  -->
+<!--Overlooking the night skyline of San Marina Bay, Singapore (2012).-->
 
 ![](/assets/Photos/Hopper.jpg)  
 A garden invader spotted in action, Malaysia (2012).
