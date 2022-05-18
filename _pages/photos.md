@@ -3,6 +3,10 @@ permalink: /photos/
 layout: single
 title: Photos
 gallery:
+  - url: /assets/Photos/VolvoHQ.jpg
+    image_path: /assets/Photos/VolvoHQ.jpg
+    title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
+    
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
