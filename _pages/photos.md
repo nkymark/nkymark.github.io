@@ -18,16 +18,16 @@ gallery:
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
     
   - url: /assets/Photos/Glenarma.jpg
-    image_path: /assets/Photos/Glenarma.jpg
+    image_path: /assets/Photos/Glenarma_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
   - url: /assets/Photos/Glenarmb.jpg
-    image_path: /assets/Photos/Glenarmb.jpg
+    image_path: /assets/Photos/Glenarmb_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
   - url: /assets/Photos/Glenarmc.jpg
-    image_path: /assets/Photos/Glenarmc.jpg
+    image_path: /assets/Photos/Glenarmc_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
   - url: /assets/Photos/Glenarmd.jpg
-    image_path: /assets/Photos/Glenarmd.jpg
+    image_path: /assets/Photos/Glenarmd_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."     
     
   - url: /assets/Photos/Hedges1.jpg
