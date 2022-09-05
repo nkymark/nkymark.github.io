@@ -139,19 +139,19 @@ gallery:
     image_path: /assets/Photos/Cambridge_T.jpg
     title: "Looking across River Cam and Magdalene College from Magdalene Bridge, Cambridge, UK (2018)."                                                                                                           
   - url: /assets/Photos/Newton.jpg
-    image_path: /assets/Photos/Newton.jpg
+    image_path: /assets/Photos/Newton_T.jpg
     title: "The famed Isaac Newton apple tree, Cambridge, UK (2018)."    
     
   - url: /assets/Photos/Rathlin.jpg
-    image_path: /assets/Photos/Rathlin.jpg
+    image_path: /assets/Photos/Rathlin_T.jpg
     title: "RSPB Rathlin West Light Seabird Centre, Rathlin Island, Northern Ireland (2018)."    
     
   - url: /assets/Photos/Connemara.jpg
-    image_path: /assets/Photos/Connemara.jpg
+    image_path: /assets/Photos/Connemara_T.jpg
     title: "Connemara National Park, Ireland (2018)."           
     
   - url: /assets/Photos/Trinity.jpg
-    image_path: /assets/Photos/Trinity.jpg
+    image_path: /assets/Photos/Trinity_T.jpg
     title: "Trinity College Library, Dublin, Ireland (2017)."           
     
   - url: /assets/Photos/Belfast.jpg
