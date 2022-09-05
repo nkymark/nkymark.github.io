@@ -187,34 +187,34 @@ gallery:
     title: "Winter, looking out from my apartment in Linköping, Sweden (2014)."       
     
   - url: /assets/Photos/Bath.jpg
-    image_path: /assets/Photos/Bath.jpg
+    image_path: /assets/Photos/Bath_T.jpg
     title: "Strolling along Pulteney Bridge, Bath, UK (2014)."       
     
   - url: /assets/Photos/Scotland.jpg
-    image_path: /assets/Photos/Scotland.jpg
+    image_path: /assets/Photos/Scotland_T.jpg
     title: "The exact same spot somewhere in Scotland where Bond and M shot their scene in Skyfall (2013)."    
     
   - url: /assets/Photos/NationalMonument.jpg
-    image_path: /assets/Photos/NationalMonument.jpg
+    image_path: /assets/Photos/NationalMonument_T.jpg
     title: "The National Monument, Scotland (2013)."   
     
   - url: /assets/Photos/VW.jpg
-    image_path: /assets/Photos/VW.jpg
+    image_path: /assets/Photos/VW_T.jpg
     title: "Seeing the VW XL1 in the metal outside Buckingham Palace, London, UK (2013)."   
     
   - url: /assets/Photos/Singapore.jpg
-    image_path: /assets/Photos/Singapore.jpg
+    image_path: /assets/Photos/Singapore_T.jpg
     title: "Overlooking the night skyline of San Marina Bay, Singapore (2012)."    
     
   - url: /assets/Photos/Hopper.jpg
-    image_path: /assets/Photos/Hopper.jpg
+    image_path: /assets/Photos/Hopper_T.jpg
     title: "A garden invader spotted in action, Malaysia (2012)."         
     
   - url: /assets/Photos/Crab.jpg
-    image_path: /assets/Photos/Crab.jpg
+    image_path: /assets/Photos/Crab_T.jpg
     title: "Juvenile crab in a bottle at Cherating, Malaysia. It was released back to its habitat after the photoshoot (2012)."                                                                               
   - url: /assets/Photos/Bali.jpg
-    image_path: /assets/Photos/Bali.jpg
+    image_path: /assets/Photos/Bali_T.jpg
     title: "The majestic sunset at Tanah Lot, Bali, Indonesia (2011)."     
     
   - url: /assets/Photos/TwelveApostles.jpg
