@@ -80,15 +80,15 @@ gallery:
     title: "Christmas Market at Belfast City Hall, Northern Ireland (2019)." 
     
   - url: /assets/Photos/Snowman.jpg
-    image_path: /assets/Photos/Snowman.jpg
+    image_path: /assets/Photos/Snowman_T.jpg
     title: "The Ulster Orchestra performing scores from The Snowman (2019)."         
     
   - url: /assets/Photos/Giants.jpg
-    image_path: /assets/Photos/Giants.jpg
+    image_path: /assets/Photos/Giants_T.jpg
     title: "Visiting the Giant's Causeway, Northern Ireland during autumn (2019)."         
     
   - url: /assets/Photos/TimPeake.jpg
-    image_path: /assets/Photos/TimPeake.jpg
+    image_path: /assets/Photos/TimPeake_T.jpg
     title: "Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule."
     
   - url: /assets/Photos/Cow.jpg
