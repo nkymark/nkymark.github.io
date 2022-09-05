@@ -218,27 +218,27 @@ gallery:
     title: "The majestic sunset at Tanah Lot, Bali, Indonesia (2011)."     
     
   - url: /assets/Photos/TwelveApostles.jpg
-    image_path: /assets/Photos/TwelveApostles.jpg
+    image_path: /assets/Photos/TwelveApostles_T.jpg
     title: "The remaining of the 12 Apostles at The Great Ocean Road, Australia (2011)."
     
   - url: /assets/Photos/Kangaroo.jpg
-    image_path: /assets/Photos/Kangaroo.jpg
+    image_path: /assets/Photos/Kangaroo_T.jpg
     title: "A cute friend that I met in Melbourne, Australia (2011)."
     
   - url: /assets/Photos/Ballarat.jpg
-    image_path: /assets/Photos/Ballarat.jpg
+    image_path: /assets/Photos/Ballarat_T.jpg
     title: "Actors reenacting scenes at the Sovereign Hill, Ballarat, Australia (2011)."                   
     
   - url: /assets/Photos/HK.jpg
-    image_path: /assets/Photos/HK.jpg
+    image_path: /assets/Photos/HK_T.jpg
     title: "The beautiful night skyline in Hong Kong (2011)."   
     
   - url: /assets/Photos/Schumi.jpg
-    image_path: /assets/Photos/Schumi.jpg
+    image_path: /assets/Photos/Schumi_T.jpg
     title: "A disappointed Schumi after crashing out at the 2010 Sepang Grand Prix, Malaysia (2010)."       
     
   - url: /assets/Photos/Kukup.jpg
-    image_path: /assets/Photos/Kukup.jpg
+    image_path: /assets/Photos/Kukup_T.jpg
     title: "An old fishing village in Kukup, Malaysia (2010)."                             
 ---
 
