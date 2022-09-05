@@ -155,19 +155,19 @@ gallery:
     title: "Trinity College Library, Dublin, Ireland (2017)."           
     
   - url: /assets/Photos/Belfast.jpg
-    image_path: /assets/Photos/Belfast.jpg
+    image_path: /assets/Photos/Belfast_T.jpg
     title: "Christmas Market at Belfast City Hall, Northern Ireland (2017)."          
     
   - url: /assets/Photos/CarrickCastle.jpg
-    image_path: /assets/Photos/CarrickCastle.jpg
+    image_path: /assets/Photos/CarrickCastle_T.jpg
     title: "Carrickfergus Castle, Belfast, Northern Ireland (2017)."          
     
   - url: /assets/Photos/Buddha.jpg
-    image_path: /assets/Photos/Buddha.jpg
+    image_path: /assets/Photos/Buddha_T.jpg
     title: "The Big Buddha statue in Phuket, Thailand (2016)."      
     
   - url: /assets/Photos/Taiwan.jpg
-    image_path: /assets/Photos/Taiwan.jpg
+    image_path: /assets/Photos/Taiwan_T.jpg
     title: "Experiencing the busy night market in Taichung, Taiwan (2015)."     
     
   - url: /assets/Photos/Oslo.jpg
