@@ -104,15 +104,15 @@ gallery:
     title: "Near Islandmagee during spring time, Northern Ireland (2019)."      
     
   - url: /assets/Photos/Ulster.jpg
-    image_path: /assets/Photos/Ulster.jpg
+    image_path: /assets/Photos/Ulster_T.jpg
     title: "Entrance to the Ulster University Jordanstown Campus, Northern Ireland (2019)."         
     
   - url: /assets/Photos/Wall.jpg
-    image_path: /assets/Photos/Wall.jpg
+    image_path: /assets/Photos/Wall_T.jpg
     title: "The Walled Garden at Glendarm Castle during spring time, Northern Ireland (2019)."         
     
   - url: /assets/Photos/GoT.jpg
-    image_path: /assets/Photos/GoT.jpg
+    image_path: /assets/Photos/GoT_T.jpg
     title: "A small portion of the Game of Thrones tapestry at the Ulster Museum, Northern Ireland (2019)."         
     
   - url: /assets/Photos/Karaoke.jpg
