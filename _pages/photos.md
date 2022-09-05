@@ -171,19 +171,19 @@ gallery:
     title: "Experiencing the busy night market in Taichung, Taiwan (2015)."     
     
   - url: /assets/Photos/Oslo.jpg
-    image_path: /assets/Photos/Oslo.jpg
+    image_path: /assets/Photos/Oslo_T.jpg
     title: "View from the top of Oslo Opera House, Norway (2015)."         
     
   - url: /assets/Photos/Helsinki.jpg
-    image_path: /assets/Photos/Helsinki.jpg
+    image_path: /assets/Photos/Helsinki_T.jpg
     title: "The great organ inside the White Cathedral in Helsinki, Finland (2015)."         
     
   - url: /assets/Photos/Volvo.jpg
-    image_path: /assets/Photos/Volvo.jpg
+    image_path: /assets/Photos/Volvo_T.jpg
     title: "Chasing the midnight sun during summer in Narvik, Norway (2014)."   
     
   - url: /assets/Photos/Rosengatan.jpg
-    image_path: /assets/Photos/Rosengatan.jpg
+    image_path: /assets/Photos/Rosengatan_T.jpg
     title: "Winter, looking out from my apartment in Linköping, Sweden (2014)."       
     
   - url: /assets/Photos/Bath.jpg
