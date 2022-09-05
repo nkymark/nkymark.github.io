@@ -116,15 +116,15 @@ gallery:
     title: "A small portion of the Game of Thrones tapestry at the Ulster Museum, Northern Ireland (2019)."         
     
   - url: /assets/Photos/Karaoke.jpg
-    image_path: /assets/Photos/Karaoke.jpg
+    image_path: /assets/Photos/Karaoke_T.jpg
     title: "The entrance to a karaoke box outlet in Kuala Lumpur, Malaysia (2019)."         
     
   - url: /assets/Photos/Ceiling.jpg
-    image_path: /assets/Photos/Ceiling.jpg
+    image_path: /assets/Photos/Ceiling_T.jpg
     title: "Interesting soundproofing panels on the ceiling of a jazz bar in Kuala Lumpur, Malaysia (2019)."     
     
   - url: /assets/Photos/InnsbruckTrain.jpg
-    image_path: /assets/Photos/InnsbruckTrain.jpg
+    image_path: /assets/Photos/InnsbruckTrain_T.jpg
     title: "The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018)."     
     
   - url: /assets/Photos/Alps.jpg
