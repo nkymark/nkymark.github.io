@@ -3,18 +3,18 @@ permalink: /photos/
 layout: single
 title: Photos
 gallery:
-  - url: /assets/Photos/Glenarma.jpg
-    image_path: /assets/Photos/VolvoHQ.jpg
+  - url: /assets/Photos/VolvoHQ.jpg
+    image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
     
   - url: /assets/Photos/Campus1.jpg
-    image_path: /assets/Photos/Campus1.jpg
+    image_path: /assets/Photos/Campus1_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
   - url: /assets/Photos/Campus2.jpg
-    image_path: /assets/Photos/Campus2.jpg
+    image_path: /assets/Photos/Campus2_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
   - url: /assets/Photos/Campus3.jpg
-    image_path: /assets/Photos/Campus3.jpg
+    image_path: /assets/Photos/Campus3_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
     
   - url: /assets/Photos/Glenarma.jpg
