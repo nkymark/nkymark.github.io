@@ -31,11 +31,11 @@ gallery:
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."     
     
   - url: /assets/Photos/Hedges1.jpg
-    image_path: /assets/Photos/Hedges1.jpg
+    image_path: /assets/Photos/Hedges1_T.jpg
     title: "The Dark Hedges aka KingsRoad in Game of Thrones, Northern Ireland (2021)."              
 
   - url: /assets/Photos/SunriseWinter.jpg
-    image_path: /assets/Photos/SunriseWinter.jpg
+    image_path: /assets/Photos/SunriseWinter_T.jpg
     title: "Beautiful winter sunrise, Northern Ireland (2021)."    
     
   - url: /assets/Photos/Rainbow.jpg
