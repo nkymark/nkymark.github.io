@@ -92,15 +92,15 @@ gallery:
     title: "Tim Peake’s space capsule on display at the Ulster Transportation Museum, Northern Ireland (2019). Notice the control panel inside the capsule."
     
   - url: /assets/Photos/Cow.jpg
-    image_path: /assets/Photos/Cow.jpg
+    image_path: /assets/Photos/Cow_T.jpg
     title: "A cow grazing greens right outside my bedroom on a beautiful spring day, Northern Ireland (2019)."
     
   - url: /assets/Photos/Sakura.jpg
-    image_path: /assets/Photos/Sakura.jpg
+    image_path: /assets/Photos/Sakura_T.jpg
     title: "Cherry blossoms at the Merville Garden Village during spring time, Northern Ireland (2019)."      
     
   - url: /assets/Photos/Larne.jpg
-    image_path: /assets/Photos/Larne.jpg
+    image_path: /assets/Photos/Larne_T.jpg
     title: "Near Islandmagee during spring time, Northern Ireland (2019)."      
     
   - url: /assets/Photos/Ulster.jpg
