@@ -128,15 +128,15 @@ gallery:
     title: "The Alps, trains, and a jet in the sky. What’s not to love? Innsbruck, Austria (2018)."     
     
   - url: /assets/Photos/Alps.jpg
-    image_path: /assets/Photos/Alps.jpg
+    image_path: /assets/Photos/Alps_T.jpg
     title: "On top of the Alps in Innsbruck, Austria (2018)."                   
     
   - url: /assets/Photos/Diesel.jpg
-    image_path: /assets/Photos/Diesel.jpg
+    image_path: /assets/Photos/Diesel_T.jpg
     title: "Visiting Augsburg University of Applied Sciences, Augsburg, Germany (2018). Pictured here is one of the first diesel engines made based on the design of Rudolf Diesel."
     
   - url: /assets/Photos/Cambridge.jpg
-    image_path: /assets/Photos/Cambridge.jpg
+    image_path: /assets/Photos/Cambridge_T.jpg
     title: "Looking across River Cam and Magdalene College from Magdalene Bridge, Cambridge, UK (2018)."                                                                                                           
   - url: /assets/Photos/Newton.jpg
     image_path: /assets/Photos/Newton.jpg
