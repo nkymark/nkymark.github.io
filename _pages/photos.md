@@ -3,7 +3,7 @@ permalink: /photos/
 layout: single
 title: Photos
 gallery:
-  - url: /assets/Photos/VolvoHQ.jpg
+  - url: /assets/Photos/Glenarma.jpg
     image_path: /assets/Photos/VolvoHQ.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
     
