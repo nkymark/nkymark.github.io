@@ -11,7 +11,7 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ##
-<img align="right" src="/assets/Figures/Facilities.jpg" width="400">
+<img align="right" src="/assets/Figures/Facilities.png" width="400">
 
 * NVIDIA Jetson TX2  
 
