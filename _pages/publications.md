@@ -130,7 +130,7 @@ DOI:10.1002/rnc.1170
 ### Conference Proceedings ###
 * S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
 Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis,
-*2022 IEEE Signal Processing in Medicine and Biology Symposium (In press)*, Temple University, Pennsylvania, USA.
+*2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022) (In press)*, Temple University, Pennsylvania, USA.
 * S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
 [Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm](https://doi.org/10.1109/MELECON53508.2022.9843099),
 *21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435.
