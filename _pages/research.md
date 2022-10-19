@@ -46,4 +46,6 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <img src="/assets/Figures/UKM.png" width="200">&emsp;&emsp;  
 
+<img src="/assets/Figures/DoHWA.png" width="320">&emsp;&emsp;    
+
  
