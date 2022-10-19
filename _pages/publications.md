@@ -19,6 +19,10 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Journal Articles ###  
+* **K. Y. Ng**, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin (2022),
+[Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels](https://doi.org/10.1007/s13437-022-00291-1),
+*WMU Journal of Maritime Affairs*.
+DOI:10.1007/s13437-022-00291-1
 * M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin (2021),
 [COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps](https://doi.org/10.1016/j.jbi.2021.103905),
 *Journal of Biomedical Informatics*, pp. 103905.
