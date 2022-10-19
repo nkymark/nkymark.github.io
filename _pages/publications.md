@@ -125,11 +125,12 @@ DOI:10.1002/rnc.1170
 
 ### Conference Proceedings ###
 * S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
-[Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm](http://128.84.4.18/pdf/2110.01742),
-*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022) (In Press)*, Palermo, Italy.
+[Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm](https://doi.org/10.1109/MELECON53508.2022.9843099),
+*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435.
+DOI:10.1109/MELECON53508.2022.9843099
 * N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2021),
 [Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm](https://ieeexplore.ieee.org/document/9689257),
-*2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan.
+*2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276.
 * **K. Y. Ng**, E. Frisk, and M. Krysander (2020), 
 [Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System](https://doi.org/10.1109/CoDIT49905.2020.9263792),
 *2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81. 
