@@ -1,6 +1,6 @@
 ---
 title:  "*IEEE SPMB 2022*"
-date:   2022-11-30 09:00:00 +0000
+date:   2022-11-29 09:00:00 +0000
 ---
 
 The 2022 *IEEE Signal Processing in Medicine and Biology Symposium* will be held on 3rd December 2022, starting at 0800 EST (1300 GMT). The symposium is sponsored by Temple University's [The Neural Engineering Data Consortium](http://www.nedcdata.org/) and the [Philadelphia Section of the IEEE](https://r2.ieee.org/philadelphia/). The IEEE SPMB aims to promote interdisciplinary papers across a wide range of topics including analysis of biomedical signals and images, machine learning, as well as data and educational resources.
