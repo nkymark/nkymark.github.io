@@ -7,7 +7,7 @@ The 2022 *IEEE Signal Processing in Medicine and Biology Symposium* will be held
 
 Mark Ng will be chairing the Lecture Session #2. PhD researcher Scot Davidson will also be presenting on "Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis".
 
-Please use [this link](https://isip.piconepress.com/conferences/ieee_spmb/2022/html/program.shtml) to access the latest and most up-to-date program of the symposium.
+Please use [this link](https://isip.piconepress.com/conferences/ieee_spmb/2022/html/program.shtml) to access the latest and most up-to-date technical program.
 
 Full papers should be available for access on the IEEE Xplore in February 2023.
 
