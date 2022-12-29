@@ -19,6 +19,10 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Journal Articles ###  
+* T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin (2023), 
+A novel patches- selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers](https://doi.org/10.1016/j.bios.2022.115016), 
+*Biosensors and Bioelectronics*, vol. 223, pp. 115016. 
+DOI:10.1016/j.bios.2022.115016
 * **K. Y. Ng**, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin (2022),
 [Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels](https://doi.org/10.1007/s13437-022-00291-1),
 *WMU Journal of Maritime Affairs*.
