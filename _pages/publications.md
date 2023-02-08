@@ -31,99 +31,99 @@ DOI:10.1007/s13437-022-00291-1
 [COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps](https://doi.org/10.1016/j.jbi.2021.103905),
 *Journal of Biomedical Informatics*, pp. 103905.
 DOI:10.1016/j.jbi.2021.103905  
-* L. J. Robertson, J. S. Moore, K. Blighe, et al. (2021), 
+1. L. J. Robertson, J. S. Moore, K. Blighe, et al. (2021), 
 [Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months](https://bmjopen.bmj.com/content/11/6/e048142), 
 *BMJ Open*, vol. 11, no. 6, e048142.
 DOI:10.1136/bmjopen-2020-048142  
-* P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin (2021), 
+1. P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin (2021), 
 [Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic](https://doi.org/10.7717/peerj.10992), 
 *PeerJ*, pp. e10992. 
 DOI:10.7717/peerj.10992  
-* T. D. Do, M. M. Gui, and **K. Y. Ng** (2021), 
+1. T. D. Do, M. M. Gui, and **K. Y. Ng** (2021), 
 [Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan](https://dx.doi.org/10.7717/peerj.10806), 
 *PeerJ*, pp. e10806. 
 DOI:10.7717/peerj.10806 
-* **K. Y. Ng** and M. M. Gui (2020),
+1. **K. Y. Ng** and M. M. Gui (2020),
 [COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility](https://doi.org/10.1016/j.physd.2020.132599), 
 *Physica D: Nonlinear Phenomena*, vol. 411, pp. 132599. 
 DOI:10.1016/j.physd.2020.132599  
-* **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020), 
+1. **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson (2020), 
 [A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83. 
 DOI:10.1109/MCS.2019.2961793  
 <!--- <img src="/assets/Figures/GUI.png" width="840"> 
 --->
-* S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen (2018), 
+1. S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen (2018), 
 [Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device](https://doi.org/10.1109/ACCESS.2018.2872320), 
 *IEEE Access*, vol. 6, pp. 54751–54759. 
 DOI:10.1109/ACCESS.2018.2872320  
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
-* D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2018), 
+1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2018), 
 [Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation](https://doi.org/10.1016/j.conengprac.2018.08.013), 
 *Control Engineering Practice*, vol. 80, pp. 146–156. 
 DOI:10.1016/j.conengprac.2018.08.013  
 <!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
 --->
-* L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh (2018), 
+1. L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh (2018), 
 [Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review](https://doi.org/10.1002/jctb.5490), 
 *Journal of Chemical Technology and Biotechnology*, vol. 93, pp. 925–935. 
 DOI:10.1002/jctb.5490  
-* J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng** (2017), 
+1. J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng** (2017), 
 [A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems](https://doi.org/10.1109/TAC.2017.2665699), 
 *IEEE Transactions on Automatic Control*, vol. 62, no. 7, pp. 3580-3587. 
 DOI:10.1109/TAC.2017.2665699  
 <!--- <img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520"> 
 --->
-* S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen (2017), 
+1. S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen (2017), 
 [Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system](http://dx.doi.org/10.1016/j.enbuild.2016.12.069), 
 *Energy and Buildings*, vol. 138, pp. 368–378. 
 DOI:10.1016/j.enbuild.2016.12.069  
 <!--- <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
 --->
-* J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng** (2016), [
+1. J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng** (2016), [
 A common functional observer scheme for three systems with unknown inputs](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020), 
 *Journal of The Franklin Institute*, vol. 353, no. 10, pp. 2237–2257. 
 DOI:10.1016/j.jfranklin.2016.03.020  
 <!--- <img src="/assets/Figures/Franklin2016.png" width="900">
 --->
-* J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh (2015), [
+1. J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh (2015), [
 New results in common functional state estimation for two linear systems with unknown inputs](https://doi.org/10.1007/s12555-014-0315-x), 
 *International Journal of Control, Automation and Systems*, vol. 13, no. 6, pp. 1538–1543. 
 DOI:10.1007/s12555-014-0315-x  
 <!--- <img src="/assets/Figures/IJCAS2015a.png" width="420">&emsp;<img src="/assets/Figures/IJCAS2015b.png" width="420">
 --->
-* J. H. T. Ooi, C. P. Tan, and **K. Y. Ng** (2015), [
+1. J. H. T. Ooi, C. P. Tan, and **K. Y. Ng** (2015), [
 State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers](https://doi.org/10.1002/asjc.1033), 
 *Asian Journal of Control*, vol. 17, pp. 1458–1461. 
 DOI:10.1002/asjc.1033  
 <!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/AJC2015a.png" width="250">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
 --->
-* C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh (2014), 
+1. C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh (2014), 
 [New results in robust functional state estimation using two sliding mode observers in cascade](https://doi.org/10.1002/rnc.2973), 
 *International Journal of Robust and Nonlinear Control*, vol. 24, no. 15, pp. 2079–2097. 
 DOI:10.1002/rnc.2973  
 <!--- <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
 --->
-* **K. Y. Ng**, C. P. Tan, and D. Oetomo (2012), 
+1. **K. Y. Ng**, C. P. Tan, and D. Oetomo (2012), 
 [Disturbance decoupled fault reconstruction using cascaded sliding mode observers](https://doi.org/10.1016/j.automatica.2012.02.005), 
 *Automatica*, vol. 48, no. 5, pp. 794–799. 
 DOI:10.1016/j.automatica.2012.02.005  
 <!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
 --->
-* **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards (2010), 
+1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards (2010), 
 [Disturbance decoupled fault reconstruction using sliding mode observers](https://doi.org/10.1002/asjc.231), 
 *Asian Journal of Control*, vol. 12, no. 5, pp. 656–660. 
 DOI:10.1002/asjc.231  
 <!--- <img src="/assets/Figures/AJC2010a.png" width="320">&emsp;<img src="/assets/Figures/AJC2010b.png" width="520">
 --->
-* **K. Y. Ng**, C. P. Tan, Z. Man, and R. Akmeliawati (2010), 
+1. **K. Y. Ng**, C. P. Tan, Z. Man, and R. Akmeliawati (2010), 
 [New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade](https://doi.org/10.1007/s12555-010-0303-8), 
 *International Journal of Control, Automation and Systems*, vol. 8, no. 3, pp. 506–518. 
 DOI:10.1007/s12555-010-0303-8  
 <!--- <img src="/assets/Figures/IJCAS2010a.png" width="520">&emsp;<img src="/assets/Figures/IJCAS2010b.png" width="320">
 --->
-* **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang (2007), 
+1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang (2007), 
 [New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers](https://doi.org/10.1002/rnc.1170), 
 *International Journal of Robust and Nonlinear Control*, vol. 17, no. 14, pp. 1294–1319. 
 DOI:10.1002/rnc.1170  
