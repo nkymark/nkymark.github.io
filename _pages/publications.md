@@ -6,9 +6,12 @@ title: Publications
 
 <!---
 ## Scholarly Publications ##
+--->
 
 ### Preprints ###
---->
+1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2023),
+[Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric](https://doi.org/10.48550/arXiv.2302.03504),
+*arXiv preprint*, 
 
 ### Selected Key Publications ###
 [<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
@@ -136,7 +139,7 @@ DOI:10.1002/rnc.1170
 Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification,
 *57th Annual Conference on Information Sciences and Systems (CISS 2023) (In press)*, Johns Hopkins University, Baltimore, Maryland, USA.
 * S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
-[Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis](https://10.1109/SPMB55497.2022.10014769),
+[Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis](https://doi.org/10.1109/SPMB55497.2022.10014769),
 *2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7.
 DOI:10.1109/SPMB55497.2022.10014769
 * S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
