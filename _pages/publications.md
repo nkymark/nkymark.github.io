@@ -8,10 +8,6 @@ title: Publications
 ## Scholarly Publications ##
 --->
 
-### Preprints ###
-1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2023),
-[Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric](https://doi.org/10.48550/arXiv.2302.03504),
-*arXiv preprint arXiv:2302.03504*. 
 
 ### Selected Key Publications ###
 [<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
@@ -20,6 +16,11 @@ title: Publications
 [<img src="/assets/Figures/IEEETAC.png" width="300">](https://ieeexplore.ieee.org/abstract/document/7847334/)
 [<img src="/assets/Figures/Automatica.png" width="300">](https://www.sciencedirect.com/science/article/pii/S000510981200043X)
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
+
+### Preprints ###
+1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2023),
+[Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric](https://doi.org/10.48550/arXiv.2302.03504),
+*arXiv preprint arXiv:2302.03504*. 
 
 ### Journal Articles ###  
 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin (2023), 
