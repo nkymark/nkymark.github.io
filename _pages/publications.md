@@ -135,81 +135,81 @@ DOI:10.1002/rnc.1170
 
 
 ### Conference Proceedings ###
-* N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
+1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
 Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification,
 *57th Annual Conference on Information Sciences and Systems (CISS 2023) (In press)*, Johns Hopkins University, Baltimore, Maryland, USA.
-* S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
+1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
 [Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis](https://doi.org/10.1109/SPMB55497.2022.10014769),
 *2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7.
 DOI:10.1109/SPMB55497.2022.10014769
-* S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
+1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
 [Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm](https://doi.org/10.1109/MELECON53508.2022.9843099),
 *21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435.
 DOI:10.1109/MELECON53508.2022.9843099
-* N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2021),
+1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2021),
 [Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm](https://ieeexplore.ieee.org/document/9689257),
 *2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276.
-* **K. Y. Ng**, E. Frisk, and M. Krysander (2020), 
+1. **K. Y. Ng**, E. Frisk, and M. Krysander (2020), 
 [Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System](https://doi.org/10.1109/CoDIT49905.2020.9263792),
 *2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81. 
 DOI:10.1109/CoDIT49905.2020.9263792
-* P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin (2019), 
+1. P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin (2019), 
 [Early prediction of sepsis considering Early Warning Scoring systems](https://doi.org/10.22489/cinc.2019.051), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore. 
 DOI:10.22489/cinc.2019.051  
-* N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona (2019), 
+1. N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona (2019), 
 [Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques](https://doi.org/10.22489/cinc.2019.313), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore. 
 DOI:10.22489/cinc.2019.313  
-* S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen (2016), 
+1. S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen (2016), 
 [Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system](https://doi.org/10.1109/SCORED.2016.7810062), 
 *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia. 
 DOI:10.1109/SCORED.2016.7810062  
-* D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2016), 
+1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander (2016), 
 [A combined diagnosis system design using model-based and data-driven methods](https://doi.org/10.1109/SYSTOL.2016.7739747), 
 *IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, pp. 177–182. 
 DOI:10.1109/SYSTOL.2016.7739747  
 <!--- <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
 --->
-* W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan (2016), 
+1. W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan (2016), 
 [Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s](https://doi.org/10.1109/ICARCV.2016.7838614), 
 *IEEE ICARCV*, Phuket, Thailand. 
 DOI:10.1109/ICARCV.2016.7838614  
-* S. J. W. Tang, **K. Y. Ng**, B. H. Khoo, and J. Parkkinen (2015), 
+1. S. J. W. Tang, **K. Y. Ng**, B. H. Khoo, and J. Parkkinen (2015), 
 [Real-time lane detection and rear-end collision warning system on a mobile computing platform](https://doi.org/10.1109/COMPSAC.2015.171), 
 *IEEE COMPSAC*, Taichung, Taiwan, pp. 563–568. 
 DOI:10.1109/COMPSAC.2015.171  
 <!--- <img src="/assets/Figures/COMPSAC2015ba.png" width="420">&emsp;<img src="/assets/Figures/COMPSAC2015bb.png" width="420">
 --->
-* W. C. Chew, **K. Y. Ng**, and B. H. Khoo (2015), 
+1. W. C. Chew, **K. Y. Ng**, and B. H. Khoo (2015), 
 [ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis](https://doi.org/10.1109/COMPSAC.2015.170), 
 *IEEE COMPSAC*, Taichung, Taiwan, pp. 569–574. 
 DOI:10.1109/COMPSAC.2015.170  
 <!--- <img src="/assets/Figures/COMPSAC2015aa.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015ab.png" width="520">
 --->
-* **K. Y. Ng**, C. P. Tan, and D. Oetomo (2012), 
+1. **K. Y. Ng**, C. P. Tan, and D. Oetomo (2012), 
 [Enhanced fault reconstruction using cascaded sliding mode observers](https://doi.org/10.1109/VSS.2012.6163503), 
 *12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, pp. 208– 213. 
 DOI:10.1109/VSS.2012.6163503  
-* C. Fernandes, **K. Y. Ng**, and B. H. Khoo (2011), 
+1. C. Fernandes, **K. Y. Ng**, and B. H. Khoo (2011), 
 [Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK](https://doi.org/10.1109/TENCON.2011.6129266), 
 *IEEE TENCON*, Bali, Indonesia, pp. 1025–1029. 
 DOI:10.1109/TENCON.2011.6129266  
 <!--- <img src="/assets/Figures/TENCON2011a.png" width="420">&emsp;<img src="/assets/Figures/TENCON2011b.png" width="420">
 --->
-* **K. Y. Ng** and C. P. Tan (2009), 
+1. **K. Y. Ng** and C. P. Tan (2009), 
 [New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade](https://doi.org/10.3182/20090630-4-ES-2003.00128), 
 *7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, vol. 42, no. 8, pp. 780-785. 
 DOI:10.3182/20090630-4-ES-2003.00128  
-* **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards (2008), 
+1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards (2008), 
 [Disturbance decoupled fault reconstruction using sliding mode observers](https://doi.org/10.3182/20080706-5-KR-1001.01221), 
 *17th IFAC World Congress*, Seoul, South Korea, vol. 41, no. 2, pp. 7215-7220. 
 DOI:10.3182/20080706-5-KR-1001.01221  
-* **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang (2007), 
+1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang (2007), 
 [New result in robust actuator fault reconstruction with application to an aircraft](https://doi.org/10.1109/CCA.2007.4389331), 
 *IEEE CCA*, Singapore, pp. 801–806. 
 DOI:10.1109/CCA.2007.4389331  
-* **K. Y. Ng**, C. P. Tan, and R. Akmeliawati (2006), 
+1. **K. Y. Ng**, C. P. Tan, and R. Akmeliawati (2006), 
 [Tolerance towards sensor failures: An application to a double inverted pendulum](https://doi.org/10.1109/DELTA.2006.92), 
 *IEEE DELTA*, Kuala Lumpur, Malaysia. 
 DOI:10.1109/DELTA.2006.92  
