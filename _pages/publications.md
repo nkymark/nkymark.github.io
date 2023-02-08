@@ -11,7 +11,7 @@ title: Publications
 ### Preprints ###
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2023),
 [Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric](https://doi.org/10.48550/arXiv.2302.03504),
-*arXiv preprint*, 
+*arXiv preprint arXiv:2302.03504*. 
 
 ### Selected Key Publications ###
 [<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
@@ -216,12 +216,12 @@ DOI:10.1109/DELTA.2006.92
 
 
 ### Others ###
-* **K. Y. Ng** (2015), 
+1. **K. Y. Ng** (2015), 
 Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine, 
 *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden.  
 <!---&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="450">
 --->
-* **K. Y. Ng** (2009), 
+1. **K. Y. Ng** (2009), 
 [Advancements In Robust Fault Reconstruction Using Sliding Mode Observers](https://doi.org/10.4225/03/587c001b22509), 
 *PhD Thesis, Faculty of Engineering, Monash University*. 
 DOI:10.4225/03/587c001b22509  
