@@ -9,7 +9,7 @@ Mark Ng will be chairing the Lecture Session #2. PhD researcher Scot Davidson wi
 
 Please use [this link](https://isip.piconepress.com/conferences/ieee_spmb/2022/html/program.shtml) to access the latest and most up-to-date technical program.
 
-Full papers should be available for access on the IEEE Xplore in February 2023.
+The full proceedings can be accessed on IEEE Xplore [here](https://ieeexplore.ieee.org/xpl/conhome/10014679/proceeding).
 
 <img src="/assets/Figures/IEEE.jpg" width="200">
 <img src="/assets/Figures/SPMB.png" width="200">
