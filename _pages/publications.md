@@ -137,8 +137,8 @@ DOI:10.1002/rnc.1170
 
 ### Conference Proceedings ###
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
-Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification,
-*57th Annual Conference on Information Sciences and Systems (CISS 2023) (In press)*, Johns Hopkins University, Baltimore, Maryland, USA.
+[Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification](https://doi.org/10.1109/CISS56502.2023.10089669),
+*57th Annual Conference on Information Sciences and Systems (CISS 2023)*, Johns Hopkins University, Baltimore, Maryland, USA.
 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2022),
 [Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis](https://doi.org/10.1109/SPMB55497.2022.10014769),
 *2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7.
