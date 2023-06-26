@@ -5,8 +5,8 @@ title: Research
 ---
 
 ## Call for Papers ##
-<img src="/assets/Docs/SPMB.pdf" width="300">
-<img src="/assets/Docs/CCTA.pdf" width="300">
+<img src="/assets/Docs/SPMB.pdf" width="400">
+<img src="/assets/Docs/CCTA.pdf" width="400">
 
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
