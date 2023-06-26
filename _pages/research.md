@@ -5,8 +5,8 @@ title: Research
 ---
 
 ## Call for Papers ##
-<img src="/assets/Docs/SPMB.pdf" width="400">
-<img src="/assets/Docs/CCTA.pdf" width="400">
+[<img src="/assets/Docs/SPMB.pdf" width="400">](https://isip.piconepress.com/conferences/ieee_spmb/2023/forms/cfp/ieee_spmb_2023_cfp.pdf)
+[<img src="/assets/Docs/CCTA.pdf" width="400">](https://confcats-siteplex.s3.us-east-1.amazonaws.com/ccta24/ccta24_cfp_web_04_e666d10eb2.pdf)
 
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
