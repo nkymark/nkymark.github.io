@@ -23,6 +23,10 @@ title: Publications
 *arXiv preprint arXiv:2302.03504*. 
 
 ### Journal Articles ###  
+1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and Dewar Finlay (2023), 
+[Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands](https://www.mdpi.com/1424-8220/23/13/5892),
+*Sensors*, vol. 23, no. 13, pp: 5892.
+DOI:10.3390/s23135892
 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin (2023), 
 [A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers](https://doi.org/10.1016/j.bios.2022.115016), 
 *Biosensors and Bioelectronics*, vol. 223, pp. 115016. 
