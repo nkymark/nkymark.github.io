@@ -4,6 +4,10 @@ layout: single
 title: Research 
 ---
 
+## Call for Papers ##
+<img src="/assets/Docs/SPMB.pdf" width="300">
+<img src="/assets/Docs/CCTA.pdf" width="300">
+
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Industry 4.0 applications.
