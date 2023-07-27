@@ -24,7 +24,7 @@ title: Publications
 
 ### Journal Articles ###  
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
-[Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review](https://doi.org/10.1016/j.eswa.2023.121040.),
+[Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review](https://doi.org/10.1016/j.eswa.2023.121040),
 *Expert Systems with Applications*, pp. 121040.
 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay (2023), 
 [Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands](https://www.mdpi.com/1424-8220/23/13/5892),
