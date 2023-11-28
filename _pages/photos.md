@@ -3,6 +3,10 @@ permalink: /photos/
 layout: single
 title: Photos
 gallery:
+  - url: /assets/Photos/Aurora.jpg
+    image_path: /assets/Photos/Aurora_T.jpg
+    title: "Rare sighting of aurora borealis in Northern Ireland (2023)."
+    
   - url: /assets/Photos/VolvoHQ.jpg
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
