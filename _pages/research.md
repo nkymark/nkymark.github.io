@@ -40,6 +40,8 @@ We primarily conduct research on anomaly detection and classification using mode
 
 ## Research Partners and Collaborators ##
 
+<img src="/assets/Figures/Logos.png" width="650">&emsp;&emsp;  
+<!--
 <img src="/assets/Figures/Monash.png" width="200">&emsp;&emsp;  
 
 <img src="/assets/Figures/UAS.png" width="320">&emsp;&emsp;  
@@ -48,12 +50,12 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <img src="/assets/Figures/UEF.jpg" width="150">&emsp;&emsp;  
 
-<!-- <img src="/assets/Figures/UKM.png" width="200">&emsp;&emsp; -->
+<img src="/assets/Figures/UKM.png" width="200">&emsp;&emsp; 
 
 <img src="/assets/Figures/DoHWA.png" width="350">&emsp;&emsp;    
 
 <img src="/assets/Figures/EES.png" width="200">&emsp;&emsp;    
 
 <img src="/assets/Figures/DigiCat.png" width="200">&emsp;&emsp;    
-
+-->
  
