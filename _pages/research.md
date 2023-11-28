@@ -48,8 +48,12 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <img src="/assets/Figures/UEF.jpg" width="150">&emsp;&emsp;  
 
-<img src="/assets/Figures/UKM.png" width="200">&emsp;&emsp;  
+<!-- <img src="/assets/Figures/UKM.png" width="200">&emsp;&emsp; -->
 
 <img src="/assets/Figures/DoHWA.png" width="350">&emsp;&emsp;    
+
+<img src="/assets/Figures/EES.png" width="350">&emsp;&emsp;    
+
+<img src="/assets/Figures/DigiCat.png" width="350">&emsp;&emsp;    
 
  
