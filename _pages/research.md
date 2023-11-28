@@ -37,10 +37,12 @@ We primarily conduct research on anomaly detection and classification using mode
 <!--  * 12 Intel-based CPU nodes for a total of 80 cores-->
 <!--  * 12 Nvidia GPU nodes-->
 
-
+<br><br><br>
 ## Research Partners and Collaborators ##
 
 <img src="/assets/Figures/Logos.png" width="650">&emsp;&emsp;  
+
+
 <!--
 <img src="/assets/Figures/Monash.png" width="200">&emsp;&emsp;  
 
