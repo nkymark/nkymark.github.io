@@ -4,7 +4,7 @@ layout: single
 title: Photos
 gallery:
   - url: /assets/Photos/Aurora.jpg
-    image_path: /assets/Photos/Aurora_T.jpg
+    image_path: /assets/Photos/Aurora_T.jpeg
     title: "Rare sighting of aurora borealis in Northern Ireland (2023)."
     
   - url: /assets/Photos/VolvoHQ.jpg
