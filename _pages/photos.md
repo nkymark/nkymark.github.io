@@ -14,7 +14,11 @@ gallery:
     
   - url: /assets/Photos/Bridge.jpg
     image_path: /assets/Photos/Bridge_T.jpg
-    title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2021)."
+    title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2022)."
+    
+  - url: /assets/Photos/Carrickarade.jpg
+    image_path: /assets/Photos/Carrickarade_T.jpg
+    title: "Carrickarade Island in summer, Northern Ireland (2022)."  
       
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1_T.jpg
