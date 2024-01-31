@@ -12,6 +12,10 @@ gallery:
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
     
+  - url: /assets/Photos/Mazda.jpg
+    image_path: /assets/Photos/Mazda_T.jpg
+    title: "Visiting the Mazda Museum in Augsburg, Germany (2023)."
+    
   - url: /assets/Photos/BMW.jpg
     image_path: /assets/Photos/BMW_T.jpg
     title: "Visiting the BMW Museum in Munich, Germany (2023)."  
