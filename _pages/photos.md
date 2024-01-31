@@ -4,6 +4,8 @@ layout: single
 title: Photos
 gallery:
 
+Daniel Fahrenheit
+
   - url: /assets/Photos/Aurora.jpg
     image_path: /assets/Photos/Aurora_T.jpeg
     title: "Rare sighting of aurora borealis in Northern Ireland (2023)."
@@ -11,6 +13,10 @@ gallery:
   - url: /assets/Photos/VolvoHQ.jpg
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
+    
+  - url: /assets/Photos/Gdansk.jpg
+    image_path: /assets/Photos/Gdansk_T.jpg
+    title: "Sight-seeing in Gdańsk and stopping by what was believed to be the house Daniel Fahrenheit lived in as a child, Gdańsk, Poland (2023)."  
     
   - url: /assets/Photos/Porsche.jpg
     image_path: /assets/Photos/Porsche_T.jpg
