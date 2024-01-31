@@ -4,8 +4,6 @@ layout: single
 title: Photos
 gallery:
 
-Daniel Fahrenheit
-
   - url: /assets/Photos/Aurora.jpg
     image_path: /assets/Photos/Aurora_T.jpeg
     title: "Rare sighting of aurora borealis in Northern Ireland (2023)."
