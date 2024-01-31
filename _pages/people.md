@@ -33,7 +33,7 @@ title: People
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Brian Kirch </b><br />
   Ph.D.  <br />
   Thesis title: Implementing Mechatronic Control and Analysis of Carbon Fibre Weaving <br />
-  Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br /><br /><br /><br /> 
+  Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br /><br />
   </span></p>
 
 
