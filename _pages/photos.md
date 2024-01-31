@@ -12,6 +12,10 @@ gallery:
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
     
+  - url: /assets/Photos/Bridge.jpg
+    image_path: /assets/Photos/Bridge_T.jpg
+    title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2021)."
+      
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
