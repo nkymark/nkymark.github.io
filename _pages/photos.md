@@ -22,6 +22,14 @@ gallery:
     image_path: /assets/Photos/Campus3_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
     
+  - url: /assets/Photos/Spring2021b.jpg
+    image_path: /assets/Photos/Spring2021b_T.jpg
+    title: "A bee resting by a sunflower in spring, Northern Ireland (2021)."
+  
+  - url: /assets/Photos/Spring2021a.jpg
+    image_path: /assets/Photos/Spring2021a_T.jpg
+    title: "Spring in bloom, Northern Ireland (2021)."
+    
   - url: /assets/Photos/Glenarma.jpg
     image_path: /assets/Photos/Glenarma_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
