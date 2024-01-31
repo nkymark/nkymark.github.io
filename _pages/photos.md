@@ -17,7 +17,10 @@ gallery:
     title: "Fantastic view from the top of Nevis Range, Inverness, Scotland (2023)."    
   - url: /assets/Photos/Culloden.jpg
     image_path: /assets/Photos/Culloden_T.jpg
-    title: "Under the magnificent Culloden Viaduct, Inverness, Scotland (2022)."
+    title: "Under the magnificent Culloden Viaduct, Inverness, Scotland (2023)."
+  - url: /assets/Photos/George.jpg
+    image_path: /assets/Photos/George_T.jpg
+    title: "The main entrance to Fort George, Inverness, Scotland (2023)."  
       
   - url: /assets/Photos/NAIC.jpg
     image_path: /assets/Photos/NAIC_T.jpg
