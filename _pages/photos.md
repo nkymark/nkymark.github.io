@@ -21,7 +21,17 @@ gallery:
     title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2022)."    
   - url: /assets/Photos/Carrickarade.jpg
     image_path: /assets/Photos/Carrickarade_T.jpg
-    title: "Carrickarade Island in summer, Northern Ireland (2022)."  
+    title: "Carrickarade Island in summer, Northern Ireland (2022)."
+    
+  - url: /assets/Photos/Rosses.jpg
+    image_path: /assets/Photos/Rosses_T.jpg
+    title: "Rosses Point, Sligo, Ireland (2022)."    
+  - url: /assets/Photos/Gleniff.jpg
+    image_path: /assets/Photos/Gleniff_T.jpg
+    title: "Gleniff Horseshoe, Ireland (2022)."  
+  - url: /assets/Photos/Donegal.jpg
+    image_path: /assets/Photos/Donegal_T.jpg
+    title: "Slieve Liag, Donegal, Ireland (2022)."    
       
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1_T.jpg
