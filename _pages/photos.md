@@ -12,10 +12,13 @@ gallery:
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
     
+  - url: /assets/Photos/NAIC.jpg
+    image_path: /assets/Photos/NAIC_T.jpg
+    title: "The National Automotive Innovation Centre, University of Warwick (2022)."   
+    
   - url: /assets/Photos/Bridge.jpg
     image_path: /assets/Photos/Bridge_T.jpg
-    title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2022)."
-    
+    title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2022)."    
   - url: /assets/Photos/Carrickarade.jpg
     image_path: /assets/Photos/Carrickarade_T.jpg
     title: "Carrickarade Island in summer, Northern Ireland (2022)."  
