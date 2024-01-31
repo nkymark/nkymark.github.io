@@ -86,10 +86,12 @@ If you ever come across a printing problem with the error message “Hold On Aut
 
 ### Startup Key Combos ###
 
+<br>
 **Macs with Apple Silicon**  
 1. During startup after restarting your Mac or from a fresh boot, **continue to press and hold on the power button**.
 2. Release power button when the startup options screen appears.
 3. Window with startup functions similar to Intel-based Macs below will carry you through.  
+<br><br>
 
 **Intel-based Macs**  
 * **Command (⌘)-R**: Boot from the built-in macOS Recovery system.
