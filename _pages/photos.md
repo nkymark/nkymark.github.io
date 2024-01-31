@@ -22,7 +22,17 @@ gallery:
   - url: /assets/Photos/Carrickarade.jpg
     image_path: /assets/Photos/Carrickarade_T.jpg
     title: "Carrickarade Island in summer, Northern Ireland (2022)."
-    
+  
+  - url: /assets/Photos/Moher1.jpg
+    image_path: /assets/Photos/Moher1_T.jpg
+    title: "Cliffs of Moher, Ireland (2022)."    
+  - url: /assets/Photos/Moher2.jpg
+    image_path: /assets/Photos/Moher2_T.jpg
+    title: "The other side of Cliffs of Moher, Ireland (2022)." 
+  - url: /assets/Photos/Inishmore.jpg
+    image_path: /assets/Photos/Inishmore_T.jpg
+    title: "Standing at the edge of the cliffs of Inishmore, Aran Islands, Ireland (2022)."    
+      
   - url: /assets/Photos/Rosses.jpg
     image_path: /assets/Photos/Rosses_T.jpg
     title: "Rosses Point, Sligo, Ireland (2022)."    
@@ -31,7 +41,7 @@ gallery:
     title: "Gleniff Horseshoe, Ireland (2022)."  
   - url: /assets/Photos/Donegal.jpg
     image_path: /assets/Photos/Donegal_T.jpg
-    title: "Slieve Liag, Donegal, Ireland (2022)."    
+    title: "Slieve Liag overlooking the Giant's Table and Chair, Donegal, Ireland (2022)."    
       
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1_T.jpg
