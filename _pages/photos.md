@@ -11,7 +11,14 @@ gallery:
   - url: /assets/Photos/VolvoHQ.jpg
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
-    
+  
+  - url: /assets/Photos/Nevis.jpg
+    image_path: /assets/Photos/Nevis_T.jpg
+    title: "Fantastic view from the top of Nevis Range, Inverness, Scotland (2023)."    
+  - url: /assets/Photos/Culloden.jpg
+    image_path: /assets/Photos/Culloden_T.jpg
+    title: "Under the magnificent Culloden Viaduct, Inverness, Scotland (2022)."
+      
   - url: /assets/Photos/NAIC.jpg
     image_path: /assets/Photos/NAIC_T.jpg
     title: "The National Automotive Innovation Centre, University of Warwick (2022)."   
