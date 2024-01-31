@@ -5,7 +5,6 @@ title: Research
 ---
 
 ## Call for Papers ##
-[<img src="/assets/Docs/SPMB.pdf" width="400">](https://isip.piconepress.com/conferences/ieee_spmb/2023/forms/cfp/ieee_spmb_2023_cfp.pdf)
 [<img src="/assets/Docs/CCTA.pdf" width="400">](https://confcats-siteplex.s3.us-east-1.amazonaws.com/ccta24/ccta24_cfp_web_04_e666d10eb2.pdf)
 
 ## General Research Activities ##
@@ -21,6 +20,12 @@ We primarily conduct research on anomaly detection and classification using mode
 
 * INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems  
 
+* Dell Bright Cluster HPC and Digital Twin System:
+  * 1 PowerEdge R6525 Head Node
+  * 3 PowerEdge R6525 Compute Node
+  * 1 PowerEdge R750 GPU Node
+  * 1 PowerEdge R6515 SDP Node
+
 * Festo CP LAB Variant 3, which includes the following: 
   * 6 CP Lab pallet transfer system
   * 4 system trainers with A4 frames
@@ -32,12 +37,7 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1 tunnel furnace application module
   * 1 workpiece output application module  
   
-<!--* Beowulf Cluster consisting of the following:-->
-<!--  * 2 Dell PowerEdge servers-->
-<!--  * 12 Intel-based CPU nodes for a total of 80 cores-->
-<!--  * 12 Nvidia GPU nodes-->
-
-<br><br><br>
+<br><br>
 ## Research Partners and Collaborators ##
 
 <img src="/assets/Figures/Logos.png" width="650">&emsp;&emsp;  
