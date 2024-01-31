@@ -84,28 +84,19 @@ If you ever come across a printing problem with the error message “Hold On Aut
 `sudo lpadmin -p printername -o auth-info-required=username,password`
 
 
-### Fixing Hardware Acting Crazy on a Mac, i.e. trackpad not working, screen acting weird, etc. ###
-These steps can be used on most modern Macs. I suggest that you try the PRAM Reset first. If problem still persists, you can then attempt the SMC Reset. 
+### Startup Key Combos ###
 
+### Macs with Apple Silicon ###
+1. During startup after restarting your Mac or from a fresh boot, **continue to press and hold on the power button**.
+2. Release power button when the startup options screen appears.
+3. Window with startup functions similar to Intel-based Macs below will carry you through.  
 
-**PRAM Reset**
-1. Shut down your Mac.
-2. Turn on your Mac. 
-3. Press and hold the keys **Command + Option + P + R simultaneously before the gray screen appears**. Else, restart the whole process.
-4. Wait for your Mac to restart itself again and that you hear the startup chime.
-5. You can let go of the keys now. Your Mac will start as it normally does.
+#### Intel-based Macs ####
+* **Command (⌘)-R**: Boot from the built-in macOS Recovery system.
+* **Option-Command-R** or **Shift-Option-Command-R**: Boot from macOS Recovery over the internet.
+* **Option (⌥) or Alt**: Boot to Startup Manager. You can choose options for startup disks via here.
+* **Option-Command-P-R**: Reset NVRAM or PRAM. This can be used to reset peripherals and devices that have been acting weird, e.g. mouse, keyboard, etc.
+* **Shift (⇧)**: Boot in safe mode.
+* **D**: Boot to the Apple Diagnostics utility (use **Option-D** to boot to ADU with internet).
+* **Command-V**: Boot in verbose mode.
 
-
-**SMC Reset**
-1. Shut down your Mac.
-2. a) For MacBooks without removable batteries
-    - Keep the MagSafe cable attached.
-    - Press (on the left hand side of the keyboard) the Shift + Control + Option and the Power keys simultaneously. 
-    - Let go of all keys at the same time.
-
-   b) For iMacs and other non-laptop based Macs
-    - Disconnect the power cable.
-    - Press the Power key for 5 seconds and then let go. 
-    - Reattach the power cable.
-
-3. Turn your Mac back on.

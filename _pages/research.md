@@ -24,9 +24,9 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1 PowerEdge R6525 Head Node
   * 3 PowerEdge R6525 Compute Node
   * 1 PowerEdge R750 GPU Node
-  * 1 PowerEdge R6515 SDP Node
+  * 1 PowerEdge R6515 SDP Node  
 
-* Festo CP LAB Variant 3, which includes the following: 
+* Festo CP LAB Variant 3, which includes the following:
   * 6 CP Lab pallet transfer system
   * 4 system trainers with A4 frames
   * 2 CP Bridge
