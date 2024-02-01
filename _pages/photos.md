@@ -14,7 +14,7 @@ gallery:
     
   - url: /assets/Photos/NIBEC.jpg
     image_path: /assets/Photos/NIBEC_T.jpg
-    title: "The old NIBEC research centre building at the Harry Ferguson Engineering Village, Ulster University Jordanstown Campus, Northern Ireland (2020)."  
+    title: "The old NIBEC research centre building at the Harry Ferguson Engineering Village, Ulster University Jordanstown Campus, Northern Ireland (2017)."  
   
   - url: /assets/Photos/Aurora.jpg
     image_path: /assets/Photos/Aurora_T.jpeg
