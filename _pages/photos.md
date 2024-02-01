@@ -11,6 +11,10 @@ gallery:
   - url: /assets/Photos/VolvoHQ.jpg
     image_path: /assets/Photos/VolvoHQ_T.jpg
     title: "Volvo Car Corporation HQ and R&D Centre in Göteborg, Sweden (2014)."
+    
+  - url: /assets/Photos/NIBEC.jpg
+    image_path: /assets/Photos/NIBEC_T.jpg
+    title: "The old NIBEC research centre building at the Harry Ferguson Engineering Village, Ulster University Jordanstown Campus, Northern Ireland (2020)."  
   
   - url: /assets/Photos/Aurora.jpg
     image_path: /assets/Photos/Aurora_T.jpeg
