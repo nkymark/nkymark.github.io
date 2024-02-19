@@ -14,28 +14,27 @@ title: People
 <!--  Bio: Pardis (<a href="mailto:p.biglarbeigi@ulster.ac.uk">p.biglarbeigi@ulster.ac.uk</a>) received the BSc and MSc in Civil Engineering and Environmental Engineering from Shahid Chamran University of Ahvaz, Iran and Politecnico di Milano, Italy in 2010 and 2014, respectively. Then she moved to UK to pursue the Ph.D. in water resource management and hydroinformatics, which she graduated from Ulster University in 2019. Her research interests are numerical modelling in engineering applications, statistical analysis and data processing, signals, wavelet analysis, image processing, machine learning, optimisation, and simulation processes. During the final six months of her Ph.D., she worked at the Nanotechnology and Integrated BioEngineering Centre (NIBEC) as a part time research associate, where she researched on signal processing. This changed her research focus from hydroinformatics and water resources modelling to a broader range of engineering modelling and data science.<br />-->
 <!--  </span></p>  -->
 
-
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Stefanie Wucherer </b><br />
   Ph.D.  <br />
   Thesis title: Developing a hybrid model and supervised learning approach for automated handling tasks using tactile feedback <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Florian Kerber (Main, Augsburg University of Applied Sciences), Dr. Robert McMurray (Co, Ulster) <br /> 
   </span></p>
-  
-    
+
+
 <p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20"><span><b>Will Aston </b><br />
   Ph.D.  <br />
   Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br />
   Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /> 
-</span></p><br /> 
-  
-  
+</span></p><br />
+
+
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Brian Kirch </b><br />
   Ph.D.  <br />
   Thesis title: Implementing Mechatronic Control and Analysis of Carbon Fibre Weaving <br />
   Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br /><br />
   </span></p>
-  
-  
+
+
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Shruthi Kogileru</b><br />
   KTP Associate <br />
   Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
