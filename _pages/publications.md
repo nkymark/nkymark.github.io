@@ -18,12 +18,12 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Preprints ###
+1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2024),
+[Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model](https://doi.org/10.48550/arXiv.2402.11412),
+*arXiv preprint arXiv:2402.11412*. 
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2023),
 [Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric](https://doi.org/10.48550/arXiv.2302.03504),
 *arXiv preprint arXiv:2302.03504*. 
-1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2023),
-[Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model](https://doi.org/10.48550/arXiv.2402.11412),
-*arXiv preprint arXiv:2402.11412*. 
 
 ### Journal Articles ###  
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
