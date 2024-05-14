@@ -8,6 +8,10 @@ gallery:
     image_path: /assets/Photos/Aurora4_T.jpg
     title: "Spectacular display of the Aurora Borealis on 10th May 2024, Northern Ireland. (2024)."
     
+  - url: /assets/Photos/Hisaishi.jpg
+    image_path: /assets/Photos/Hisaishi_T.jpg
+    title: "Joe Hisaishi en Concert Symphonique with 250 members from the RPO at the Paris La Défense Arena, France. (2024)."  
+    
   - url: /assets/Photos/Tromso.jpg
     image_path: /assets/Photos/Tromso_T.jpg
     title: "Spending Christmas in Tromsø and Oslo, Norway (2023)."
