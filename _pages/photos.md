@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Aurora4.jpg
+    image_path: /assets/Photos/Aurora4_T.jpg
+    title: "Spectacular display of the Aurora Borealis on 10th May 2024, Northern Ireland. (2024)."
+    
   - url: /assets/Photos/Tromso.jpg
     image_path: /assets/Photos/Tromso_T.jpg
     title: "Spending Christmas in Tromsø and Oslo, Norway (2023)."
