@@ -14,7 +14,11 @@ gallery:
     
   - url: /assets/Photos/Louvre.jpg
     image_path: /assets/Photos/Louvre_T.jpg
-    title: "The Louvre, Paris, France. (2024)."    
+    title: "The Louvre, Paris, France. (2024)." 
+    
+  - url: /assets/Photos/Paris.jpg
+    image_path: /assets/Photos/Paris_T.jpg
+    title: "Paris, France. (2024)."      
     
   - url: /assets/Photos/Tromso.jpg
     image_path: /assets/Photos/Tromso_T.jpg
