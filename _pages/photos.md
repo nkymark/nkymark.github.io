@@ -12,6 +12,10 @@ gallery:
     image_path: /assets/Photos/Hisaishi_T.jpg
     title: "Joe Hisaishi en Concert Symphonique with 250 members from the RPO at the Paris La Défense Arena, France. (2024)."  
     
+  - url: /assets/Photos/Louvre.jpg
+    image_path: /assets/Photos/Louvre_T.jpg
+    title: "The Louvre, Paris, France. (2024)."    
+    
   - url: /assets/Photos/Tromso.jpg
     image_path: /assets/Photos/Tromso_T.jpg
     title: "Spending Christmas in Tromsø and Oslo, Norway (2023)."
