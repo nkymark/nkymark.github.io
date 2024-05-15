@@ -8,17 +8,21 @@ gallery:
     image_path: /assets/Photos/Aurora4_T.jpg
     title: "Spectacular display of the Aurora Borealis on 10th May 2024, Northern Ireland. (2024)."
     
+  - url: /assets/Photos/KUKA.jpg
+    image_path: /assets/Photos/KUKA_T.jpg
+    title: "KUKA Robotics, Dundalk, Ireland (2024)."  
+    
   - url: /assets/Photos/Hisaishi.jpg
     image_path: /assets/Photos/Hisaishi_T.jpg
-    title: "Joe Hisaishi en Concert Symphonique with 250 members from the RPO at the Paris La Défense Arena, France. (2024)."  
+    title: "Joe Hisaishi en Concert Symphonique with 250 members from the RPO at the Paris La Défense Arena, France (2024)."  
     
   - url: /assets/Photos/Louvre.jpg
     image_path: /assets/Photos/Louvre_T.jpg
-    title: "The Louvre, Paris, France. (2024)." 
+    title: "The Louvre, Paris, France (2024)." 
     
   - url: /assets/Photos/Paris.jpg
     image_path: /assets/Photos/Paris_T.jpg
-    title: "Paris, France. (2024)."      
+    title: "Paris, France (2024)."      
     
   - url: /assets/Photos/Tromso.jpg
     image_path: /assets/Photos/Tromso_T.jpg
