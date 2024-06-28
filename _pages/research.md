@@ -40,7 +40,7 @@ We primarily conduct research on anomaly detection and classification using mode
 <br><br>
 ## Research Partners and Collaborators ##
 
-<img src="/assets/Figures/Logos.png" width="650">&emsp;&emsp;  
+<img src="/assets/Figures/Logos.png" width="840">&emsp;&emsp;  
 
 
 <!--
