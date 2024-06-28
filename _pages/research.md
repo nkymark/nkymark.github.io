@@ -6,7 +6,6 @@ title: Research
 
 ## Call for Papers ##
 [<img src="/assets/Docs/CCTA.pdf" width="400">](https://confcats-siteplex.s3.us-east-1.amazonaws.com/ccta24/ccta24_cfp_web_v13_b0a1bf1f32.pdf)
-[<img src="/assets/Docs/ISSC2024.png" width="400">](https://issc.ie/call-for-papers.html)
 
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
