@@ -144,7 +144,7 @@ DOI:10.1002/rnc.1170
 
 ### Conference Proceedings ###
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber (2024),
-[Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model](https://doi.org/10.48550/arXiv.2402.11412),
+[Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model](https://doi.org/10.1109/CCTA60707.2024.10666569),
 *8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK. 
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
 [Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification](https://doi.org/10.1109/CISS56502.2023.10089669),
