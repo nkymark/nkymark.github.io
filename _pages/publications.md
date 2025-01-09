@@ -26,10 +26,11 @@ title: Publications
 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin (2024), 
 [Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models](https://doi.org/10.3390/bios14120611), 
 *Biosensors*, vol. 14 (611). 
-10.3390/bios14120611
+DOI:10.3390/bios14120611
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin (2023),
 [Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review](https://doi.org/10.1016/j.eswa.2023.121040),
 *Expert Systems with Applications*, pp. 121040.
+DOI:10.1016/j.eswa.2023.121040
 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay (2023), 
 [Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands](https://www.mdpi.com/1424-8220/23/13/5892),
 *Sensors*, vol. 23, no. 13, pp. 5892.
