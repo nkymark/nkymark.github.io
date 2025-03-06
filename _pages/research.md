@@ -9,16 +9,34 @@ title: Research
 
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
+
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Industry 4.0 applications.
+
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 
 ## Research Facilities ##
 <img align="right" src="/assets/Figures/Facilities.png" width="400">
 
-* NVIDIA Jetson TX2  
+* 2x ER-FLEX 250 (UR-5e cobot + MiR250 AMR combo)
 
-* INTECO Two Rotor Aerodynamical and ABS Antilock Braking Systems  
+* 4x Turtlebot4
+
+* 3x Bambulab X1 Multi-Filament (AMS) and Multi-Material-capable 3D-Printers
+
+* 3x OrangeApps KUKA-compatible Robotic Arms
+
+* 4x MinSeg Robotic System
+
+* Sonotec PR 200 Combi Pulser
+
+* Picoscope 5443D Oscilloscope
+
+* Ultrasonic Immersion and Contact Transducers
+
+* INTECO Dual-Rotor Aerodynamical System
+
+* INTECO Antilock Braking System (ABS)
 
 * Dell Bright Cluster HPC and Digital Twin System:
   * 1 PowerEdge R6525 Head Node
@@ -27,15 +45,17 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1 PowerEdge R6515 SDP Node  
 
 * Festo CP LAB Variant 3, which includes the following:
-  * 6 CP Lab pallet transfer system
-  * 4 system trainers with A4 frames
-  * 2 CP Bridge
-  * 1 mobile robot for pallet transport
-  * 2 magazine application modules
-  * 1 measurement application module
-  * 1 muscle press application module
-  * 1 tunnel furnace application module
-  * 1 workpiece output application module  
+  * 6x Pallet Transfer System
+  * 4x System Trainers With A4 Frames
+  * 2x CP Bridge
+  * 1x Robotino + SIM Environment
+  * 2x Magazine Modules
+  * 1x Measurement Module
+  * 1x Muscle Press Module
+  * 1x Tunnel Furnace Module
+  * 1x Workpiece Output Module  
+
+* NVIDIA Jetson TX2  
   
 <br><br>
 ## Research Partners and Collaborators ##
