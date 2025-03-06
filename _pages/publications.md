@@ -230,6 +230,10 @@ DOI:10.1109/CCA.2007.4389331
 *IEEE DELTA*, Kuala Lumpur, Malaysia. 
 DOI:10.1109/DELTA.2006.92  
 
+### Book Chapters ###
+1. M. M. M. Islam, J. I. Emon, **K. Y. Ng**, A. Asadpour, M. M. R. A. Aziz, M. L. Baptista, and J.–M. Kim (2025), [Artificial intelligence in smart manufacturing: Emerging opportunities and prospects](https://doi.org/10.1007/978-3-031-80154-9_2),
+*Artificial Intelligence for Smart Manufacturing and Industry X.0*, Springer Nature Switzerland, pp. 9–36. 
+DOI: 10.1007/978-3-031-80154-9_2.
 
 ### Others ###
 1. **K. Y. Ng** (2015), 
