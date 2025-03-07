@@ -9,7 +9,7 @@ title: Publications
 --->
 
 
-### Selected Key Publications ###
+### Select Key Publications ###
 [<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
 [<img src="/assets/Figures/E&B.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0378778816319971)
 [<img src="/assets/Figures/CEP.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0967066118304404)
