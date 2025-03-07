@@ -4,9 +4,13 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Neuschwanstein.jpg
+    image_path: /assets/Photos/Neuschwanstein_T.jpg
+    title: "Neuschwanstein Castle during summer time, Germany (2024)."
+
   - url: /assets/Photos/Aurora4.jpg
     image_path: /assets/Photos/Aurora4_T.jpg
-    title: "Spectacular display of the Aurora Borealis on 10th May 2024, Northern Ireland. (2024)."
+    title: "Spectacular display of the Aurora Borealis on 10th May 2024, Northern Ireland (2024)."
     
   - url: /assets/Photos/KUKA.jpg
     image_path: /assets/Photos/KUKA_T.jpg
