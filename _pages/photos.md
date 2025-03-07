@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/101Pend.JPG
+    image_path: /assets/Photos/101Pend_T.JPG
+    title: "Finally got to meet the pendulum damper within the Taipei 101, Taiwan. (2024)."
+    
   - url: /assets/Photos/DeutschesMuseum.JPG
     image_path: /assets/Photos/DeutschesMuseum_T.JPG
     title: "The Moog IIIp at the Deutsches Museum in Munich, Germany (2024)."
