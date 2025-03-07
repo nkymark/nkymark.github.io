@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/StephensGreen.jpg
+    image_path: /assets/Photos/StephensGreen_T.jpg
+    title: "Very intresting architecture inside the Stephen's Green Shopping Centre in Dublin, Ireland. (2024)."
+
   - url: /assets/Photos/Birmingham.jpg
     image_path: /assets/Photos/Birmingham_T.jpg
     title: "In Birmingham for the EPSRC ILN+ RiR Induction Day, UK. (2024)."
