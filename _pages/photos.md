@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Melaka.jpg
+    image_path: /assets/Photos/Melaka_T.jpg
+    title: "Some beautiful nightshots of the historical town Malacca, Malaysia. (2024).
+  
   - url: /assets/Photos/Sunway.JPG
     image_path: /assets/Photos/Sunway_T.JPG
     title: "Sunway Pyramid overlooking parts of the Sunway Lagoon Theme Park, Sunway University College, and Monash University, Malaysia. (2024)."
