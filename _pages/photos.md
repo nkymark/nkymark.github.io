@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Songshan.JPG
+    image_path: /assets/Photos/Songshan_T.JPG
+    title: "Songshan Ciyou Temple next to the Raohe Street Night Marketin Taipei, Taiwan. (2024)."
+  
   - url: /assets/Photos/Jiufen.jpg
     image_path: /assets/Photos/Jiufen_T.jpg
     title: "Beautiful lanterns and overlooking from the top of Jiufen during summer time, Taiwan. (2024)."
