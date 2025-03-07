@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Jiufen.JPG
+    image_path: /assets/Photos/Jiufen_T.JPG
+    title: "Beautiful lanterns and overlooking from the top of Jiufen during summer time, Taiwan. (2024)."
+  
   - url: /assets/Photos/101Pend.JPG
     image_path: /assets/Photos/101Pend_T.JPG
     title: "Finally got to meet the pendulum damper within the Taipei 101, Taiwan. (2024)."
