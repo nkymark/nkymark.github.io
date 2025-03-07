@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Birmingham.jpg
+    image_path: /assets/Photos/Birmingham_T.jpg
+    title: "In Birmingham for the EPSRC ILN+ RiR Induction Day, UK. (2024)."
+    
   - url: /assets/Photos/HangTuah.JPG
     image_path: /assets/Photos/HangTuah_T.JPG
     title: "My good ol' alma mater, from Primary 1–3, Malaysia. (2024)."
