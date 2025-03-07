@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/FrankfurtFlughafen.JPG
+    image_path: /assets/Photos/FrankfurtFlughafen_T.JPG
+    title: "Frankfurt Flughafen, Germany (2024)."
+
   - url: /assets/Photos/Neuschwanstein.jpg
     image_path: /assets/Photos/Neuschwanstein_T.jpg
     title: "Neuschwanstein Castle during summer time, Germany (2024)."
