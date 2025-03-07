@@ -4,9 +4,13 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/SkyscrapersKL.jpg
+    image_path: /assets/Photos/SkyscrapersKL_T.jpg
+    title: "Some new skyscrapers in Kuala Lumpur in recent years, Malaysia. (2024)."
+    
   - url: /assets/Photos/Melaka.jpg
     image_path: /assets/Photos/Melaka_T.jpg
-    title: "Some beautiful nightshots of the historical town Malacca, Malaysia. (2024).
+    title: "Some beautiful nightshots of the historical town Malacca, Malaysia. (2024)."
   
   - url: /assets/Photos/Sunway.JPG
     image_path: /assets/Photos/Sunway_T.JPG
