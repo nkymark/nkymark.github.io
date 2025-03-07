@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/HangTuah.JPG
+    image_path: /assets/Photos/HangTuah_T.JPG
+    title: "My good ol' alma mater, from Primary 1–3, Malaysia. (2024)."
+    
   - url: /assets/Photos/SkyscrapersKL.jpg
     image_path: /assets/Photos/SkyscrapersKL_T.jpg
     title: "Some new skyscrapers in Kuala Lumpur in recent years, Malaysia. (2024)."
