@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/AppleMsia.JPG
+    image_path: /assets/Photos/AppleMsia_T.JPG
+    title: "Pretty interesting interior architecture of the Apple Store in Malaysia. (2024)."
+    
   - url: /assets/Photos/Songshan.JPG
     image_path: /assets/Photos/Songshan_T.JPG
     title: "Songshan Ciyou Temple next to the Raohe Street Night Marketin Taipei, Taiwan. (2024)."
