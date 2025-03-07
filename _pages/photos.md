@@ -3,10 +3,14 @@ permalink: /photos/
 layout: single
 title: Photos
 gallery:
-
+    
   - url: /assets/Photos/StephensGreen.jpg
     image_path: /assets/Photos/StephensGreen_T.jpg
-    title: "Very intresting architecture inside the Stephen's Green Shopping Centre in Dublin, Ireland. (2024)."
+    title: "Very intresting architecture inside the Stephen's Green Shopping Centre in Dublin, Ireland. (2025)."
+    
+  - url: /assets/Photos/CCTA2024.jpg
+    image_path: /assets/Photos/CCTA2024_T.jpg
+    title: "IEEE CCTA in Newcastle, UK. (2024)."
 
   - url: /assets/Photos/Birmingham.jpg
     image_path: /assets/Photos/Birmingham_T.jpg
