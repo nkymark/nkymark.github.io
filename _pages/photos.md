@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Sunway.JPG
+    image_path: /assets/Photos/Sunway_T.JPG
+    title: "Sunway Pyramid overlooking parts of the Sunway Lagoon Theme Park, Sunway University College, and Monash University, Malaysia. (2024)."
+    
   - url: /assets/Photos/AppleMsia.JPG
     image_path: /assets/Photos/AppleMsia_T.JPG
     title: "Pretty interesting interior architecture of the Apple Store in Malaysia. (2024)."
