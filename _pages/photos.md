@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/DeutschesMuseum.JPG
+    image_path: /assets/Photos/DeutschesMuseum_T.JPG
+    title: "The Moog IIIp at the Deutsches Museum in Munich, Germany (2024)."
+
   - url: /assets/Photos/FrankfurtFlughafen.JPG
     image_path: /assets/Photos/FrankfurtFlughafen_T.JPG
     title: "Frankfurt Flughafen, Germany (2024)."
