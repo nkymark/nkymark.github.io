@@ -1,5 +1,5 @@
 ---
-title:  "Latest Publication in *Artificial Intelligence for Smart Manufacturing and Industry X.0 Springer Series in Advanced Manufacturing (SSAM)*"
+title:  "Latest Publication in *Artificial Intelligence for Smart Manufacturing and Industry X.0 (Springer Series in Advanced Manufacturing (SSAM))*"
 date:   2025-03-06 09:00:00 +0000
 ---
 
