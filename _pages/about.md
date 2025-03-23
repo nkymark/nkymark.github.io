@@ -5,28 +5,29 @@ title: Brief Biography
 ---
 
 ## Brief Biography ##
-I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control System from Monash University in 2006 and 2009, respectively. I am currently a Senior Lecturer in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC).
+I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Senior Lecturer in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute.
 
 My research interests include fault diagnosis, mathematical modelling, digital twin, and data analytics for anomaly detection and classification.
 
-In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods.
-
-I was instrumental in developing a Digital Twin on the MATLAB/Simulink platform for realistic testing of residuals generation and fault diagnosis methods for the following:
-* Realistic modelling and control of the engine
-* Injection and simulation of a variety of actuator, sensor, and variable faults in the engine
+In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods. For this research, I was instrumental in developing a Digital Twin on the MATLAB/Simulink platform for realistic simulation and testing of residuals generation and fault diagnosis methods for the following:
+* Realistic modelling and control of the engine Injection and simulation of a variety of actuator, sensor, and variable faults in the engine
 * In-house designed algorithm for additional residuals selection
 * In-house designed algorithm for alarm generations, residuals monitoring, as well as Fault Isolation (FI)
 * Simulation and FI of system with intermittent residuals
 
-I was also a co-investigator in [SAFEWATER](https://www.safewater-research.com), a £5 million project funded by GCRF, where I led the development and the optimisation of embedded algorithms to control low-cost water disinfection technologies used in the rural areas in South America.
+I am also currently attached to the Digital Catapult as an awardee of the Engineering and Physical Sciences Research Council (EPSRC) Innovation Launchpad Network+ (ILN+) Researcher in Residence Scheme. This research project aims to develop an energy mapping
+Digital Twin technology that contributes towards net zero in wind turbine energy. This technology encompasses the entire energy lifecycle, from mining through storage to utilisation in Northern Ireland (NI). This project also involves collaboration with the Offshore Renewable Energy Catapult.
 
-During the COVID-19 pandemic, I led the [Modelling and Forecast Task Force](https://www.ulster.ac.uk/coronavirus/research/innovation/modelling-the-transmission-dynamics-of-covid-19) at Ulster where we worked with the Southern Health and Social Care Trust to provide analysis to the Government Specialist Modelling Response Expert Group (SMREG) in Northern Ireland. The main purpose of the project was to validate and inform the SMREG as well as help governing bodies in Northern Ireland to better plan for intervention measures and ultimately flatten the curve. I was also a member of the COVID-19 Task Force set up by the IEEE Region 8 community. In addition, I led a team of researchers and data scientists from Ulster and Queen’s University Belfast to work with the Incident Controller for the State Health Incident Control Centre and Deputy Chief Health Officer of the Department of Health in Western Australia to model the outbreak of COVID-19 on commercial cargo vessels.
+I was also a co-investigator in [SAFEWATER](https://www.safewater-research.com), a £5 million project funded by UK Research and Innovation (UKRI) and Global Challenges Research Fund (GCRF), where I led the development and the optimisation of embedded algorithms to control low-cost water disinfection technologies used in the rural areas in South America.
 
-I am a Senior Member of the IEEE and I am currently the Secretary of the IEEE Control Systems Society (CSS), UK and Ireland Chapter. 
+During the COVID-19 pandemic, I led the [Modelling and Forecast Task Force](https://www.ulster.ac.uk/research/covid-19/innovation/modelling-the-transmission-dynamics-of-covid-19) at Ulster where we worked with the Southern Health and Social Care Trust to provide analysis to the Government Specialist Modelling Response Expert Group (SMREG) in Northern Ireland. The main purpose of the project was to validate and inform the SMREG as well as help governing bodies in Northern Ireland to better plan for intervention measures and ultimately flatten the curve. I was also a member of the COVID-19 Task Force set up by the IEEE Region 8 community. In addition, I led a team of researchers and data scientists from Ulster and Queen’s University Belfast to work with the Incident Controller for the State Health Incident Control Centre and Deputy Chief Health Officer of the Department of Health in Western Australia to model the outbreak of COVID-19 on commercial cargo vessels.
 
-I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, and the Editor for *PeerJ*.
+I am a Senior Member of the IEEE and I am currently the Vice-Chair of the IEEE Control Systems Society (CSS), UK and Ireland Chapter.
 
-I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently a Senior Lecturer till 2017.
+I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, and the Editor for *PeerJ Computer Science*.
+
+I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently as Senior Lecturer till 2017.
+
 
 <!-- 
 ## Education ##
@@ -46,8 +47,9 @@ Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observ
 I am responsible for Control Engineering related modules taught to undergraduate students. I coordinate and teach the following modules:
 * EEE316 Control Theory and Applications
 * EEE526 Mechatronics 1
+* MEC150 Electrical Science
 
-Research wise, I am attached to the Nanotechnology and Integrated BioEngineering Centre (NIBEC) at the Belfast Campus, where I work mainly on fault diagnosis, digital twin, and data analytics for anomaly detection and classification.     
+Research wise, I am attached to the Engineering Research Institute at the Belfast Campus, where I work mainly on fault diagnosis, digital twin, and data analytics for anomaly detection and classification.     
 
 **Monash University, Malaysia**  
 **Adjunct Senior Research Fellow**  
