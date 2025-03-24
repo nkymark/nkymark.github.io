@@ -5,7 +5,7 @@ title: Brief Biography
 ---
 
 ## Brief Biography ##
-I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Senior Lecturer in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute.
+I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Senior Lecturer (Associate Professor) in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute.
 
 My research interests include fault diagnosis, mathematical modelling, digital twin, and data analytics for anomaly detection and classification.
 
@@ -39,7 +39,7 @@ Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observ
 
 ## Current Employment and Affiliations ##
 **Ulster University, Northern Ireland, U.K.**  
-**Senior Lecturer in Mechatronics Engineering and Control**  
+**Senior Lecturer (Associate Professor) in Mechatronics Engineering and Control**  
 2021–Present
 
 **Lecturer in Mechatronics Engineering and Control**  
