@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
     
+  - url: /assets/Photos/Edinburgh.jpg
+    image_path: /assets/Photos/Edinburgh_T.jpg
+    title: "Edinburgh, Scotland (2025)."
+    
   - url: /assets/Photos/StephensGreen.jpg
     image_path: /assets/Photos/StephensGreen_T.jpg
     title: "Very intresting architecture inside the Stephen's Green Shopping Centre in Dublin, Ireland. (2025)."
