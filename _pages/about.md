@@ -29,7 +29,7 @@ In addition, during the COVID-19 pandemic, I led the [Modelling and Forecast Tas
 
 I am a Senior Member of the IEEE and I am currently the Vice-Chair of the IEEE Control Systems Society (CSS), UK and Ireland Chapter.
 
-I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, and the Editor for *PeerJ Computer Science*.
+I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, Editor for *PeerJ Computer Science*, and Section Editor for *Sage Science Progress*.
 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently as Senior Lecturer till 2017.
 
