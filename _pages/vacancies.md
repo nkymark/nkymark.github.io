@@ -46,6 +46,11 @@ One of the areas that has been benefiting much from the advancements in RP is th
 **Proposed Innovative Solution:** The project will first explore the various “in-the-loop”, i.e. software-, model-, and hardware-in-the-loop (SIL, MIL, HIL) techniques for the design and development of the control architecture. Then, using model-based controller-observer design methods with a vision-based sensor, e.g. CCD etc., for feedback, precise motion control can be achieved for the build plate and nozzle in the x-, y-, and z-axes. Thirdly, a combination of model-based and data-driven technique will also be explored to enhance the robustness of the control algorithm such that the system can compensate for the disturbances and noise in the electrical signals for advanced manufacturing. This technique also allows for a fault diagnosis scheme to detect potential wear-and-tear in the hardware mechanism due to prolonged operation of the system and for fault-tolerant to be performed to compensate the degradation in the performance of the system.
 -->
 
+## PhDs ##
+All funded PhD positions have been filled up at the moment. 
+
+Nevertheless, we would also welcome self-funded PhD researchers to join the team. Please contact for further information and discussion of potential research projects. 
+
 
 ## Other ##
 We are also looking for postdoctoral researchers to join our active and growing team. Candidates should have a Ph.D. in Control/E&E/Mechatronics Engineering or equivalent qualifications. Interested candidates are welcome to enquire and seek contact for discussions or information on open positions. 
