@@ -4,7 +4,7 @@ layout: single
 title: Vacancies
 ---
 
-We’re excited to announce several fully funded PhD opportunities. Details are as follows:
+<!--We’re excited to announce several fully funded PhD opportunities. Details are as follows:
 
 
 Project 1: [A Digital Twin-Driven Approach to Predictive Safety and Control Optimisation in Human-Robot Collaborative Manufacturing](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/12-engineering/1681686)  
@@ -23,7 +23,7 @@ Eligibility: Open to all students worldwide
 Mode: Full-time  
 Closing date: **Monday, 24 February 2025 at 4:00 PM UK time**  
 <br/>
-<br/>
+<br/>-->
   
 <!--### There are no vacancies available at the moment. ###-->
 
@@ -55,6 +55,7 @@ We are also looking for postdoctoral researchers to join our active and growing 
   * [Leverhulme Trust](https://www.leverhulme.ac.uk/closing-dates)
   * [The British Academy](https://www.thebritishacademy.ac.uk/funding/?order=-last_published_at)
   * [British Council Newton Fund](https://www.britishcouncil.org/education/science/newton)
+  * [Royal Academy of Engineering](https://raeng.org.uk/research-fellowships)
   * ...
 
 
