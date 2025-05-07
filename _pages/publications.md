@@ -19,8 +19,8 @@ title: Publications
 
 ### Preprints ###
 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**, 
-"Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing",
-*arXiv preprint*, 2025.
+["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.48550/arXiv.2505.03576),
+*arXiv preprint arXiv:2505.03576*, 2025.
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric"](https://doi.org/10.48550/arXiv.2302.03504),
 *arXiv preprint arXiv:2302.03504*, 2023. 
