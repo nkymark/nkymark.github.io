@@ -165,6 +165,9 @@ title: Publications
 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm"](https://doi.org/10.1109/MELECON53508.2022.9843099),
 *21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435, 2022.
+1. **K. Y. Ng**,
+["Digital Twins and Simulation Testbeds in Biomedical Engineering: From Mathematical Modelling and Classification for Diagnostics to Digital Simulation of Manufacturing Processes"](https://www.markusng.com/assets/Docs/Ng_NIBES.pdf),
+*Northern Ireland Biomedical Engineering Society Annual Symposium (NIBES) 2022*, Belfast, UK, 2022.
 <!--DOI:10.1109/MELECON53508.2022.9843099-->
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm"](https://ieeexplore.ieee.org/document/9689257),
