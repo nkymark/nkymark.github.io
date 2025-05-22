@@ -27,6 +27,8 @@ title: Publications
 <!--DOI:10.48550/arXiv.2302.03504-->
 
 ### Journal Articles ###  
+1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
+"Automated household-based water disinfection system for rural communities: Field trials and community appropriation", *Water Research*, 2025.
 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
 ["Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models"](https://doi.org/10.3390/bios14120611), 
 *Biosensors*, vol. 14 (611), 2024. 
