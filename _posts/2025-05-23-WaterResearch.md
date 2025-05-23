@@ -1,0 +1,11 @@
+---
+title:  "Latest Publication in *Water Research*"
+date:   2025-05-23 09:00:00 +0000
+---
+
+A new paper by the SAFEWATER team entitled "Automated household-based water disinfection system for rural communities: Field trials and community appropriation" is now published in the prestigious *Water Research*.
+
+Abstract: This research involved a pilot field trial of household-based water treatment and storage for potable water in rural communities of Colombia and Mexico. Through co-creation with the communities, key parameters were considered when designing the systems, including the efficiency of disinfection, the provision of a sufficient volume of treated water, variability of the raw water quality and access to freshwater sources. The water treatment systems were automated with electronic controllers. They consisted of a sedimentation tank (bottom), a treatment unit (pre-filtration followed by UVC disinfection), a pump to move the treated water to a second elevated tank for storing the treated water (150 L or 250 L), and a small distribution network that provided water inside the home by gravity (kitchen and bathroom taps). They were installed at households in rural communities of Colombia (52 systems) and Mexico (187 systems) and the performance was evaluated over 12 consecutive months. Efficiency was evaluated using standard microbial and physicochemical water quality parameters. Treated water turbidity was below the World Health Organization (WHO) recommendation (< 5 NTU) in >97% of the samples in Colombia and 98.9% in Mexico. The treatment reduced *E. coli* to potable levels in all cases, regardless of the initial microbiological load and the variation of the raw water quality. In some cases, an increase in *E. coli* values was detected in the distribution network within the households (post-storage), although not statistically significant, they represented a ‘moderate risk’. The health risk associated with the water was reduced to ‘low risk’ in more than 80% of the treated water samples vs. <10% before treatment. After 12 months of operation, the household water treatment and storage systems (HWTSs) remained effective for the provision of potable water.
+
+The paper can be downloaded and read [here](https://doi.org/10.1016/j.watres.2025.123888).
+
