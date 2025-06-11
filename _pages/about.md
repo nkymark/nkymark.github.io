@@ -1,25 +1,27 @@
 ---
 permalink: /about/
 layout: single
-title: Brief Biography
+title: Biography
 ---
 
-## Brief Biography ##
+## Biography ##
 I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Reader (Professor) in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute.
 
 My research interests include fault diagnosis, mathematical modelling, digital twin, and data analytics for anomaly detection and classification.
 
-In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods. For this research, I was instrumental in developing a Digital Twin/Simulation Testbed on the MATLAB/Simulink platform for realistic simulation and testing of residuals generation and fault diagnosis methods for the following:
+In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Systems, Linköping University, Sweden, where I worked with Volvo Car Corporation (VCC) on advanced fault diagnosis schemes in vehicular engines using model-based and data-driven methods. For this research, I was instrumental in developing a Digital Twin/Simulation Testbed on the MATLAB/Simulink platform for realistic simulation and testing of residuals generation and fault diagnosis methods. 
+
+<!--for the following:
 * Realistic modelling and control of the engine Injection and simulation of a variety of actuator, sensor, and variable faults in the engine
 * In-house designed algorithm for additional residuals selection
 * In-house designed algorithm for alarm generations, residuals monitoring, as well as Fault Isolation (FI)
 * Simulation and FI of system with intermittent residuals
-
+-->
 This research work was published in the [*IEEE Control Systems Magazine*](https://ieeexplore.ieee.org/document/9036118) and the Digital Twin/Simulation Testbed can be downloaded via the [main hosting site](https://www.markusng.com/TCSI/) or its mirror at [Linköping University](https://www.fs.isy.liu.se/en/Software/TCSI_Testbed/).
 
 Throughout my career, I have secured more than £6.5 million in research grants from various funders such as the Engineering and Physical Sciences Research Council (EPSRC), UK Research and Innovation (UKRI), Global Challenges Research Fund (GCRF), and the Northern Ireland Department for the Economy in the UK; the Fundamental Research Grant Scheme (FRGS), Exploratory Research Grant Scheme (ERGS), and EScienceFund from the Ministry of Higher Education in Malaysia; and industries such as Volvo Car Corporation in Gothenburg, Sweden.
 
-Overall, I have successfully supervised no less than 2 postdoctorals, 8 PhD, and 3 Master's by Research candidates.
+Overall, I have successfully supervised no less than 2 postdoctorals, 8 PhDs, and 3 Master's by Research candidates.
 
 I am also currently attached to the Digital Catapult as an awardee of the EPSRC Innovation Launchpad Network+ (ILN+) Researcher in Residence Scheme. This research project aims to develop an energy mapping Digital Twin technology that contributes towards net zero in wind turbine energy. This technology encompasses the entire energy lifecycle, from mining through storage to utilisation in Northern Ireland (NI). This project also involves collaboration with the Offshore Renewable Energy Catapult.
 
@@ -29,9 +31,11 @@ In addition, during the COVID-19 pandemic, I led the [Modelling and Forecast Tas
 
 I am a Senior Member of the IEEE and I am currently the Vice-Chair of the IEEE Control Systems Society (CSS), UK and Ireland Chapter.
 
-I am the Moderator for the *IEEE TechRxiv*, the Associate Editor for *IEEE Access*, Editor for *PeerJ Computer Science*, and Section Editor for *Sage Science Progress*.
+I am a Moderator for the *IEEE TechRxiv*, Associate Editor for *IEEE Access*, Editor for *PeerJ Computer Science*, and Section Editor for *Sage Science Progress*.
 
 I am also an Adjunct Senior Research Fellow with Monash University Malaysia where I served as a Lecturer from 2009, and subsequently as Senior Lecturer till 2017.
+
+In addition, I am member of a few key technological committees in NI. Namely, I am an Advisory Board Member on the Artificial Intelligence Collaboration Centre (AICC), which is a £16.3 million initiative led by Ulster in partnership with QUB and supported by Invest Northern Ireland and the Department for the Economy NI. I am also a Technology Strategy Groups Member (Digital Factory) for the Advanced Manufacturing Innovation Centre (AMIC), which is a £100 million investment under the Belfast Region City Deal. Other than that, I am a Steering Member for the Northern Ireland High Performance Computing (NI-HPC) consortium, a £2 million UK Tier-2 National HPC facility funded by the Engineering and Physical Sciences Research Council (EPSRC) and jointly managed by QUB and Ulster.
 
 
 <!-- 
@@ -109,6 +113,8 @@ I also developed the GUI-based Simulation Environment (Digital Twin) on Matlab a
 
 
 ## Honours and Awards ##
+* Nomination for Learning and Teaching Award, Ulster University Students’ Union, 2025
+* Nomination for Learning and Teaching Award, Ulster University Students’ Union, 2024
 * Learning and Teaching Award, Ulster University Students' Union, 2020
 * Fellow of Higher Education Academy, UK (FHEA), 2018
 * Erasmus+ Staff Mobility Program to Augsburg University of Applied Sciences, Germany, 2018
