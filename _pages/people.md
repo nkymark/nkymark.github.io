@@ -6,7 +6,7 @@ title: People
 
 ## Current Team Members ##
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
-  Reader (Professor) <br />
+  Reader <br />
   Head of the Multi-Agent Robotics Centre (MARC) </span></p>  <br /><br />
 
 <!--<p><img align="left" width="120" src="/assets/Figures/Pardis.jpg" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />-->

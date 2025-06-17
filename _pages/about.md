@@ -5,7 +5,7 @@ title: Biography
 ---
 
 ## Biography ##
-I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Reader (Professor) in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute. I also currently lead the Multi-Agent Robotics Centre at Ulster.
+I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Reader in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute. I also currently lead the Multi-Agent Robotics Centre at Ulster.
 
 My research interests include fault diagnosis, mathematical modelling, digital twin, and data analytics for anomaly detection and classification.
 
@@ -48,13 +48,13 @@ Thesis: “Advancements In Robust Fault Reconstruction Using Sliding Mode Observ
 
 ## Current Employment and Affiliations ##
 **Ulster University, Northern Ireland, U.K.**  
-**Reader (Professor) in Mechatronics Engineering and Control**  
+**Reader in Mechatronics Engineering and Control**  
 2025–Present
 
-**Senior Lecturer (Associate Professor) in Mechatronics Engineering and Control**  
+**Senior Lecturer in Mechatronics Engineering and Control**  
 2021–2025
 
-**Lecturer (Assistant Professor) in Mechatronics Engineering and Control**  
+**Lecturer in Mechatronics Engineering and Control**  
 2017–2021  
 I am responsible for Control Engineering related modules taught to undergraduate students. I coordinate and teach the following modules:
 * EEE316 Control Theory and Applications
