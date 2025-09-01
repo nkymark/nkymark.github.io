@@ -42,13 +42,13 @@ title: People
   </span></p>
 
 
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Martin Kučera</b><br />
+<p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20"><span><b>Martin Kučera</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Prof. Jim McLaughlin (Co, Ulster) <br /><br /><br />
   </span></p>
   
   
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Tomáš Smrčka</b><br />
+<p><img align="left" width="120" src="/assets/Figures/Tomas.png" hspace="20"><span><b>Tomáš Smrčka</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Prof. Jim McLaughlin (Co, Ulster) <br /><br /><br />
   </span></p>
