@@ -14,11 +14,17 @@ We primarily conduct research on anomaly detection and classification using mode
 
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
-<iframe width="320" height="180" src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<div class="video-item">
+	<video width="420" height="236" controls>
+		<source src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" type="video/mp4">
+    </video>
+</div>
 
+<iframe width="320" height="180" src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+&emsp;&emsp; 
 
 <iframe width="420" height="236" src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-
+&emsp;&emsp; 
 
 <iframe width="420" height="236" src="https://www.youtube.com/embed/0Xov4LlgtKM?si=G9QQpS9ZZBQMYpe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
