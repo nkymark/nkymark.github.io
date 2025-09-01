@@ -2,6 +2,9 @@
 permalink: /research/
 layout: single
 title: Research 
+gallery:
+- url: https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy
+- url: https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO
 ---
 
 <!--## Call for Papers ##
@@ -13,6 +16,8 @@ We primarily conduct research on anomaly detection and classification using mode
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Digital Twinning and Industry 4.0 applications.
 
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
+
+{% include gallery id="gallery" %}
 
 <iframe src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" width="320" height="180" frameborder="1" allowfullscreen> </iframe> &emsp;
 
