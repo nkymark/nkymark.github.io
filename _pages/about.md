@@ -5,7 +5,7 @@ title: Biography
 ---
 
 ## Biography ##
-I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Reader in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute. I also currently lead the Multi-Agent Robotics Centre at Ulster.
+I received the BEng (Hons) in Electrical and Computer Systems Engineering and the Ph.D. in Fault Diagnosis and Control Systems from Monash University in 2006 and 2009, respectively. I am currently a Reader in Mechatronics Engineering and Control at the School of Engineering, Ulster University, UK, and I am attached to the Engineering Research Institute. I also currently lead the Multi-Agent and Advanced Robotics Centre (MAvRiC) at Ulster.
 
 My research interests include fault diagnosis, mathematical modelling, digital twin, and data analytics for anomaly detection and classification.
 
