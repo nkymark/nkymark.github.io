@@ -6,6 +6,8 @@ title: TCSI Simulation Testbed
 
 # Digital Twin of a TCSI System #
 
+<iframe width="420" height="236" src="https://www.youtube.com/embed/0V6uzxBFoC0?si=ELo8Zn7BNpOMlTI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+
 ## Table of Contents ##
   1. [Introduction](#introduction)
   2. [Modelling The Engine](#modelling-the-engine)
