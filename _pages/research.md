@@ -16,9 +16,9 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
+<iframe width="420" src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br>
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/0Xov4LlgtKM?si=G9QQpS9ZZBQMYpe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="50%" height="236" src="https://www.youtube.com/embed/0Xov4LlgtKM?si=G9QQpS9ZZBQMYpe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Research Facilities ##
