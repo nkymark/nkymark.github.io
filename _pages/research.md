@@ -62,8 +62,10 @@ We primarily conduct research on anomaly detection and classification using mode
   * 1x Workpiece Output Module  
 
 * NVIDIA Jetson TX2   -->
-  
-&emsp;&emsp;&emsp;&emsp;
+
+<iframe src="/assets/Figures/Facilities.png" width="840"> </iframe>&emsp;
+
+
 ## Research Partners and Collaborators ##
 
 <img src="/assets/Figures/Logos.png" width="840">&emsp;&emsp;  
