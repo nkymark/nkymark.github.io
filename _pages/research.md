@@ -22,7 +22,7 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ##
-<img align="right" src="/assets/Figures/Facilities.png" width="400">
+<img align="left" src="/assets/Figures/Facilities.png" width="840">
 
 <!-- * 2x ER-FLEX 250 (UR-5e cobot + MiR250 AMR combo)
 
