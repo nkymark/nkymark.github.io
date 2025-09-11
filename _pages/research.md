@@ -63,7 +63,7 @@ We primarily conduct research on anomaly detection and classification using mode
 
 * NVIDIA Jetson TX2   -->
 
-<iframe src="https://www.markusng.com/assets/Figures/Facilities.png" width="840"> </iframe>&emsp;
+<iframe height="1"> </iframe>&emsp;
 
 
 ## Research Partners and Collaborators ##
