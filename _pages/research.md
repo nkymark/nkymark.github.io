@@ -38,6 +38,7 @@ We primarily conduct research on anomaly detection and classification using mode
 
 * Picoscope 5443D Oscilloscope
 
+
 * Ultrasonic Immersion and Contact Transducers
 
 * INTECO Dual-Rotor Aerodynamical System
@@ -63,7 +64,7 @@ We primarily conduct research on anomaly detection and classification using mode
 
 * NVIDIA Jetson TX2  
   
-<br><br>
+<br><br><br><br>
 ## Research Partners and Collaborators ##
 
 <img src="/assets/Figures/Logos.png" width="840">&emsp;&emsp;  
