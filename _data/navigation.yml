@@ -11,7 +11,7 @@ main:
     url: /vacancies
   - title: "Tech Stuff"
     url: /tech   
-  - title: "Photos"
+  - title: "Photos" 
     url: /photos    
   - title: "About Me"
     url: /about   
