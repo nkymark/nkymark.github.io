@@ -9,9 +9,7 @@ title: MAvRiC
 
 ## General Research Activities ##
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
-
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Digital Twinning and Industry 4.0 applications.
-
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 <iframe src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" width="320" height="180" frameborder="1" allowfullscreen> </iframe> &emsp;
@@ -62,7 +60,6 @@ The lab will facilitate research and teaching in the fields of robotics and mech
 
 
 ## Research Partners and Collaborators ##
-
 <img src="/assets/Figures/Logos.png" width="840">&emsp;&emsp;  
 
 
