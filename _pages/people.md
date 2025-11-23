@@ -7,7 +7,7 @@ title: People
 ## Current Team Members ##
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
   Reader <br />
-  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) </span></p>  <br /><br />
+  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) </span></p><br />
 
 <!--<p><img align="left" width="120" src="/assets/Figures/Pardis.jpg" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />-->
 <!--  Lecturer in Engineering and Data Analytics Scientist <br />-->
@@ -31,7 +31,7 @@ title: People
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Brian Kirch </b><br />
   Ph.D.  <br />
   Thesis title: Implementing Mechatronic Control and Analysis of Carbon Fibre Weaving <br />
-  Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br /><br />
+  Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br />
   </span></p>
 
 
