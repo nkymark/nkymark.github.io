@@ -1,7 +1,7 @@
 ---
 permalink: /mavric/
 layout: single
-title: Research 
+title: MAvRiC 
 ---
 
 <!--## Call for Papers ##
