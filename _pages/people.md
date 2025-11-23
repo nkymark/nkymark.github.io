@@ -40,25 +40,26 @@ title: People
   Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br /><br />
   </span></p>
+  
 
-
+## Former Team Members ##
 <p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20"><span><b>Martin Kučera</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Prof. Jim McLaughlin (Co, Ulster) <br /><br /><br />
   </span></p>
-  
-  
+
+
 <p><img align="left" width="120" src="/assets/Figures/Tomas.png" hspace="20"><span><b>Tomáš Smrčka</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Prof. Jim McLaughlin (Co, Ulster) <br /><br /><br />
   </span></p>
-  
 
-## Former Team Members ##
+
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20"><span><b>Niamh McCallan </b><br />
   Ph.D. (Completed, 2024) <br />
   Thesis title: Data-Driven Techniques and Multidimensional Analysis of Biomedical Signals for Detection and Classification of Epileptic Seizures<br />
   </span></p> <br />  
+
   
 <p><img align="left" width="120" src="/assets/Figures/Scot.jpg" hspace="20"><span><b>Scot Davidson </b><br />
   Ph.D. (Completed, 2024) <br />
