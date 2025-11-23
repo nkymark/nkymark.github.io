@@ -8,9 +8,9 @@ title: MAvRiC
 [<img src="/assets/Docs/CCTA.pdf" width="400">](https://confcats-siteplex.s3.us-east-1.amazonaws.com/ccta24/ccta24_cfp_web_v13_b0a1bf1f32.pdf)-->
 
 ## General Research Activities ##
-<!-- We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
+We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Digital Twinning and Industry 4.0 applications.
-* Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics. -->
+* Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 <iframe src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" width="320" height="180" frameborder="1" allowfullscreen> </iframe> &emsp;
 
