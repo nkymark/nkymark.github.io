@@ -1,5 +1,5 @@
 ---
-permalink: /mavric/
+permalink: /research/
 layout: single
 title: MAvRiC 
 ---
