@@ -1,7 +1,7 @@
 ---
 permalink: /mavric/
 layout: single
-title: Research 
+title: MAvRiC 
 ---
 
 <!--## Call for Papers ##
@@ -23,6 +23,37 @@ We primarily conduct research on anomaly detection and classification using mode
 
 
 ## Research Facilities ##
+Based in the School of Engineering and led by Mark Ng (PI) and Prof. James McLaughlin (Co-I), the DfE-funded lab features state-of-the-art robotic systems for active research and teaching in the coming years, with close to £250k of new equipment including
+* 2x ER-FLEX 250 (UR-5e cobot + MiR250 AMR combo)
+* 4x Turtlebot4
+* 3x Bambulab X1 Multi-Filament (AMS) and Multi-Material-capable 3D-Printers
+* 3x OrangeApps KUKA-compatible Robotic Arms
+* 4x MinSeg Robotic System
+* Sonotec PR 200 Combi Pulser
+* Picoscope 5443D Oscilloscope
+* Ultrasonic Immersion and Contact Transducers
+
+Other existing equipment featured in the lab, bringing it to more than £500k in value including the new equipment above are
+* INTECO Dual-Rotor Aerodynamical System
+* INTECO Antilock Braking System (ABS)
+* Festo CP LAB Variant 3, which includes the following:
+  * 6x Pallet Transfer System
+  * 4x System Trainers With A4 Frames
+  * 2x CP Bridge
+  * 1x Robotino + SIM Environment
+  * 2x Magazine Modules
+  * 1x Measurement Module
+  * 1x Muscle Press Module
+  * 1x Tunnel Furnace Module
+  * 1x Workpiece Output Module  
+* NVIDIA Jetson TX2
+
+The lab will facilitate research and teaching in the fields of robotics and mechatronics systems, control theory, digital twinning, additive and advanced manufacturing, rapid prototyping, non-destructive testing (NDT) using ultrasonic testing (UT), etc. Furthermore, these activities will be supported by other tied-in facilities available at Ulster such as the Dell Bright Cluster HPC and Digital Twin System, which consists of the following components:
+  * 1 PowerEdge R6525 Head Node
+  * 3 PowerEdge R6525 Compute Node
+  * 1 PowerEdge R750 GPU Node
+  * 1 PowerEdge R6515 SDP Node  
+  
 <img align="left" src="/assets/Figures/Facilities.png" width="840">
 
 <!-- * 2x ER-FLEX 250 (UR-5e cobot + MiR250 AMR combo)
