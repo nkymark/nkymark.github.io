@@ -7,7 +7,7 @@ title: People
 ## Current Team Members ##
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
   Reader <br />
-  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) </span></p><br />
+  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) </span></p><br /><br />
 
 <!--<p><img align="left" width="120" src="/assets/Figures/Pardis.jpg" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />-->
 <!--  Lecturer in Engineering and Data Analytics Scientist <br />-->
