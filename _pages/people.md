@@ -40,8 +40,16 @@ title: People
   Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br /><br />
   </span></p>
+
+
+  <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Ranga Kanteti</b><br />
+  Ph.D. <br />
+  Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
+  Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
+  </span></p>
   
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 ## Former Team Members ##
 <p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20"><span><b>Martin Kučera</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br />
