@@ -18,9 +18,9 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Preprints ###
-1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**, 
+<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**, 
 ["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.48550/arXiv.2505.03576),
-*arXiv preprint arXiv:2505.03576*, 2025.
+*arXiv preprint arXiv:2505.03576*, 2025. -->
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric"](https://doi.org/10.48550/arXiv.2302.03504),
 *arXiv preprint arXiv:2302.03504*, 2023. 
@@ -156,6 +156,9 @@ title: Publications
 
 
 ### Conference Proceedings ###
+1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
+["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.1109/INDIN64977.2025.11279663),
+*2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025.
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
 *8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024. 

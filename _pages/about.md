@@ -19,7 +19,7 @@ In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Sys
 -->
 This research work was published in the [*IEEE Control Systems Magazine*](https://ieeexplore.ieee.org/document/9036118) and the Digital Twin/Simulation Testbed can be downloaded via the [main hosting site](https://www.markusng.com/TCSI/) or its mirror at [Linköping University](https://www.fs.isy.liu.se/en/Software/TCSI_Testbed/).
 
-Throughout my career, I have secured more than £6.5 million in research grants from various funders such as the Engineering and Physical Sciences Research Council (EPSRC), UK Research and Innovation (UKRI), Global Challenges Research Fund (GCRF), and the Northern Ireland Department for the Economy in the UK; the Fundamental Research Grant Scheme (FRGS), Exploratory Research Grant Scheme (ERGS), and EScienceFund from the Ministry of Higher Education in Malaysia; and industries such as Volvo Car Corporation in Gothenburg, Sweden.
+Throughout my career, I have secured more than £12 million in research grants from various funders such as the Engineering and Physical Sciences Research Council (EPSRC), UK Research and Innovation (UKRI), Global Challenges Research Fund (GCRF), and the Northern Ireland Department for the Economy in the UK; the Fundamental Research Grant Scheme (FRGS), Exploratory Research Grant Scheme (ERGS), and EScienceFund from the Ministry of Higher Education in Malaysia; and industries such as Volvo Car Corporation in Gothenburg, Sweden.
 
 Overall, I have successfully supervised no less than 2 postdoctorals, 8 PhDs, and 3 Master's by Research candidates.
 
