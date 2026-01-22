@@ -159,6 +159,9 @@ title: Publications
 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
 ["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.1109/INDIN64977.2025.11279663),
 *2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025.
+1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
+["A Robust Tolerance Optimisation Framework for Automated Optical Inspection (AOI) in Semiconductor Manufacturing"](https://www.markusng.com/assets/Docs/Kogileru_DTNet.pdf),
+*DTNet+ Special Interest Group (SIG) Conference 2025*, Swansea, UK, 2025.
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
 *8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024. 
