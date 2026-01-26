@@ -35,7 +35,7 @@ title: People
   </span></p>
 
 
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Shruthi Kogileru</b><br />
+<p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20"><span><b>Shruthi Kogileru</b><br />
   KTP Associate <br />
   Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br />
