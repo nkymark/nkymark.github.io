@@ -66,11 +66,17 @@ DOI:10.48550/arXiv.2302.03504 -->
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors and Bioelectronics</span><br />
   <a href="https://doi.org/10.1016/j.bios.2022.115016">[Paper]</a>
-</span></p><br /> 
+</span></p><br />
+
+<p><img align="left" width="150" src="/assets/Figures/WMU2022.png" hspace="20"><span>
+<b>"Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels</b><br />
+  <b>K. Y. Ng</b>, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin<br />
+  <span class="pub-venue">WMU Journal of Maritime Affairs</span><br />
+  <a href="https://doi.org/10.1007/s13437-022-00291-1">[Paper]</a>
+</span></p><br />
 
 
-<!-- ![alt](/assets/Figures/ABS.png){: .pub-thumb} 
-M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
+<!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
 *Water Research*, pp. 123888, 2025.
 DOI: 10.1016/j.watres.2025.123888 -->
@@ -85,21 +91,21 @@ DOI:10.3390/bios14120611 -->
 *Expert Systems with Applications*, pp. 121040, 2023.
 DOI:10.1016/j.eswa.2023.121040 -->
 
-
 <!-- 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay, 
 ["Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands"](https://www.mdpi.com/1424-8220/23/13/5892),
 *Sensors*, vol. 23, no. 13, pp. 5892, 2023.
 DOI:10.3390/s23135892 -->
 
-
-1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
+<!-- 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
 ["A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers"](https://doi.org/10.1016/j.bios.2022.115016), 
 *Biosensors and Bioelectronics*, vol. 223, pp. 115016, 2023. 
-<!--DOI:10.1016/j.bios.2022.115016-->
-1. **K. Y. Ng**, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin,
+DOI:10.1016/j.bios.2022.115016 -->
+
+<!-- 1. **K. Y. Ng**, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin,
 ["Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels"](https://doi.org/10.1007/s13437-022-00291-1),
 *WMU Journal of Maritime Affairs*, 2022.
-<!--DOI:10.1007/s13437-022-00291-1-->
+DOI:10.1007/s13437-022-00291-1 -->
+
 1. M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin,
 ["COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps"](https://doi.org/10.1016/j.jbi.2021.103905),
 *Journal of Biomedical Informatics*, pp. 103905, 2021.
