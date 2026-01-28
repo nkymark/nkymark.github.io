@@ -42,7 +42,7 @@ DOI: 10.1016/j.watres.2025.123888 -->
   <a href="https://doi.org/10.1016/j.watres.2025.123888">[Paper]</a><br /> 
 </span></p><br />
 
-<p><img align="left" width="180" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span>
+<p><img align="left" width="180" src="/assets/Figures/Bios2024.png" hspace="20"><span>
 <b>Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models</b><br />
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors</span><br />
