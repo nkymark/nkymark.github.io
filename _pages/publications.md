@@ -105,14 +105,14 @@ DOI:10.48550/arXiv.2302.03504 -->
 
 <p><img align="left" width="180" src="/assets/Figures/PhysicaD2020.png" hspace="20"><span>
 <b>COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility</b><br />
-  <b>>K. Y. Ng</b> and M. M. Gui</b><br />
+  <b>K. Y. Ng</b> and M. M. Gui</b><br />
   <span class="pub-venue">Physica D: Nonlinear Phenomena</span><br />
   <a href="https://doi.org/10.1016/j.physd.2020.132599">[Paper]</a>
 </span></p>
 
 <p><img align="left" width="180" src="/assets/Figures/IEEECSM2020.png" hspace="20"><span>
 <b>A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies</b><br />
-  <b>>K. Y. Ng</b>, E. Frisk, M. Krysander, and L. Eriksson</b><br />
+  <b>K. Y. Ng</b>, E. Frisk, M. Krysander, and L. Eriksson</b><br />
   <span class="pub-venue">IEEE Control Systems Magazine</span><br />
   <a href="https://ieeexplore.ieee.org/document/9036118">[Paper]</a>
 </span></p>
