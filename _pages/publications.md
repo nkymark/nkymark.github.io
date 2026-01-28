@@ -34,6 +34,13 @@ M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
 *Water Research*, pp. 123888, 2025.
 <!--DOI: 10.1016/j.watres.2025.123888-->
+
+<p><img align="left" width="120" src="/assets/Figures/ABS.png" hspace="20"><span><b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
+  M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez  <br />
+  Water Research<br />
+  [Paper] <br /> 
+</span></p><br />
+
 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
 ["Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models"](https://doi.org/10.3390/bios14120611), 
 *Biosensors*, vol. 14 (611), 2024. 
