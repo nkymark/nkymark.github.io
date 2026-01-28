@@ -45,14 +45,14 @@ DOI:10.48550/arXiv.2302.03504 -->
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors</span><br />
   <a href="https://doi.org/10.3390/bios14120611">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/ESWA2023.png" hspace="20"><span>
 <b>Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review</b><br />
   N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
   <span class="pub-venue">Expert Systems with Applications</span><br />
   <a href="https://doi.org/10.1016/j.eswa.2023.121040">[Paper]</a>
-</span></p><br />
+</span></p>
 
 <p><img align="left" width="180" src="/assets/Figures/Sensors2023.png" hspace="20"><span>
 <b>Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
@@ -73,7 +73,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   <b>K. Y. Ng</b>, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin<br />
   <span class="pub-venue">WMU Journal of Maritime Affairs</span><br />
   <a href="https://doi.org/10.1007/s13437-022-00291-1">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/JBI2021.png" hspace="20"><span>
 <b>COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps</b><br />
@@ -94,7 +94,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   P. Biglarbeigi, <b>K. Y. Ng</b>, D. Finlay, R. Bond, M. Jing, and J. McLaughlin<br />
   <span class="pub-venue">PeerJ</span><br />
   <a href="https://doi.org/10.7717/peerj.10992">[Paper]</a>
-</span></p><br />
+</span></p>
 
 <p><img align="left" width="180" src="/assets/Figures/PeerJ2021b.png" hspace="20"><span>
 <b>Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan</b><br />
@@ -108,6 +108,13 @@ DOI:10.48550/arXiv.2302.03504 -->
   <b>>K. Y. Ng</b> and M. M. Gui</b><br />
   <span class="pub-venue">Physica D: Nonlinear Phenomena</span><br />
   <a href="https://doi.org/10.1016/j.physd.2020.132599">[Paper]</a>
+</span></p>
+
+<p><img align="left" width="180" src="/assets/Figures/IEEECSM2020.png" hspace="20"><span>
+<b>A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies</b><br />
+  <b>>K. Y. Ng</b>, E. Frisk, M. Krysander, and L. Eriksson</b><br />
+  <span class="pub-venue">IEEE Control Systems Magazine</span><br />
+  <a href="https://ieeexplore.ieee.org/document/9036118">[Paper]</a>
 </span></p>
 
 
@@ -161,11 +168,12 @@ DOI:10.7717/peerj.10992  -->
 *PeerJ*, pp. e10806, 2021. 
 DOI:10.7717/peerj.10806 -->
 
-
-1. **K. Y. Ng** and M. M. Gui,
+<!-- 1. **K. Y. Ng** and M. M. Gui,
 ["COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility"](https://doi.org/10.1016/j.physd.2020.132599), 
 *Physica D: Nonlinear Phenomena*, vol. 411, pp. 132599, 2020. 
-<!--DOI:10.1016/j.physd.2020.132599  -->
+DOI:10.1016/j.physd.2020.132599  -->
+
+
 1. **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson, 
 ["A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies"](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83, 2020. 
