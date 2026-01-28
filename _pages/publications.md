@@ -35,8 +35,8 @@ M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz
 *Water Research*, pp. 123888, 2025.
 <!--DOI: 10.1016/j.watres.2025.123888-->
 
-<p><img align="left" width="150" src="/assets/Figures/ABS.png" hspace="20"><span><b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
-  M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez  <br />
+<p><img align="left" width="150" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span><b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
+  M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, and P. Fernandez-Ibanez<br />
   <span class="pub-venue">Water Research</span><br />
   <a href="https://doi.org/10.1016/j.watres.2025.123888">[Paper]</a><br /> 
 </span></p><br />
