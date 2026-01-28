@@ -87,7 +87,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   L. J.  Robertson, J. S. Moore, K. Blighe, <b>K. Y. Ng</b>, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore<br />
   <span class="pub-venue">BMJ Open</span><br />
   <a href="https://bmjopen.bmj.com/content/11/6/e048142">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/PeerJ2021.png" hspace="20"><span>
 <b>Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic</b><br />
@@ -122,7 +122,14 @@ DOI:10.48550/arXiv.2302.03504 -->
   S. J. W. Tang, V. Kalavally, <b>K. Y. Ng</b>, C. P. Tan, and J. Parkkinen<br />
   <span class="pub-venue">IEEE Access</span><br />
   <a href="https://doi.org/10.1109/ACCESS.2018.2872320">[Paper]</a>
-</span></p>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/CEP2018.png" hspace="20"><span>
+<b>Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation</b><br />
+  D. Jung, <b>K. Y. Ng</b>, E. Frisk, and M. Krysander<br />
+  <span class="pub-venue">Control Engineering Practice</span><br />
+  <a href="https://doi.org/10.1016/j.conengprac.2018.08.013">[Paper]</a>
+</span></p><br />
 
 
 <!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
@@ -193,12 +200,14 @@ DOI:10.1109/ACCESS.2018.2872320  -->
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
 
-1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
+<!-- 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
 ["Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation"](https://doi.org/10.1016/j.conengprac.2018.08.013), 
 *Control Engineering Practice*, vol. 80, pp. 146–156, 2018. 
-<!--DOI:10.1016/j.conengprac.2018.08.013  -->
+DOI:10.1016/j.conengprac.2018.08.013  -->
 <!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
 --->
+
+
 1. L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, 
 ["Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review"](https://doi.org/10.1002/jctb.5490), 
 *Journal of Chemical Technology and Biotechnology*, vol. 93, pp. 925–935, 2018. 
