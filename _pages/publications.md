@@ -45,7 +45,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors</span><br />
   <a href="https://doi.org/10.3390/bios14120611">[Paper]</a>
-</span></p><br /> 
+</span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/ESWA2023.png" hspace="20"><span>
 <b>Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review</b><br />
