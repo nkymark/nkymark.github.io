@@ -29,7 +29,8 @@ title: Publications
 <!--DOI:10.48550/arXiv.2302.03504-->
 
 ### Journal Articles ###  
-1. ![alt](/assets/Figures/ABS.png){: .pub-thumb} M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
+![alt](/assets/Figures/ABS.png){: .pub-thumb} 
+M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
 *Water Research*, pp. 123888, 2025.
 <!--DOI: 10.1016/j.watres.2025.123888-->
