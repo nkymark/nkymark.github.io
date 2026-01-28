@@ -55,21 +55,21 @@ DOI:10.48550/arXiv.2302.03504 -->
 </span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/Sensors2023.png" hspace="20"><span>
-<b>"Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
+<b>Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
   O. Escalona, N. Cullen, I. Weli, N. McCallan, <b>K. Y. Ng</b>, and D. Finlay<br />
   <span class="pub-venue">Sensors</span><br />
   <a href="https://www.mdpi.com/1424-8220/23/13/5892">[Paper]</a>
 </span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/BiosBio2023.png" hspace="20"><span>
-<b>"A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers</b><br />
+<b>A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers</b><br />
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors and Bioelectronics</span><br />
   <a href="https://doi.org/10.1016/j.bios.2022.115016">[Paper]</a>
 </span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/WMU2022.png" hspace="20"><span>
-<b>"Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels</b><br />
+<b>Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels</b><br />
   <b>K. Y. Ng</b>, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin<br />
   <span class="pub-venue">WMU Journal of Maritime Affairs</span><br />
   <a href="https://doi.org/10.1007/s13437-022-00291-1">[Paper]</a>
@@ -87,6 +87,13 @@ DOI:10.48550/arXiv.2302.03504 -->
   L. J.  Robertson, J. S. Moore, K. Blighe, <b>K. Y. Ng</b>, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore<br />
   <span class="pub-venue">BMJ Open</span><br />
   <a href="https://bmjopen.bmj.com/content/11/6/e048142">[Paper]</a>
+</span></p>
+
+<p><img align="left" width="150" src="/assets/Figures/PeerJ2021.png" hspace="20"><span>
+<b>Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic</b><br />
+  P. Biglarbeigi, <b>K. Y. Ng</b>, D. Finlay, R. Bond, M. Jing, and J. McLaughlin<br />
+  <span class="pub-venue">PeerJ</span><br />
+  <a href="https://doi.org/10.7717/peerj.10992">[Paper]</a>
 </span></p>
 
 
