@@ -59,7 +59,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   O. Escalona, N. Cullen, I. Weli, N. McCallan, <b>K. Y. Ng</b>, and D. Finlay<br />
   <span class="pub-venue">Sensors</span><br />
   <a href="https://www.mdpi.com/1424-8220/23/13/5892">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/BiosBio2023.png" hspace="20"><span>
 <b>A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers</b><br />
@@ -101,21 +101,21 @@ DOI:10.48550/arXiv.2302.03504 -->
   T. D. Do, M. M. Gui, and <b>K. Y. Ng</b><br />
   <span class="pub-venue">PeerJ</span><br />
   <a href="https://dx.doi.org/10.7717/peerj.10806">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/PhysicaD2020.png" hspace="20"><span>
 <b>COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility</b><br />
   <b>K. Y. Ng</b> and M. M. Gui</b><br />
   <span class="pub-venue">Physica D: Nonlinear Phenomena</span><br />
   <a href="https://doi.org/10.1016/j.physd.2020.132599">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/IEEECSM2020.png" hspace="20"><span>
 <b>A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies</b><br />
   <b>K. Y. Ng</b>, E. Frisk, M. Krysander, and L. Eriksson</b><br />
   <span class="pub-venue">IEEE Control Systems Magazine</span><br />
   <a href="https://ieeexplore.ieee.org/document/9036118">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/Access2018.png" hspace="20"><span>
 <b>Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device</b><br />
