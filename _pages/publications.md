@@ -79,7 +79,14 @@ DOI:10.48550/arXiv.2302.03504 -->
 <b>COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps</b><br />
   M. Jing, <b>K. Y. Ng</b>, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin<br />
   <span class="pub-venue">Journal of Biomedical Informatics</span><br />
-  <a href="hhttps://doi.org/10.1016/j.jbi.2021.103905">[Paper]</a>
+  <a href="https://doi.org/10.1016/j.jbi.2021.103905">[Paper]</a>
+</span></p>
+
+<p><img align="left" width="150" src="/assets/Figures/BMJ2021.png" hspace="20"><span>
+<b>Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months</b><br />
+  L. J.  Robertson, J. S. Moore, K. Blighe, <b>K. Y. Ng</b>, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore<br />
+  <span class="pub-venue">BMJ Open</span><br />
+  <a href="https://bmjopen.bmj.com/content/11/6/e048142">[Paper]</a>
 </span></p>
 
 
@@ -118,10 +125,13 @@ DOI:10.1007/s13437-022-00291-1 -->
 *Journal of Biomedical Informatics*, pp. 103905, 2021.
 DOI:10.1016/j.jbi.2021.103905  -->
 
-1. L. J.  Robertson, J. S. Moore, K. Blighe, **K. Y. Ng**, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore, 
+<!-- 1. L. J.  Robertson, J. S. Moore, K. Blighe, **K. Y. Ng**, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore, 
 ["Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months"](https://bmjopen.bmj.com/content/11/6/e048142), 
 *BMJ Open*, vol. 11, no. 6, e048142, 2021.
-<!--DOI:10.1136/bmjopen-2020-048142  -->
+DOI:10.1136/bmjopen-2020-048142  -->
+
+
+
 1. P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin, 
 ["Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic"](https://doi.org/10.7717/peerj.10992), 
 *PeerJ*, pp. e10992, 2021. 
