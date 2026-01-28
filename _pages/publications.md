@@ -29,43 +29,43 @@ title: Publications
 <!--DOI:10.48550/arXiv.2302.03504-->
 
 ### Journal Articles ###  
-<!-- ![alt](/assets/Figures/ABS.png){: .pub-thumb} 
-M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
-["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
-*Water Research*, pp. 123888, 2025.
-DOI: 10.1016/j.watres.2025.123888 -->
-
 <p><img align="left" width="180" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span>
 <b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
   M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, and P. Fernandez-Ibanez<br />
   <span class="pub-venue">Water Research</span><br />
   <a href="https://doi.org/10.1016/j.watres.2025.123888">[Paper]</a><br /> 
-</span></p><br />
+</span></p>
 
 <p><img align="left" width="180" src="/assets/Figures/Bios2024.png" hspace="20"><span>
 <b>Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models</b><br />
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors</span><br />
   <a href="https://doi.org/10.3390/bios14120611">[Paper]</a><br /> 
-</span></p><br />
+</span></p>
 
 <p><img align="left" width="180" src="/assets/Figures/ESWA2023.png" hspace="20"><span>
 <b>Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review</b><br />
   N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
   <span class="pub-venue">Expert Systems with Applications</span><br />
   <a href="https://doi.org/10.1016/j.eswa.2023.121040">[Paper]</a><br /> 
-</span></p><br />
+</span></p>
 
+
+<!-- ![alt](/assets/Figures/ABS.png){: .pub-thumb} 
+M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
+["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
+*Water Research*, pp. 123888, 2025.
+DOI: 10.1016/j.watres.2025.123888 -->
 
 <!-- 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
 ["Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models"](https://doi.org/10.3390/bios14120611), 
 *Biosensors*, vol. 14 (611), 2024. 
 DOI:10.3390/bios14120611 -->
 
-1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review"](https://doi.org/10.1016/j.eswa.2023.121040),
 *Expert Systems with Applications*, pp. 121040, 2023.
-<!--DOI:10.1016/j.eswa.2023.121040-->
+DOI:10.1016/j.eswa.2023.121040 -->
 
 
 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay, 
