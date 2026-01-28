@@ -20,13 +20,17 @@ title: Publications
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
 ### Preprints ###
-<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**, 
-["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.48550/arXiv.2505.03576),
-*arXiv preprint arXiv:2505.03576*, 2025. -->
-1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
+<p><img align="left" width="150" src="/assets/Figures/WuchererArxiv2023.png" hspace="20"><span>
+<b>Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric</b><br />
+  S. Wucherer, R. McMurray, <b>K. Y. Ng</b>, and F. Kerber<br />
+  <span class="pub-venue">arXiv preprint</span><br />
+  <a href="https://doi.org/10.48550/arXiv.2302.03504">[Paper]</a>
+</span></p>
+
+<!-- 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric"](https://doi.org/10.48550/arXiv.2302.03504),
 *arXiv preprint arXiv:2302.03504*, 2023. 
-<!--DOI:10.48550/arXiv.2302.03504-->
+DOI:10.48550/arXiv.2302.03504 -->
 
 ### Journal Articles ###  
 <p><img align="left" width="150" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span>
@@ -34,7 +38,7 @@ title: Publications
   M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, and P. Fernandez-Ibanez<br />
   <span class="pub-venue">Water Research</span><br />
   <a href="https://doi.org/10.1016/j.watres.2025.123888">[Paper]</a>
-</span></p><br /> 
+</span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/Bios2024.png" hspace="20"><span>
 <b>Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models</b><br />
