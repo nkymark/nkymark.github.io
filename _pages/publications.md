@@ -54,6 +54,13 @@ DOI:10.48550/arXiv.2302.03504 -->
   <a href="https://doi.org/10.1016/j.eswa.2023.121040">[Paper]</a>
 </span></p><br /> 
 
+<p><img align="left" width="150" src="/assets/Figures/Sensors2023.png" hspace="20"><span>
+<b>"Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
+  O. Escalona, N. Cullen, I. Weli, N. McCallan, <b>K. Y. Ng</b>, and D. Finlay<br />
+  <span class="pub-venue">Sensors</span><br />
+  <a href="https://www.mdpi.com/1424-8220/23/13/5892">[Paper]</a>
+</span></p><br /> 
+
 
 <!-- ![alt](/assets/Figures/ABS.png){: .pub-thumb} 
 M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
@@ -72,10 +79,12 @@ DOI:10.3390/bios14120611 -->
 DOI:10.1016/j.eswa.2023.121040 -->
 
 
-1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay, 
+<!-- 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay, 
 ["Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands"](https://www.mdpi.com/1424-8220/23/13/5892),
 *Sensors*, vol. 23, no. 13, pp. 5892, 2023.
-<!--DOI:10.3390/s23135892-->
+DOI:10.3390/s23135892 -->
+
+
 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
 ["A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers"](https://doi.org/10.1016/j.bios.2022.115016), 
 *Biosensors and Bioelectronics*, vol. 223, pp. 115016, 2023. 
