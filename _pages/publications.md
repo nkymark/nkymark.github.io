@@ -52,7 +52,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
   <span class="pub-venue">Expert Systems with Applications</span><br />
   <a href="https://doi.org/10.1016/j.eswa.2023.121040">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/Sensors2023.png" hspace="20"><span>
 <b>Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
@@ -80,7 +80,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   M. Jing, <b>K. Y. Ng</b>, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin<br />
   <span class="pub-venue">Journal of Biomedical Informatics</span><br />
   <a href="https://doi.org/10.1016/j.jbi.2021.103905">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/BMJ2021.png" hspace="20"><span>
 <b>Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months</b><br />
@@ -94,7 +94,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   P. Biglarbeigi, <b>K. Y. Ng</b>, D. Finlay, R. Bond, M. Jing, and J. McLaughlin<br />
   <span class="pub-venue">PeerJ</span><br />
   <a href="https://doi.org/10.7717/peerj.10992">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/PeerJ2021b.png" hspace="20"><span>
 <b>Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan</b><br />
