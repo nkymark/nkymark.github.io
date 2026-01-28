@@ -52,28 +52,35 @@ DOI:10.48550/arXiv.2302.03504 -->
   N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
   <span class="pub-venue">Expert Systems with Applications</span><br />
   <a href="https://doi.org/10.1016/j.eswa.2023.121040">[Paper]</a>
-</span></p><br /> 
+</span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/Sensors2023.png" hspace="20"><span>
 <b>"Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
   O. Escalona, N. Cullen, I. Weli, N. McCallan, <b>K. Y. Ng</b>, and D. Finlay<br />
   <span class="pub-venue">Sensors</span><br />
   <a href="https://www.mdpi.com/1424-8220/23/13/5892">[Paper]</a>
-</span></p><br /> 
+</span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/BiosBio2023.png" hspace="20"><span>
 <b>"A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers</b><br />
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors and Bioelectronics</span><br />
   <a href="https://doi.org/10.1016/j.bios.2022.115016">[Paper]</a>
-</span></p><br />
+</span></p>
 
 <p><img align="left" width="150" src="/assets/Figures/WMU2022.png" hspace="20"><span>
 <b>"Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels</b><br />
   <b>K. Y. Ng</b>, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin<br />
   <span class="pub-venue">WMU Journal of Maritime Affairs</span><br />
   <a href="https://doi.org/10.1007/s13437-022-00291-1">[Paper]</a>
-</span></p><br />
+</span></p>
+
+<p><img align="left" width="150" src="/assets/Figures/JBI2021.png" hspace="20"><span>
+<b>COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps</b><br />
+  M. Jing, <b>K. Y. Ng</b>, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin<br />
+  <span class="pub-venue">Journal of Biomedical Informatics</span><br />
+  <a href="hhttps://doi.org/10.1016/j.jbi.2021.103905">[Paper]</a>
+</span></p>
 
 
 <!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
@@ -106,10 +113,11 @@ DOI:10.1016/j.bios.2022.115016 -->
 *WMU Journal of Maritime Affairs*, 2022.
 DOI:10.1007/s13437-022-00291-1 -->
 
-1. M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin,
+<!-- 1. M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin,
 ["COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps"](https://doi.org/10.1016/j.jbi.2021.103905),
 *Journal of Biomedical Informatics*, pp. 103905, 2021.
-<!--DOI:10.1016/j.jbi.2021.103905  -->
+DOI:10.1016/j.jbi.2021.103905  -->
+
 1. L. J.  Robertson, J. S. Moore, K. Blighe, **K. Y. Ng**, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore, 
 ["Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months"](https://bmjopen.bmj.com/content/11/6/e048142), 
 *BMJ Open*, vol. 11, no. 6, e048142, 2021.
