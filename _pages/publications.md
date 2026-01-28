@@ -117,6 +117,13 @@ DOI:10.48550/arXiv.2302.03504 -->
   <a href="https://ieeexplore.ieee.org/document/9036118">[Paper]</a>
 </span></p>
 
+<p><img align="left" width="180" src="/assets/Figures/Access2018.png" hspace="20"><span>
+<b>Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device</b><br />
+  S. J. W. Tang, V. Kalavally, <b>K. Y. Ng</b>, C. P. Tan, and J. Parkkinen<br />
+  <span class="pub-venue">IEEE Access</span><br />
+  <a href="https://doi.org/10.1109/ACCESS.2018.2872320">[Paper]</a>
+</span></p>
+
 
 <!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
@@ -173,19 +180,19 @@ DOI:10.7717/peerj.10806 -->
 *Physica D: Nonlinear Phenomena*, vol. 411, pp. 132599, 2020. 
 DOI:10.1016/j.physd.2020.132599  -->
 
-
-1. **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson, 
+<!-- 1. **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson, 
 ["A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies"](https://ieeexplore.ieee.org/document/9036118), 
 *IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83, 2020. 
 <!--DOI:10.1109/MCS.2019.2961793  -->
-<!--- <img src="/assets/Figures/GUI.png" width="840"> 
---->
-1. S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen, 
+<!-- - <img src="/assets/Figures/GUI.png" width="840">  -->
+
+<!-- 1. S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen, 
 ["Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device"](https://doi.org/10.1109/ACCESS.2018.2872320), 
 *IEEE Access*, vol. 6, pp. 54751–54759, 2018. 
-<!--DOI:10.1109/ACCESS.2018.2872320  -->
+DOI:10.1109/ACCESS.2018.2872320  -->
 <!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
 --->
+
 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
 ["Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation"](https://doi.org/10.1016/j.conengprac.2018.08.013), 
 *Control Engineering Practice*, vol. 80, pp. 146–156, 2018. 
