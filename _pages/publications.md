@@ -61,6 +61,13 @@ DOI:10.48550/arXiv.2302.03504 -->
   <a href="https://www.mdpi.com/1424-8220/23/13/5892">[Paper]</a>
 </span></p><br /> 
 
+<p><img align="left" width="150" src="/assets/Figures/BiosBio2023.png" hspace="20"><span>
+<b>"A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers</b><br />
+  T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
+  <span class="pub-venue">Biosensors and Bioelectronics</span><br />
+  <a href="https://doi.org/10.1016/j.bios.2022.115016">[Paper]</a>
+</span></p><br /> 
+
 
 <!-- ![alt](/assets/Figures/ABS.png){: .pub-thumb} 
 M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
