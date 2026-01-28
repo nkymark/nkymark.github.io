@@ -29,13 +29,13 @@ title: Publications
 <!--DOI:10.48550/arXiv.2302.03504-->
 
 ### Journal Articles ###  
-![alt](/assets/Figures/ABS.png){: .pub-thumb} 
+<!-- ![alt](/assets/Figures/ABS.png){: .pub-thumb} 
 M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
 *Water Research*, pp. 123888, 2025.
-<!--DOI: 10.1016/j.watres.2025.123888-->
+DOI: 10.1016/j.watres.2025.123888 -->
 
-<p><img align="left" width="150" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span><b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
+<p><img align="left" width="180" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span><b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
   M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, and P. Fernandez-Ibanez<br />
   <span class="pub-venue">Water Research</span><br />
   <a href="https://doi.org/10.1016/j.watres.2025.123888">[Paper]</a><br /> 
