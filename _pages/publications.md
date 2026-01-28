@@ -25,7 +25,7 @@ title: Publications
   S. Wucherer, R. McMurray, <b>K. Y. Ng</b>, and F. Kerber<br />
   <span class="pub-venue">arXiv preprint</span><br />
   <a href="https://doi.org/10.48550/arXiv.2302.03504">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <!-- 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric"](https://doi.org/10.48550/arXiv.2302.03504),
@@ -38,7 +38,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, and P. Fernandez-Ibanez<br />
   <span class="pub-venue">Water Research</span><br />
   <a href="https://doi.org/10.1016/j.watres.2025.123888">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/Bios2024.png" hspace="20"><span>
 <b>Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models</b><br />
@@ -52,7 +52,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
   <span class="pub-venue">Expert Systems with Applications</span><br />
   <a href="https://doi.org/10.1016/j.eswa.2023.121040">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/Sensors2023.png" hspace="20"><span>
 <b>Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands</b><br />
@@ -66,7 +66,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   T. Fairooz, S. E. McNamee, D. Finlay, <b>K. Y. Ng</b>, and J. McLaughlin<br />
   <span class="pub-venue">Biosensors and Bioelectronics</span><br />
   <a href="https://doi.org/10.1016/j.bios.2022.115016">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/WMU2022.png" hspace="20"><span>
 <b>Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels</b><br />
@@ -94,7 +94,7 @@ DOI:10.48550/arXiv.2302.03504 -->
   P. Biglarbeigi, <b>K. Y. Ng</b>, D. Finlay, R. Bond, M. Jing, and J. McLaughlin<br />
   <span class="pub-venue">PeerJ</span><br />
   <a href="https://doi.org/10.7717/peerj.10992">[Paper]</a>
-</span></p>
+</span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/PeerJ2021b.png" hspace="20"><span>
 <b>Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan</b><br />
