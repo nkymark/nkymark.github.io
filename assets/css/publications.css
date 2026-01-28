@@ -9,4 +9,4 @@
 .pub-inline li p, .pub-inline li div { margin: 0; }
 
 /* Venue styling: italic and gray */
-.pub-venue { color: #717171; font-style: italic; }
+.pub-venue {font-style: italic; }
