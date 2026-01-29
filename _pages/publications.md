@@ -426,6 +426,13 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://ieeexplore.ieee.org/document/9689257">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/CoDIT2020.png" hspace="20"><span>
+<b>Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System</b><br />
+  <b>K. Y. Ng</b>, E. Frisk, and M. Krysander<br />
+  <span class="pub-venue">2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)</span><br />
+  <a href="https://doi.org/10.1109/CoDIT49905.2020.9263792">[Paper]</a>
+</span></p><br />
+
 
 
 <!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
@@ -466,11 +473,12 @@ DOI:10.1109/MELECON53508.2022.9843099 -->
 ["Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm"](https://ieeexplore.ieee.org/document/9689257),
 *2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276, 2021. -->
 
-
-1. **K. Y. Ng**, E. Frisk, and M. Krysander, 
+<!-- 1. **K. Y. Ng**, E. Frisk, and M. Krysander, 
 ["Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System"](https://doi.org/10.1109/CoDIT49905.2020.9263792),
 *2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81, 2020. 
-<!--DOI:10.1109/CoDIT49905.2020.9263792-->
+DOI:10.1109/CoDIT49905.2020.9263792 -->
+
+
 1. P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, 
 ["Early prediction of sepsis considering Early Warning Scoring systems"](https://doi.org/10.22489/cinc.2019.051), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
