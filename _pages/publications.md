@@ -352,7 +352,7 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://doi.org/10.1007/s12555-010-0303-8">[Paper]</a>
 </span></p><br />
 
-<p><img align="left" width="180" src="/assets/Figures/IJCAS2010.png" hspace="20"><span>
+<p><img align="left" width="180" src="/assets/Figures/IJRNC2007.png" hspace="20"><span>
 <b>New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers</b><br />
   <b>K. Y. Ng</b>, C. P. Tan, C. Edwards, and Y. C. Kuang<br />
   <span class="pub-venue">International Journal of Robust and Nonlinear Control</span><br />
