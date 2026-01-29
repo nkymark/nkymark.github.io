@@ -464,6 +464,21 @@ DOI:10.1109/TENCON.2011.6129266  -->
 *7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, vol. 42, no. 8, pp. 780-785, 2009. 
 DOI:10.3182/20090630-4-ES-2003.00128  -->
 
+<!-- 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
+["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.3182/20080706-5-KR-1001.01221), 
+*17th IFAC World Congress*, Seoul, South Korea, vol. 41, no. 2, pp. 7215-7220, 2008. 
+DOI:10.3182/20080706-5-KR-1001.01221  -->
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, 
+["New result in robust actuator fault reconstruction with application to an aircraft"](https://doi.org/10.1109/CCA.2007.4389331), 
+*IEEE CCA*, Singapore, pp. 801–806, 2007. 
+DOI:10.1109/CCA.2007.4389331  -->
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, and R. Akmeliawati, 
+["Tolerance towards sensor failures: An application to a double inverted pendulum"](https://doi.org/10.1109/DELTA.2006.92), 
+*IEEE DELTA*, Kuala Lumpur, Malaysia, 2006. 
+DOI:10.1109/DELTA.2006.92  -->
+
 
 <p><img align="left" width="180" src="/assets/Figures/INDIN2025.png" hspace="20"><span>
 <b>Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing</b><br />
@@ -619,24 +634,14 @@ DOI:10.3182/20090630-4-ES-2003.00128  -->
   <a href="https://doi.org/10.1109/CCA.2007.4389331">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/DELTA2006.png" hspace="20"><span>
+<b>Tolerance towards sensor failures: An application to a double inverted pendulum</b><br />
+  <b>K. Y. Ng</b>, C. P. Tan, and R. Akmeliawati<br />
+  <span class="pub-venue">IEEIEEE DELTA</span><br />
+  <a href="https://doi.org/10.1109/DELTA.2006.92">[Paper]</a>
+</span></p><br />
 
 
-
-
-<!-- 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
-["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.3182/20080706-5-KR-1001.01221), 
-*17th IFAC World Congress*, Seoul, South Korea, vol. 41, no. 2, pp. 7215-7220, 2008. 
-DOI:10.3182/20080706-5-KR-1001.01221  -->
-
-
-1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, 
-["New result in robust actuator fault reconstruction with application to an aircraft"](https://doi.org/10.1109/CCA.2007.4389331), 
-*IEEE CCA*, Singapore, pp. 801–806, 2007. 
-<!--DOI:10.1109/CCA.2007.4389331  -->
-1. **K. Y. Ng**, C. P. Tan, and R. Akmeliawati, 
-["Tolerance towards sensor failures: An application to a double inverted pendulum"](https://doi.org/10.1109/DELTA.2006.92), 
-*IEEE DELTA*, Kuala Lumpur, Malaysia, 2006. 
-<!--DOI:10.1109/DELTA.2006.92  -->
 
 ### Book Chapters ###
 1. M. M. M. Islam, J. I. Emon, **K. Y. Ng**, A. Asadpour, M. M. R. A. Aziz, M. L. Baptista, and J.–M. Kim, ["Artificial intelligence in smart manufacturing: Emerging opportunities and prospects"](https://doi.org/10.1007/978-3-031-80154-9_2),
