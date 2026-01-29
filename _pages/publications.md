@@ -388,7 +388,14 @@ DOI:10.1002/rnc.1170  -->
 <b>Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model</b><br />
   S. Wucherer, R. McMurray, <b>K. Y. Ng</b>, and F. Kerber<br />
   <span class="pub-venue">8th IEEE Conference on Control Technology and Applications (CCTA 2024)</span><br />
-  <a href="https://www.markusng.com/assets/Docs/Ng_ITF.pdf">[Paper]</a>
+  <a href="https://doi.org/10.1109/CCTA60707.2024.10666569">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/CISS2023.png" hspace="20"><span>
+<b>Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification</b><br />
+  N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
+  <span class="pub-venue">57th Annual Conference on Information Sciences and Systems (CISS 2023)</span><br />
+  <a href="https://doi.org/10.1109/CISS56502.2023.10089669">[Paper]</a>
 </span></p><br />
 
 
@@ -405,10 +412,11 @@ DOI:10.1002/rnc.1170  -->
 ["Digital Twin of a Turbocharged Spark-Ignited Engine System for Control and Fault Diagnosis"](https://www.markusng.com/assets/Docs/Ng_ITF.pdf),
 *The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks*, Leipzig, Germany, 2025. -->
 
-
-1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
+<!-- 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
-*8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024. 
+*8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024.  -->
+
+
 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification"](https://doi.org/10.1109/CISS56502.2023.10089669),
 *57th Annual Conference on Information Sciences and Systems (CISS 2023)*, Johns Hopkins University, Baltimore, Maryland, USA, 2023.
