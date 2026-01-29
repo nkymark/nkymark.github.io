@@ -412,6 +412,20 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://doi.org/10.1109/MELECON53508.2022.9843099">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/NIBES2022.png" hspace="20"><span>
+<b>Digital Twins and Simulation Testbeds in Biomedical Engineering: From Mathematical Modelling and Classification for Diagnostics to Digital Simulation of Manufacturing Processes</b><br />
+  <b>K. Y. Ng</b><br />
+  <span class="pub-venue">Northern Ireland Biomedical Engineering Society Annual Symposium (NIBES) 2022</span><br />
+  <a href="https://www.markusng.com/assets/Docs/Ng_NIBES.pdf">[Poster]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/APSIPA2021.png" hspace="20"><span>
+<b>Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm</b><br />
+  N. McCallan, S. Davidson, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
+  <span class="pub-venue">2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)</span><br />
+  <a href="https://ieeexplore.ieee.org/document/9689257">[Paper]</a>
+</span></p><br />
+
 
 
 <!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
@@ -439,18 +453,20 @@ DOI:10.1002/rnc.1170  -->
 *2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7, 2022.
 DOI:10.1109/SPMB55497.2022.10014769 -->
 
-1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+<!-- 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm"](https://doi.org/10.1109/MELECON53508.2022.9843099),
-*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435, 2022.
+*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435, 2022. -->
 
-
-1. **K. Y. Ng**,
+<!-- 1. **K. Y. Ng**,
 ["Digital Twins and Simulation Testbeds in Biomedical Engineering: From Mathematical Modelling and Classification for Diagnostics to Digital Simulation of Manufacturing Processes"](https://www.markusng.com/assets/Docs/Ng_NIBES.pdf),
 *Northern Ireland Biomedical Engineering Society Annual Symposium (NIBES) 2022*, Belfast, UK, 2022.
-<!--DOI:10.1109/MELECON53508.2022.9843099-->
-1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+DOI:10.1109/MELECON53508.2022.9843099 -->
+
+<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm"](https://ieeexplore.ieee.org/document/9689257),
-*2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276, 2021.
+*2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276, 2021. -->
+
+
 1. **K. Y. Ng**, E. Frisk, and M. Krysander, 
 ["Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System"](https://doi.org/10.1109/CoDIT49905.2020.9263792),
 *2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81, 2020. 
