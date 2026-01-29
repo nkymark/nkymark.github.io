@@ -398,6 +398,20 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://doi.org/10.1109/CISS56502.2023.10089669">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/SPMB2022.png" hspace="20"><span>
+<b>Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis</b><br />
+  S. Davidson, N. McCallan, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
+  <span class="pub-venue">2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)</span><br />
+  <a href="https://doi.org/10.1109/SPMB55497.2022.10014769">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/MELECON2022.png" hspace="20"><span>
+<b>Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm</b><br />
+  S. Davidson, N. McCallan, <b>K. Y. Ng</b>, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin<br />
+  <span class="pub-venue">21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)</span><br />
+  <a href="https://doi.org/10.1109/MELECON53508.2022.9843099">[Paper]</a>
+</span></p><br />
+
 
 
 <!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
@@ -416,17 +430,20 @@ DOI:10.1002/rnc.1170  -->
 ["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
 *8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024.  -->
 
-
-1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification"](https://doi.org/10.1109/CISS56502.2023.10089669),
-*57th Annual Conference on Information Sciences and Systems (CISS 2023)*, Johns Hopkins University, Baltimore, Maryland, USA, 2023.
-1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+*57th Annual Conference on Information Sciences and Systems (CISS 2023)*, Johns Hopkins University, Baltimore, Maryland, USA, 2023. -->
+
+<!-- 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis"](https://doi.org/10.1109/SPMB55497.2022.10014769),
 *2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7, 2022.
-<!--DOI:10.1109/SPMB55497.2022.10014769-->
+DOI:10.1109/SPMB55497.2022.10014769 -->
+
 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
 ["Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm"](https://doi.org/10.1109/MELECON53508.2022.9843099),
 *21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435, 2022.
+
+
 1. **K. Y. Ng**,
 ["Digital Twins and Simulation Testbeds in Biomedical Engineering: From Mathematical Modelling and Classification for Diagnostics to Digital Simulation of Manufacturing Processes"](https://www.markusng.com/assets/Docs/Ng_NIBES.pdf),
 *Northern Ireland Biomedical Engineering Society Annual Symposium (NIBES) 2022*, Belfast, UK, 2022.
