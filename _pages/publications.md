@@ -233,6 +233,13 @@ DOI:10.1002/jctb.5490  -->
   <a href="http://dx.doi.org/10.1016/j.enbuild.2016.12.069">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/Franklin2016b.png" hspace="20"><span>
+<b>A common functional observer scheme for three systems with unknown inputs</b><br />
+  J. Y. Ng, C. P. Tan, H. Trinh, and <b>K. Y. Ng</b><br />
+  <span class="pub-venue">Journal of The Franklin Institute</span><br />
+  <a href="http://dx.doi.org/10.1016/j.jfranklin.2016.03.020">[Paper]</a>
+</span></p><br />
+
 
 
 
@@ -250,13 +257,14 @@ DOI:10.1016/j.enbuild.2016.12.069  -->
 <!--- <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
 --->
 
-
-1. J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng**, 
+<!-- 1. J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng**, 
 ["A common functional observer scheme for three systems with unknown inputs"](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020), 
 *Journal of The Franklin Institute*, vol. 353, no. 10, pp. 2237–2257, 2016. 
-<!--DOI:10.1016/j.jfranklin.2016.03.020  -->
+DOI:10.1016/j.jfranklin.2016.03.020  -->
 <!--- <img src="/assets/Figures/Franklin2016.png" width="900">
 --->
+
+
 1. J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
 ["New results in common functional state estimation for two linear systems with unknown inputs"](https://doi.org/10.1007/s12555-014-0315-x), 
 *International Journal of Control, Automation and Systems*, vol. 13, no. 6, pp. 1538–1543, 2015. 
