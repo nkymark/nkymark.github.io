@@ -362,13 +362,39 @@ DOI:10.1002/rnc.1170  -->
 
 
 
-### Conference Proceedings ###
-1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
+### Conference Proceedings and Posters ###
+<p><img align="left" width="180" src="/assets/Figures/INDIN2025.png" hspace="20"><span>
+<b>Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing</b><br />
+  S. Kogileru, M. McBride, Y. Bi, and <b>K. Y. Ng</b><br />
+  <span class="pub-venue">2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)</span><br />
+  <a href="https://doi.org/10.1109/INDIN64977.2025.11279663">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/SIG2025.png" hspace="20"><span>
+<b>A Robust Tolerance Optimisation Framework for Automated Optical Inspection (AOI) in Semiconductor Manufacturing</b><br />
+  S. Kogileru, M. McBride, Y. Bi, and <b>K. Y. Ng</b><br />
+  <span class="pub-venue">DTNet+ Special Interest Group (SIG) Conference 2025</span><br />
+  <a href="https://www.markusng.com/assets/Docs/Kogileru_DTNet.pdf">[Poster]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/ITF2025.png" hspace="20"><span>
+<b>Digital Twin of a Turbocharged Spark-Ignited Engine System for Control and Fault Diagnosis</b><br />
+  <b>K. Y. Ng</b><br />
+  <span class="pub-venue">The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks</span><br />
+  <a href="https://www.markusng.com/assets/Docs/Ng_ITF.pdf">[Poster]</a>
+</span></p><br />
+
+
+
+<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
 ["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.1109/INDIN64977.2025.11279663),
-*2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025.
-1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
+*2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025. -->
+
+<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
 ["A Robust Tolerance Optimisation Framework for Automated Optical Inspection (AOI) in Semiconductor Manufacturing"](https://www.markusng.com/assets/Docs/Kogileru_DTNet.pdf),
-*DTNet+ Special Interest Group (SIG) Conference 2025*, Swansea, UK, 2025.
+*DTNet+ Special Interest Group (SIG) Conference 2025*, Swansea, UK, 2025. -->
+
+
 1. **K. Y. Ng**,
 ["Digital Twin of a Turbocharged Spark-Ignited Engine System for Control and Fault Diagnosis"](https://www.markusng.com/assets/Docs/Ng_ITF.pdf),
 *The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks*, Leipzig, Germany, 2025.
