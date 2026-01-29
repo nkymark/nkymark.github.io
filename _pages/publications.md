@@ -433,6 +433,20 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://doi.org/10.1109/CoDIT49905.2020.9263792">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/CinC2019a.png" hspace="20"><span>
+<b>Early prediction of sepsis considering Early Warning Scoring systems</b><br />
+  P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, <b>K. Y.  Ng</b>, A. Kennedy, and J. McLaughlin<br />
+  <span class="pub-venue">International Conference in Computing in Cardiology (CinC 2019)</span><br />
+  <a href="https://doi.org/10.22489/cinc.2019.051">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/CinC2019a.png" hspace="20"><span>
+<b>Early prediction of sepsis considering Early Warning Scoring systems</b><br />
+  P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, <b>K. Y.  Ng</b>, A. Kennedy, and J. McLaughlin<br />
+  <span class="pub-venue">International Conference in Computing in Cardiology (CinC 2019)</span><br />
+  <a href="https://doi.org/10.22489/cinc.2019.051">[Paper]</a>
+</span></p><br />
+
 
 
 <!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
@@ -478,11 +492,12 @@ DOI:10.1109/MELECON53508.2022.9843099 -->
 *2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81, 2020. 
 DOI:10.1109/CoDIT49905.2020.9263792 -->
 
-
-1. P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, 
+<!-- 1. P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, 
 ["Early prediction of sepsis considering Early Warning Scoring systems"](https://doi.org/10.22489/cinc.2019.051), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
-<!--DOI:10.22489/cinc.2019.051  -->
+DOI:10.22489/cinc.2019.051  -->
+
+
 1. N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona, 
 ["Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques"](https://doi.org/10.22489/cinc.2019.313), 
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
