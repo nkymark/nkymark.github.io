@@ -675,3 +675,10 @@ DOI: 10.1007/978-3-031-80154-9_2. -->
 ["Advancements In Robust Fault Reconstruction Using Sliding Mode Observers"](https://doi.org/10.4225/03/587c001b22509), 
 *PhD Thesis, Faculty of Engineering, Monash University*, 2009. 
 <!--DOI:10.4225/03/587c001b22509  -->
+
+<p><img align="left" width="180" src="/assets/Figures/VCC.jpg" hspace="20"><span>
+<b>Advancements In Robust Fault Reconstruction Using Sliding Mode Observers</b><br />
+  <b>K. Y. Ng</b><br />
+  <span class="pub-venue">PhD Thesis, Faculty of Engineering, Monash University</span><br />
+  <a href="https://doi.org/10.4225/03/587c001b22509">[Thesis]</a>
+</span></p><br />
