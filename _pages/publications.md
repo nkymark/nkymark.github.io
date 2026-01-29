@@ -535,6 +535,20 @@ DOI:10.22489/cinc.2019.313  -->
   <a href="https://doi.org/10.1109/COMPSAC.2015.170">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/VSS2012.png" hspace="20"><span>
+<b>Enhanced fault reconstruction using cascaded sliding mode observers</b><br />
+  <b>K. Y. Ng</b>, C. P. Tan, and D. Oetomo<br />
+  <span class="pub-venue">12th International Workshop on Variable Structure Systems (VSS)</span><br />
+  <a href="https://doi.org/10.1109/VSS.2012.6163503">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/TENCON2011.png" hspace="20"><span>
+<b>Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK</b><br />
+  C. Fernandes, <b>K. Y. Ng</b>, and B. H. Khoo<br />
+  <span class="pub-venue">IEEE TENCON</span><br />
+  <a href="https://doi.org/10.1109/TENCON.2011.6129266">[Paper]</a>
+</span></p><br />
+
 
 
 
@@ -568,16 +582,19 @@ DOI:10.1109/COMPSAC.2015.171  -->
 DOI:10.1109/COMPSAC.2015.170  -->
 <!--- <img src="/assets/Figures/COMPSAC2015aa.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015ab.png" width="520">
 --->
-1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
 ["Enhanced fault reconstruction using cascaded sliding mode observers"](https://doi.org/10.1109/VSS.2012.6163503), 
 *12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, pp. 208–213, 2012. 
-<!--DOI:10.1109/VSS.2012.6163503  -->
-1. C. Fernandes, **K. Y. Ng**, and B. H. Khoo, 
+DOI:10.1109/VSS.2012.6163503  -->
+
+<!-- 1. C. Fernandes, **K. Y. Ng**, and B. H. Khoo, 
 ["Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK"](https://doi.org/10.1109/TENCON.2011.6129266), 
 *IEEE TENCON*, Bali, Indonesia, pp. 1025–1029, 2011. 
-<!--DOI:10.1109/TENCON.2011.6129266  -->
+DOI:10.1109/TENCON.2011.6129266  -->
 <!--- <img src="/assets/Figures/TENCON2011a.png" width="420">&emsp;<img src="/assets/Figures/TENCON2011b.png" width="420">
 --->
+
 1. **K. Y. Ng** and C. P. Tan, 
 ["New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade"](https://doi.org/10.3182/20090630-4-ES-2003.00128), 
 *7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, vol. 42, no. 8, pp. 780-785, 2009. 
