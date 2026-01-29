@@ -612,14 +612,23 @@ DOI:10.3182/20090630-4-ES-2003.00128  -->
   <a href="https://doi.org/10.3182/20080706-5-KR-1001.01221">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/CCA2007.png" hspace="20"><span>
+<b>New result in robust actuator fault reconstruction with application to an aircraft</b><br />
+  <b>K. Y. Ng</b>, C. P. Tan, C. Edwards, and Y. C. Kuang<br />
+  <span class="pub-venue">IEEE CCA</span><br />
+  <a href="https://doi.org/10.1109/CCA.2007.4389331">[Paper]</a>
+</span></p><br />
 
 
 
 
-1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
 ["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.3182/20080706-5-KR-1001.01221), 
 *17th IFAC World Congress*, Seoul, South Korea, vol. 41, no. 2, pp. 7215-7220, 2008. 
-<!--DOI:10.3182/20080706-5-KR-1001.01221  -->
+DOI:10.3182/20080706-5-KR-1001.01221  -->
+
+
 1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, 
 ["New result in robust actuator fault reconstruction with application to an aircraft"](https://doi.org/10.1109/CCA.2007.4389331), 
 *IEEE CCA*, Singapore, pp. 801–806, 2007. 
