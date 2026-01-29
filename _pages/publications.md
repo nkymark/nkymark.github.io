@@ -514,6 +514,27 @@ DOI:10.22489/cinc.2019.313  -->
   <a href="https://doi.org/10.1109/SYSTOL.2016.7739747">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/ICARCV2016.png" hspace="20"><span>
+<b>Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s</b><br />
+  W. J. Lee, <b>>K. Y. Ng</b>, C. L Tan, and C. P. Tan<br />
+  <span class="pub-venue">IEEE ICARCV</span><br />
+  <a href="https://doi.org/10.1109/ICARCV.2016.7838614">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/COMPSAC2015a.png" hspace="20"><span>
+<b>Real-time lane detection and rear-end collision warning system on a mobile computing platform</b><br />
+  S. J. W. Tang, <b>K. Y. Ng</b>, B. H. Khoo, and J. Parkkinen<br />
+  <span class="pub-venue">IEEE COMPSAC</span><br />
+  <a href="https://doi.org/10.1109/COMPSAC.2015.171">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/COMPSAC2015b.png" hspace="20"><span>
+<b>ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis</b><br />
+  W. C. Chew, <b>K. Y. Ng</b>, and B. H. Khoo<br />
+  <span class="pub-venue">IEEE COMPSAC</span><br />
+  <a href="https://doi.org/10.1109/COMPSAC.2015.170">[Paper]</a>
+</span></p><br />
+
 
 
 
@@ -529,21 +550,22 @@ DOI:10.1109/SYSTOL.2016.7739747  -->
 <!--- <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
 --->
 
-
-1. W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan, 
+<!-- 1. W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan, 
 ["Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s"](https://doi.org/10.1109/ICARCV.2016.7838614), 
 *IEEE ICARCV*, Phuket, Thailand, 2016. 
-<!--DOI:10.1109/ICARCV.2016.7838614  -->
-1. S. J. W. Tang, **K. Y. Ng**, B. H. Khoo, and J. Parkkinen, 
+DOI:10.1109/ICARCV.2016.7838614  -->
+
+<!-- 1. S. J. W. Tang, **K. Y. Ng**, B. H. Khoo, and J. Parkkinen, 
 ["Real-time lane detection and rear-end collision warning system on a mobile computing platform"](https://doi.org/10.1109/COMPSAC.2015.171), 
 *IEEE COMPSAC*, Taichung, Taiwan, pp. 563–568, 2015. 
-<!--DOI:10.1109/COMPSAC.2015.171  -->
+DOI:10.1109/COMPSAC.2015.171  -->
 <!--- <img src="/assets/Figures/COMPSAC2015ba.png" width="420">&emsp;<img src="/assets/Figures/COMPSAC2015bb.png" width="420">
 --->
-1. W. C. Chew, **K. Y. Ng**, and B. H. Khoo, 
+
+<!-- 1. W. C. Chew, **K. Y. Ng**, and B. H. Khoo, 
 ["ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis"](https://doi.org/10.1109/COMPSAC.2015.170), 
 *IEEE COMPSAC*, Taichung, Taiwan, pp. 569–574, 2015. 
-<!--DOI:10.1109/COMPSAC.2015.170  -->
+DOI:10.1109/COMPSAC.2015.170  -->
 <!--- <img src="/assets/Figures/COMPSAC2015aa.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015ab.png" width="520">
 --->
 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
