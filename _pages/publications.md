@@ -113,6 +113,55 @@ DOI:10.1016/j.conengprac.2018.08.013  -->
 *Journal of Chemical Technology and Biotechnology*, vol. 93, pp. 925–935, 2018. 
 DOI:10.1002/jctb.5490  -->
 
+<!-- 1. J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, 
+["A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems"](https://doi.org/10.1109/TAC.2017.2665699), 
+*IEEE Transactions on Automatic Control*, vol. 62, no. 7, pp. 3580-3587, 2017. 
+DOI:10.1109/TAC.2017.2665699  -->
+<!--- <img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520"> 
+--->
+
+<!-- 1. S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen, 
+["Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system"](http://dx.doi.org/10.1016/j.enbuild.2016.12.069), 
+*Energy and Buildings*, vol. 138, pp. 368–378, 2017. 
+DOI:10.1016/j.enbuild.2016.12.069  -->
+<!--- <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
+--->
+
+<!-- 1. J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng**, 
+["A common functional observer scheme for three systems with unknown inputs"](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020), 
+*Journal of The Franklin Institute*, vol. 353, no. 10, pp. 2237–2257, 2016. 
+DOI:10.1016/j.jfranklin.2016.03.020  -->
+<!--- <img src="/assets/Figures/Franklin2016.png" width="900">
+--->
+
+<!-- 1. J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
+["New results in common functional state estimation for two linear systems with unknown inputs"](https://doi.org/10.1007/s12555-014-0315-x), 
+*International Journal of Control, Automation and Systems*, vol. 13, no. 6, pp. 1538–1543, 2015. 
+DOI:10.1007/s12555-014-0315-x  -->
+<!--- <img src="/assets/Figures/IJCAS2015a.png" width="420">&emsp;<img src="/assets/Figures/IJCAS2015b.png" width="420">
+--->
+
+<!-- 1. J. H. T. Ooi, C. P. Tan, and **K. Y. Ng**, 
+["State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers"](https://doi.org/10.1002/asjc.1033), 
+*Asian Journal of Control*, vol. 17, pp. 1458–1461, 2015. 
+DOI:10.1002/asjc.1033  -->
+<!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/AJC2015a.png" width="250">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
+--->
+
+<!-- 1. C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
+["New results in robust functional state estimation using two sliding mode observers in cascade"](https://doi.org/10.1002/rnc.2973), 
+*International Journal of Robust and Nonlinear Control*, vol. 24, no. 15, pp. 2079–2097, 2014. 
+DOI:10.1002/rnc.2973  -->
+<!--- <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
+--->
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
+["Disturbance decoupled fault reconstruction using cascaded sliding mode observers"](https://doi.org/10.1016/j.automatica.2012.02.005), 
+*Automatica*, vol. 48, no. 5, pp. 794–799, 2012. 
+DOI:10.1016/j.automatica.2012.02.005  -->
+<!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
+--->
+
 
 <p><img align="left" width="180" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span>
 <b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
@@ -275,65 +324,25 @@ DOI:10.1002/jctb.5490  -->
   <a href="https://doi.org/10.1002/asjc.231">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/IJCAS2010.png" hspace="20"><span>
+<b>New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade</b><br />
+  <b>K. Y. Ng</b>, C. P. Tan, Z. Man, and R. Akmeliawati<br />
+  <span class="pub-venue">International Journal of Control, Automation and Systems</span><br />
+  <a href="https://doi.org/10.1007/s12555-010-0303-8">[Paper]</a>
+</span></p><br />
 
 
 
-<!-- 1. J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, 
-["A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems"](https://doi.org/10.1109/TAC.2017.2665699), 
-*IEEE Transactions on Automatic Control*, vol. 62, no. 7, pp. 3580-3587, 2017. 
-DOI:10.1109/TAC.2017.2665699  -->
-<!--- <img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520"> 
---->
-
-<!-- 1. S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen, 
-["Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system"](http://dx.doi.org/10.1016/j.enbuild.2016.12.069), 
-*Energy and Buildings*, vol. 138, pp. 368–378, 2017. 
-DOI:10.1016/j.enbuild.2016.12.069  -->
-<!--- <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
---->
-
-<!-- 1. J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng**, 
-["A common functional observer scheme for three systems with unknown inputs"](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020), 
-*Journal of The Franklin Institute*, vol. 353, no. 10, pp. 2237–2257, 2016. 
-DOI:10.1016/j.jfranklin.2016.03.020  -->
-<!--- <img src="/assets/Figures/Franklin2016.png" width="900">
---->
-
-<!-- 1. J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
-["New results in common functional state estimation for two linear systems with unknown inputs"](https://doi.org/10.1007/s12555-014-0315-x), 
-*International Journal of Control, Automation and Systems*, vol. 13, no. 6, pp. 1538–1543, 2015. 
-DOI:10.1007/s12555-014-0315-x  -->
-<!--- <img src="/assets/Figures/IJCAS2015a.png" width="420">&emsp;<img src="/assets/Figures/IJCAS2015b.png" width="420">
---->
-
-<!-- 1. J. H. T. Ooi, C. P. Tan, and **K. Y. Ng**, 
-["State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers"](https://doi.org/10.1002/asjc.1033), 
-*Asian Journal of Control*, vol. 17, pp. 1458–1461, 2015. 
-DOI:10.1002/asjc.1033  -->
-<!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/AJC2015a.png" width="250">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
---->
-
-<!-- 1. C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
-["New results in robust functional state estimation using two sliding mode observers in cascade"](https://doi.org/10.1002/rnc.2973), 
-*International Journal of Robust and Nonlinear Control*, vol. 24, no. 15, pp. 2079–2097, 2014. 
-DOI:10.1002/rnc.2973  -->
-<!--- <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
---->
-
-<!-- 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
-["Disturbance decoupled fault reconstruction using cascaded sliding mode observers"](https://doi.org/10.1016/j.automatica.2012.02.005), 
-*Automatica*, vol. 48, no. 5, pp. 794–799, 2012. 
-DOI:10.1016/j.automatica.2012.02.005  -->
-<!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
---->
 
 
-1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
+<!-- 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
 ["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.1002/asjc.231), 
 *Asian Journal of Control*, vol. 12, no. 5, pp. 656–660, 2010. 
-<!--DOI:10.1002/asjc.231  -->
+DOI:10.1002/asjc.231  -->
 <!--- <img src="/assets/Figures/AJC2010a.png" width="320">&emsp;<img src="/assets/Figures/AJC2010b.png" width="520">
 --->
+
+
 1. **K. Y. Ng**, C. P. Tan, Z. Man, and R. Akmeliawati, 
 ["New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade"](https://doi.org/10.1007/s12555-010-0303-8), 
 *International Journal of Control, Automation and Systems*, vol. 8, no. 3, pp. 506–518, 2010. 
