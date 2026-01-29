@@ -240,6 +240,20 @@ DOI:10.1002/jctb.5490  -->
   <a href="http://dx.doi.org/10.1016/j.jfranklin.2016.03.020">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/IJCAS2015.png" hspace="20"><span>
+<b>New results in common functional state estimation for two linear systems with unknown inputs</b><br />
+  J. Y. Ng, C. P. Tan, <b>K. Y. Ng</b>, and H. Trinh<br />
+  <span class="pub-venue">International Journal of Control, Automation and Systems</span><br />
+  <a href="https://doi.org/10.1007/s12555-014-0315-x">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/AJC2015.png" hspace="20"><span>
+<b>State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers</b><br />
+  J. H. T. Ooi, C. P. Tan, and <b>K. Y. Ng</b><br />
+  <span class="pub-venue">Asian Journal of Control</span><br />
+  <a href="https://doi.org/10.1002/asjc.1033">[Paper]</a>
+</span></p><br />
+
 
 
 
@@ -264,19 +278,21 @@ DOI:10.1016/j.jfranklin.2016.03.020  -->
 <!--- <img src="/assets/Figures/Franklin2016.png" width="900">
 --->
 
-
-1. J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
+<!-- 1. J. Y. Ng, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
 ["New results in common functional state estimation for two linear systems with unknown inputs"](https://doi.org/10.1007/s12555-014-0315-x), 
 *International Journal of Control, Automation and Systems*, vol. 13, no. 6, pp. 1538–1543, 2015. 
-<!--DOI:10.1007/s12555-014-0315-x  -->
+DOI:10.1007/s12555-014-0315-x  -->
 <!--- <img src="/assets/Figures/IJCAS2015a.png" width="420">&emsp;<img src="/assets/Figures/IJCAS2015b.png" width="420">
 --->
-1. J. H. T. Ooi, C. P. Tan, and **K. Y. Ng**, 
+
+<!-- 1. J. H. T. Ooi, C. P. Tan, and **K. Y. Ng**, 
 ["State and fault estimation for infinitely unobservable descriptor systems using sliding mode observers"](https://doi.org/10.1002/asjc.1033), 
 *Asian Journal of Control*, vol. 17, pp. 1458–1461, 2015. 
-<!--DOI:10.1002/asjc.1033  -->
+DOI:10.1002/asjc.1033  -->
 <!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/AJC2015a.png" width="250">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
 --->
+
+
 1. C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
 ["New results in robust functional state estimation using two sliding mode observers in cascade"](https://doi.org/10.1002/rnc.2973), 
 *International Journal of Robust and Nonlinear Control*, vol. 24, no. 15, pp. 2079–2097, 2014. 
