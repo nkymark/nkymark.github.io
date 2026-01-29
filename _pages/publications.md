@@ -33,6 +33,87 @@ title: Publications
 DOI:10.48550/arXiv.2302.03504 -->
 
 ### Journal Articles ###  
+<!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
+["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
+*Water Research*, pp. 123888, 2025.
+DOI: 10.1016/j.watres.2025.123888 -->
+
+<!-- 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
+["Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models"](https://doi.org/10.3390/bios14120611), 
+*Biosensors*, vol. 14 (611), 2024. 
+DOI:10.3390/bios14120611 -->
+
+<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+["Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review"](https://doi.org/10.1016/j.eswa.2023.121040),
+*Expert Systems with Applications*, pp. 121040, 2023.
+DOI:10.1016/j.eswa.2023.121040 -->
+
+<!-- 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay, 
+["Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands"](https://www.mdpi.com/1424-8220/23/13/5892),
+*Sensors*, vol. 23, no. 13, pp. 5892, 2023.
+DOI:10.3390/s23135892 -->
+
+<!-- 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
+["A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers"](https://doi.org/10.1016/j.bios.2022.115016), 
+*Biosensors and Bioelectronics*, vol. 223, pp. 115016, 2023. 
+DOI:10.1016/j.bios.2022.115016 -->
+
+<!-- 1. **K. Y. Ng**, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin,
+["Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels"](https://doi.org/10.1007/s13437-022-00291-1),
+*WMU Journal of Maritime Affairs*, 2022.
+DOI:10.1007/s13437-022-00291-1 -->
+
+<!-- 1. M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin,
+["COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps"](https://doi.org/10.1016/j.jbi.2021.103905),
+*Journal of Biomedical Informatics*, pp. 103905, 2021.
+DOI:10.1016/j.jbi.2021.103905  -->
+
+<!-- 1. L. J.  Robertson, J. S. Moore, K. Blighe, **K. Y. Ng**, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore, 
+["Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months"](https://bmjopen.bmj.com/content/11/6/e048142), 
+*BMJ Open*, vol. 11, no. 6, e048142, 2021.
+DOI:10.1136/bmjopen-2020-048142  -->
+
+<!-- 1. P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin, 
+["Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic"](https://doi.org/10.7717/peerj.10992), 
+*PeerJ*, pp. e10992, 2021. 
+DOI:10.7717/peerj.10992  -->
+
+<!-- 1. T. D. Do, M. M. Gui, and **K. Y. Ng**, 
+["Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan"](https://dx.doi.org/10.7717/peerj.10806), 
+*PeerJ*, pp. e10806, 2021. 
+DOI:10.7717/peerj.10806 -->
+
+<!-- 1. **K. Y. Ng** and M. M. Gui,
+["COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility"](https://doi.org/10.1016/j.physd.2020.132599), 
+*Physica D: Nonlinear Phenomena*, vol. 411, pp. 132599, 2020. 
+DOI:10.1016/j.physd.2020.132599  -->
+
+<!-- 1. **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson, 
+["A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies"](https://ieeexplore.ieee.org/document/9036118), 
+*IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83, 2020. 
+<!--DOI:10.1109/MCS.2019.2961793  -->
+<!-- - <img src="/assets/Figures/GUI.png" width="840">  -->
+
+<!-- 1. S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen, 
+["Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device"](https://doi.org/10.1109/ACCESS.2018.2872320), 
+*IEEE Access*, vol. 6, pp. 54751–54759, 2018. 
+DOI:10.1109/ACCESS.2018.2872320  -->
+<!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
+--->
+
+<!-- 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
+["Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation"](https://doi.org/10.1016/j.conengprac.2018.08.013), 
+*Control Engineering Practice*, vol. 80, pp. 146–156, 2018. 
+DOI:10.1016/j.conengprac.2018.08.013  -->
+<!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
+--->
+
+<!-- 1. L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, 
+["Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review"](https://doi.org/10.1002/jctb.5490), 
+*Journal of Chemical Technology and Biotechnology*, vol. 93, pp. 925–935, 2018. 
+DOI:10.1002/jctb.5490  -->
+
+
 <p><img align="left" width="180" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span>
 <b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
   M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, <b>K.Y. Ng</b>, R. Price, S. Gaihre, J.A. Byrne, and P. Fernandez-Ibanez<br />
@@ -138,100 +219,38 @@ DOI:10.48550/arXiv.2302.03504 -->
   <a href="https://doi.org/10.1002/jctb.5490">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/IEEETAC2017.png" hspace="20"><span>
+<b>A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems</b><br />
+  J. H. T. Ooi, C. P. Tan, S. Nurzaman, and <b>K. Y. Ng</b><br />
+  <span class="pub-venue">IEEE Transactions on Automatic Control</span><br />
+  <a href="https://doi.org/10.1109/TAC.2017.2665699">[Paper]</a>
+</span></p><br />
 
-<!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
-["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
-*Water Research*, pp. 123888, 2025.
-DOI: 10.1016/j.watres.2025.123888 -->
-
-<!-- 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
-["Enhancing Sensitivity of Point-of-Care Thyroid Diagnosis via Computational Analysis of Lateral Flow Assay Images Using Novel Textural Features and Hybrid-AI Models"](https://doi.org/10.3390/bios14120611), 
-*Biosensors*, vol. 14 (611), 2024. 
-DOI:10.3390/bios14120611 -->
-
-<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
-["Epileptic multi-seizure type classification using electroencephalogram signals from the Temple University Hospital Seizure Corpus: A review"](https://doi.org/10.1016/j.eswa.2023.121040),
-*Expert Systems with Applications*, pp. 121040, 2023.
-DOI:10.1016/j.eswa.2023.121040 -->
-
-<!-- 1. O. Escalona, N. Cullen, I. Weli, N. McCallan, **K. Y. Ng**, and D. Finlay, 
-["Robust Arm Impedocardiography Signal Quality Enhancement Using Recursive Signal Averaging and Multi-Stage Wavelet Denoising Methods for Long-Term Cardiac Contractility Monitoring Armbands"](https://www.mdpi.com/1424-8220/23/13/5892),
-*Sensors*, vol. 23, no. 13, pp. 5892, 2023.
-DOI:10.3390/s23135892 -->
-
-<!-- 1. T. Fairooz, S. E. McNamee, D. Finlay, **K. Y. Ng**, and J. McLaughlin, 
-["A novel patches-selection method for the classification of point-of-care biosensing lateral flow assays with cardiac biomarkers"](https://doi.org/10.1016/j.bios.2022.115016), 
-*Biosensors and Bioelectronics*, vol. 223, pp. 115016, 2023. 
-DOI:10.1016/j.bios.2022.115016 -->
-
-<!-- 1. **K. Y. Ng**, T. A. Cordeanu, M. M. Gui, P. Biglarbeigi, D. Finlay, and J. McLaughlin,
-["Development of a mathematical model to predict the health impact and duration of SARS-CoV-2 outbreaks on board cargo vessels"](https://doi.org/10.1007/s13437-022-00291-1),
-*WMU Journal of Maritime Affairs*, 2022.
-DOI:10.1007/s13437-022-00291-1 -->
-
-<!-- 1. M. Jing, **K. Y. Ng**, B. MacNamee, P. Biglarbeigi, R. Brisk, R. Bond, D. Finlay, and J. McLaughlin,
-["COVID-19 Modelling by Time-varying Transmission Rate Associated with Mobility Trend of Driving via Apple Maps"](https://doi.org/10.1016/j.jbi.2021.103905),
-*Journal of Biomedical Informatics*, pp. 103905, 2021.
-DOI:10.1016/j.jbi.2021.103905  -->
-
-<!-- 1. L. J.  Robertson, J. S. Moore, K. Blighe, **K. Y. Ng**, N. Quinn, F. Jennings, G. Warnock, P. Sharpe, M. Clarke, K. Maguire, S. Rainey, R. K. Price, W. P. Burns, A. M. Kowalczyk, A. Awuah, S. E. McNamee, G. E. Wallace, D. Hunter, S. Sager, C. C. Shern, M. A. Nesbit, J. McLaughlin, and T. Moore, 
-["Evaluation of the IgG antibody response to SARS CoV-2 infection and performance of a lateral flow immunoassay: cross-sectional and longitudinal analysis over 11 months"](https://bmjopen.bmj.com/content/11/6/e048142), 
-*BMJ Open*, vol. 11, no. 6, e048142, 2021.
-DOI:10.1136/bmjopen-2020-048142  -->
-
-<!-- 1. P. Biglarbeigi, **K. Y. Ng**, D. Finlay, R. Bond, M. Jing, and J. McLaughlin, 
-["Sensitivity analysis of the infection transmissibility in the UK during the COVID-19 pandemic"](https://doi.org/10.7717/peerj.10992), 
-*PeerJ*, pp. e10992, 2021. 
-DOI:10.7717/peerj.10992  -->
-
-<!-- 1. T. D. Do, M. M. Gui, and **K. Y. Ng**, 
-["Assessing the effects of time-dependent restrictions and control actions to flatten the curve of COVID-19 in Kazakhstan"](https://dx.doi.org/10.7717/peerj.10806), 
-*PeerJ*, pp. e10806, 2021. 
-DOI:10.7717/peerj.10806 -->
-
-<!-- 1. **K. Y. Ng** and M. M. Gui,
-["COVID-19: Development of a Robust Mathematical Model and Simulation Package with Consideration for Ageing Population and Time Delay for Control Action and Resusceptibility"](https://doi.org/10.1016/j.physd.2020.132599), 
-*Physica D: Nonlinear Phenomena*, vol. 411, pp. 132599, 2020. 
-DOI:10.1016/j.physd.2020.132599  -->
-
-<!-- 1. **K. Y. Ng**, E. Frisk, M. Krysander, and L. Eriksson, 
-["A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies"](https://ieeexplore.ieee.org/document/9036118), 
-*IEEE Control Systems Magazine*, vol. 40, no. 2, pp. 56–83, 2020. 
-<!--DOI:10.1109/MCS.2019.2961793  -->
-<!-- - <img src="/assets/Figures/GUI.png" width="840">  -->
-
-<!-- 1. S. J. W. Tang, V. Kalavally, **K. Y. Ng**, C. P. Tan, and J. Parkkinen, 
-["Real-Time Closed-Loop Color Control of A Multi-Channel Luminaire Using Sensors Onboard A Mobile Device"](https://doi.org/10.1109/ACCESS.2018.2872320), 
-*IEEE Access*, vol. 6, pp. 54751–54759, 2018. 
-DOI:10.1109/ACCESS.2018.2872320  -->
-<!--- <img src="/assets/Figures/Access2018a.png" width="520">&emsp;<img src="/assets/Figures/Access2018b.png" width="320"> 
---->
-
-<!-- 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
-["Combining model-based diagnosis and data-driven anomaly classifiers for fault isolation"](https://doi.org/10.1016/j.conengprac.2018.08.013), 
-*Control Engineering Practice*, vol. 80, pp. 146–156, 2018. 
-DOI:10.1016/j.conengprac.2018.08.013  -->
-<!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
---->
-
-<!-- 1. L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, 
-["Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review"](https://doi.org/10.1002/jctb.5490), 
-*Journal of Chemical Technology and Biotechnology*, vol. 93, pp. 925–935, 2018. 
-DOI:10.1002/jctb.5490  -->
+<p><img align="left" width="180" src="/assets/Figures/ENB2017.png" hspace="20"><span>
+<b>Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system</b><br />
+  S. Tang, V. Kalavally, <b>K. Y. Ng</b>, and J. Parkkinen<br />
+  <span class="pub-venue">Energy and Buildings</span><br />
+  <a href="http://dx.doi.org/10.1016/j.enbuild.2016.12.069">[Paper]</a>
+</span></p><br />
 
 
-1. J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, 
+
+
+<!-- 1. J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, 
 ["A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems"](https://doi.org/10.1109/TAC.2017.2665699), 
 *IEEE Transactions on Automatic Control*, vol. 62, no. 7, pp. 3580-3587, 2017. 
-<!--DOI:10.1109/TAC.2017.2665699  -->
+DOI:10.1109/TAC.2017.2665699  -->
 <!--- <img src="/assets/Figures/TAC2017a.png" width="320">&emsp;<img src="/assets/Figures/TAC2017b.png" width="520"> 
 --->
-1. S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen, 
+
+<!-- 1. S. Tang, V. Kalavally, **K. Y. Ng**, and J. Parkkinen, 
 ["Development of a prototype smart home intelligent lighting control architecture using sensors onboard a mobile computing system"](http://dx.doi.org/10.1016/j.enbuild.2016.12.069), 
 *Energy and Buildings*, vol. 138, pp. 368–378, 2017. 
-<!--DOI:10.1016/j.enbuild.2016.12.069  -->
+DOI:10.1016/j.enbuild.2016.12.069  -->
 <!--- <img src="/assets/Figures/EB2017a.png" width="320">&emsp;<img src="/assets/Figures/EB2017b.png" width="520">
 --->
+
+
 1. J. Y. Ng, C. P. Tan, H. Trinh, and **K. Y. Ng**, 
 ["A common functional observer scheme for three systems with unknown inputs"](http://dx.doi.org/10.1016/j.jfranklin.2016.03.020), 
 *Journal of The Franklin Institute*, vol. 353, no. 10, pp. 2237–2257, 2016. 
