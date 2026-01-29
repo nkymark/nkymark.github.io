@@ -637,16 +637,24 @@ DOI:10.1109/DELTA.2006.92  -->
 <p><img align="left" width="180" src="/assets/Figures/DELTA2006.png" hspace="20"><span>
 <b>Tolerance towards sensor failures: An application to a double inverted pendulum</b><br />
   <b>K. Y. Ng</b>, C. P. Tan, and R. Akmeliawati<br />
-  <span class="pub-venue">IEEIEEE DELTA</span><br />
+  <span class="pub-venue">IEEE DELTA</span><br />
   <a href="https://doi.org/10.1109/DELTA.2006.92">[Paper]</a>
 </span></p><br />
 
 
 
 ### Book Chapters ###
-1. M. M. M. Islam, J. I. Emon, **K. Y. Ng**, A. Asadpour, M. M. R. A. Aziz, M. L. Baptista, and J.–M. Kim, ["Artificial intelligence in smart manufacturing: Emerging opportunities and prospects"](https://doi.org/10.1007/978-3-031-80154-9_2),
+<!-- 1. M. M. M. Islam, J. I. Emon, **K. Y. Ng**, A. Asadpour, M. M. R. A. Aziz, M. L. Baptista, and J.–M. Kim, ["Artificial intelligence in smart manufacturing: Emerging opportunities and prospects"](https://doi.org/10.1007/978-3-031-80154-9_2),
 *Artificial Intelligence for Smart Manufacturing and Industry X.0*, Springer Nature Switzerland, pp. 9–36, 2025. 
-<!--DOI: 10.1007/978-3-031-80154-9_2.-->
+DOI: 10.1007/978-3-031-80154-9_2. -->
+
+<p><img align="left" width="180" src="/assets/Figures/BookCh2025.png" hspace="20"><span>
+<b>Artificial intelligence in smart manufacturing: Emerging opportunities and prospects</b><br />
+  M. M. M. Islam, J. I. Emon, <b>K. Y. Ng</b>, A. Asadpour, M. M. R. A. Aziz, M. L. Baptista, and J.–M. Kim<br />
+  <span class="pub-venue">Artificial Intelligence for Smart Manufacturing and Industry X.0</span><br />
+  <a href="https://doi.org/10.1007/978-3-031-80154-9_2">[Book Chapter]</a>
+</span></p><br />
+
 
 ### Others ###
 1. **K. Y. Ng**, 
