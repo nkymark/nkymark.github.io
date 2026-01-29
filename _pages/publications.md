@@ -363,6 +363,59 @@ DOI:10.1002/rnc.1170  -->
 
 
 ### Conference Proceedings and Posters ###
+<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
+["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.1109/INDIN64977.2025.11279663),
+*2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025. -->
+
+<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
+["A Robust Tolerance Optimisation Framework for Automated Optical Inspection (AOI) in Semiconductor Manufacturing"](https://www.markusng.com/assets/Docs/Kogileru_DTNet.pdf),
+*DTNet+ Special Interest Group (SIG) Conference 2025*, Swansea, UK, 2025. -->
+
+<!-- 1. **K. Y. Ng**,
+["Digital Twin of a Turbocharged Spark-Ignited Engine System for Control and Fault Diagnosis"](https://www.markusng.com/assets/Docs/Ng_ITF.pdf),
+*The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks*, Leipzig, Germany, 2025. -->
+
+<!-- 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
+["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
+*8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024.  -->
+
+<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+["Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification"](https://doi.org/10.1109/CISS56502.2023.10089669),
+*57th Annual Conference on Information Sciences and Systems (CISS 2023)*, Johns Hopkins University, Baltimore, Maryland, USA, 2023. -->
+
+<!-- 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+["Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis"](https://doi.org/10.1109/SPMB55497.2022.10014769),
+*2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7, 2022.
+DOI:10.1109/SPMB55497.2022.10014769 -->
+
+<!-- 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+["Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm"](https://doi.org/10.1109/MELECON53508.2022.9843099),
+*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435, 2022. -->
+
+<!-- 1. **K. Y. Ng**,
+["Digital Twins and Simulation Testbeds in Biomedical Engineering: From Mathematical Modelling and Classification for Diagnostics to Digital Simulation of Manufacturing Processes"](https://www.markusng.com/assets/Docs/Ng_NIBES.pdf),
+*Northern Ireland Biomedical Engineering Society Annual Symposium (NIBES) 2022*, Belfast, UK, 2022.
+DOI:10.1109/MELECON53508.2022.9843099 -->
+
+<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
+["Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm"](https://ieeexplore.ieee.org/document/9689257),
+*2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276, 2021. -->
+
+<!-- 1. **K. Y. Ng**, E. Frisk, and M. Krysander, 
+["Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System"](https://doi.org/10.1109/CoDIT49905.2020.9263792),
+*2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81, 2020. 
+DOI:10.1109/CoDIT49905.2020.9263792 -->
+
+<!-- 1. P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, 
+["Early prediction of sepsis considering Early Warning Scoring systems"](https://doi.org/10.22489/cinc.2019.051), 
+*International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
+DOI:10.22489/cinc.2019.051  -->
+
+<!-- 1. N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona, 
+["Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques"](https://doi.org/10.22489/cinc.2019.313), 
+*International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
+DOI:10.22489/cinc.2019.313  -->
+
 <p><img align="left" width="180" src="/assets/Figures/INDIN2025.png" hspace="20"><span>
 <b>Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing</b><br />
   S. Kogileru, M. McBride, Y. Bi, and <b>K. Y. Ng</b><br />
@@ -440,78 +493,43 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://doi.org/10.22489/cinc.2019.051">[Paper]</a>
 </span></p><br />
 
-<p><img align="left" width="180" src="/assets/Figures/CinC2019a.png" hspace="20"><span>
-<b>Early prediction of sepsis considering Early Warning Scoring systems</b><br />
-  P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, <b>K. Y.  Ng</b>, A. Kennedy, and J. McLaughlin<br />
+<p><img align="left" width="180" src="/assets/Figures/CinC2019b.png" hspace="20"><span>
+<b>Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques</b><br />
+  N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, <b>K. Y. Ng</b>, J. McLaughlin, and O. Escalona<br />
   <span class="pub-venue">International Conference in Computing in Cardiology (CinC 2019)</span><br />
-  <a href="https://doi.org/10.22489/cinc.2019.051">[Paper]</a>
+  <a href="https://doi.org/10.22489/cinc.2019.313">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/SCORED2016.png" hspace="20"><span>
+<b>Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system</b><br />
+  S. J. W. Tang, <b>K. Y. Ng</b>, V. Kalavally, and J. Parkkinen<br />
+  <span class="pub-venue">IEEE Student Conference on Research and Development (SCOReD)</span><br />
+  <a href="https://doi.org/10.1109/SCORED.2016.7810062">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/SysTol2016.png" hspace="20"><span>
+<b>A combined diagnosis system design using model-based and data-driven methods</b><br />
+  D. Jung, <b>K. Y. Ng</b>, E. Frisk, and M. Krysander<br />
+  <span class="pub-venue">IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)</span><br />
+  <a href="https://doi.org/10.1109/SYSTOL.2016.7739747">[Paper]</a>
 </span></p><br />
 
 
 
-<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
-["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.1109/INDIN64977.2025.11279663),
-*2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025. -->
 
-<!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
-["A Robust Tolerance Optimisation Framework for Automated Optical Inspection (AOI) in Semiconductor Manufacturing"](https://www.markusng.com/assets/Docs/Kogileru_DTNet.pdf),
-*DTNet+ Special Interest Group (SIG) Conference 2025*, Swansea, UK, 2025. -->
-
-<!-- 1. **K. Y. Ng**,
-["Digital Twin of a Turbocharged Spark-Ignited Engine System for Control and Fault Diagnosis"](https://www.markusng.com/assets/Docs/Ng_ITF.pdf),
-*The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks*, Leipzig, Germany, 2025. -->
-
-<!-- 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
-["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
-*8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024.  -->
-
-<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
-["Rebalancing Techniques for Asynchronously Distributed EEG Data to Improve Automatic Seizure Type Classification"](https://doi.org/10.1109/CISS56502.2023.10089669),
-*57th Annual Conference on Information Sciences and Systems (CISS 2023)*, Johns Hopkins University, Baltimore, Maryland, USA, 2023. -->
-
-<!-- 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
-["Seizure Classification Using BERT NLP and a Comparison of Source Isolation Techniques with Two Different Time-Frequency Analysis"](https://doi.org/10.1109/SPMB55497.2022.10014769),
-*2022 IEEE Signal Processing in Medicine and Biology Symposium (SPMB 2022)*, Philadelphia, USA, pp. 1–7, 2022.
-DOI:10.1109/SPMB55497.2022.10014769 -->
-
-<!-- 1. S. Davidson, N. McCallan, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
-["Epileptic Seizure Classification Using Combined Labels and a Genetic Algorithm"](https://doi.org/10.1109/MELECON53508.2022.9843099),
-*21st IEEE Mediterranean Electrotechnical Conference (MELECON 2022)*, Palermo, Italy, pp. 430–435, 2022. -->
-
-<!-- 1. **K. Y. Ng**,
-["Digital Twins and Simulation Testbeds in Biomedical Engineering: From Mathematical Modelling and Classification for Diagnostics to Digital Simulation of Manufacturing Processes"](https://www.markusng.com/assets/Docs/Ng_NIBES.pdf),
-*Northern Ireland Biomedical Engineering Society Annual Symposium (NIBES) 2022*, Belfast, UK, 2022.
-DOI:10.1109/MELECON53508.2022.9843099 -->
-
-<!-- 1. N. McCallan, S. Davidson, **K. Y. Ng**, P. Biglarbeigi, D. Finlay, B. L. Lan, and J. McLaughlin,
-["Seizure Classification of EEG based on Wavelet Signal Denoising Using a Novel Channel Selection Algorithm"](https://ieeexplore.ieee.org/document/9689257),
-*2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Tokyo, Japan, pp. 1269–1276, 2021. -->
-
-<!-- 1. **K. Y. Ng**, E. Frisk, and M. Krysander, 
-["Design and Selection of Additional Residuals To Enhance Fault Isolation of A Turbocharged Spark Ignited Engine System"](https://doi.org/10.1109/CoDIT49905.2020.9263792),
-*2020 7th International Conference on Control, Decision and Information Technologies (CoDIT 2020)*, Prague, Czech Republic, pp. 76–81, 2020. 
-DOI:10.1109/CoDIT49905.2020.9263792 -->
-
-<!-- 1. P. Biglarbeigi, D. McLaughlin, K. Rjoob, Abdullah, N. McCallan, A. Jasinska-Piadlo, R. Bond, D. Finlay, **K. Y.  Ng**, A. Kennedy, and J. McLaughlin, 
-["Early prediction of sepsis considering Early Warning Scoring systems"](https://doi.org/10.22489/cinc.2019.051), 
-*International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
-DOI:10.22489/cinc.2019.051  -->
-
-
-1. N. McCallan, D. Finlay, P. Biglarbeigi, G. Perpiñan, M. Jennings, **K. Y. Ng**, J. McLaughlin, and O. Escalona, 
-["Wearable Technology: Signal Recovery of Electrocardiogram from Short Spaced Leads in the Far-field using Discrete Wavelet Transform Based Techniques"](https://doi.org/10.22489/cinc.2019.313), 
-*International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
-<!--DOI:10.22489/cinc.2019.313  -->
-1. S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen, 
+<!-- 1. S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen, 
 ["Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system"](https://doi.org/10.1109/SCORED.2016.7810062), 
 *IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016. 
-<!--DOI:10.1109/SCORED.2016.7810062  -->
-1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
+DOI:10.1109/SCORED.2016.7810062  -->
+
+<!-- 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
 ["A combined diagnosis system design using model-based and data-driven methods"](https://doi.org/10.1109/SYSTOL.2016.7739747), 
 *IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, pp. 177–182, 2016. 
-<!--DOI:10.1109/SYSTOL.2016.7739747  -->
+DOI:10.1109/SYSTOL.2016.7739747  -->
 <!--- <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
 --->
+
+
 1. W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan, 
 ["Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s"](https://doi.org/10.1109/ICARCV.2016.7838614), 
 *IEEE ICARCV*, Phuket, Thailand, 2016. 
