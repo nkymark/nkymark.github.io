@@ -11,7 +11,7 @@ title: Publications
 --->
 
 
-### Select Key Publications ###
+## Select Key Publications ##
 [<img src="/assets/Figures/IEEECSMCover.png" width="300"> ](https://ieeexplore.ieee.org/abstract/document/9036118/)
 [<img src="/assets/Figures/E&B.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0378778816319971)
 [<img src="/assets/Figures/CEP.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0967066118304404)
@@ -19,7 +19,7 @@ title: Publications
 [<img src="/assets/Figures/Automatica.png" width="300">](https://www.sciencedirect.com/science/article/pii/S000510981200043X)
 [<img src="/assets/Figures/PhysicaD.png" width="300">](https://www.sciencedirect.com/science/article/pii/S0167278920302700)
 
-### Preprints ###
+## Preprints ##
 <p><img align="left" width="180" src="/assets/Figures/WuchererArxiv2023.png" hspace="20"><span>
 <b>Learning to Predict Grip Quality from Simulation: Establishing a Digital Twin to Generate Simulated Data for a Grip Stability Metric</b><br />
   S. Wucherer, R. McMurray, <b>K. Y. Ng</b>, and F. Kerber<br />
@@ -32,7 +32,7 @@ title: Publications
 *arXiv preprint arXiv:2302.03504*, 2023. 
 DOI:10.48550/arXiv.2302.03504 -->
 
-### Journal Articles ###  
+## Journal Articles ## 
 <!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
 *Water Research*, pp. 123888, 2025.
@@ -362,7 +362,7 @@ DOI:10.1002/rnc.1170  -->
 
 
 
-### Conference Proceedings and Posters ###
+## Conference Proceedings and Posters ##
 <!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
 ["Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing"](https://doi.org/10.1109/INDIN64977.2025.11279663),
 *2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)*, Kunming, China, 2025. -->
@@ -643,7 +643,7 @@ DOI:10.1109/DELTA.2006.92  -->
 
 
 
-### Book Chapters ###
+## Book Chapters ##
 <!-- 1. M. M. M. Islam, J. I. Emon, **K. Y. Ng**, A. Asadpour, M. M. R. A. Aziz, M. L. Baptista, and J.–M. Kim, ["Artificial intelligence in smart manufacturing: Emerging opportunities and prospects"](https://doi.org/10.1007/978-3-031-80154-9_2),
 *Artificial Intelligence for Smart Manufacturing and Industry X.0*, Springer Nature Switzerland, pp. 9–36, 2025. 
 DOI: 10.1007/978-3-031-80154-9_2. -->
@@ -656,12 +656,17 @@ DOI: 10.1007/978-3-031-80154-9_2. -->
 </span></p><br />
 
 
-### Others ###
-1. **K. Y. Ng**, 
+## Others ##
+<!-- 1. **K. Y. Ng**,  -->
 <!-- Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine, 
 *Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation*, Gothenburg, Sweden, 2015.   -->
 <!---&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="/assets/Figures/VCC.jpg" width="450">
 --->
+
+<!-- 1. **K. Y. Ng**, 
+["Advancements In Robust Fault Reconstruction Using Sliding Mode Observers"](https://doi.org/10.4225/03/587c001b22509), 
+*PhD Thesis, Faculty of Engineering, Monash University*, 2009. 
+DOI:10.4225/03/587c001b22509  -->
 
 <p><img align="left" width="180" src="/assets/Figures/VCC.jpg" hspace="20"><span>
 <b>Design and Development of A Simulation Environment and A Fault Isolation Scheme on A Volvo VEP4 MP Engine</b><br />
@@ -669,12 +674,6 @@ DOI: 10.1007/978-3-031-80154-9_2. -->
   <span class="pub-venue">Internal Research Technical Report: Research and Development Centre, Volvo Car Corporation</span><br />
   <!-- <a href="https://doi.org/10.1007/978-3-031-80154-9_2">[Book Chapter]</a> -->
 </span></p><br />
-
-
-1. **K. Y. Ng**, 
-["Advancements In Robust Fault Reconstruction Using Sliding Mode Observers"](https://doi.org/10.4225/03/587c001b22509), 
-*PhD Thesis, Faculty of Engineering, Monash University*, 2009. 
-<!--DOI:10.4225/03/587c001b22509  -->
 
 <p><img align="left" width="180" src="/assets/Figures/VCC.jpg" hspace="20"><span>
 <b>Advancements In Robust Fault Reconstruction Using Sliding Mode Observers</b><br />
