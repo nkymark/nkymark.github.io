@@ -263,14 +263,14 @@ DOI:10.1002/jctb.5490  -->
 
 <p><img align="left" width="180" src="/assets/Figures/Automatica2012.png" hspace="20"><span>
 <b>Disturbance decoupled fault reconstruction using cascaded sliding mode observers</b><br />
-  <b>>K. Y. Ng</b>, C. P. Tan, and D. Oetomo<br />
+  <b>K. Y. Ng</b>, C. P. Tan, and D. Oetomo<br />
   <span class="pub-venue">Automatica</span><br />
   <a href="https://doi.org/10.1016/j.automatica.2012.02.005">[Paper]</a>
 </span></p><br />
 
 <p><img align="left" width="180" src="/assets/Figures/AJC2010.png" hspace="20"><span>
 <b>Disturbance decoupled fault reconstruction using sliding mode observers</b><br />
-  <b>>K. Y. Ng</b>, C. P. Tan, R. Akmeliawati, and C. Edwards<br />
+  <b>K. Y. Ng</b>, C. P. Tan, R. Akmeliawati, and C. Edwards<br />
   <span class="pub-venue">Asian Journal of Control</span><br />
   <a href="https://doi.org/10.1002/asjc.231">[Paper]</a>
 </span></p><br />
