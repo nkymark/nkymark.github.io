@@ -384,6 +384,13 @@ DOI:10.1002/rnc.1170  -->
   <a href="https://www.markusng.com/assets/Docs/Ng_ITF.pdf">[Poster]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/CCTA2024.png" hspace="20"><span>
+<b>Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model</b><br />
+  S. Wucherer, R. McMurray, <b>K. Y. Ng</b>, and F. Kerber<br />
+  <span class="pub-venue">8th IEEE Conference on Control Technology and Applications (CCTA 2024)</span><br />
+  <a href="https://www.markusng.com/assets/Docs/Ng_ITF.pdf">[Paper]</a>
+</span></p><br />
+
 
 
 <!-- 1. S. Kogileru, M. McBride, Y. Bi, and **K. Y. Ng**,
@@ -394,10 +401,11 @@ DOI:10.1002/rnc.1170  -->
 ["A Robust Tolerance Optimisation Framework for Automated Optical Inspection (AOI) in Semiconductor Manufacturing"](https://www.markusng.com/assets/Docs/Kogileru_DTNet.pdf),
 *DTNet+ Special Interest Group (SIG) Conference 2025*, Swansea, UK, 2025. -->
 
-
-1. **K. Y. Ng**,
+<!-- 1. **K. Y. Ng**,
 ["Digital Twin of a Turbocharged Spark-Ignited Engine System for Control and Fault Diagnosis"](https://www.markusng.com/assets/Docs/Ng_ITF.pdf),
-*The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks*, Leipzig, Germany, 2025.
+*The International Transport Forum (ITF) 2025 Summit on Transport Resilience to Global Shocks*, Leipzig, Germany, 2025. -->
+
+
 1. S. Wucherer, R. McMurray, **K. Y. Ng**, and F. Kerber,
 ["Predicting Maximum Permitted Process Forces for Object Grasping and Manipulation Using a Deep Learning Regression Model"](https://doi.org/10.1109/CCTA60707.2024.10666569),
 *8th IEEE Conference on Control Technology and Applications (CCTA 2024)*, Northumbria University, UK, 2024. 
