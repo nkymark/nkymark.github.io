@@ -131,6 +131,13 @@ DOI:10.48550/arXiv.2302.03504 -->
   <a href="https://doi.org/10.1016/j.conengprac.2018.08.013">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/JCTB2018.png" hspace="20"><span>
+<b>Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review</b><br />
+  L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, <b>K. Y. Ng</b>, M. N. Nguyen, and W. H. Teoh<br />
+  <span class="pub-venue">Journal of Chemical Technology and Biotechnology</span><br />
+  <a href="https://doi.org/10.1002/jctb.5490">[Paper]</a>
+</span></p><br />
+
 
 <!-- 1. M. Hincapie, A. Galdos-Balzategui, B.L.S. Freitas, F. Reygadas, L.P. Sabogal-Paz, N. Pichel, L. Botero, L.J. Montoya, L. Galeano, G. Carvajal, H. Lubarsky, **K.Y. Ng**, R. Price, S. Gaihre, J.A. Byrne, P. Fernandez-Ibanez,
 ["Automated household-based water disinfection system for rural communities: Field trials and community appropriation"](https://doi.org/10.1016/j.watres.2025.123888), 
@@ -207,11 +214,12 @@ DOI:10.1016/j.conengprac.2018.08.013  -->
 <!--- <img src="/assets/Figures/CEP2018a.png" width="220">&emsp;<img src="/assets/Figures/CEP2018b.png" width="620"> 
 --->
 
-
-1. L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, 
+<!-- 1. L. H. Lee, T. Y. Wu, K. P. Y. Shak, S. L. Lim, **K. Y. Ng**, M. N. Nguyen, and W. H. Teoh, 
 ["Sustainable approach to biotransform industrial sludge into organic fertilizer via vermicomposting: A mini-review"](https://doi.org/10.1002/jctb.5490), 
 *Journal of Chemical Technology and Biotechnology*, vol. 93, pp. 925–935, 2018. 
-<!--DOI:10.1002/jctb.5490  -->
+DOI:10.1002/jctb.5490  -->
+
+
 1. J. H. T. Ooi, C. P. Tan, S. Nurzaman, and **K. Y. Ng**, 
 ["A Sliding Mode Observer for Infinitely Unobservable Descriptor Systems"](https://doi.org/10.1109/TAC.2017.2665699), 
 *IEEE Transactions on Automatic Control*, vol. 62, no. 7, pp. 3580-3587, 2017. 
