@@ -162,6 +162,27 @@ DOI:10.1016/j.automatica.2012.02.005  -->
 <!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/Automatica2012a.png" width="320">&emsp;<img src="/assets/Figures/Automatica2012b.png" width="320">
 --->
 
+<!-- 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
+["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.1002/asjc.231), 
+*Asian Journal of Control*, vol. 12, no. 5, pp. 656–660, 2010. 
+DOI:10.1002/asjc.231  -->
+<!--- <img src="/assets/Figures/AJC2010a.png" width="320">&emsp;<img src="/assets/Figures/AJC2010b.png" width="520">
+--->
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, Z. Man, and R. Akmeliawati, 
+["New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade"](https://doi.org/10.1007/s12555-010-0303-8), 
+*International Journal of Control, Automation and Systems*, vol. 8, no. 3, pp. 506–518, 2010. 
+DOI:10.1007/s12555-010-0303-8  -->
+<!--- <img src="/assets/Figures/IJCAS2010a.png" width="520">&emsp;<img src="/assets/Figures/IJCAS2010b.png" width="320">
+--->
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, 
+["New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers"](https://doi.org/10.1002/rnc.1170), 
+*International Journal of Robust and Nonlinear Control*, vol. 17, no. 14, pp. 1294–1319, 2007. 
+DOI:10.1002/rnc.1170  -->
+<!--- <img src="/assets/Figures/IJRNC2007a.png" width="520">&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="320">
+--->
+
 
 <p><img align="left" width="180" src="/assets/Figures/WaterResearch2025.png" hspace="20"><span>
 <b>Automated household-based water disinfection system for rural communities: Field trials and community appropriation</b><br />
@@ -331,30 +352,14 @@ DOI:10.1016/j.automatica.2012.02.005  -->
   <a href="https://doi.org/10.1007/s12555-010-0303-8">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/IJCAS2010.png" hspace="20"><span>
+<b>New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers</b><br />
+  <b>K. Y. Ng</b>, C. P. Tan, C. Edwards, and Y. C. Kuang<br />
+  <span class="pub-venue">International Journal of Robust and Nonlinear Control</span><br />
+  <a href="https://doi.org/10.1002/rnc.1170">[Paper]</a>
+</span></p><br />
 
 
-
-
-<!-- 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
-["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.1002/asjc.231), 
-*Asian Journal of Control*, vol. 12, no. 5, pp. 656–660, 2010. 
-DOI:10.1002/asjc.231  -->
-<!--- <img src="/assets/Figures/AJC2010a.png" width="320">&emsp;<img src="/assets/Figures/AJC2010b.png" width="520">
---->
-
-
-1. **K. Y. Ng**, C. P. Tan, Z. Man, and R. Akmeliawati, 
-["New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade"](https://doi.org/10.1007/s12555-010-0303-8), 
-*International Journal of Control, Automation and Systems*, vol. 8, no. 3, pp. 506–518, 2010. 
-<!--DOI:10.1007/s12555-010-0303-8  -->
-<!--- <img src="/assets/Figures/IJCAS2010a.png" width="520">&emsp;<img src="/assets/Figures/IJCAS2010b.png" width="320">
---->
-1. **K. Y. Ng**, C. P. Tan, C. Edwards, and Y. C. Kuang, 
-["New results in robust actuator fault reconstruction for linear uncertain systems using sliding mode observers"](https://doi.org/10.1002/rnc.1170), 
-*International Journal of Robust and Nonlinear Control*, vol. 17, no. 14, pp. 1294–1319, 2007. 
-<!--DOI:10.1002/rnc.1170  -->
-<!--- <img src="/assets/Figures/IJRNC2007a.png" width="520">&emsp;<img src="/assets/Figures/IJRNC2007b.png" width="320">
---->
 
 
 ### Conference Proceedings ###
