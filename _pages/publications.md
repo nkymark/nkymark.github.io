@@ -254,6 +254,13 @@ DOI:10.1002/jctb.5490  -->
   <a href="https://doi.org/10.1002/asjc.1033">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/IJRNC2013.png" hspace="20"><span>
+<b>New results in robust functional state estimation using two sliding mode observers in cascade</b><br />
+  C. Y. Kee, C. P. Tan, <b>K. Y. Ng</b>, and H. Trinh<br />
+  <span class="pub-venue">International Journal of Robust and Nonlinear Control</span><br />
+  <a href="https://doi.org/10.1002/rnc.2973">[Paper]</a>
+</span></p><br />
+
 
 
 
@@ -292,13 +299,13 @@ DOI:10.1002/asjc.1033  -->
 <!--- &emsp;&emsp;&emsp;<img src="/assets/Figures/AJC2015a.png" width="250">&emsp;<img src="/assets/Figures/AJC2015b.png" width="520">
 --->
 
-
-1. C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
+<!-- 1. C. Y. Kee, C. P. Tan, **K. Y. Ng**, and H. Trinh, 
 ["New results in robust functional state estimation using two sliding mode observers in cascade"](https://doi.org/10.1002/rnc.2973), 
 *International Journal of Robust and Nonlinear Control*, vol. 24, no. 15, pp. 2079–2097, 2014. 
-<!--DOI:10.1002/rnc.2973  -->
+DOI:10.1002/rnc.2973  -->
 <!--- <img src="/assets/Figures/IJRNC2014a.png" width="320">&emsp;<img src="/assets/Figures/IJRNC2014b.png" width="520">
 --->
+
 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
 ["Disturbance decoupled fault reconstruction using cascaded sliding mode observers"](https://doi.org/10.1016/j.automatica.2012.02.005), 
 *Automatica*, vol. 48, no. 5, pp. 794–799, 2012. 
