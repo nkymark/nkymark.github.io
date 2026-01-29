@@ -416,6 +416,55 @@ DOI:10.22489/cinc.2019.051  -->
 *International Conference in Computing in Cardiology (CinC 2019)*, Matrix @ Biopolis, Singapore, 2019. 
 DOI:10.22489/cinc.2019.313  -->
 
+<!-- 1. S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen, 
+["Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system"](https://doi.org/10.1109/SCORED.2016.7810062), 
+*IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016. 
+DOI:10.1109/SCORED.2016.7810062  -->
+
+<!-- 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
+["A combined diagnosis system design using model-based and data-driven methods"](https://doi.org/10.1109/SYSTOL.2016.7739747), 
+*IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, pp. 177–182, 2016. 
+DOI:10.1109/SYSTOL.2016.7739747  -->
+<!--- <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
+--->
+
+<!-- 1. W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan, 
+["Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s"](https://doi.org/10.1109/ICARCV.2016.7838614), 
+*IEEE ICARCV*, Phuket, Thailand, 2016. 
+DOI:10.1109/ICARCV.2016.7838614  -->
+
+<!-- 1. S. J. W. Tang, **K. Y. Ng**, B. H. Khoo, and J. Parkkinen, 
+["Real-time lane detection and rear-end collision warning system on a mobile computing platform"](https://doi.org/10.1109/COMPSAC.2015.171), 
+*IEEE COMPSAC*, Taichung, Taiwan, pp. 563–568, 2015. 
+DOI:10.1109/COMPSAC.2015.171  -->
+<!--- <img src="/assets/Figures/COMPSAC2015ba.png" width="420">&emsp;<img src="/assets/Figures/COMPSAC2015bb.png" width="420">
+--->
+
+<!-- 1. W. C. Chew, **K. Y. Ng**, and B. H. Khoo, 
+["ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis"](https://doi.org/10.1109/COMPSAC.2015.170), 
+*IEEE COMPSAC*, Taichung, Taiwan, pp. 569–574, 2015. 
+DOI:10.1109/COMPSAC.2015.170  -->
+<!--- <img src="/assets/Figures/COMPSAC2015aa.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015ab.png" width="520">
+--->
+
+<!-- 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
+["Enhanced fault reconstruction using cascaded sliding mode observers"](https://doi.org/10.1109/VSS.2012.6163503), 
+*12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, pp. 208–213, 2012. 
+DOI:10.1109/VSS.2012.6163503  -->
+
+<!-- 1. C. Fernandes, **K. Y. Ng**, and B. H. Khoo, 
+["Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK"](https://doi.org/10.1109/TENCON.2011.6129266), 
+*IEEE TENCON*, Bali, Indonesia, pp. 1025–1029, 2011. 
+DOI:10.1109/TENCON.2011.6129266  -->
+<!--- <img src="/assets/Figures/TENCON2011a.png" width="420">&emsp;<img src="/assets/Figures/TENCON2011b.png" width="420">
+--->
+
+<!-- 1. **K. Y. Ng** and C. P. Tan, 
+["New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade"](https://doi.org/10.3182/20090630-4-ES-2003.00128), 
+*7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, vol. 42, no. 8, pp. 780-785, 2009. 
+DOI:10.3182/20090630-4-ES-2003.00128  -->
+
+
 <p><img align="left" width="180" src="/assets/Figures/INDIN2025.png" hspace="20"><span>
 <b>Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing</b><br />
   S. Kogileru, M. McBride, Y. Bi, and <b>K. Y. Ng</b><br />
@@ -516,7 +565,7 @@ DOI:10.22489/cinc.2019.313  -->
 
 <p><img align="left" width="180" src="/assets/Figures/ICARCV2016.png" hspace="20"><span>
 <b>Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s</b><br />
-  W. J. Lee, <b>>K. Y. Ng</b>, C. L Tan, and C. P. Tan<br />
+  W. J. Lee, <b>K. Y. Ng</b>, C. L Tan, and C. P. Tan<br />
   <span class="pub-venue">IEEE ICARCV</span><br />
   <a href="https://doi.org/10.1109/ICARCV.2016.7838614">[Paper]</a>
 </span></p><br />
@@ -549,56 +598,17 @@ DOI:10.22489/cinc.2019.313  -->
   <a href="https://doi.org/10.1109/TENCON.2011.6129266">[Paper]</a>
 </span></p><br />
 
+<p><img align="left" width="180" src="/assets/Figures/SAFEPROCESS2009.png" hspace="20"><span>
+<b>New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade</b><br />
+  <b>>K. Y. Ng</b> and C. P. Tan<br />
+  <span class="pub-venue">7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)</span><br />
+  <a href="https://doi.org/10.3182/20090630-4-ES-2003.00128">[Paper]</a>
+</span></p><br />
 
 
 
-<!-- 1. S. J. W. Tang, **K. Y. Ng**, V. Kalavally, and J. Parkkinen, 
-["Closed-loop color control of an RGB luminaire using sensors onboard a mobile computing system"](https://doi.org/10.1109/SCORED.2016.7810062), 
-*IEEE Student Conference on Research and Development (SCOReD)*, Kuala Lumpur, Malaysia, 2016. 
-DOI:10.1109/SCORED.2016.7810062  -->
 
-<!-- 1. D. Jung, **K. Y. Ng**, E. Frisk, and M. Krysander, 
-["A combined diagnosis system design using model-based and data-driven methods"](https://doi.org/10.1109/SYSTOL.2016.7739747), 
-*IEEE 3rd Conference on Control and Fault-Tolerant Systems (SysTol)*, Barcelona, Spain, pp. 177–182, 2016. 
-DOI:10.1109/SYSTOL.2016.7739747  -->
-<!--- <img src="/assets/Figures/Systol2016a.png" width="320">&emsp;<img src="/assets/Figures/Systol2016b.png" width="520">
---->
 
-<!-- 1. W. J. Lee, **K. Y. Ng**, C. L Tan, and C. P. Tan, 
-["Real-Time Face Detection And Motorized Tracking Using ScicosLab and SMCube On SoC’s"](https://doi.org/10.1109/ICARCV.2016.7838614), 
-*IEEE ICARCV*, Phuket, Thailand, 2016. 
-DOI:10.1109/ICARCV.2016.7838614  -->
-
-<!-- 1. S. J. W. Tang, **K. Y. Ng**, B. H. Khoo, and J. Parkkinen, 
-["Real-time lane detection and rear-end collision warning system on a mobile computing platform"](https://doi.org/10.1109/COMPSAC.2015.171), 
-*IEEE COMPSAC*, Taichung, Taiwan, pp. 563–568, 2015. 
-DOI:10.1109/COMPSAC.2015.171  -->
-<!--- <img src="/assets/Figures/COMPSAC2015ba.png" width="420">&emsp;<img src="/assets/Figures/COMPSAC2015bb.png" width="420">
---->
-
-<!-- 1. W. C. Chew, **K. Y. Ng**, and B. H. Khoo, 
-["ReCon-AVe: Remote controlled automobile vehicle for data mining and analysis"](https://doi.org/10.1109/COMPSAC.2015.170), 
-*IEEE COMPSAC*, Taichung, Taiwan, pp. 569–574, 2015. 
-DOI:10.1109/COMPSAC.2015.170  -->
-<!--- <img src="/assets/Figures/COMPSAC2015aa.png" width="320">&emsp;<img src="/assets/Figures/COMPSAC2015ab.png" width="520">
---->
-
-<!-- 1. **K. Y. Ng**, C. P. Tan, and D. Oetomo, 
-["Enhanced fault reconstruction using cascaded sliding mode observers"](https://doi.org/10.1109/VSS.2012.6163503), 
-*12th International Workshop on Variable Structure Systems (VSS)*, Bombay, India, pp. 208–213, 2012. 
-DOI:10.1109/VSS.2012.6163503  -->
-
-<!-- 1. C. Fernandes, **K. Y. Ng**, and B. H. Khoo, 
-["Development of a convenient wireless control of an autonomous vehicle using Apple iOS SDK"](https://doi.org/10.1109/TENCON.2011.6129266), 
-*IEEE TENCON*, Bali, Indonesia, pp. 1025–1029, 2011. 
-DOI:10.1109/TENCON.2011.6129266  -->
-<!--- <img src="/assets/Figures/TENCON2011a.png" width="420">&emsp;<img src="/assets/Figures/TENCON2011b.png" width="420">
---->
-
-1. **K. Y. Ng** and C. P. Tan, 
-["New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade"](https://doi.org/10.3182/20090630-4-ES-2003.00128), 
-*7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)*, Barcelona, Spain, vol. 42, no. 8, pp. 780-785, 2009. 
-<!--DOI:10.3182/20090630-4-ES-2003.00128  -->
 1. **K. Y. Ng**, C. P. Tan, R. Akmeliawati, and C. Edwards, 
 ["Disturbance decoupled fault reconstruction using sliding mode observers"](https://doi.org/10.3182/20080706-5-KR-1001.01221), 
 *17th IFAC World Congress*, Seoul, South Korea, vol. 41, no. 2, pp. 7215-7220, 2008. 
