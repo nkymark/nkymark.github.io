@@ -600,9 +600,16 @@ DOI:10.3182/20090630-4-ES-2003.00128  -->
 
 <p><img align="left" width="180" src="/assets/Figures/SAFEPROCESS2009.png" hspace="20"><span>
 <b>New results in disturbance decoupled fault reconstruction in linear uncertain systems using two sliding mode observers in cascade</b><br />
-  <b>>K. Y. Ng</b> and C. P. Tan<br />
+  <b>K. Y. Ng</b> and C. P. Tan<br />
   <span class="pub-venue">7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS)</span><br />
   <a href="https://doi.org/10.3182/20090630-4-ES-2003.00128">[Paper]</a>
+</span></p><br />
+
+<p><img align="left" width="180" src="/assets/Figures/IFAC2008.png" hspace="20"><span>
+<b>Disturbance decoupled fault reconstruction using sliding mode observers</b><br />
+  <b>K. Y. Ng</b>, C. P. Tan, R. Akmeliawati, and C. Edwards<br />
+  <span class="pub-venue">17th IFAC World Congress</span><br />
+  <a href="https://doi.org/10.3182/20080706-5-KR-1001.01221">[Paper]</a>
 </span></p><br />
 
 
