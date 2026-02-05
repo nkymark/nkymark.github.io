@@ -42,10 +42,16 @@ title: People
   </span></p>
 
 
-  <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Ranga Kanteti</b><br />
+<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Ranga Kanteti</b><br />
   Ph.D. <br />
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
+  </span></p>
+
+<p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20"><span><b>Jack Wilson</b><br />
+  Ph.D. <br />
+  Project title: UCL x Ulster tech4health EPSRC Centre for Doctoral Training (CDT) in Digital Health Technologies <br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Dewar Finlay (Co, Ulster), Prof. Brian Meenan (Co, Ulster) <br /><br /><br />
   </span></p>
   
 
