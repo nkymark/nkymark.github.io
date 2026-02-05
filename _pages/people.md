@@ -21,11 +21,18 @@ title: People
   </span></p>
 
 
-<p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20"><span><b>Will Aston </b><br />
-  Ph.D.  <br />
-  Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br />
-  Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /> 
-</span></p><br />
+<p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20"><span><b>Shruthi Kogileru</b><br />
+  KTP Associate <br />
+  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br />
+  </span></p>
+
+
+<p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20"><span><b>Jack Wilson</b><br />
+  Ph.D. <br />
+  Project title: UCL x Ulster tech4health EPSRC CDT in Digital Health Technologies <br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Dewar Finlay (Co, Ulster), Prof. Brian Meenan (Co, Ulster) <br /><br /><br />
+  </span></p>
 
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Brian Kirch </b><br />
@@ -35,23 +42,17 @@ title: People
   </span></p>
 
 
-<p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20"><span><b>Shruthi Kogileru</b><br />
-  KTP Associate <br />
-  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br />
-  </span></p>
+<p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20"><span><b>Will Aston </b><br />
+  Ph.D.  <br />
+  Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br />
+  Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /> 
+</span></p><br />
 
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Ranga Kanteti</b><br />
   Ph.D. <br />
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
-  </span></p>
-
-<p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20"><span><b>Jack Wilson</b><br />
-  Ph.D. <br />
-  Project title: UCL x Ulster tech4health EPSRC CDT in Digital Health Technologies <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Dewar Finlay (Co, Ulster), Prof. Brian Meenan (Co, Ulster) <br /><br /><br />
   </span></p>
   
 
