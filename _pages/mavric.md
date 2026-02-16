@@ -52,6 +52,9 @@ The lab will facilitate research and teaching in the fields of robotics and mech
   * 1 PowerEdge R750 GPU Node
   * 1 PowerEdge R6515 SDP Node  
 
+For general enquiries and collaboration opportunities, please feel free to reach out via the contact details on the left pane.  
+</br>
+
 
 <img align="left" src="/assets/Figures/Facilities.png" width="840">
 
