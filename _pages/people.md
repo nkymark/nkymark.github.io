@@ -52,7 +52,7 @@ title: People
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Ranga Kanteti</b><br />
   Ph.D. <br />
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
-  Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
+  Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br />
   </span></p>
 
   <p><img align="left" width="840" src="/assets/Figures/NISF2026Group.jpeg" hspace="20"></p>
