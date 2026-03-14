@@ -54,6 +54,8 @@ title: People
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
   </span></p>
+
+  <p><img align="left" width="800" src="/assets/Figures/NISF2026Group.jpeg" hspace="20"></p>
   
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
