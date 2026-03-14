@@ -33,7 +33,7 @@ title: People
 <span><b>Jack Wilson</b><br />
   Ph.D. <br />
   Project title: UCL x Ulster tech4health EPSRC CDT in Digital Health Technologies <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Dewar Finlay (Co, Ulster), Prof. Brian Meenan (Co, Ulster) <br /><br /><br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
