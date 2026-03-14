@@ -58,7 +58,7 @@ title: People
   </span></p>
 
 <p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
-<span><b>UG Team</b><br />
+<span><b>Current UG Team</b><br />
 Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefanski, Zachery Bloomer, Sophia Totten, Jake Hunter, Callum McKnight, Conor Cannon, Declan Smyth, Jake McBride, Carter McKnight, Reece Mallon, Gideon Kernan-Fitzgibbon, Luke Pudman, Tom Cassidy, Dylan Cole, Niamh O'Sullivan, Ahmed Ameen, Ricardo Pereira 
 <br /><br /><br />
 </span></p>
