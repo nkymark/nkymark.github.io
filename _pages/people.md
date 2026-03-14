@@ -46,7 +46,7 @@ title: People
   Ph.D.  <br />
   Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br />
   Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /> 
-</span></p><br />
+  </span></p>
 
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20"><span><b>Ranga Kanteti</b><br />
@@ -55,8 +55,7 @@ title: People
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br />
   </span></p>
 
-  <p><img align="left" width="850" src="/assets/Figures/NISF2026Group.jpeg" hspace="20"></p>
-  <br /><br /><br /><br /><br /><br />
+  <p><img align="centre" width="850" src="/assets/Figures/NISF2026Group.jpeg"><br /><br /><br /><br /><br /><br /></p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 ## Former Team Members ##
@@ -75,7 +74,7 @@ title: People
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20"><span><b>Niamh McCallan </b><br />
   Ph.D. (Completed, 2024) <br />
   Thesis title: Data-Driven Techniques and Multidimensional Analysis of Biomedical Signals for Detection and Classification of Epileptic Seizures<br />
-  </span></p> <br />  
+  </span></p>
 
   
 <p><img align="left" width="120" src="/assets/Figures/Scot.jpg" hspace="20"><span><b>Scot Davidson </b><br />
