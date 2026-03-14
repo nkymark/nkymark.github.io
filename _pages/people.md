@@ -55,7 +55,7 @@ title: People
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br />
   </span></p>
 
-  <p><img align="centre" width="850" src="/assets/Figures/NISF2026Group.jpeg"><br /><br /><br /><br /><br /><br /></p>
+  <p><img align="centre" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br /><br /><br /><br /></p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 ## Former Team Members ##
