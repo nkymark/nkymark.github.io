@@ -59,13 +59,11 @@ title: People
 ## Former Team Members
 
 <p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20"><span><b>Martin Kučera</b><br />
-  Research Assistant (EU Erasmus+ Traineeship Programme) <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Prof. Jim McLaughlin (Co, Ulster) <br /><br />
+  Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Tomas.png" hspace="20"><span><b>Tomáš Smrčka</b><br />
-  Research Assistant (EU Erasmus+ Traineeship Programme) <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Prof. Jim McLaughlin (Co, Ulster) <br /><br />
+  Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20"><span><b>Niamh McCallan </b><br />
