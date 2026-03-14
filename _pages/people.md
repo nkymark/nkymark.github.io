@@ -47,7 +47,7 @@ title: People
 <span><b>Will Aston </b><br />
   Ph.D.  <br />
   Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br />
-  Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /><br />
+  Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
@@ -55,7 +55,7 @@ title: People
   Ph.D. <br />
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br />
-  </span></p>
+  </span></p> 
 
 <p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
 <span><b>Current UG Team</b><br />
