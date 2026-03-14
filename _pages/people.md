@@ -19,7 +19,7 @@ title: People
 <span><b>Stefanie Wucherer </b><br />
   Ph.D.  <br />
   Thesis title: Developing a hybrid model and supervised learning approach for automated handling tasks using tactile feedback <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Florian Kerber (Main, Augsburg University of Applied Sciences), Dr. Robert McMurray (Co, Ulster) <br /> 
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Florian Kerber (Main, Augsburg University of Applied Sciences), Dr. Robert McMurray (Co, Ulster) <br /><br /> 
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
@@ -54,13 +54,13 @@ title: People
 <span><b>Ranga Kanteti</b><br />
   Ph.D. <br />
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
-  Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br />
+  Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br />
   </span></p> 
 
 <p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
 <span><b>Current UG Team</b><br />
 Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefanski, Zachery Bloomer, Sophia Totten, Jake Hunter, Callum McKnight, Conor Cannon, Declan Smyth, Jake McBride, Carter McKnight, Reece Mallon, Gideon Kernan-Fitzgibbon, Luke Pudman, Tom Cassidy, Dylan Cole, Niamh O'Sullivan, Ahmed Ameen, Ricardo Pereira 
-<br /><br /><br />
+<br /><br />
 </span></p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
