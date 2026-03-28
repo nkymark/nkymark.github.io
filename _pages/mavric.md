@@ -18,7 +18,7 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <iframe src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO" width="320" frameborder="1" allowfullscreen> </iframe> &emsp;
 
-<iframe src="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh" width="320" frameborder="1" allowfullscreen> </iframe> &emsp;
+<iframe width="320" src="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh" frameborder="1" allowfullscreen> </iframe> &emsp;
 
 [<img src="/assets/Figures/MAvRiCVid1.png" width="410"
 />](https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ) &emsp;
