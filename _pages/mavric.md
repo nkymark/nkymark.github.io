@@ -23,25 +23,25 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <div style="display: inline-block; margin-right: 20px;">
   <a href="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ">
-    <img src="/assets/Figures/MAvRiCVid1.png" alt="Video 1" width="400">
+    <img src="/assets/Figures/MAvRiCVid1.png" alt="Video 1" width="410">
   </a>
 </div>
      
 <div style="display: inline-block;">
   <a href="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy">
-    <img src="/assets/Figures/MAvRiCVid2.png" alt="Video 2" width="400">
+    <img src="/assets/Figures/MAvRiCVid2.png" alt="Video 2" width="410">
   </a>
 </div> &emsp;
 
 <div style="display: inline-block; margin-right: 20px;">
   <a href="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO">
-    <img src="/assets/Figures/MAvRiCVid3.png" alt="Video 3" width="400">
+    <img src="/assets/Figures/MAvRiCVid3.png" alt="Video 3" width="410">
   </a>
 </div>
      
 <div style="display: inline-block;">
   <a href="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh">
-    <img src="/assets/Figures/MAvRiCVid4.png" alt="Video 4" width="400">
+    <img src="/assets/Figures/MAvRiCVid4.png" alt="Video 4" width="410">
   </a>
 </div> &emsp;
 
