@@ -28,19 +28,9 @@ We primarily conduct research on anomaly detection and classification using mode
     frameborder="0"
     allowfullscreen>
   </iframe>
-</div> 
-
-<div style="max-width: 410px;">
-  <iframe 
-    width="100%" 
-    height="231"
-    src="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
 </div> &emsp;
 
-<div style="display: inline-block; margin-right: 20px;">
+<!-- <div style="display: inline-block; margin-right: 20px;">
   <a href="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ">
     <img src="/assets/Figures/MAvRiCVid1.png" alt="Video 1" width="410">
   </a>
@@ -62,7 +52,7 @@ We primarily conduct research on anomaly detection and classification using mode
   <a href="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh">
     <img src="/assets/Figures/MAvRiCVid4.png" alt="Video 4" width="410">
   </a>
-</div> 
+</div>  -->
 
 <iframe height="1"> </iframe>
 
