@@ -26,7 +26,7 @@ We primarily conduct research on anomaly detection and classification using mode
     <img src="https://img.youtube.com/vi/VIDEO_ID_1/0.jpg" alt="Video 1" width="320">
   </a>
 </div>
-
+     
 <div style="display: inline-block;">
   <a href="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ">
     <img src="https://img.youtube.com/vi/VIDEO_ID_2/0.jpg" alt="Video 2" width="320">
