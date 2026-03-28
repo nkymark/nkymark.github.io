@@ -21,6 +21,18 @@ We primarily conduct research on anomaly detection and classification using mode
 <iframe src="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh" width="320" height="180" frameborder="1" allowfullscreen> </iframe>
 <iframe height="1"> </iframe>
 
+<div style="display: inline-block; margin-right: 20px;">
+  <a href="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_1/0.jpg" alt="Video 1" width="320">
+  </a>
+</div>
+
+<div style="display: inline-block;">
+  <a href="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_2/0.jpg" alt="Video 2" width="320">
+  </a>
+</div>
+
 
 ## Research Facilities ##
 Based in the School of Engineering and led by Mark Ng (PI) and Prof. James McLaughlin (Co-I), the DfE-funded lab features state-of-the-art robotic systems for active research and teaching in the coming years, with close to £250k of new equipment including
