@@ -23,7 +23,7 @@ We primarily conduct research on anomaly detection and classification using mode
 <div style="max-width: 410px; height: 231px; margin-right: 20px;">
   <iframe 
     width="100%" 
-    height="100%"
+    height="50%"
     src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
     frameborder="0"
     allowfullscreen>
