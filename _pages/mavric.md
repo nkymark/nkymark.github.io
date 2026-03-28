@@ -30,21 +30,25 @@ We primarily conduct research on anomaly detection and classification using mode
   </iframe>
 </div> &emsp; &emsp; &emsp;
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <iframe width="100%" height="231"
-      src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
-      frameborder="0" allowfullscreen>
-    </iframe>
-  </div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
-  <div style="flex: 1;">
-    <iframe width="100%" height="231"
-      src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
-      frameborder="0" allowfullscreen>
-    </iframe>
-  </div>
-</div> &emsp;
+  <iframe width="100%" height="315"
+    src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
+    frameborder="0" allowfullscreen></iframe>
+
+  <iframe width="100%" height="315"
+    src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
+    frameborder="0" allowfullscreen></iframe>
+
+  <iframe width="100%" height="315"
+    src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
+    frameborder="0" allowfullscreen></iframe>
+
+  <iframe width="100%" height="315"
+    src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO"
+    frameborder="0" allowfullscreen></iframe>
+
+</div> &emsp; &emsp; &emsp;
 
 
 
