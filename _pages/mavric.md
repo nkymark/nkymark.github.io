@@ -30,7 +30,7 @@ We primarily conduct research on anomaly detection and classification using mode
       allowfullscreen>
     </iframe>
   </div>
-</div> &emsp;
+</div>  
 
 <div style="display: flex; gap: 20px;">
   <div style="width: 410px; height: 231px; flex-shrink: 0;">
