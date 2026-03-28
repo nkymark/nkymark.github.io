@@ -30,7 +30,7 @@ We primarily conduct research on anomaly detection and classification using mode
   </iframe>
 </div>
    
-<div style="max-width: 410px; height: 231px; margin-right: 20px;">
+<div style="max-width: 410px; height: 231px;">
   <iframe 
     width="100%" 
     height="60%"
