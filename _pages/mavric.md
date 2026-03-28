@@ -29,7 +29,6 @@ We primarily conduct research on anomaly detection and classification using mode
     allowfullscreen>
   </iframe>
 </div>
-   
 <div style="max-width: 410px; height: 231px;">
   <iframe 
     width="100%" 
