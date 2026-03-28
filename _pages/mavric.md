@@ -52,7 +52,7 @@ We primarily conduct research on anomaly detection and classification using mode
   </div>
 </div> &emsp; &emsp; &emsp;
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(410px, 1fr)); gap: 20px;">
   <iframe style="width: 100%; height: 231px;"
     src="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ" frameborder="0" allowfullscreen></iframe>
 
