@@ -13,16 +13,16 @@ We primarily conduct research on anomaly detection and classification using mode
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(410px, 1fr)); gap: 20px;">
-  <iframe style="width: 100%; height: 245px;"
+  <iframe style="width: 100%; height: 250px;"
     src="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ" frameborder="0" allowfullscreen></iframe>
 
-  <iframe style="width: 100%; height: 245px;"
+  <iframe style="width: 100%; height: 250px;"
     src="https://www.youtube.com/embed/iNuVecPz7dw?si=caxDfggGkcOUPkBy" frameborder="0" allowfullscreen></iframe>
 
-  <iframe style="width: 100%; height: 245px;"
+  <iframe style="width: 100%; height: 250px;"
     src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO" frameborder="0" allowfullscreen></iframe>
 
-  <iframe style="width: 100%; height: 245px;"
+  <iframe style="width: 100%; height: 250px;"
     src="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh" frameborder="0" allowfullscreen></iframe>
 </div>
 
