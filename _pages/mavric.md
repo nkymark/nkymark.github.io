@@ -11,7 +11,7 @@ title: MAvRiC
 We primarily conduct research on anomaly detection and classification using model-based and data-driven methods on the following:
 * Robotics and mechatronics systems to perform fault diagnosis and to enhance automation and reliability, including Digital Twinning and Industry 4.0 applications.
 * Biomedical signals such as ECG and EEG to identify the key biomarkers for early detection of diseases and to enhance the accuracy of diagnostics.
-
+<!-- 
 <div style="display: flex; gap: 20px;">
   <div style="width: 410px; height: 231px; flex-shrink: 0;">
     <iframe 
@@ -50,7 +50,7 @@ We primarily conduct research on anomaly detection and classification using mode
       allowfullscreen>
     </iframe>
   </div>
-</div> &emsp; &emsp; &emsp;
+</div> &emsp; &emsp; &emsp; -->
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(410px, 1fr)); gap: 20px;">
   <iframe style="width: 100%; height: 240px;"
