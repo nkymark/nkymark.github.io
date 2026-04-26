@@ -11,5 +11,5 @@ Please use [this link](https://isip.piconepress.com/conferences/ieee_spmb/2022/h
 
 The full proceedings can be accessed on IEEE Xplore [here](https://ieeexplore.ieee.org/xpl/conhome/10014679/proceeding).
 
-<img src="/assets/Figures/IEEE.jpg" width="200">
+<img src="/assets/Figures/IEEE.png" width="200">
 <img src="/assets/Figures/SPMB.png" width="200">
