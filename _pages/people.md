@@ -8,7 +8,7 @@ title: People
 
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
   Reader <br />
-  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC)<br /><br /><br /><br />
+  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC)<br /><br /><br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
