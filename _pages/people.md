@@ -8,8 +8,8 @@ title: People
 
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
   Reader <br />
-  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) <br /><br /><br />
-  </span></p>  
+  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC)<br /><br /><br /><br />
+  </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
 <span><b>Stefanie Wucherer </b><br />
@@ -68,7 +68,7 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 <p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20">
 <span><b>Will Aston </b><br />
   Ph.D.  <br />
-  Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br /><br /><br />
+  Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br /><br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20">
