@@ -8,12 +8,8 @@ title: People
 
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
   Reader <br />
-  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) </span></p><br /><br />
-
-<!--<p><img align="left" width="120" src="/assets/Figures/Pardis.jpg" hspace="20"><span><b>Dr Pardis Biglarbeigi </b><br />-->
-<!--  Lecturer in Engineering and Data Analytics Scientist <br />-->
-<!--  Bio: Pardis (<a href="mailto:p.biglarbeigi@ulster.ac.uk">p.biglarbeigi@ulster.ac.uk</a>) received the BSc and MSc in Civil Engineering and Environmental Engineering from Shahid Chamran University of Ahvaz, Iran and Politecnico di Milano, Italy in 2010 and 2014, respectively. Then she moved to UK to pursue the Ph.D. in water resource management and hydroinformatics, which she graduated from Ulster University in 2019. Her research interests are numerical modelling in engineering applications, statistical analysis and data processing, signals, wavelet analysis, image processing, machine learning, optimisation, and simulation processes. During the final six months of her Ph.D., she worked at the Nanotechnology and Integrated BioEngineering Centre (NIBEC) as a part time research associate, where she researched on signal processing. This changed her research focus from hydroinformatics and water resources modelling to a broader range of engineering modelling and data science.<br />-->
-<!--  </span></p>  -->
+  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) <br /><br />
+  </span></p>  
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
 <span><b>Stefanie Wucherer </b><br />
@@ -56,8 +52,7 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 <p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
 <span><b>Shruthi Kogileru</b><br />
   KTP Associate <br />
-  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br />
+  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process (with Elite Electronic Systems Ltd ) <br /><br />
   </span></p>
   
 <p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20">
