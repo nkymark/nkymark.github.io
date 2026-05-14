@@ -22,13 +22,6 @@ title: People
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Florian Kerber (Main, Augsburg University of Applied Sciences), Dr. Robert McMurray (Co, Ulster) <br /><br /> 
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
-<span><b>Shruthi Kogileru</b><br />
-  KTP Associate <br />
-  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br />
-  </span></p>
-
 <p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20">
 <span><b>Jack Wilson</b><br />
   Ph.D. <br />
@@ -41,13 +34,6 @@ title: People
   Ph.D.  <br />
   Thesis title: Implementing Mechatronic Control and Analysis of Carbon Fibre Weaving <br />
   Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br />
-  </span></p>
-
-<p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20">
-<span><b>Will Aston </b><br />
-  Ph.D.  <br />
-  Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br />
-  Supervisors: Dr Ming-Wei Chang (Main, Ulster), Dr Mark Ng (Co, Ulster), Prof. James McLaughlin (Co, Ulster) <br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
@@ -67,6 +53,13 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 
 ## Former Team Members
 
+<p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
+<span><b>Shruthi Kogileru</b><br />
+  KTP Associate <br />
+  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process <br />
+  Supervisors: Dr Mark Ng (Main, Ulster), Prof. Yaxin Bi (Co, Ulster), Elite Electronic Systems Ltd (Industrial Partner) <br /><br />
+  </span></p>
+  
 <p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20">
 <span><b>Martin Kučera</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
@@ -75,6 +68,12 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 <p><img align="left" width="120" src="/assets/Figures/Tomas.png" hspace="20">
 <span><b>Tomáš Smrčka</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
+  </span></p>
+
+<p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20">
+<span><b>Will Aston </b><br />
+  Ph.D.  <br />
+  Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20">
