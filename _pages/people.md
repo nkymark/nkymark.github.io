@@ -8,7 +8,7 @@ title: People
 
 <p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
   Reader <br />
-  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) <br /><br />
+  Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC) <br /><br /><br />
   </span></p>  
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
@@ -52,7 +52,7 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 <p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
 <span><b>Shruthi Kogileru</b><br />
   KTP Associate <br />
-  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process (with Elite Electronic Systems Ltd ) <br /><br />
+  Project title: Digital Twin to Enhance Yield Reliability and Quality in a Surface Mount Technology (SMT) Manufacturing Process (with Elite Electronic Systems Ltd ) <br /><br /><br />
   </span></p>
   
 <p><img align="left" width="120" src="/assets/Figures/Martin.png" hspace="20">
