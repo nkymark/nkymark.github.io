@@ -17,7 +17,7 @@ In 2014–2015, I was a postdoctoral researcher at the Division of Vehicular Sys
 * In-house designed algorithm for alarm generations, residuals monitoring, as well as Fault Isolation (FI)
 * Simulation and FI of system with intermittent residuals
 -->
-This research work was published in the [*IEEE Control Systems Magazine*](https://ieeexplore.ieee.org/document/9036118) and the Digital Twin/Simulation Testbed can be downloaded via the [main hosting site](https://www.markusng.com/TCSI/) or its mirror at [Linköping University](https://www.fs.isy.liu.se/en/Software/TCSI_Testbed/).
+This research work was published in the [*IEEE Control Systems Magazine*](https://ieeexplore.ieee.org/document/9036118) and the Digital Twin/Simulation Testbed can be downloaded via the [main hosting site](https://www.markusng.com/TCSI/) or its mirror at [Linköping University](https://web.archive.org/web/20251212093521/https://www.fs.isy.liu.se/en/Software/TCSI_Testbed/).
 
 Throughout my career, I have secured more than £10.2 million in research grants and £23.1 million in infrastructure funding from various funders such as the Engineering and Physical Sciences Research Council (EPSRC), UK Research and Innovation (UKRI), Global Challenges Research Fund (GCRF), Aerospace Technology Institute (ATI), the British Academy, and the Northern Ireland Department for the Economy (DfE) in the UK; the Fundamental Research Grant Scheme (FRGS), Exploratory Research Grant Scheme (ERGS), and EScienceFund from the Ministry of Higher Education in Malaysia; and industries such as Volvo Car Corporation in Gothenburg, Sweden.
 
