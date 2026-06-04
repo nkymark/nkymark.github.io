@@ -18,12 +18,12 @@ title: People
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Florian Kerber (Main, Augsburg University of Applied Sciences), Dr. Robert McMurray (Co, Ulster) <br /><br /> 
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20">
+<!-- <p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20">
 <span><b>Jack Wilson</b><br />
   Ph.D. <br />
   Project title: UCL x Ulster tech4health EPSRC CDT in Digital Health Technologies <br />
   Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
-  </span></p>
+  </span></p> -->
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
 <span><b>Brian Kirch </b><br />
@@ -65,11 +65,11 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20">
+<!-- <p><img align="left" width="120" src="/assets/Figures/Will.jpg" hspace="20">
 <span><b>Will Aston </b><br />
   Ph.D.  <br />
   Thesis title: Industrialised manufacturing processes for 3D printable biomedical sensor devices<br /><br /><br /><br />
-  </span></p>
+  </span></p> -->
 
 <p><img align="left" width="120" src="/assets/Figures/Niamh.jpg" hspace="20">
 <span><b>Niamh McCallan </b><br />
