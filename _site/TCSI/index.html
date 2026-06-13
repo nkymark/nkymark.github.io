@@ -1,0 +1,533 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>TCSI Simulation Testbed - markusng.com</title>
+
+
+
+
+<meta name="description" content="Personal Research Website">
+
+
+
+
+<meta name="author" content="Mark Kok Yew Ng">
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="markusng.com">
+<meta property="og:title" content="TCSI Simulation Testbed">
+
+
+  <link rel="canonical" href="http://localhost:4000/TCSI/">
+  <meta property="og:url" content="http://localhost:4000/TCSI/">
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Mark Ng",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="markusng.com Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/academicons.css"/>
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+<meta http-equiv="cleartype" content="on">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<!--style type="text/css">
+#bannerimage {
+  width: 100%;
+  background-image: url(/assets/rocky-cork-oak-website-header.jpg);
+  height: 150px;
+  background-position: center;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+}
+</style>
+<div id="bannerimage">Fault Diagnosis Toolbox</div-->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="http://localhost:4000/">markusng.com</a>
+        <ul class="visible-links">
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/mavric">MAvRiC</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/people">People</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/pubs">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/downloads">Downloads</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/vacancies">Vacancies</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/tech">Tech Stuff</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/photos">Photos</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/about">About Me</a></li>
+          
+        </ul>
+        <button><div class="navicon"></div></button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="http://localhost:4000/assets/images/MarkNg.jpg" class="author__avatar" alt="Mark Kok Yew Ng" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">Mark Kok Yew Ng</h3>
+    
+      <p class="author__bio" itemprop="description">
+        Reader, Ulster University.
+      </p>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">Belfast, UK</span>
+        </li>
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:mark.ng@ulster.ac.uk">
+            <meta itemprop="email" content="mark.ng@ulster.ac.uk" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
+      
+
+      
+
+      
+        <li>
+          <a href="https://twitter.com/nkymark" itemprop="sameAs">
+            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://www.linkedin.com/in/markusng" itemprop="sameAs">
+            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://github.com/nkymark" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+  <li>
+    <a href="https://www.youtube.com/playlist?list=PLrWHxZA06gj_lF8VqqmQcxqeoT6TOKWRk" itemprop="sameAs">
+      <i class="fa fa-youtube fa-fw"></i> MAvRiC YouTube Playlist
+    </a>
+  </li>  
+  
+  <li>
+    <a href="https://scholar.google.se/citations?user=UpjJMQMAAAAJ&hl=en" itemprop="sameAs">
+      <i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar
+    </a>
+  </li>
+
+  <li>
+    <a href="https://pure.ulster.ac.uk/en/persons/mark-ng" itemprop="sameAs">
+      <i class="fa fa-university fa-fw"></i> Staff profile at Ulster Uni
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.monash.edu.my/engineering/about-us/all-staff/dr.-mark-ng" itemprop="sameAs">
+      <i class="fa fa-university fa-fw"></i> Adjunct profile at Monash Uni
+    </a>
+  </li>
+
+  <li>
+    <a href="https://web.archive.org/web/20240301204803/https://people.isy.liu.se/en/fs/ngkye14/" itemprop="sameAs">
+      <i class="fa fa-university fa-fw"></i> Former staff profile at Linköping Uni
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.markusng.com/assets/Docs/Mark_CV.pdf" itemprop="sameAs">
+      <i class="ai ai-cv-square ai-fw"></i> CV
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="TCSI Simulation Testbed">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <!--<h1 class="page__title" itemprop="headline">TCSI Simulation Testbed
+</h1>-->
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <h1 id="digital-twin-of-a-tcsi-system">Digital Twin of a TCSI System</h1>
+
+<iframe width="420" height="236" src="https://www.youtube.com/embed/0V6uzxBFoC0?si=ELo8Zn7BNpOMlTI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""> </iframe>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+<ol>
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#modelling-the-engine">Modelling The Engine</a></li>
+  <li><a href="#fault-scenarios">Fault Scenarios</a></li>
+  <li><a href="#residuals-generation">Residuals Generation</a></li>
+  <li><a href="#the-simulation-environment">Simulation Environment</a></li>
+  <li><a href="#download">Download</a></li>
+</ol>
+
+<h2 id="introduction">Introduction</h2>
+<p>Research on fault diagnosis and fault isolation on highly nonlinear dynamic systems such as the engine of a vehicle has garnered huge interest in recent years, especially with the automotive industry heading towards autonomous operations and big data. This digital twin (simulation testbed) of a single turbocharged petrol engine engine system is designed and developed for testing and evaluation of residuals generation and fault diagnosis methods.</p>
+
+<p>This simulation testbed will serve as an excellent platform to demonstrate the effectiveness in simulating and presenting results on the fault diagnostic of automotive systems for the development and comparison of current and future research methods as well as for teaching initiatives. The engine model used is based on the mean value engine model (MVEM) with a PI-based boost controller. The simulation testbed is programmed in the Matlab/Simulink environment and it provides realistic simulations of the engine system with a selection of faults of interest and industrial-standard driving cycles via a GUI interface. The simulation kit is available free and as an open-source, and distributed under the <a href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GNU license</a>.</p>
+
+<p>If you use this simulation testbed in your research, please cite the following publication:</p>
+<ul>
+  <li>K. Y. Ng, E. Frisk, M. Krysander, and L. Eriksson (2020), 
+<a href="https://ieeexplore.ieee.org/document/9036118">A Realistic Simulation Testbed of A Turbocharged Spark Ignited Engine System: A Platform for the Evaluation of Fault Diagnosis Algorithms and Strategies</a>, 
+<em>IEEE Control Systems Magazine</em>, vol. 40, no. 2, pp. 56–83. 
+DOI:10.1109/MCS.2019.2961793.</li>
+</ul>
+
+<h2 id="modelling-the-engine">Modelling The Engine</h2>
+<p>The simulation environment uses a 1.8L 4-cylinder single turbocharged spark ignited (TCSI) petrol engine as the testbed. It consists of the following subsystems; Air filter, Compressor, Intercooler, Throttle, Intake manifold, Engine block, Exhaust manifold, Turbine, Wastegate, and Exhaust system. The engine system is modelled using dynamical equations that describe the air flow through the subsystems in the engine. These equations are derived based on the mean value engine model (MVEM) for a single turbocharged petrol engine as reported by Eriksson in the following paper:</p>
+<ul>
+  <li>L. Eriksson (2007), <a href="https://ogst.ifpenergiesnouvelles.fr/articles/ogst/abs/2007/04/ogst06101/ogst06101.html">Modeling and control of turbocharged SI and DI engines</a>, <em>Oil &amp; Gas Science and Technology-Revue de l’IFP</em>, 62(4), pp. 523-538.</li>
+</ul>
+
+<p><img src="/assets/Figures/EngineDiag.png" width="500" align="right" /><span>A PI-based boost controller with anti-windup is used to produce the control inputs; Throttle effective area and Wastegate actuator for the turbocharger. In addition to the control inputs, the engine has the following actuators; Reference engine speed, Air-fuel ratio, Ambient pressure, and Ambient temperature. In addition, the engine has the following sensor measurements; Temperatures (compressor, intercooler, intake manifold), Pressures (compressor, intercooler, intake manifold, exhaust manifold), Air filter mass flow, and Engine torque.</span></p>
+
+<p>The new European standard Worldwide harmonised Light vehicle Test Procedure (WLTP) driving cycle is used to verify the performance of the boost controller.</p>
+
+<h2 id="fault-scenarios">Fault Scenarios</h2>
+<p>The simulation testbed considers sensor, actuator, and variable faults in different parts of the engine system. There are 11 faults; 6 variable faults (<code class="language-plaintext highlighter-rouge">fp_af</code>, <code class="language-plaintext highlighter-rouge">fC_vol</code>, <code class="language-plaintext highlighter-rouge">fW_af</code>, <code class="language-plaintext highlighter-rouge">fW_th</code>, <code class="language-plaintext highlighter-rouge">fW_c</code>, <code class="language-plaintext highlighter-rouge">fW_ic</code>), 1 actuator measurement fault (<code class="language-plaintext highlighter-rouge">fx_th</code>), and 4 sensor measurement faults (<code class="language-plaintext highlighter-rouge">fyW_af</code>, <code class="language-plaintext highlighter-rouge">fyp_im</code>, <code class="language-plaintext highlighter-rouge">fyp_ic</code>, <code class="language-plaintext highlighter-rouge">fyT_ic</code>).</p>
+
+<p>The faults are of different degrees of severity. Some faults are less severe and the engine can be reconfigured to a reduced performance operation mode to accommodate the faults until the vehicle is sent into the workshop for repair and maintenance. Some other faults are more severe that if not detected and isolated promptly, might cause permanent and serious damages to the engine system, which in turn will endanger the occupants in the vehicle as well as other road users.</p>
+
+<h2 id="residuals-generation">Residuals Generation</h2>
+<p>Initially, 9 residuals are generated based on the sensors setup of the engine system. These residuals are called the ‘Original 9’; <code class="language-plaintext highlighter-rouge">rT_c</code>, <code class="language-plaintext highlighter-rouge">rp_c</code>, <code class="language-plaintext highlighter-rouge">rT_ic</code>, <code class="language-plaintext highlighter-rouge">rp_ic</code>, <code class="language-plaintext highlighter-rouge">rT_im</code>, <code class="language-plaintext highlighter-rouge">rp_im</code>, <code class="language-plaintext highlighter-rouge">rW_af</code>, <code class="language-plaintext highlighter-rouge">rTq_e</code>, and <code class="language-plaintext highlighter-rouge">rp_em</code>. The residuals are generated by computing the difference between the sensor outputs of the model and the estimated outputs of an estimator/observer of the engine system: <code class="language-plaintext highlighter-rouge">r_i = \hat y_i − y_i</code>.</p>
+
+<p><img src="/assets/Figures/BlockDiagram.png" width="900" /></p>
+
+<p>In a nominal fault-free scenario, all residuals have zero mean values.. This indicates that both the estimator and the model of the engine produce similar estimated and actual outputs, respectively, whilst being excited by the same control inputs. The default fault detection threshold, <code class="language-plaintext highlighter-rouge">J = 5</code> determines if the residuals have triggered, i.e. <code class="language-plaintext highlighter-rouge">|r_i| &gt; J</code> and hence, indicates that a fault has been detected. The value of the threshold, <code class="language-plaintext highlighter-rouge">J</code>, can be easily changed according to the designer’s wish. Conversely, in the presence of a fault, residuals that are sensitive to the corresponding faults would trigger and produce non-zero mean values.</p>
+
+<p><img src="/assets/Figures/faultfree.png" width="450" /> <img src="/assets/Figures/paf.png" width="450" /></p>
+
+<p><img src="/assets/Figures/FIMsimu.png" width="400" align="right" /><span>By collectively identifying which residuals have triggered for the faults induced, fault isolation analysis to locate the fault in the engine system can then be performed. From the simulations for all faults, the Fault Sensitivity Matrix (FSM) is constructed. Using the FSM, the Fault Isolation Matrix (FIM) of the system for the current residuals design can then be generated. Therefore, this simulation testbed would serve as an excellent platform for designers and researchers to design and to perform Model-In-The-Loop tests of fault diagnosis schemes with application to actual automotive engine systems.</span></p>
+
+<p> <br />
+ <br />
+ </p>
+<h2 id="the-simulation-environment">The Simulation Environment</h2>
+<p>The figure below shows the GUI of the simulation testbed in Matlab. Through this interface, the user can set the preferences for simulation settings, design and test their residuals generation and fault diagnosis schemes, as well as view simulation results. <em>Do note that it will take some time to open and load the engine model during the initial runtime of Simulink for every new Matlab session</em>.</p>
+
+<p><img src="/assets/Figures/GUI.png" alt="" /></p>
+<h6 id="the-main-gui-of-the-simulation-testbed-in-matlab-1-sets-the-fault-mode-for-simulation-2-sets-the-driving-cycle-3-sets-the-simulation-mode-4-runs-the-simulation-5-exits-and-closes-the-gui-6-shows-the-simulation-progress-and-log-7-click-to-open-the-reference-generator-simulink-model-89-click-to-open-the-boost-controller-and-engine-simulink-model-10-click-to-open-the-residuals-generator-simulink-model-11-click-to-open-the-fault-diagnosis-design-scheme-m-file-12-click-to-open-the-residuals-generator-design-scheme-m-file-13-displays-the-residuals-generated-14-displays-the-reference-torque-vs-actual-torque-of-the-engine-15-displays-the-fault-signal-induced-normalised">The main GUI of the simulation testbed in Matlab; 1) Sets the fault mode for simulation. 2) Sets the driving cycle. 3) Sets the simulation mode. 4) Runs the simulation. 5) Exits and closes the GUI. 6) Shows the simulation progress and log. 7) Click to open the reference generator Simulink model. 8–9) Click to open the boost controller and engine Simulink model. 10) Click to open the residuals generator Simulink model. 11) Click to open the fault diagnosis design scheme m-file. 12) Click to open the residuals generator design scheme m-file. 13) Displays the residuals generated. 14) Displays the reference torque vs actual torque of the engine. 15) Displays the fault signal induced (normalised).</h6>
+
+<p> </p>
+
+<p>On the left section of the GUI are popup menus for the user to establish some key simulation settings. The simulation settings available are as follows:</p>
+<ul>
+  <li><em>Fault Mode</em>: To induce any of the 11 faults available. A fault-free scenario is also available and is selected by default. As of current development, only single fault scenarios are available.</li>
+  <li><em>Driving Cycle</em>: A selection of 4 industrial standard driving cycles:
+    <ul>
+      <li>Worldwide harmonised Light vehicles Test Procedure (WLTP)</li>
+      <li>New European Driving Cycle (NEDC)</li>
+      <li>Extra-Urban Driving Cycle (EUDC)</li>
+      <li>EPA Federal Test Procedure (FTP-75)</li>
+    </ul>
+  </li>
+  <li><em>Simulation Mode</em>: A choice of 2 simulation modes:
+    <ul>
+      <li>Simulate the engine only for the chosen driving cycle</li>
+      <li>Simulate the engine for the chosen driving cycle, generate the residuals, and run the fault diagnosis algorithm (the latter two functions would require design and coding inputs from the user)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>On the top right section of the GUI, a block diagram representation of the engine control system, residuals generator, and fault diagnosis scheme can be found. The user can click on each block to access the corresponding Simulink model or m-file. For example, the user could use the ‘Residuals Generator (Simulink)’, ‘Residuals Generator Design (m-file)’, and ‘Fault Isolation Scheme Design (m-file)’ components to edit their design and codes for the residuals generation and fault diagnosis algorithms. The ‘RUN SIMULATION’ pushbutton starts the simulation and the ‘EXIT’ pushbutton exits the simulation environment and closes the GUI.</p>
+
+<p>The results obtained from the simulation are displayed in the bottom right section of the GUI. The results displayed are the reference vs actual engine torque, and the normalised plot of the fault induced. A ‘Simulation Log’ is also available in the bottom left section of the GUI to show a summary of the simulation settings and to provide an update in real-time on the progress of the simulation. The plots and the ‘Simulation Log’ are automatically saved into the folder <code class="language-plaintext highlighter-rouge">‘/Results/DrivingCycle_FaultMode_Date’</code> that is located in the same directory as the simulation environment. A Matlab MAT-file containing key variables and data from the simulation is also saved.</p>
+
+<p><img src="/assets/Figures/SimScopes.png" width="900" /></p>
+
+<p>The simulation kit contains the following key files:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">main.m</code> - Main execution file. Run this file to start the GUI.</li>
+  <li><code class="language-plaintext highlighter-rouge">Engine.mdl</code> - Simulink model of the closed-loop nonlinear engine system. Open the model from the GUI using either the ‘Boost Controller (Simulink)’ or ‘Engine System (Simulink)’ blocks.</li>
+  <li><code class="language-plaintext highlighter-rouge">GenerateResiduals.m</code> - Codes for the residuals generation algorithm to be placed here. Open the file from the GUI using the ‘Residuals Generator Design (m-file)’ button.</li>
+  <li><code class="language-plaintext highlighter-rouge">ResidualsGen.mdl</code> - Simulink model of the residuals generator. The model is called and run from <code class="language-plaintext highlighter-rouge">GenerateResiduals.m</code>. The default residuals generated are also filtered and normalised, and added with signal noise. Open the model from the GUI using the ‘Residuals Generator (Simulink)’ block. Replace the ‘Residuals Generator’ in the Simulink model as desired to accommodate other methods for residuals generation.</li>
+  <li><code class="language-plaintext highlighter-rouge">RunFI.m</code> - Algorithm for fault diagnosis to be placed here. Open the file from the GUI using the ‘Fault Isolation Scheme Design (m-file)’ block.</li>
+</ul>
+
+<h3 id="simulation-outputs-and-saved-data">Simulation Outputs and Saved Data</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">omega_eREF_sync</code> - reference engine speed</li>
+  <li><code class="language-plaintext highlighter-rouge">Tq_eREF_sync</code> - reference engine torque</li>
+  <li><code class="language-plaintext highlighter-rouge">inputSig_sync</code> - 5 actuator measurements to the engine (control inputs for throttle position area and wastegate, engine speed, ambient temperature and pressure)</li>
+  <li><code class="language-plaintext highlighter-rouge">outputSig_sync</code> - 9 sensor measurements from the engine (temperatures for the compressor, intercooler, and intake manifold, pressures for the compressor, intercooler, intake manifold, and exhaust manifold), air filter mass flow, and engine torque)</li>
+  <li><code class="language-plaintext highlighter-rouge">statesSig_sync</code> - 13 states of the engine system (temperatures and pressures for the air filter, compressor, intercooler, intake manifold, exhaust manifold, and turbine, and the turbine speed)</li>
+  <li><code class="language-plaintext highlighter-rouge">faultSig_sync</code> - normalised data of the faults (the selected induced fault would have non-zero data, except when ‘Fault-free’ scenario is selected where all faults would have data of value zero)</li>
+  <li><code class="language-plaintext highlighter-rouge">residualSig_sync</code> - data for all ‘Original 9’ residuals based on the current sensors setup (<code class="language-plaintext highlighter-rouge">rT_c</code>, <code class="language-plaintext highlighter-rouge">rp_c</code>, <code class="language-plaintext highlighter-rouge">rT_ic</code>, <code class="language-plaintext highlighter-rouge">rp_ic</code>, <code class="language-plaintext highlighter-rouge">rT_im</code>, <code class="language-plaintext highlighter-rouge">rp_im</code>, <code class="language-plaintext highlighter-rouge">rW_af</code>, <code class="language-plaintext highlighter-rouge">rTq_e</code>, <code class="language-plaintext highlighter-rouge">rp_em</code>). Note that these data would only be generated if Simulation Mode 2 is selected.</li>
+</ul>
+
+<h2 id="download">Download</h2>
+<p>The simulation testbed can be downloaded <a href="https://github.com/nkymark/TCSISimTestbed">here</a>.</p>
+
+<h2 id="acknowledgement">Acknowledgement</h2>
+<p>We would like to thank former engineering undergraduates from Monash University Malaysia; Chun Yik Ang, Marcus Jun Yi Lim, and Ricky Sutopo, and William McMillan from Ulster University for participating in the alpha- and beta-testing of the simulation testbed on various operating systems and providing feedback to help improve this model.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+    
+    
+    
+      <li><a href="http://github.com/nkymark"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+<div class="page__footer-copyright">&copy; 2026 Mark Ng. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-149457407-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+  </body>
+</html>

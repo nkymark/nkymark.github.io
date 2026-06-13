@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-13T01:06:05+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">markusng.com</title><subtitle>Personal Research Website</subtitle><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><entry><title type="html">Mathieu Joins the Team!</title><link href="http://localhost:4000/Mathieu/" rel="alternate" type="text/html" title="Mathieu Joins the Team!" /><published>2026-06-12T10:00:00+01:00</published><updated>2026-06-12T10:00:00+01:00</updated><id>http://localhost:4000/Mathieu</id><content type="html" xml:base="http://localhost:4000/Mathieu/"><![CDATA[<p>The team welcomes Mathieu Garcia, who has just started his internship at MAvRiC during this summer. Mathieu will spend 2 months at Ulster University working on and exploring robotics and digital technologies projects under the supervision of Dr Mark Ng and Dr Morteza Tabatabaeipour. We look forward to seeing what he will accomplish during his time at MAvRiC!</p>
+
+<p>Bienvenue à Belfast, Mathieu !</p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[The team welcomes Mathieu Garcia, who has just started his internship at MAvRiC during this summer. Mathieu will spend 2 months at Ulster University working on and exploring robotics and digital technologies projects under the supervision of Dr Mark Ng and Dr Morteza Tabatabaeipour. We look forward to seeing what he will accomplish during his time at MAvRiC!]]></summary></entry><entry><title type="html">CFP for *IEEE SPMB 2026*</title><link href="http://localhost:4000/SPMB2026CFP/" rel="alternate" type="text/html" title="CFP for *IEEE SPMB 2026*" /><published>2026-06-09T10:00:00+01:00</published><updated>2026-06-09T10:00:00+01:00</updated><id>http://localhost:4000/SPMB2026CFP</id><content type="html" xml:base="http://localhost:4000/SPMB2026CFP/"><![CDATA[<p>Mark Ng is the Technical Program Chair for <em>IEEE SPMB 2026</em>, now in its 16th year. IEEE SPMB is a virtual symposium that provides an international forum for collaboration between bioengineering and signal processing researchers. We expect approximately 100 researchers from around the world to attend this virtual event. We specifically encourage graduate students to attend and present early versions of their dissertation research. Over the years, many graduate students have used this symposium as a forum for enhancing their professional development and improving their research.</p>
+
+<p>The symposium is sponsored by the IEEE Region 2 Philadelphia Section, Temple University, and the Neural Engineering Data Consortium. The conference is run by a dedicated group of volunteers. There is no registration fee so that it is very easy for students to attend.</p>
+
+<p>The symposium will be held on <strong>5th December 2026</strong>.</p>
+
+<p>The submission deadline is <strong>1st July 2026</strong>.</p>
+
+<p>The symposium typically consists of a plenary talk, two oral sessions and a poster session. We usually accept 12 papers for oral presentations and 8 to 12 posters. Acceptance rates for the conference average about 50%. Papers that are not accepted for an oral presentation are given a chance to be resubmitted as a poster presentation.</p>
+
+<p>The conference will be held online using Zoom since this seems to work best for our international audience. In addition to publication of your paper or abstract, a video recording of your contribution will be made available from the conference technical program web page. Please refer to last year’s program to see examples of these presentations.</p>
+
+<p>The conference technical committee will also select a best paper based on both the written submission and oral presentation. Poster submissions are not eligible for this award. After the conference, the organizing committee will invite selected authors to submit an expanded version of their contribution for inclusion in a book published by Springer.</p>
+
+<p>This symposium is intended to bring together a wide range of professionals interested in applications of artificial intelligence (AI), signal processing and clinical applications in medicine and biology. Signal processing and AI are rapidly transforming healthcare due to the significant success deep learning technology has enjoyed recently.</p>
+
+<p>Symposium Topics:</p>
+<ul>
+  <li>Signal and image analysis (e.g., EEG, ECG, MRI)</li>
+  <li>Artificial intelligence, machine learning and data mining</li>
+  <li>Quantum computing applications in healthcare</li>
+  <li>Clinical applications of signal processing and AI technology</li>
+  <li>Smart health systems based on artificial intelligence</li>
+</ul>
+
+<p>For more information, please head on to the official website for SPMB26 <a href="https://www.ieeespmb.org/2026/">here</a>.</p>
+
+<p><img src="/assets/Figures/IEEE.png" width="200" />
+<img src="/assets/Figures/SPMB.png" width="200" />
+<img src="/assets/Figures/ieee_spmb_2026_cfp.png" width="840" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Mark Ng is the Technical Program Chair for IEEE SPMB 2026, now in its 16th year. IEEE SPMB is a virtual symposium that provides an international forum for collaboration between bioengineering and signal processing researchers. We expect approximately 100 researchers from around the world to attend this virtual event. We specifically encourage graduate students to attend and present early versions of their dissertation research. Over the years, many graduate students have used this symposium as a forum for enhancing their professional development and improving their research.]]></summary></entry><entry><title type="html">Invited Speaker at the Irish Control Systems Colloquium 2026</title><link href="http://localhost:4000/ICSC/" rel="alternate" type="text/html" title="Invited Speaker at the Irish Control Systems Colloquium 2026" /><published>2026-03-31T10:00:00+01:00</published><updated>2026-03-31T10:00:00+01:00</updated><id>http://localhost:4000/ICSC</id><content type="html" xml:base="http://localhost:4000/ICSC/"><![CDATA[<p>Mark Ng has been invited as a speaker at the <a href="https://www.mishe.ie/control-systems/">Irish Control Systems Colloquium 2026</a>, an IFACx event hosted by ATU Sligo on behalf of the Irish Systems and Control Committee. The colloquium brings together researchers from across Ireland to showcase current advances in systems and control engineering and to promote collaboration in the field.</p>
+
+<p>The technical programme takes place on Friday 24th April 2026 at ATU Sligo. Mark will deliver a talk entitled:
+<strong>“Digital Twins, Fault Diagnosis, and Simulation Testbeds: From Automotive Engines to Advanced Manufacturing”</strong></p>
+
+<p>Other confirmed speakers include Dr. Pantelis Sopasakis (QUB), Dr. Marion McAfee (ATU), Dr. Edin Omerdic (UL), Dr. Aidan O’Dwyer (TU Dublin), Prof. John Ringwood (Maynooth University), Patrick Lawless (ABB), Dr. Panpan Zhou (University of Galway), Dr. Siyuan Zhan (TCD), and Prof. Vikram Pakrashi (UCD).</p>
+
+<p><img src="/assets/Figures/IFACx.png" width="400" />
+<img src="/assets/Figures/ControlSystemsSligo.png" width="400" />   </p>
+
+<p><img src="/assets/Figures/ICSC1.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/ICSC2.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/ICSC3.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/ICSC4.jpg" width="840" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Mark Ng has been invited as a speaker at the Irish Control Systems Colloquium 2026, an IFACx event hosted by ATU Sligo on behalf of the Irish Systems and Control Committee. The colloquium brings together researchers from across Ireland to showcase current advances in systems and control engineering and to promote collaboration in the field.]]></summary></entry><entry><title type="html">Co-Investigator of the AICC</title><link href="http://localhost:4000/AICC-CoI/" rel="alternate" type="text/html" title="Co-Investigator of the AICC" /><published>2026-03-25T09:00:00+00:00</published><updated>2026-03-25T09:00:00+00:00</updated><id>http://localhost:4000/AICC-CoI</id><content type="html" xml:base="http://localhost:4000/AICC-CoI/"><![CDATA[<p>Mark Ng has been nominated as a Co-Investigator (Co-I) of the Artificial Intelligence Collaboration Centre (AICC) at Ulster University. The AICC is a £16.3 million initiative led by Ulster in partnership with Queen’s University Belfast to advance awareness and adoption of AI technologies among businesses across Northern Ireland (NI).</p>
+
+<p>Supported by Invest NI and the DfE NI, this groundbreaking 5-year project aims to enhance competitiveness, boost productivity, and promote the ethical and responsible use of AI across diverse industries. Named as a priority for prosperity in the NI Programme for Government (2024–2027), the AICC’s vision is to accelerate AI adoption within SMEs, build AI skills capacity, foster collaboration, and drive innovation across key sectors including healthcare, logistics, manufacturing, engineering and finance. This will ultimately position NI as a global leader in AI innovation and implementation.</p>
+
+<p>More details about the AICC can be found <a href="https://www.aicc.co">here</a>.</p>
+
+<p><img src="/assets/Figures/AICC.png" width="840" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Mark Ng has been nominated as a Co-Investigator (Co-I) of the Artificial Intelligence Collaboration Centre (AICC) at Ulster University. The AICC is a £16.3 million initiative led by Ulster in partnership with Queen’s University Belfast to advance awareness and adoption of AI technologies among businesses across Northern Ireland (NI).]]></summary></entry><entry><title type="html">Robots at Work and Play – NI Science Festival 2026</title><link href="http://localhost:4000/NISF/" rel="alternate" type="text/html" title="Robots at Work and Play – NI Science Festival 2026" /><published>2026-02-21T09:00:00+00:00</published><updated>2026-02-21T09:00:00+00:00</updated><id>http://localhost:4000/NISF</id><content type="html" xml:base="http://localhost:4000/NISF/"><![CDATA[<p>“Robots at Work and Play” was a resounding success! The <a href="https://www.markusng.com/mavric">MAvRiC</a> team hosted a full-day event at the LG Foyer, Ulster University Belfast Campus, as part of the Northern Ireland Science Festival on Saturday, 21st February 2026.</p>
+
+<p>This academic-led and student-run event welcomed around 200 visitors across the five-hour session, drawing in families, students, and industry professionals. The event showcased the breadth of robotics research and technology available at MAvRiC, with hands-on activities that engaged visitors of all ages.</p>
+
+<p>Highlights of the day included:</p>
+<ul>
+  <li>Live demonstrations of <strong>collaborative robotic arms (cobots)</strong>, where visitors could witness and interact with precision robot manipulation up close</li>
+  <li>A quadruped robot demonstration that drew large and enthusiastic crowds</li>
+  <li><strong>3D printing showcases</strong>, with 3D printers creating objects from everyday items through to industrial components in real time</li>
+  <li>A <strong>miniature robot-building workshop</strong> for children, proving a huge hit with younger visitors</li>
+</ul>
+
+<p>The event also featured an industry showcase from <strong>Elite Electronic Systems Ltd</strong>, who demonstrated non-destructive testing (NDT) technologies alongside the MAvRiC team, highlighting the real-world applications of the lab’s research across aerospace, manufacturing, and materials development.</p>
+
+<p>A big thank you to all the staff and students who helped make the event such a success, and to everyone who came along on the day!</p>
+
+<p><img src="/assets/Figures/NISF_Robots.png" width="840" />  </p>
+
+<iframe src="https://www.youtube.com/embed/n0aYPXVXBx8?si=MW6o1rYUhsoeB_XQ" width="320" height="180" frameborder="1" allowfullscreen=""> </iframe>
+<p> </p>
+
+<p>The MAvRiC team:
+<img src="/assets/Figures/NISF2026h.jpeg" width="840" />  </p>
+
+<p><img src="/assets/Figures/NISF2026a.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/NISF2026b.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/NISF2026j.jpeg" width="840" />  </p>
+
+<p><img src="/assets/Figures/NISF2026e.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/NISF2026f.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/NISF2026d.jpg" width="840" />  </p>
+
+<p><img src="/assets/Figures/MiniatureRobot.jpg" width="600" />  </p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[“Robots at Work and Play” was a resounding success! The MAvRiC team hosted a full-day event at the LG Foyer, Ulster University Belfast Campus, as part of the Northern Ireland Science Festival on Saturday, 21st February 2026.]]></summary></entry><entry><title type="html">*IEEE SPMB 2025*</title><link href="http://localhost:4000/SPMB2025/" rel="alternate" type="text/html" title="*IEEE SPMB 2025*" /><published>2025-11-24T09:00:00+00:00</published><updated>2025-11-24T09:00:00+00:00</updated><id>http://localhost:4000/SPMB2025</id><content type="html" xml:base="http://localhost:4000/SPMB2025/"><![CDATA[<p>The 2025 <em>IEEE Signal Processing in Medicine and Biology Symposium</em> will be held on 6th December 2025, starting at 0800 EST (1300 GMT). The symposium is sponsored by Temple University’s <a href="http://www.nedcdata.org/">The Neural Engineering Data Consortium</a> and the <a href="https://r2.ieee.org/philadelphia/">Philadelphia Section of the IEEE</a>. The IEEE SPMB aims to promote interdisciplinary papers across a wide range of topics including analysis of biomedical signals and images, machine learning, as well as data and educational resources.</p>
+
+<p>Please use <a href="https://isip.piconepress.com/conferences/ieee_spmb/2025/html/program.shtml">this link</a> to access the latest and most up-to-date technical program.</p>
+
+<p>The full proceedings of all SPMB papers can be accessed on IEEE Xplore <a href="https://ieeexplore.ieee.org/xpl/conhome/1800605/all-proceedings">here</a>.</p>
+
+<p><img src="/assets/Figures/IEEE.png" width="200" />
+<img src="/assets/Figures/SPMB.png" width="200" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[The 2025 IEEE Signal Processing in Medicine and Biology Symposium will be held on 6th December 2025, starting at 0800 EST (1300 GMT). The symposium is sponsored by Temple University’s The Neural Engineering Data Consortium and the Philadelphia Section of the IEEE. The IEEE SPMB aims to promote interdisciplinary papers across a wide range of topics including analysis of biomedical signals and images, machine learning, as well as data and educational resources.]]></summary></entry><entry><title type="html">Digital Catapult Digital Twin Academic Panel</title><link href="http://localhost:4000/DTAP/" rel="alternate" type="text/html" title="Digital Catapult Digital Twin Academic Panel" /><published>2025-09-11T10:00:00+01:00</published><updated>2025-09-11T10:00:00+01:00</updated><id>http://localhost:4000/DTAP</id><content type="html" xml:base="http://localhost:4000/DTAP/"><![CDATA[<p>Mark Ng has joined the Academic Panel of the UK Digital Twin Centre (UKDTC), based at the Digital Catapult HQ in Belfast. Funded by the Belfast Region City Deal and Innovate UK, the £37.6 million UKDTC is making digital twins more accessible and meaningful in the UK. It will actively enable industries and innovators to safely embrace, explore, and realise their dynamic power.</p>
+
+<p>Mark will join other experts in the field from Ulster University, QUB, and universities in wider UK in shaping the technical focus and directions of research and advancements in DT technologies.</p>
+
+<p>More details about the UKDTC can be found <a href="https://www.digicatapult.org.uk/programmes/programme/uk-digital-twin-centre/">here</a>.</p>
+
+<!--\[Updated\]: The paper is now published and can be downloaded [here](https://doi.org/10.1109/CISS56502.2023.10089669).-->
+
+<p><img src="/assets/Figures/DigiCat.png" width="350" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Mark Ng has joined the Academic Panel of the UK Digital Twin Centre (UKDTC), based at the Digital Catapult HQ in Belfast. Funded by the Belfast Region City Deal and Innovate UK, the £37.6 million UKDTC is making digital twins more accessible and meaningful in the UK. It will actively enable industries and innovators to safely embrace, explore, and realise their dynamic power.]]></summary></entry><entry><title type="html">Launch of the MAvRiC Robotics Centre at Ulster University Belfast Campus</title><link href="http://localhost:4000/MAvRicLaunch/" rel="alternate" type="text/html" title="Launch of the MAvRiC Robotics Centre at Ulster University Belfast Campus" /><published>2025-09-10T10:00:00+01:00</published><updated>2025-09-10T10:00:00+01:00</updated><id>http://localhost:4000/MAvRicLaunch</id><content type="html" xml:base="http://localhost:4000/MAvRicLaunch/"><![CDATA[<p>Today marks the official launch of the Multi-Agent and Advanced Robotics Centre (MAvRiC) at Ulster University Belfast Campus. Based in the School of Engineering and led by Mark Ng (PI) and Prof. James McLaughlin (Co-I), the DfE-funded lab features state-of-the-art robotic systems for active research and teaching in the coming years, with close to £250k of new equipment including</p>
+<ul>
+  <li>2x ER-FLEX 250 (UR-5e cobot + MiR250 AMR combo)</li>
+  <li>4x Turtlebot4</li>
+  <li>3x Bambulab X1 Multi-Filament (AMS) and Multi-Material-capable 3D-Printers</li>
+  <li>3x OrangeApps KUKA-compatible Robotic Arms</li>
+  <li>4x MinSeg Robotic System</li>
+  <li>Sonotec PR 200 Combi Pulser</li>
+  <li>Picoscope 5443D Oscilloscope</li>
+  <li>Ultrasonic Immersion and Contact Transducers</li>
+</ul>
+
+<p>Other existing equipment featured in the lab, bringing it to more than £500k in value including the new equipment above are</p>
+<ul>
+  <li>INTECO Dual-Rotor Aerodynamical System</li>
+  <li>INTECO Antilock Braking System (ABS)</li>
+  <li>Festo CP LAB Variant 3, which includes the following:
+    <ul>
+      <li>6x Pallet Transfer System</li>
+      <li>4x System Trainers With A4 Frames</li>
+      <li>2x CP Bridge</li>
+      <li>1x Robotino + SIM Environment</li>
+      <li>2x Magazine Modules</li>
+      <li>1x Measurement Module</li>
+      <li>1x Muscle Press Module</li>
+      <li>1x Tunnel Furnace Module</li>
+      <li>1x Workpiece Output Module</li>
+    </ul>
+  </li>
+  <li>NVIDIA Jetson TX2</li>
+</ul>
+
+<p>The lab will facilitate research and teaching in the fields of robotics and mechatronics systems, control theory, digital twinning, additive and advanced manufacturing, rapid prototyping, non-destructive testing (NDT) using ultrasonic testing (UT), etc. Furthermore, these activities will be supported by other tied-in facilities available at Ulster such as the Dell Bright Cluster HPC and Digital Twin System, which consists of the following components:</p>
+<ul>
+  <li>1 PowerEdge R6525 Head Node</li>
+  <li>3 PowerEdge R6525 Compute Node</li>
+  <li>1 PowerEdge R750 GPU Node</li>
+  <li>1 PowerEdge R6515 SDP Node</li>
+</ul>
+
+<p>To date, MAvRiC has been made a showcase during the recent UCAS Open Day as well as the East Belfast Summer School.</p>
+
+<p>In addition, MAvRiC also hosted Martin and Tomáš, who joined through the EU Erasmus+ Summer Traineeship Programme. Both Martin and Tomáš have played key role in helping to establish the fundamental setup of the lab, which include an arena for autonomous SLAM for the Turtlebots, as well as the robot-robot communication and simulated manufacturing showcase for the ER-FLEX’s.</p>
+
+<p>MAvRiC, with key research members Mark Ng, Prof. James McLaughlin, Dr Morteza Tabatabaeipour, Dr Ming-wei Chang, Prof. Dewar Finlay, and wider members of the School of Engineering, welcomes and looks forward to establish crucial academic and industry collaborations in the key tech areas above.</p>
+
+<p>For more information and interest in collaboration, please contact Mark Ng at <a href="mailto:mark.ng@ulster.ac.uk">mark.ng@ulster.ac.uk</a>.</p>
+
+<p>Featured facilities in MAvRiC:
+<img src="/assets/Figures/Facilities.png" width="840" />   </p>
+
+<p>Martin and Tomáš, with Mark and Morteza in the lab:
+ <img src="/assets/Figures/Erasmus.jpg" width="840" />   </p>
+
+<p>Some showcases of current activities in the lab:</p>
+<iframe src="https://www.youtube.com/embed/Q9RnzF0kwnM?si=vaM_aFeNGs8VTOeO" width="320" height="180" frameborder="1" allowfullscreen=""> </iframe>
+<p> </p>
+
+<iframe src="https://www.youtube.com/embed/6QJiKrzK9bY?si=1XmLGugLnyXcKlAh" width="320" height="180" frameborder="1" allowfullscreen=""> </iframe>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Today marks the official launch of the Multi-Agent and Advanced Robotics Centre (MAvRiC) at Ulster University Belfast Campus. Based in the School of Engineering and led by Mark Ng (PI) and Prof. James McLaughlin (Co-I), the DfE-funded lab features state-of-the-art robotic systems for active research and teaching in the coming years, with close to £250k of new equipment including 2x ER-FLEX 250 (UR-5e cobot + MiR250 AMR combo) 4x Turtlebot4 3x Bambulab X1 Multi-Filament (AMS) and Multi-Material-capable 3D-Printers 3x OrangeApps KUKA-compatible Robotic Arms 4x MinSeg Robotic System Sonotec PR 200 Combi Pulser Picoscope 5443D Oscilloscope Ultrasonic Immersion and Contact Transducers]]></summary></entry><entry><title type="html">Advisory Board of the AICC</title><link href="http://localhost:4000/AICC/" rel="alternate" type="text/html" title="Advisory Board of the AICC" /><published>2025-07-15T10:00:00+01:00</published><updated>2025-07-15T10:00:00+01:00</updated><id>http://localhost:4000/AICC</id><content type="html" xml:base="http://localhost:4000/AICC/"><![CDATA[<p>Mark Ng has joined the Technical and Skills Advisory Board of the Artificial Intelligence Collaboration Centre (AICC), which is a £16.3 million initiative led by Ulster University in partnership with Queen’s University Belfast to advance awareness and adoption of Artificial Intelligence (AI) technologies among businesses across Northern Ireland (NI).</p>
+
+<p>Supported by Invest Northern Ireland and the Department for the Economy NI, this groundbreaking 5-year project aims to enhance competitiveness, boost productivity, and promote the ethical and responsible use of AI across diverse industries. Named as a priority for prosperity in the NI Programme for Government (2024–2027), their vision is to accelerate AI adoption within SMEs, build AI skills capacity, foster collaboration, and drive innovation across key sectors including healthcare, logistics, manufacturing, engineering and finance.  This will ultimately position NI as a global leader in AI innovation and implementation.</p>
+
+<p>More details about the AICC can be found <a href="https://www.aicc.co">here</a>.</p>
+
+<!--\[Updated\]: The paper is now published and can be downloaded [here](https://doi.org/10.1109/CISS56502.2023.10089669).-->
+
+<p><img src="/assets/Figures/AICC.png" width="840" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Mark Ng has joined the Technical and Skills Advisory Board of the Artificial Intelligence Collaboration Centre (AICC), which is a £16.3 million initiative led by Ulster University in partnership with Queen’s University Belfast to advance awareness and adoption of Artificial Intelligence (AI) technologies among businesses across Northern Ireland (NI).]]></summary></entry><entry><title type="html">Research on Optimisation Framework for AOI in Semiconductor Manufacturing Accepted for Presentation at the *IEEE INDIN 2025*</title><link href="http://localhost:4000/INDIN/" rel="alternate" type="text/html" title="Research on Optimisation Framework for AOI in Semiconductor Manufacturing Accepted for Presentation at the *IEEE INDIN 2025*" /><published>2025-06-19T10:00:00+01:00</published><updated>2025-06-19T10:00:00+01:00</updated><id>http://localhost:4000/INDIN</id><content type="html" xml:base="http://localhost:4000/INDIN/"><![CDATA[<p>Our paper on “Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing” has been accepted for presentation at the prestigious <em>23rd IEEE International Conference on Industrial Informatics (INDIN) 2025</em>, which will be held in July 2025 at Kunming, China. KTP Associate and first author of the paper, Shruthi Kogileru will be sharing the outcomes from this research with fellow experts in the field.</p>
+
+<p>All the very best, Shruthi!</p>
+
+<!--\[Updated\]: The paper is now published and can be downloaded [here](https://doi.org/10.1109/CISS56502.2023.10089669).-->
+
+<p><img src="/assets/Figures/INDIN.png" width="840" /></p>]]></content><author><name>Mark Kok Yew Ng</name><email>mark.ng@ulster.ac.uk</email></author><summary type="html"><![CDATA[Our paper on “Design and Development of a Robust Tolerance Optimisation Framework for Automated Optical Inspection in Semiconductor Manufacturing” has been accepted for presentation at the prestigious 23rd IEEE International Conference on Industrial Informatics (INDIN) 2025, which will be held in July 2025 at Kunming, China. KTP Associate and first author of the paper, Shruthi Kogileru will be sharing the outcomes from this research with fellow experts in the field.]]></summary></entry></feed>

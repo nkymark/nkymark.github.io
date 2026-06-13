@@ -19,9 +19,21 @@ gem "minimal-mistakes-jekyll"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
+# Libraries no longer bundled with newer Ruby versions (needed by Jekyll 3.x)
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
+gem "kramdown-parser-gfm"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-paginate"
+   gem "jekyll-sitemap"
+   gem "jekyll-gist"
+   gem "jemoji"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
