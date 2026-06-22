@@ -3,7 +3,11 @@ permalink: /photos/
 layout: single
 title: Photos
 gallery:
-    
+
+  - url: /assets/Photos/NaturalHistoryMuseum.jpg
+    image_path: /assets/Photos/NaturalHistoryMuseum_T.jpg
+    title: "Natural History Museum, London (2025)."
+
   - url: /assets/Photos/Edinburgh.jpg
     image_path: /assets/Photos/Edinburgh_T.jpg
     title: "Edinburgh, Scotland (2025)."
