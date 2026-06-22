@@ -4,9 +4,13 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/WestminsterAbbey.jpg
+    image_path: /assets/Photos/WestminsterAbbey_T.jpg
+    title: "Westminster Abbey, London, England (2025)."
+
   - url: /assets/Photos/NaturalHistoryMuseum.jpg
     image_path: /assets/Photos/NaturalHistoryMuseum_T.jpg
-    title: "Natural History Museum, London (2025)."
+    title: "Natural History Museum, London, England (2025)."
 
   - url: /assets/Photos/Edinburgh.jpg
     image_path: /assets/Photos/Edinburgh_T.jpg
