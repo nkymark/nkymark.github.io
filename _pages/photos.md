@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/London.jpg
+    image_path: /assets/Photos/London_T.jpg
+    title: "London, England (2025)."
+
   - url: /assets/Photos/WestminsterAbbey.jpg
     image_path: /assets/Photos/WestminsterAbbey_T.jpg
     title: "Westminster Abbey, London, England (2025)."
