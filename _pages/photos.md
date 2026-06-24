@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/Singapore2.jpg
+    image_path: /assets/Photos/Singapore2_T.jpg
+    title: "Singapore (2025)."
+
   - url: /assets/Photos/MizenHead.jpg
     image_path: /assets/Photos/MizenHead_T.jpg
     title: "Mizen Head, Ireland (2025)."
