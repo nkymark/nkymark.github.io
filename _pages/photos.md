@@ -8,6 +8,10 @@ gallery:
     image_path: /assets/Photos/London_T.jpg
     title: "London, England (2025)."
 
+  - url: /assets/Photos/MizenHead.jpg
+    image_path: /assets/Photos/MizenHead_T.jpg
+    title: "Mizen Head, Ireland (2025)."
+
   - url: /assets/Photos/WestminsterAbbey.jpg
     image_path: /assets/Photos/WestminsterAbbey_T.jpg
     title: "Westminster Abbey, London, England (2025)."
