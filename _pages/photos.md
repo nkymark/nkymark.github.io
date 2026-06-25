@@ -4,6 +4,10 @@ layout: single
 title: Photos
 gallery:
 
+  - url: /assets/Photos/KL.jpg
+    image_path: /assets/Photos/KL_T.jpg
+    title: "Malaysia (2025)."
+
   - url: /assets/Photos/Singapore2.jpg
     image_path: /assets/Photos/Singapore2_T.jpg
     title: "Singapore (2025)."
@@ -30,47 +34,47 @@ gallery:
     
   - url: /assets/Photos/StephensGreen.jpg
     image_path: /assets/Photos/StephensGreen_T.jpg
-    title: "Very intresting architecture inside the Stephen's Green Shopping Centre in Dublin, Ireland. (2025)."
+    title: "Very intresting architecture inside the Stephen's Green Shopping Centre in Dublin, Ireland (2025)."
     
   - url: /assets/Photos/CCTA2024.jpg
     image_path: /assets/Photos/CCTA2024_T.jpg
-    title: "IEEE CCTA in Newcastle, UK. (2024)."
+    title: "IEEE CCTA in Newcastle, UK (2024)."
 
   - url: /assets/Photos/Birmingham.jpg
     image_path: /assets/Photos/Birmingham_T.jpg
-    title: "In Birmingham for the EPSRC ILN+ RiR Induction Day, UK. (2024)."
+    title: "In Birmingham for the EPSRC ILN+ RiR Induction Day, UK (2024)."
     
   - url: /assets/Photos/HangTuah.JPG
     image_path: /assets/Photos/HangTuah_T.JPG
-    title: "My good ol' alma mater, from Primary 1–3, Malaysia. (2024)."
-    
+    title: "My good ol' alma mater, from Primary 1–3, Malaysia (2024)."
+
   - url: /assets/Photos/SkyscrapersKL.jpg
     image_path: /assets/Photos/SkyscrapersKL_T.jpg
-    title: "Some new skyscrapers in Kuala Lumpur in recent years, Malaysia. (2024)."
-    
+    title: "Some new skyscrapers in Kuala Lumpur in recent years, Malaysia (2024)."
+     
   - url: /assets/Photos/Melaka.jpg
     image_path: /assets/Photos/Melaka_T.jpg
-    title: "Some beautiful nightshots of the historical town Malacca, Malaysia. (2024)."
+    title: "Some beautiful nightshots of the historical town Malacca, Malaysia (2024)."
   
   - url: /assets/Photos/Sunway.JPG
     image_path: /assets/Photos/Sunway_T.JPG
-    title: "Sunway Pyramid overlooking parts of the Sunway Lagoon Theme Park, Sunway University College, and Monash University, Malaysia. (2024)."
+    title: "Sunway Pyramid overlooking parts of the Sunway Lagoon Theme Park, Sunway University College, and Monash University, Malaysia (2024)."
     
   - url: /assets/Photos/AppleMsia.JPG
     image_path: /assets/Photos/AppleMsia_T.JPG
-    title: "Pretty interesting interior architecture of the Apple Store in Malaysia. (2024)."
+    title: "Pretty interesting interior architecture of the Apple Store in Malaysia (2024)."
     
   - url: /assets/Photos/Songshan.JPG
     image_path: /assets/Photos/Songshan_T.JPG
-    title: "Songshan Ciyou Temple next to the Raohe Street Night Marketin Taipei, Taiwan. (2024)."
+    title: "Songshan Ciyou Temple next to the Raohe Street Night Marketin Taipei, Taiwan (2024)."
   
   - url: /assets/Photos/Jiufen.jpg
     image_path: /assets/Photos/Jiufen_T.jpg
-    title: "Beautiful lanterns and overlooking from the top of Jiufen during summer time, Taiwan. (2024)."
+    title: "Beautiful lanterns and overlooking from the top of Jiufen during summer time, Taiwan (2024)."
   
   - url: /assets/Photos/101Pend.JPG
     image_path: /assets/Photos/101Pend_T.JPG
-    title: "Finally got to meet the pendulum damper within the Taipei 101, Taiwan. (2024)."
+    title: "Finally got to meet the pendulum damper within the Taipei 101, Taiwan (2024)."
     
   - url: /assets/Photos/DeutschesMuseum.JPG
     image_path: /assets/Photos/DeutschesMuseum_T.JPG
@@ -127,19 +131,23 @@ gallery:
   - url: /assets/Photos/Porsche.jpg
     image_path: /assets/Photos/Porsche_T.jpg
     title: "Visiting the Porsche Museum in Stuttgart, Germany (2023)."
+
   - url: /assets/Photos/Mazda.jpg
     image_path: /assets/Photos/Mazda_T.jpg
     title: "Visiting the Mazda Museum in Augsburg, Germany (2023)."
+    
   - url: /assets/Photos/BMW.jpg
     image_path: /assets/Photos/BMW_T.jpg
     title: "Visiting the BMW Museum in Munich, Germany (2023)."  
   
   - url: /assets/Photos/Nevis.jpg
     image_path: /assets/Photos/Nevis_T.jpg
-    title: "Fantastic view from the top of Nevis Range, Inverness, Scotland (2023)."    
+    title: "Fantastic view from the top of Nevis Range, Inverness, Scotland (2023)."   
+
   - url: /assets/Photos/Culloden.jpg
     image_path: /assets/Photos/Culloden_T.jpg
     title: "Under the magnificent Culloden Viaduct, Inverness, Scotland (2023)."
+
   - url: /assets/Photos/George.jpg
     image_path: /assets/Photos/George_T.jpg
     title: "The main entrance to Fort George, Inverness, Scotland (2023)."  
@@ -151,6 +159,7 @@ gallery:
   - url: /assets/Photos/Bridge.jpg
     image_path: /assets/Photos/Bridge_T.jpg
     title: "Crossing the Carrick-a-Rede Rope Bridge, Northern Ireland (2022)."    
+
   - url: /assets/Photos/Carrickarade.jpg
     image_path: /assets/Photos/Carrickarade_T.jpg
     title: "Carrickarade Island in summer, Northern Ireland (2022)."
@@ -158,9 +167,11 @@ gallery:
   - url: /assets/Photos/Moher1.jpg
     image_path: /assets/Photos/Moher1_T.jpg
     title: "Cliffs of Moher, Ireland (2022)."    
+
   - url: /assets/Photos/Moher2.jpg
     image_path: /assets/Photos/Moher2_T.jpg
     title: "The other side of Cliffs of Moher, Ireland (2022)." 
+
   - url: /assets/Photos/Inishmore.jpg
     image_path: /assets/Photos/Inishmore_T.jpg
     title: "Standing at the edge of the cliffs of Inishmore, Aran Islands, Ireland (2022)."    
@@ -168,9 +179,11 @@ gallery:
   - url: /assets/Photos/Rosses.jpg
     image_path: /assets/Photos/Rosses_T.jpg
     title: "Rosses Point, Sligo, Ireland (2022)."    
+
   - url: /assets/Photos/Gleniff.jpg
     image_path: /assets/Photos/Gleniff_T.jpg
     title: "Gleniff Horseshoe, Ireland (2022)."  
+
   - url: /assets/Photos/Donegal.jpg
     image_path: /assets/Photos/Donegal_T.jpg
     title: "Slieve Liag overlooking the Giant's Table and Chair, Donegal, Ireland (2022)."    
@@ -178,9 +191,11 @@ gallery:
   - url: /assets/Photos/Campus1.jpg
     image_path: /assets/Photos/Campus1_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
+
   - url: /assets/Photos/Campus2.jpg
     image_path: /assets/Photos/Campus2_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
+
   - url: /assets/Photos/Campus3.jpg
     image_path: /assets/Photos/Campus3_T.jpg
     title: "Taking a stroll around Jordanstown Campus during summer, Northern Ireland (2021)."
@@ -196,12 +211,15 @@ gallery:
   - url: /assets/Photos/Glenarma.jpg
     image_path: /assets/Photos/Glenarma_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
+
   - url: /assets/Photos/Glenarmb.jpg
     image_path: /assets/Photos/Glenarmb_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
+
   - url: /assets/Photos/Glenarmc.jpg
     image_path: /assets/Photos/Glenarmc_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."
+
   - url: /assets/Photos/Glenarmd.jpg
     image_path: /assets/Photos/Glenarmd_T.jpg
     title: "The Glenarm Coastal Walk, Northern Ireland (2021)."     
@@ -221,28 +239,34 @@ gallery:
   - url: /assets/Photos/Flowera.jpg
     image_path: /assets/Photos/Flowera_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+
   - url: /assets/Photos/Flowerb.jpg
     image_path: /assets/Photos/Flowerb_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+
   - url: /assets/Photos/Flowerc.jpg
     image_path: /assets/Photos/Flowerc_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+
   - url: /assets/Photos/Flowerd.jpg
     image_path: /assets/Photos/Flowerd_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."   
   - url: /assets/Photos/Flowere.jpg
     image_path: /assets/Photos/Flowere_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+
   - url: /assets/Photos/Flowerf.jpg
     image_path: /assets/Photos/Flowerf_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+
   - url: /assets/Photos/Flowerg.jpg
     image_path: /assets/Photos/Flowerg_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
+
   - url: /assets/Photos/Flowerh.jpg
     image_path: /assets/Photos/Flowerh_T.jpg
     title: "Taken on Midsummer Day. Flowers blooming around the neighbourhood. It's a serene consolation in welcoming the second half of the year, especially with the lockdown due to the COVID-19 pandemic, Northern Ireland (2020)."
-    
+
   - url: /assets/Photos/SunsetBelfast.jpg
     image_path: /assets/Photos/SunsetBelfast_T.jpg
     title: "Spectacular winter sunset over Belfast city (2020)."
