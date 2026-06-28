@@ -5,7 +5,7 @@ title: Photos
 gallery:
 
   - url: /assets/Photos/Swiss.jpg
-    image_path: assets/photos/Swiss_T.jpg
+    image_path: /assets/photos/Swiss_T.jpg
     title: "Switzerland (2025)."  
     
   - url: /assets/Photos/KL.jpg
@@ -442,7 +442,7 @@ gallery:
     title: "A disappointed Schumi after crashing out at the 2010 Sepang Grand Prix, Malaysia (2010)."       
     
   - url: /assets/Photos/Kukup.jpg
-    image_path: /assets/photos/kukul_T.jpg
+    image_path: /assets/photos/Kukup_T.jpg
     title: "An old fishing village in Kukup, Malaysia (2010)."                             
 ---
 
