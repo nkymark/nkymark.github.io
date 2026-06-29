@@ -6,7 +6,8 @@ title: People
 
 ## Current Team Members
 
-<p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20"><span><b>Dr Mark Ng </b><br /> 
+<p><img align="left" width="120" src="/assets/Figures/MarkNg.jpg" hspace="20">
+<span><b>Dr Mark Ng </b><br /> 
   Reader <br />
   Head of the Multi-Agent and Advanced Robotics Centre (MAvRiC)<br /><br /><br /><br /><br />
   </span></p>
@@ -39,9 +40,9 @@ title: People
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br />
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
+<p><img align="left" width="120" src="/assets/Figures/Mathieu.png" hspace="20">
 <span><b>Mathieu Garcia</b><br />
-  Research Assistant <br /><br /><br /><br /><br />
+  Research Assistant (Internship placement from Polytech Montpellier, France) <br /><br /><br /><br /><br />
   </span></p>
 
 <p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
