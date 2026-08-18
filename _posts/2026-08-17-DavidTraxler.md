@@ -1,5 +1,5 @@
 ---
-title:  "David Traxler Joins the MAvRiC Lab!"
+title:  "David Joins the MAvRiC Lab!"
 date:   2026-08-17 09:00:00 +0000
 ---
 
