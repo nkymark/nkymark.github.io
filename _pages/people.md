@@ -19,13 +19,6 @@ title: People
   Supervisors: Dr Mark Ng (Main, Ulster), Prof. Florian Kerber (Main, Augsburg University of Applied Sciences), Dr. Robert McMurray (Co, Ulster) <br /><br /> 
   </span></p>
 
-<!-- <p><img align="left" width="120" src="/assets/Figures/Jack.jpg" hspace="20">
-<span><b>Jack Wilson</b><br />
-  Ph.D. <br />
-  Project title: UCL x Ulster tech4health EPSRC CDT in Digital Health Technologies <br />
-  Supervisors: Dr Mark Ng (Main, Ulster), Dr Morteza Tabatabaeipour (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br /><br />
-  </span></p> -->
-
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
 <span><b>Brian Kirch </b><br />
   Ph.D.  <br />
@@ -42,12 +35,12 @@ title: People
 
 <p><img align="left" width="120" src="/assets/Figures/Mathieu.png" hspace="20">
 <span><b>Mathieu Garcia</b><br />
-  Research Assistant (Internship placement from Polytech Montpellier, France) <br /><br /><br /><br /><br />
+  Research Assistant (Internship placement from Polytech Montpellier, France) <br /><br /><br /><br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/David.jpg" hspace="20">
 <span><b>David Traxler</b><br />
-  Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
+  Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br /><br />
   </span></p>
 
 <p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
