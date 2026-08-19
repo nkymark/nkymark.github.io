@@ -40,6 +40,11 @@ title: People
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br />
   </span></p>
 
+<p><img align="left" width="120" src="/assets/Figures/Mathieu.png" hspace="20">
+<span><b>Mathieu Garcia</b><br />
+  Research Assistant (Internship placement from Polytech Montpellier, France) <br /><br /><br /><br /><br />
+  </span></p>
+
 <p><img align="left" width="120" src="/assets/Figures/David.jpg" hspace="20">
 <span><b>David Traxler</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
@@ -54,11 +59,6 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Former Team Members
-
-<p><img align="left" width="120" src="/assets/Figures/Mathieu.png" hspace="20">
-<span><b>Mathieu Garcia</b><br />
-  Research Assistant (Internship placement from Polytech Montpellier, France) <br /><br /><br /><br /><br />
-  </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
 <span><b>Shruthi Kogileru</b><br />
