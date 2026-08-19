@@ -33,14 +33,14 @@ title: People
   Supervisors: Dr Edward Archer (Main, Ulster), Prof. Alistair McIlhagger (Co, Ulster), Dr Mark Ng (Co, Ulster)<br /><br />
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
+<p><img align="left" width="120" src="/assets/Figures/Ranga.jpg" hspace="20">
 <span><b>Ranga Kanteti</b><br />
   Ph.D. <br />
   Project title: Design and Development of an Ultrasonic Non-Destructive System for the Evaluation of Biomaterials and Composites <br />
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br />
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
+<p><img align="left" width="120" src="/assets/Figures/David.jpg" hspace="20">
 <span><b>David Traxler</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
   </span></p>
