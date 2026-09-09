@@ -43,7 +43,7 @@ title: People
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br /><br />
   </span></p>
 
-<p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
+<p><img align="left" width="120" src="/assets/Figures/Valerio.jpg" hspace="20">
 <span><b>Valerio Leone</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br /><br />
   </span></p>
