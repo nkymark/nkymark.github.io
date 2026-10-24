@@ -13,11 +13,11 @@ We primarily conduct research on anomaly detection and classification using mode
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(410px, 1fr)); gap: 20px;">
   <iframe style="width: 100%; height: 260px;"
-    src="https://youtu.be/hoybg6-2gNk" 
+    src="https://www.youtube.com/embed/hoybg6-2gNk?si=Puow4lO-BFZg2A3h" 
     frameborder="0" allowfullscreen></iframe>
 
   <iframe style="width: 100%; height: 260px;"
-    src="https://youtu.be/BrPKwVQSCXo" 
+    src="https://www.youtube.com/embed/BrPKwVQSCXo?si=18novkWTt1Bcpt7I" 
     frameborder="0" allowfullscreen></iframe>  
     
   <iframe style="width: 100%; height: 260px;"
