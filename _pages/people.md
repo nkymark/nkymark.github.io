@@ -33,6 +33,16 @@ title: People
   Supervisors: Dr Morteza Tabatabaeipour (Main, Ulster), Dr Mark Ng (Co, Ulster), Dr Jawad Ullah (Co, Ulster), Dr Ming-Wei Chang (Co, Ulster) <br /><br />
   </span></p>
 
+<p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
+<span><b>Current UG Team</b><br />
+Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefanski, Zachery Bloomer, Sophia Totten, Jake Hunter, Callum McKnight, Conor Cannon, Declan Smyth, Jake McBride, Carter McKnight, Reece Mallon, Gideon Kernan-Fitzgibbon, Luke Pudman, Tom Cassidy, Dylan Cole, Niamh O'Sullivan, Ahmed Ameen, Ricardo Pereira 
+<br /><br />
+</span></p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Former Team Members
+
 <p><img align="left" width="120" src="/assets/Figures/Mathieu.png" hspace="20">
 <span><b>Mathieu Garcia</b><br />
   Research Assistant (Internship placement from Polytech Montpellier, France) <br /><br /><br /><br /><br /><br />
@@ -47,16 +57,6 @@ title: People
 <span><b>Valerio Leone</b><br />
   Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br /><br />
   </span></p>
-
-<p><img align="center" width="860" src="/assets/Figures/NISF2026Group.jpeg"><br />
-<span><b>Current UG Team</b><br />
-Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefanski, Zachery Bloomer, Sophia Totten, Jake Hunter, Callum McKnight, Conor Cannon, Declan Smyth, Jake McBride, Carter McKnight, Reece Mallon, Gideon Kernan-Fitzgibbon, Luke Pudman, Tom Cassidy, Dylan Cole, Niamh O'Sullivan, Ahmed Ameen, Ricardo Pereira 
-<br /><br />
-</span></p>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Former Team Members
 
 <p><img align="left" width="120" src="/assets/Figures/Shruthi.jpg" hspace="20">
 <span><b>Shruthi Kogileru</b><br />
