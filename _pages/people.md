@@ -45,7 +45,7 @@ Cameron Tripp, Thenuli Munasinghe, Kaitlyn Snedden, John O'Connell, Alan Stefans
 
 <p><img align="left" width="120" src="/assets/Figures/Blank.png" hspace="20">
 <span><b>Valerio Leone</b><br />
-  Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br /><br />
+  Research Assistant (EU Erasmus+ Traineeship Programme) <br /><br /><br /><br />
   </span></p>
 
 <p><img align="left" width="120" src="/assets/Figures/David.jpg" hspace="20">
